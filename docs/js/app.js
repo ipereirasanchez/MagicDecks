@@ -67,7 +67,7 @@ function parseRoute() {
   const hash = location.hash.replace(/^#/, "") || "/";
   let m;
   if (hash === "/") return { name: "home" };
-  if (hash === "/vides") return { name: "life" };
+  if (/^\/?vides\/?$/i.test(hash)) return { name: "life" }; // tolerate a trailing slash, like the other routes
   if ((m = hash.match(/^\/deck\/([^/]+)\/?$/))) return { name: "deck", slug: decodeURIComponent(m[1]), tab: "list" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/stats\/?$/))) return { name: "deck", slug: decodeURIComponent(m[1]), tab: "stats" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/guia(?:\/([^/]+))?\/?$/))) {
