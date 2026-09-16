@@ -61,6 +61,8 @@ button { cursor: pointer; }
 }
 .brand { font-family: var(--font-display); font-weight: 700; font-size: 1.05rem; text-decoration: none; color: var(--text); }
 .brand:hover { color: var(--accent); }
+.header-link { margin-left: auto; font-size: .875rem; font-weight: 600; color: var(--link); text-decoration: none; }
+.header-link:hover { color: var(--accent-hover); text-decoration: underline; }
 #crumbs { font-size: .875rem; color: var(--text-muted); display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
 #crumbs a { color: var(--link); text-decoration: none; }
 #crumbs a:hover { text-decoration: underline; }

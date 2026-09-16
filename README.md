@@ -24,6 +24,7 @@ decks/                 ENTRADA
 tools/build_site.py    el build (Python 3.13, només stdlib)
 tests/                 proves unitàries (unittest)
 docs/                  SORTIDA: el lloc web (HTML, CSS, JS i JSON generats)
+  js/views/life.js     comptador de vides (no depèn del build)
   data/index.json      índex de baralles (generat)
   data/decks/*.json    una baralla per fitxer (generat)
 ```
@@ -57,6 +58,24 @@ Les imatges no es copien mai al lloc: totes les URL apunten al CDN de Scryfall.
    ```json
    { "default": "Ivan", "decks": { "Nom_del_fitxer_sense_extensio": "Anna" } }
    ```
+
+## Comptador de vides
+
+A `#/vides` hi ha un comptador per jugar a taula, pensat per deixar el mòbil al mig:
+cada jugador té el seu panell girat cap a ell (2-6 jugadors; amb 5 i 6 els seients
+laterals giren 90°). Es toca la meitat esquerra per restar i la dreta per sumar, i
+mantenint premut va de pressa.
+
+- Vides inicials per format (Commander 40, Standard 20, Dos caps 30, Brawl 25) o a mida.
+- Cada jugador pot triar una de les baralles del web: el comandant li fa d'avatar i el
+  color del seient surt de la identitat de color. Sense baralla, se li assigna un color.
+- Comptadors de verí (a 10, fora), experiència, energia i impost del comandant.
+- Dany de comandant per cada comandant rival per separat (a 21 d'un de sol, fora), i
+  sumar-lo ja resta les vides. Qui juga amb partners ho marca a la configuració.
+- Monarca, dau per decidir qui comença, desfés i la pantalla es manté encesa.
+
+La partida es desa al navegador (`localStorage`), així que aguanta una recàrrega.
+Tot és local: el comptador no necessita connexió un cop carregada la pàgina.
 
 ## Generar el lloc
 

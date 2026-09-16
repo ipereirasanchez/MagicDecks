@@ -5,6 +5,7 @@ import { loadIndex, loadDeck, DataError } from "./data.js";
 import { renderHome } from "./views/home.js";
 import { renderDeck } from "./views/deck.js";
 import { renderGuide } from "./views/guide.js";
+import { renderLife, disposeLife } from "./views/life.js";
 import { closeLightbox } from "./components/lightbox.js";
 import { hidePreview } from "./components/preview.js";
 import { escapeHtml as esc } from "./components/mana.js";
@@ -66,6 +67,7 @@ function parseRoute() {
   const hash = location.hash.replace(/^#/, "") || "/";
   let m;
   if (hash === "/") return { name: "home" };
+  if (hash === "/vides") return { name: "life" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/?$/))) return { name: "deck", slug: decodeURIComponent(m[1]), tab: "list" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/stats\/?$/))) return { name: "deck", slug: decodeURIComponent(m[1]), tab: "stats" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/guia(?:\/([^/]+))?\/?$/))) {
@@ -88,6 +90,7 @@ async function route() {
   const r = parseRoute();
   closeLightbox();
   hidePreview();
+  disposeLife();
 
   const key = r.name === "guide" ? `guide:${r.slug}` : r.name === "deck" ? `deck:${r.slug}:${r.tab}` : r.name;
   if (r.name === "guide" && currentKey === key) {
@@ -98,6 +101,13 @@ async function route() {
   app.innerHTML = loadingView();
   currentKey = null;
   try {
+    if (r.name === "life") {
+      setCrumbs([{ label: t("nav.life") }]);
+      renderLife(app);
+      document.title = `${t("life.title")} · ${t("app.title")}`;
+      currentKey = key;
+      return;
+    }
     if (r.name === "home") {
       setCrumbs([]);
       const index = await loadIndex();
@@ -146,6 +156,7 @@ async function route() {
 }
 
 document.querySelector(".brand").textContent = t("app.title");
+document.querySelector("#life-link").textContent = t("nav.life");
 document.querySelector(".site-footer").innerHTML = `<p>${esc(t("footer.text"))}</p>`;
 window.addEventListener("hashchange", route);
 route();
