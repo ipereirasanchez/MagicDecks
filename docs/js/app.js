@@ -156,7 +156,18 @@ async function route() {
 }
 
 document.querySelector(".brand").textContent = t("app.title");
-document.querySelector("#life-link").textContent = t("nav.life");
+
+/* Built here when it is missing, so a cached older index.html cannot break the
+   whole script before route() ever runs. */
+let lifeLink = document.querySelector("#life-link");
+if (!lifeLink) {
+  lifeLink = document.createElement("a");
+  lifeLink.id = "life-link";
+  lifeLink.className = "header-link";
+  lifeLink.href = "#/vides";
+  document.querySelector(".site-header").append(lifeLink);
+}
+lifeLink.textContent = t("nav.life");
 document.querySelector(".site-footer").innerHTML = `<p>${esc(t("footer.text"))}</p>`;
 window.addEventListener("hashchange", route);
 route();

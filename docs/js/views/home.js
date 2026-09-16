@@ -68,6 +68,7 @@ export function renderHome(root, index) {
     <header class="page-head">
       <h1>${esc(t("app.title"))}</h1>
       <p class="lead">${esc(t("home.subtitle"))}</p>
+      <a class="btn" href="#/vides">${esc(t("nav.life"))}</a>
     </header>
     ${owners.length ? filterHtml(owners, decks, owner) : ""}
     <div class="deck-grid">${gridHtml(owner ? decks.filter((d) => d.owner === owner) : decks)}</div>`;
