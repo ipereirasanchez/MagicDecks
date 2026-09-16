@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Monument to Endurance" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dark Fortress" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Hidden Lair" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sokenzan, Crucible of Defiance" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Takenuma, Abandoned Mire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arcane Adaptation" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cool but Rude" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Curiosity" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ophidian Eye" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Library of Leng" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Maskwood Nexus" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wheel of Misfortune" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Full Throttle" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Baleful Strix" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Changeling Outcast" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Containment Construct" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gingerbrute" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Invisible Stalker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Magmakin Artillerist" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Marauding Mako" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Surly Badgersaur" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Big Score" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Lim-Dûl&apos;s Vault" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Untimely Malfunction" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Siren Stormtamer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Psychosis Crawler" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sulfurous Springs" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Professional Face-Breaker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Decaying Time Loop" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Leyline of Transformation" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Anger" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Archfiend of Ifnir" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bone Miser" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Glint-Horn Buccaneer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nazgûl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Witch-king of Angmar" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wonder" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Filth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Likeness Looter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arcane Signet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shadowspear" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Relic of Sauron" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Talisman of Indulgence" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The One Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Call of the Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Underworld Breach" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Teferi&apos;s Ageless Insight" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arcane Denial" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Final Fortune" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Swan Song" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Birthday Escape" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Breaking of the Fellowship" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Languish" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Living Death" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Reanimate" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ringsight" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Windfall" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ancient Tomb" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Blazemire Verge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gloomlake Verge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Haunted Ridge" />
+  <Cards CatID="0" Quantity="2" Sideboard="false" Name="Island" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Kazuul&apos;s Fury" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Luxury Suite" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Minas Morgul, Dark Fortress" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Morphic Pool" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mount Doom" />
+  <Cards CatID="0" Quantity="2" Sideboard="false" Name="Mountain" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Phyrexian Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Polluted Delta" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Raucous Theater" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Reflecting Pool" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Reliquary Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Rogue&apos;s Passage" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Steam Vents" />
+  <Cards CatID="0" Quantity="2" Sideboard="false" Name="Swamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Black Gate" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Underground River" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Urza&apos;s Saga" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Watery Grave" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Xander&apos;s Lounge" />
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Sauron, the Dark Lord" />
+</Deck>

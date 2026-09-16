@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Knight of the Ebon Legion" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shadow Alley Denizen" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vampire of the Dire Moon" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bloodline Keeper" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cordial Vampire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Drana, Liberator of Malakir" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Edgar, Charmed Groom" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Indulgent Aristocrat" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Legion Lieutenant" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Markov Baron" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Stromkirk Captain" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vampire Socialite" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vault of the Archangel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Warleader&apos;s Call" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Captivating Vampire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Damn" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Fell the Profane" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Invasion of New Capenna" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="New Blood" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Olivia&apos;s Wrath" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ruthless Lawbringer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Stroke of Midnight" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Black Market Connections" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Call of the Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Castle Locthwain" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Champion of Dusk" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Necropotence" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Pact of the Serpent" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Twilight Prophet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Welcoming Vampire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Blood Artist" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bloodletter of Aclazotz" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cruel Celebrant" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Impact Tremors" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Malakir Bloodwitch" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sanctum Seeker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Stensian Sanguinist" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bloodthirsty Conqueror" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vito, Thorn of the Dusk Rose" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Anointed Procession" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Charismatic Conqueror" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Clavileño, First of the Blessed" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Elenda, the Dusk Rose" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mavren Fein, Dusk Apostle" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Preacher of the Schism" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Renewed Solidarity" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sorin, Imperious Bloodlord" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Agadeem&apos;s Awakening" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Demonic Tutor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Forerunner of the Legion" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vampiric Tutor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="And They Shall Know No Fear" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Boros Charm" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Teferi&apos;s Protection" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arcane Signet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Fellwar Stone" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Herald&apos;s Horn" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Master of Dark Rites" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Orzhov Signet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Patchwork Banner" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Rakdos Signet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Talisman of Hierarchy" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Talisman of Indulgence" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ancient Tomb" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arid Mesa" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Blood Crypt" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bloodstained Mire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Brightclimb Pathway" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Caves of Koilos" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="City of Brass" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Phyrexian Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dragonskull Summit" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Godless Shrine" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Luxury Suite" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mana Confluence" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Marsh Flats" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mountain" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Path of Ancestry" />
+  <Cards CatID="0" Quantity="2" Sideboard="false" Name="Plains" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Prismatic Vista" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sacred Foundry" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Savai Triome" />
+  <Cards CatID="0" Quantity="3" Sideboard="false" Name="Swamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Three Tree City" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vault of Champions" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bleachbone Verge" />
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Edgar Markov" />
+</Deck>

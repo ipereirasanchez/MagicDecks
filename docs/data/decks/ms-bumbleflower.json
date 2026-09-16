@@ -1,0 +1,3772 @@
+{
+ "bracket": 4,
+ "bracket_text": "Bracket 4. Llista original de deckstats (`Ms_Bumbleflower.dek`).",
+ "cards": [
+  {
+   "artist": "Marta Nael",
+   "cmc": 4,
+   "collector_number": "3",
+   "color_identity": [
+    "W",
+    "U",
+    "G"
+   ],
+   "colors": [
+    "W",
+    "U",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Ms. Bumbleflower",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+    "large": "https://cards.scryfall.io/large/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+    "normal": "https://cards.scryfall.io/normal/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+    "png": "https://cards.scryfall.io/png/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.png?1783910739",
+    "small": "https://cards.scryfall.io/small/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739"
+   },
+   "is_commander": true,
+   "keywords": [
+    "Vigilance"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}{W}{U}",
+   "name": "Ms. Bumbleflower",
+   "oracle_text": "Vigilance\nWhenever you cast a spell, target opponent draws a card. Put a +1/+1 counter on target creature. It gains flying until end of turn. If this is the second time this ability has resolved this turn, you draw two cards.",
+   "power": "1",
+   "price_eur": 7.02,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "engine",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/blc/3/ms-bumbleflower?utm_source=api",
+   "set": "blc",
+   "set_name": "Bloomburrow Commander",
+   "toughness": "5",
+   "type_line": "Legendary Creature — Rabbit Citizen"
+  },
+  {
+   "artist": "Kieran Yanner",
+   "cmc": 4,
+   "collector_number": "249",
+   "color_identity": [
+    "W",
+    "U",
+    "G"
+   ],
+   "colors": [
+    "W",
+    "U",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Tamiyo, Field Researcher",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/576ba8db-fad9-4c48-96be-a8a7e5f43039.jpg?1783908070",
+    "large": "https://cards.scryfall.io/large/front/5/7/576ba8db-fad9-4c48-96be-a8a7e5f43039.jpg?1783908070",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/576ba8db-fad9-4c48-96be-a8a7e5f43039.jpg?1783908070",
+    "png": "https://cards.scryfall.io/png/front/5/7/576ba8db-fad9-4c48-96be-a8a7e5f43039.png?1783908070",
+    "small": "https://cards.scryfall.io/small/front/5/7/576ba8db-fad9-4c48-96be-a8a7e5f43039.jpg?1783908070"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": "4",
+   "mana_cost": "{1}{G}{W}{U}",
+   "name": "Tamiyo, Field Researcher",
+   "oracle_text": "+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.\n−2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.\n−7: Draw three cards. You get an emblem with \"You may cast spells from your hand without paying their mana costs.\"",
+   "power": null,
+   "price_eur": 1.8,
+   "primary_type": "Planeswalker",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/inr/249/tamiyo-field-researcher?utm_source=api",
+   "set": "inr",
+   "set_name": "Innistrad Remastered",
+   "toughness": null,
+   "type_line": "Legendary Planeswalker — Tamiyo"
+  },
+  {
+   "artist": "Ryan Valle",
+   "cmc": 2,
+   "collector_number": "11",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Dusk Legion Duelist",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/7305a8d3-5403-4483-92af-863dc91c6084.jpg?1783917064",
+    "large": "https://cards.scryfall.io/large/front/7/3/7305a8d3-5403-4483-92af-863dc91c6084.jpg?1783917064",
+    "normal": "https://cards.scryfall.io/normal/front/7/3/7305a8d3-5403-4483-92af-863dc91c6084.jpg?1783917064",
+    "png": "https://cards.scryfall.io/png/front/7/3/7305a8d3-5403-4483-92af-863dc91c6084.png?1783917064",
+    "small": "https://cards.scryfall.io/small/front/7/3/7305a8d3-5403-4483-92af-863dc91c6084.jpg?1783917064"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Vigilance"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{W}",
+   "name": "Dusk Legion Duelist",
+   "oracle_text": "Vigilance\nWhenever one or more +1/+1 counters are put on this creature, draw a card. This ability triggers only once each turn.",
+   "power": "2",
+   "price_eur": 1.15,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mom/11/dusk-legion-duelist?utm_source=api",
+   "set": "mom",
+   "set_name": "March of the Machine",
+   "toughness": "2",
+   "type_line": "Creature — Vampire Soldier"
+  },
+  {
+   "artist": "Nereida",
+   "cmc": 3,
+   "collector_number": "151",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Evolution Witness",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262",
+    "large": "https://cards.scryfall.io/large/front/4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262",
+    "png": "https://cards.scryfall.io/png/front/4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.png?1783911262",
+    "small": "https://cards.scryfall.io/small/front/4/d/4d89283e-9783-4006-9294-4ae0473d2ce6.jpg?1783911262"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Adapt"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Evolution Witness",
+   "oracle_text": "{1}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\nWhenever one or more +1/+1 counters are put on this creature, return target permanent card from your graveyard to your hand.",
+   "power": "2",
+   "price_eur": 0.2,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/151/evolution-witness?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "1",
+   "type_line": "Creature — Elf Shaman Mutant"
+  },
+  {
+   "artist": "Steven Belledin",
+   "cmc": 3,
+   "collector_number": "71",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Loran of the Third Path",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e83a0ef-4fea-45ba-86c0-130d6687f7fe.jpg?1783913028",
+    "large": "https://cards.scryfall.io/large/front/9/e/9e83a0ef-4fea-45ba-86c0-130d6687f7fe.jpg?1783913028",
+    "normal": "https://cards.scryfall.io/normal/front/9/e/9e83a0ef-4fea-45ba-86c0-130d6687f7fe.jpg?1783913028",
+    "png": "https://cards.scryfall.io/png/front/9/e/9e83a0ef-4fea-45ba-86c0-130d6687f7fe.png?1783913028",
+    "small": "https://cards.scryfall.io/small/front/9/e/9e83a0ef-4fea-45ba-86c0-130d6687f7fe.jpg?1783913028"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Vigilance"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{W}",
+   "name": "Loran of the Third Path",
+   "oracle_text": "Vigilance\nWhen Loran enters, destroy up to one target artifact or enchantment.\n{T}: You and target opponent each draw a card.",
+   "power": "2",
+   "price_eur": 3.62,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/71/loran-of-the-third-path?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": "1",
+   "type_line": "Legendary Creature — Human Artificer"
+  },
+  {
+   "artist": "Vilhelmas Banys",
+   "cmc": 2,
+   "collector_number": "65",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Loki, God of Mischief",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/236c437f-ee9d-4145-a4db-b665908089cf.jpg?1783902955",
+    "large": "https://cards.scryfall.io/large/front/2/3/236c437f-ee9d-4145-a4db-b665908089cf.jpg?1783902955",
+    "normal": "https://cards.scryfall.io/normal/front/2/3/236c437f-ee9d-4145-a4db-b665908089cf.jpg?1783902955",
+    "png": "https://cards.scryfall.io/png/front/2/3/236c437f-ee9d-4145-a4db-b665908089cf.png?1783902955",
+    "small": "https://cards.scryfall.io/small/front/2/3/236c437f-ee9d-4145-a4db-b665908089cf.jpg?1783902955"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "Loki, God of Mischief",
+   "oracle_text": "Whenever a player or permanent becomes the target of an ability you control, draw a card. This ability triggers only once each turn.",
+   "power": "2",
+   "price_eur": 4.46,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msh/65/loki-god-of-mischief?utm_source=api",
+   "set": "msh",
+   "set_name": "Marvel Super Heroes",
+   "toughness": "1",
+   "type_line": "Legendary Creature — God Sorcerer Villain"
+  },
+  {
+   "artist": "Alix Branwyn",
+   "cmc": 2,
+   "collector_number": "180",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Innkeeper's Talent",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.jpg?1784634092",
+    "large": "https://cards.scryfall.io/large/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.jpg?1784634092",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.jpg?1784634092",
+    "png": "https://cards.scryfall.io/png/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.png?1784634092",
+    "small": "https://cards.scryfall.io/small/front/9/4/941b0afc-0e8f-45f2-ae7f-07595e164611.jpg?1784634092"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "class",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Innkeeper's Talent",
+   "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nAt the beginning of combat on your turn, put a +1/+1 counter on target creature you control.\n{G}: Level 2\nPermanents you control with counters on them have ward {1}.\n{3}{G}: Level 3\nIf you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead.",
+   "power": null,
+   "price_eur": 8.24,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "combo",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/blb/180/innkeepers-talent?utm_source=api",
+   "set": "blb",
+   "set_name": "Bloomburrow",
+   "toughness": null,
+   "type_line": "Enchantment — Class"
+  },
+  {
+   "artist": "Brian Yuen",
+   "cmc": 1,
+   "collector_number": "157",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Consider",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f28e706-c488-4525-ad8a-977a5fa77f80.jpg?1783904806",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f28e706-c488-4525-ad8a-977a5fa77f80.jpg?1783904806",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f28e706-c488-4525-ad8a-977a5fa77f80.jpg?1783904806",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f28e706-c488-4525-ad8a-977a5fa77f80.png?1783904806",
+    "small": "https://cards.scryfall.io/small/front/4/f/4f28e706-c488-4525-ad8a-977a5fa77f80.jpg?1783904806"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Surveil"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Consider",
+   "oracle_text": "Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\nDraw a card.",
+   "power": null,
+   "price_eur": 0.55,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tle/157/consider?utm_source=api",
+   "set": "tle",
+   "set_name": "Avatar: The Last Airbender Eternal",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "DiTerlizzi",
+   "cmc": 1,
+   "collector_number": "154",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Crop Rotation",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448",
+    "large": "https://cards.scryfall.io/large/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448",
+    "png": "https://cards.scryfall.io/png/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.png?1783918448",
+    "small": "https://cards.scryfall.io/small/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Crop Rotation",
+   "oracle_text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle.",
+   "power": null,
+   "price_eur": 3.67,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/154/crop-rotation?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Donato Giancola",
+   "cmc": 2,
+   "collector_number": "73",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Experimental Augury",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/b/8b817b17-27cf-4f6b-baf2-4c4dbb3e71d1.jpg?1783906043",
+    "large": "https://cards.scryfall.io/large/front/8/b/8b817b17-27cf-4f6b-baf2-4c4dbb3e71d1.jpg?1783906043",
+    "normal": "https://cards.scryfall.io/normal/front/8/b/8b817b17-27cf-4f6b-baf2-4c4dbb3e71d1.jpg?1783906043",
+    "png": "https://cards.scryfall.io/png/front/8/b/8b817b17-27cf-4f6b-baf2-4c4dbb3e71d1.png?1783906043",
+    "small": "https://cards.scryfall.io/small/front/8/b/8b817b17-27cf-4f6b-baf2-4c4dbb3e71d1.jpg?1783906043"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Proliferate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "Experimental Augury",
+   "oracle_text": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+   "power": null,
+   "price_eur": 0.3,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "draw",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/eoc/73/experimental-augury?utm_source=api",
+   "set": "eoc",
+   "set_name": "Edge of Eternities Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Nicholas Gregory",
+   "cmc": 2,
+   "collector_number": "88",
+   "color_identity": [
+    "U",
+    "G"
+   ],
+   "colors": [
+    "U",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Growth Spiral",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/e/1e10e2b4-9639-41ae-8b8e-253224d3d513.jpg?1783909637",
+    "large": "https://cards.scryfall.io/large/front/1/e/1e10e2b4-9639-41ae-8b8e-253224d3d513.jpg?1783909637",
+    "normal": "https://cards.scryfall.io/normal/front/1/e/1e10e2b4-9639-41ae-8b8e-253224d3d513.jpg?1783909637",
+    "png": "https://cards.scryfall.io/png/front/1/e/1e10e2b4-9639-41ae-8b8e-253224d3d513.png?1783909637",
+    "small": "https://cards.scryfall.io/small/front/1/e/1e10e2b4-9639-41ae-8b8e-253224d3d513.jpg?1783909637"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}{U}",
+   "name": "Growth Spiral",
+   "oracle_text": "Draw a card. You may put a land card from your hand onto the battlefield.",
+   "power": null,
+   "price_eur": 0.26,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/88/growth-spiral?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Lindsey Look",
+   "cmc": 1,
+   "collector_number": "60",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Mystical Tutor",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/36fa9a0b-b0c9-43ea-ba11-99d7982f974e.jpg?1783918491",
+    "large": "https://cards.scryfall.io/large/front/3/6/36fa9a0b-b0c9-43ea-ba11-99d7982f974e.jpg?1783918491",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/36fa9a0b-b0c9-43ea-ba11-99d7982f974e.jpg?1783918491",
+    "png": "https://cards.scryfall.io/png/front/3/6/36fa9a0b-b0c9-43ea-ba11-99d7982f974e.png?1783918491",
+    "small": "https://cards.scryfall.io/small/front/3/6/36fa9a0b-b0c9-43ea-ba11-99d7982f974e.jpg?1783918491"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Mystical Tutor",
+   "oracle_text": "Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.",
+   "power": null,
+   "price_eur": 11.76,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/60/mystical-tutor?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Chris Cold",
+   "cmc": 1,
+   "collector_number": "122",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Otherworldly Gaze",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/40bafd2b-acd4-46f0-abb2-139e2918ae99.jpg?1783909625",
+    "large": "https://cards.scryfall.io/large/front/4/0/40bafd2b-acd4-46f0-abb2-139e2918ae99.jpg?1783909625",
+    "normal": "https://cards.scryfall.io/normal/front/4/0/40bafd2b-acd4-46f0-abb2-139e2918ae99.jpg?1783909625",
+    "png": "https://cards.scryfall.io/png/front/4/0/40bafd2b-acd4-46f0-abb2-139e2918ae99.png?1783909625",
+    "small": "https://cards.scryfall.io/small/front/4/0/40bafd2b-acd4-46f0-abb2-139e2918ae99.jpg?1783909625"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Surveil",
+    "Flashback"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Otherworldly Gaze",
+   "oracle_text": "Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+   "power": null,
+   "price_eur": 0.39,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/122/otherworldly-gaze?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Ian Miller",
+   "cmc": 1,
+   "collector_number": "272",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Shrieking Drake",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.jpg?1783911215",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.jpg?1783911215",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.jpg?1783911215",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.png?1783911215",
+    "small": "https://cards.scryfall.io/small/front/9/f/9f1cc39f-898c-4e92-82a0-a17606b60574.jpg?1783911215"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Shrieking Drake",
+   "oracle_text": "Flying\nWhen this creature enters, return a creature you control to its owner's hand.",
+   "power": "1",
+   "price_eur": 0.14,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "combo",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/272/shrieking-drake?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "1",
+   "type_line": "Creature — Drake"
+  },
+  {
+   "artist": "Zoltan Boros & Gabor Szikszai",
+   "cmc": 2,
+   "collector_number": "35",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Whitemane Lion",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a358def9-65a0-4741-896c-b2a8c8947768.jpg?1783918502",
+    "large": "https://cards.scryfall.io/large/front/a/3/a358def9-65a0-4741-896c-b2a8c8947768.jpg?1783918502",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a358def9-65a0-4741-896c-b2a8c8947768.jpg?1783918502",
+    "png": "https://cards.scryfall.io/png/front/a/3/a358def9-65a0-4741-896c-b2a8c8947768.png?1783918502",
+    "small": "https://cards.scryfall.io/small/front/a/3/a358def9-65a0-4741-896c-b2a8c8947768.jpg?1783918502"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{W}",
+   "name": "Whitemane Lion",
+   "oracle_text": "Flash\nWhen this creature enters, return a creature you control to its owner's hand.",
+   "power": "2",
+   "price_eur": 0.15,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "combo",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/35/whitemane-lion?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": "2",
+   "type_line": "Creature — Cat"
+  },
+  {
+   "artist": "Cristi Balanescu",
+   "cmc": 1,
+   "collector_number": "746",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Spectral Sailor",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5ef30b6c-0806-4bf6-9a84-c2aea8d84cf1.jpg?1787563009",
+    "large": "https://cards.scryfall.io/large/front/5/e/5ef30b6c-0806-4bf6-9a84-c2aea8d84cf1.jpg?1787563009",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5ef30b6c-0806-4bf6-9a84-c2aea8d84cf1.jpg?1787563009",
+    "png": "https://cards.scryfall.io/png/front/5/e/5ef30b6c-0806-4bf6-9a84-c2aea8d84cf1.png?1787563009",
+    "small": "https://cards.scryfall.io/small/front/5/e/5ef30b6c-0806-4bf6-9a84-c2aea8d84cf1.jpg?1787563009"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying",
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Spectral Sailor",
+   "oracle_text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\n{3}{U}: Draw a card.",
+   "power": "1",
+   "price_eur": null,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/746/spectral-sailor?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": "1",
+   "type_line": "Creature — Spirit Pirate"
+  },
+  {
+   "artist": "Howard Lyon",
+   "cmc": 2,
+   "collector_number": "38",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "View from Above",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/d/0dc73034-4886-4855-b6de-392fa053fe9e.jpg?1783942485",
+    "large": "https://cards.scryfall.io/large/front/0/d/0dc73034-4886-4855-b6de-392fa053fe9e.jpg?1783942485",
+    "normal": "https://cards.scryfall.io/normal/front/0/d/0dc73034-4886-4855-b6de-392fa053fe9e.jpg?1783942485",
+    "png": "https://cards.scryfall.io/png/front/0/d/0dc73034-4886-4855-b6de-392fa053fe9e.png?1783942485",
+    "small": "https://cards.scryfall.io/small/front/0/d/0dc73034-4886-4855-b6de-392fa053fe9e.jpg?1783942485"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "View from Above",
+   "oracle_text": "Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.",
+   "power": null,
+   "price_eur": 0.23,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/con/38/view-from-above?utm_source=api",
+   "set": "con",
+   "set_name": "Conflux",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Carl Critchlow",
+   "cmc": 1,
+   "collector_number": "107",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Shimmering Wings",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/6/66c9aa9f-acd5-4908-9e11-1a152363ef42.jpg?1783943050",
+    "large": "https://cards.scryfall.io/large/front/6/6/66c9aa9f-acd5-4908-9e11-1a152363ef42.jpg?1783943050",
+    "normal": "https://cards.scryfall.io/normal/front/6/6/66c9aa9f-acd5-4908-9e11-1a152363ef42.jpg?1783943050",
+    "png": "https://cards.scryfall.io/png/front/6/6/66c9aa9f-acd5-4908-9e11-1a152363ef42.png?1783943050",
+    "small": "https://cards.scryfall.io/small/front/6/6/66c9aa9f-acd5-4908-9e11-1a152363ef42.jpg?1783943050"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Enchant"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Shimmering Wings",
+   "oracle_text": "Enchant creature (Target a creature as you cast this. This card enters attached to that creature.)\nEnchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)\n{U}: Return this Aura to its owner's hand.",
+   "power": null,
+   "price_eur": 0.07,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/10e/107/shimmering-wings?utm_source=api",
+   "set": "10e",
+   "set_name": "Tenth Edition",
+   "toughness": null,
+   "type_line": "Enchantment — Aura"
+  },
+  {
+   "artist": "Ron Spears",
+   "cmc": 3,
+   "collector_number": "59",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Dreamtide Whale",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8.jpg?1783911291",
+    "large": "https://cards.scryfall.io/large/front/f/d/fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8.jpg?1783911291",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8.jpg?1783911291",
+    "png": "https://cards.scryfall.io/png/front/f/d/fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8.png?1783911291",
+    "small": "https://cards.scryfall.io/small/front/f/d/fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8.jpg?1783911291"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Vanishing",
+    "Proliferate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{U}",
+   "name": "Dreamtide Whale",
+   "oracle_text": "Vanishing 2 (This creature enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever a player casts their second spell each turn, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+   "power": "7",
+   "price_eur": 3.39,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "engine",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/59/dreamtide-whale?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "5",
+   "type_line": "Creature — Whale"
+  },
+  {
+   "artist": "Daniel Ljunggren",
+   "cmc": 0,
+   "collector_number": "306",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Walking Ballista",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1783930088",
+    "large": "https://cards.scryfall.io/large/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1783930088",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1783930088",
+    "png": "https://cards.scryfall.io/png/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.png?1783930088",
+    "small": "https://cards.scryfall.io/small/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1783930088"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{X}{X}",
+   "name": "Walking Ballista",
+   "oracle_text": "This creature enters with X +1/+1 counters on it.\n{4}: Put a +1/+1 counter on this creature.\nRemove a +1/+1 counter from this creature: It deals 1 damage to any target.",
+   "power": "0",
+   "price_eur": 9.05,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wincon",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/2xm/306/walking-ballista?utm_source=api",
+   "set": "2xm",
+   "set_name": "Double Masters",
+   "toughness": "0",
+   "type_line": "Artifact Creature — Construct"
+  },
+  {
+   "artist": "Ekaterina Burmak",
+   "cmc": 3,
+   "collector_number": "3",
+   "color_identity": [
+    "W",
+    "U",
+    "G"
+   ],
+   "colors": [
+    "W",
+    "U",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Morska, Undersea Sleuth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/e/ae9ccfec-05c6-469e-b1dd-dfbafa1e927f.jpg?1783913056",
+    "large": "https://cards.scryfall.io/large/front/a/e/ae9ccfec-05c6-469e-b1dd-dfbafa1e927f.jpg?1783913056",
+    "normal": "https://cards.scryfall.io/normal/front/a/e/ae9ccfec-05c6-469e-b1dd-dfbafa1e927f.jpg?1783913056",
+    "png": "https://cards.scryfall.io/png/front/a/e/ae9ccfec-05c6-469e-b1dd-dfbafa1e927f.png?1783913056",
+    "small": "https://cards.scryfall.io/small/front/a/e/ae9ccfec-05c6-469e-b1dd-dfbafa1e927f.jpg?1783913056"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Investigate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}{W}{U}",
+   "name": "Morska, Undersea Sleuth",
+   "oracle_text": "You have no maximum hand size.\nAt the beginning of your upkeep, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you draw your second card each turn, put two +1/+1 counters on Morska.",
+   "power": "2",
+   "price_eur": null,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "engine",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/3/morska-undersea-sleuth?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": "3",
+   "type_line": "Legendary Creature — Vedalken Fish Detective"
+  },
+  {
+   "artist": "Izzy",
+   "cmc": 2,
+   "collector_number": "288",
+   "color_identity": [
+    "U",
+    "G"
+   ],
+   "colors": [
+    "U",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Simic Ascendancy",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fec1ffcd-84d3-44b3-b1d5-b33a4fee348a.jpg?1783913844",
+    "large": "https://cards.scryfall.io/large/front/f/e/fec1ffcd-84d3-44b3-b1d5-b33a4fee348a.jpg?1783913844",
+    "normal": "https://cards.scryfall.io/normal/front/f/e/fec1ffcd-84d3-44b3-b1d5-b33a4fee348a.jpg?1783913844",
+    "png": "https://cards.scryfall.io/png/front/f/e/fec1ffcd-84d3-44b3-b1d5-b33a4fee348a.png?1783913844",
+    "small": "https://cards.scryfall.io/small/front/f/e/fec1ffcd-84d3-44b3-b1d5-b33a4fee348a.jpg?1783913844"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}{U}",
+   "name": "Simic Ascendancy",
+   "oracle_text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on this enchantment.\nAt the beginning of your upkeep, if this enchantment has twenty or more growth counters on it, you win the game.",
+   "power": null,
+   "price_eur": 0.57,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wincon",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/lcc/288/simic-ascendancy?utm_source=api",
+   "set": "lcc",
+   "set_name": "The Lost Caverns of Ixalan Commander",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Slawomir Maniak",
+   "cmc": 2,
+   "collector_number": "81",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Triskaidekaphile",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1783925628",
+    "large": "https://cards.scryfall.io/large/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1783925628",
+    "normal": "https://cards.scryfall.io/normal/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1783925628",
+    "png": "https://cards.scryfall.io/png/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.png?1783925628",
+    "small": "https://cards.scryfall.io/small/front/6/7/6750e203-1215-4203-b5b8-3f1b18940839.jpg?1783925628"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "Triskaidekaphile",
+   "oracle_text": "You have no maximum hand size.\nAt the beginning of your upkeep, if you have exactly thirteen cards in your hand, you win the game.\n{3}{U}: Draw a card.",
+   "power": "1",
+   "price_eur": 0.58,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wincon",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mid/81/triskaidekaphile?utm_source=api",
+   "set": "mid",
+   "set_name": "Innistrad: Midnight Hunt",
+   "toughness": "3",
+   "type_line": "Creature — Human Wizard"
+  },
+  {
+   "artist": "Lucas Graciano",
+   "cmc": 3,
+   "collector_number": "307",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Managorger Hydra",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e9c124d7-b4b1-43cf-9830-1244053cc056.jpg?1783917137",
+    "large": "https://cards.scryfall.io/large/front/e/9/e9c124d7-b4b1-43cf-9830-1244053cc056.jpg?1783917137",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e9c124d7-b4b1-43cf-9830-1244053cc056.jpg?1783917137",
+    "png": "https://cards.scryfall.io/png/front/e/9/e9c124d7-b4b1-43cf-9830-1244053cc056.png?1783917137",
+    "small": "https://cards.scryfall.io/small/front/e/9/e9c124d7-b4b1-43cf-9830-1244053cc056.jpg?1783917137"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Trample"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Managorger Hydra",
+   "oracle_text": "Trample\nWhenever a player casts a spell, put a +1/+1 counter on this creature.",
+   "power": "1",
+   "price_eur": 1.56,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/moc/307/managorger-hydra?utm_source=api",
+   "set": "moc",
+   "set_name": "March of the Machine Commander",
+   "toughness": "1",
+   "type_line": "Creature — Hydra"
+  },
+  {
+   "artist": "Jack Wang",
+   "cmc": 3,
+   "collector_number": "218",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Chasm Skulker",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/794e01e7-430c-43cf-ba2b-1028cd088148.jpg?1783917173",
+    "large": "https://cards.scryfall.io/large/front/7/9/794e01e7-430c-43cf-ba2b-1028cd088148.jpg?1783917173",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/794e01e7-430c-43cf-ba2b-1028cd088148.jpg?1783917173",
+    "png": "https://cards.scryfall.io/png/front/7/9/794e01e7-430c-43cf-ba2b-1028cd088148.png?1783917173",
+    "small": "https://cards.scryfall.io/small/front/7/9/794e01e7-430c-43cf-ba2b-1028cd088148.jpg?1783917173"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{U}",
+   "name": "Chasm Skulker",
+   "oracle_text": "Whenever you draw a card, put a +1/+1 counter on this creature.\nWhen this creature dies, create X 1/1 blue Squid creature tokens with islandwalk, where X is the number of +1/+1 counters on this creature. (They can't be blocked as long as defending player controls an Island.)",
+   "power": "1",
+   "price_eur": 0.72,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wincon",
+    "tokens"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/moc/218/chasm-skulker?utm_source=api",
+   "set": "moc",
+   "set_name": "March of the Machine Commander",
+   "toughness": "1",
+   "type_line": "Creature — Squid Horror"
+  },
+  {
+   "artist": "Mark Tedin",
+   "cmc": 4,
+   "collector_number": "267",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Forgotten Ancient",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f8c9d744-8294-4747-ae7e-99be2b6e7479.jpg?1783903766",
+    "large": "https://cards.scryfall.io/large/front/f/8/f8c9d744-8294-4747-ae7e-99be2b6e7479.jpg?1783903766",
+    "normal": "https://cards.scryfall.io/normal/front/f/8/f8c9d744-8294-4747-ae7e-99be2b6e7479.jpg?1783903766",
+    "png": "https://cards.scryfall.io/png/front/f/8/f8c9d744-8294-4747-ae7e-99be2b6e7479.png?1783903766",
+    "small": "https://cards.scryfall.io/small/front/f/8/f8c9d744-8294-4747-ae7e-99be2b6e7479.jpg?1783903766"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{G}",
+   "name": "Forgotten Ancient",
+   "oracle_text": "Whenever a player casts a spell, you may put a +1/+1 counter on this creature.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto other creatures.",
+   "power": "0",
+   "price_eur": 0.34,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "engine",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/267/forgotten-ancient?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "3",
+   "type_line": "Creature — Elemental"
+  },
+  {
+   "artist": "Lake Hurwitz",
+   "cmc": 1,
+   "collector_number": "137",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Authority of the Consuls",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1783909087",
+    "large": "https://cards.scryfall.io/large/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1783909087",
+    "normal": "https://cards.scryfall.io/normal/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1783909087",
+    "png": "https://cards.scryfall.io/png/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.png?1783909087",
+    "small": "https://cards.scryfall.io/small/front/4/2/42ce2d7f-5924-47c0-b5ed-dacf9f9617a0.jpg?1783909087"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{W}",
+   "name": "Authority of the Consuls",
+   "oracle_text": "Creatures your opponents control enter tapped.\nWhenever a creature an opponent controls enters, you gain 1 life.",
+   "power": null,
+   "price_eur": 4.47,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/137/authority-of-the-consuls?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Magali Villeneuve",
+   "cmc": 3,
+   "collector_number": "853",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Narset, Parter of Veils",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4e6e5c63-b6e5-4756-bf23-6c6f8669442d.jpg?1783915440",
+    "large": "https://cards.scryfall.io/large/front/4/e/4e6e5c63-b6e5-4756-bf23-6c6f8669442d.jpg?1783915440",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4e6e5c63-b6e5-4756-bf23-6c6f8669442d.jpg?1783915440",
+    "png": "https://cards.scryfall.io/png/front/4/e/4e6e5c63-b6e5-4756-bf23-6c6f8669442d.png?1783915440",
+    "small": "https://cards.scryfall.io/small/front/4/e/4e6e5c63-b6e5-4756-bf23-6c6f8669442d.jpg?1783915440"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": "5",
+   "mana_cost": "{1}{U}{U}",
+   "name": "Narset, Parter of Veils",
+   "oracle_text": "Each opponent can't draw more than one card each turn.\n−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+   "power": null,
+   "price_eur": 0.98,
+   "primary_type": "Planeswalker",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "stax",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/853/narset-parter-of-veils?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": null,
+   "type_line": "Legendary Planeswalker — Narset"
+  },
+  {
+   "artist": "Seb McKinnon",
+   "cmc": 2,
+   "collector_number": "9",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Blind Obedience",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/8/d859e1f9-feb3-497a-af0b-f74fee46861f.jpg?1783913350",
+    "large": "https://cards.scryfall.io/large/front/d/8/d859e1f9-feb3-497a-af0b-f74fee46861f.jpg?1783913350",
+    "normal": "https://cards.scryfall.io/normal/front/d/8/d859e1f9-feb3-497a-af0b-f74fee46861f.jpg?1783913350",
+    "png": "https://cards.scryfall.io/png/front/d/8/d859e1f9-feb3-497a-af0b-f74fee46861f.png?1783913350",
+    "small": "https://cards.scryfall.io/small/front/d/8/d859e1f9-feb3-497a-af0b-f74fee46861f.jpg?1783913350"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Extort"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{W}",
+   "name": "Blind Obedience",
+   "oracle_text": "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nArtifacts and creatures your opponents control enter tapped.",
+   "power": null,
+   "price_eur": 4.28,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/rvr/9/blind-obedience?utm_source=api",
+   "set": "rvr",
+   "set_name": "Ravnica Remastered",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Aurore Folny",
+   "cmc": 2,
+   "collector_number": "2",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Grand Abolisher",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/e/ee793ed2-7d59-4640-8868-ad486600df2c.jpg?1783912003",
+    "large": "https://cards.scryfall.io/large/front/e/e/ee793ed2-7d59-4640-8868-ad486600df2c.jpg?1783912003",
+    "normal": "https://cards.scryfall.io/normal/front/e/e/ee793ed2-7d59-4640-8868-ad486600df2c.jpg?1783912003",
+    "png": "https://cards.scryfall.io/png/front/e/e/ee793ed2-7d59-4640-8868-ad486600df2c.png?1783912003",
+    "small": "https://cards.scryfall.io/small/front/e/e/ee793ed2-7d59-4640-8868-ad486600df2c.jpg?1783912003"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{W}{W}",
+   "name": "Grand Abolisher",
+   "oracle_text": "During your turn, your opponents can't cast spells or activate abilities of artifacts, creatures, or enchantments.",
+   "power": "2",
+   "price_eur": 10.21,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/big/2/grand-abolisher?utm_source=api",
+   "set": "big",
+   "set_name": "The Big Score",
+   "toughness": "2",
+   "type_line": "Creature — Human Cleric"
+  },
+  {
+   "artist": "Justyna Dura",
+   "cmc": 4,
+   "collector_number": "40",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "High Fae Trickster",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/f/7f1b93ea-1ec1-4010-9343-765742f5088b.jpg?1783909118",
+    "large": "https://cards.scryfall.io/large/front/7/f/7f1b93ea-1ec1-4010-9343-765742f5088b.jpg?1783909118",
+    "normal": "https://cards.scryfall.io/normal/front/7/f/7f1b93ea-1ec1-4010-9343-765742f5088b.jpg?1783909118",
+    "png": "https://cards.scryfall.io/png/front/7/f/7f1b93ea-1ec1-4010-9343-765742f5088b.png?1783909118",
+    "small": "https://cards.scryfall.io/small/front/7/f/7f1b93ea-1ec1-4010-9343-765742f5088b.jpg?1783909118"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying",
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{U}",
+   "name": "High Fae Trickster",
+   "oracle_text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nYou may cast spells as though they had flash.",
+   "power": "4",
+   "price_eur": 6.02,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/40/high-fae-trickster?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": "2",
+   "type_line": "Creature — Faerie Wizard"
+  },
+  {
+   "artist": "Izzy",
+   "cmc": 2,
+   "collector_number": "173",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Jolrael, Mwonvuli Recluse",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/8/188f9016-275f-4060-8b11-9cdeef3759bd.jpg?1783912990",
+    "large": "https://cards.scryfall.io/large/front/1/8/188f9016-275f-4060-8b11-9cdeef3759bd.jpg?1783912990",
+    "normal": "https://cards.scryfall.io/normal/front/1/8/188f9016-275f-4060-8b11-9cdeef3759bd.jpg?1783912990",
+    "png": "https://cards.scryfall.io/png/front/1/8/188f9016-275f-4060-8b11-9cdeef3759bd.png?1783912990",
+    "small": "https://cards.scryfall.io/small/front/1/8/188f9016-275f-4060-8b11-9cdeef3759bd.jpg?1783912990"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Jolrael, Mwonvuli Recluse",
+   "oracle_text": "Whenever you draw your second card each turn, create a 2/2 green Cat creature token.\n{4}{G}{G}: Until end of turn, creatures you control have base power and toughness X/X, where X is the number of cards in your hand.",
+   "power": "1",
+   "price_eur": 0.17,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "engine",
+    "tokens"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/173/jolrael-mwonvuli-recluse?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": "2",
+   "type_line": "Legendary Creature — Human Druid"
+  },
+  {
+   "artist": "Winona Nelson",
+   "cmc": 5,
+   "collector_number": "199",
+   "color_identity": [
+    "U",
+    "G"
+   ],
+   "colors": [
+    "U",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Prophet of Kruphix",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/5/45de923f-fdab-460c-96f4-f62aefa9ad73.jpg?1783939727",
+    "large": "https://cards.scryfall.io/large/front/4/5/45de923f-fdab-460c-96f4-f62aefa9ad73.jpg?1783939727",
+    "normal": "https://cards.scryfall.io/normal/front/4/5/45de923f-fdab-460c-96f4-f62aefa9ad73.jpg?1783939727",
+    "png": "https://cards.scryfall.io/png/front/4/5/45de923f-fdab-460c-96f4-f62aefa9ad73.png?1783939727",
+    "small": "https://cards.scryfall.io/small/front/4/5/45de923f-fdab-460c-96f4-f62aefa9ad73.jpg?1783939727"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{G}{U}",
+   "name": "Prophet of Kruphix",
+   "oracle_text": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash.",
+   "power": "2",
+   "price_eur": 1.05,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ths/199/prophet-of-kruphix?utm_source=api",
+   "set": "ths",
+   "set_name": "Theros",
+   "toughness": "3",
+   "type_line": "Creature — Human Wizard"
+  },
+  {
+   "artist": "Adam Rex",
+   "cmc": 5,
+   "collector_number": "268",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Seedborn Muse",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.jpg?1783907041",
+    "large": "https://cards.scryfall.io/large/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.jpg?1783907041",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.jpg?1783907041",
+    "png": "https://cards.scryfall.io/png/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.png?1783907041",
+    "small": "https://cards.scryfall.io/small/front/7/6/76f58441-5674-4f1e-af9b-94e14ab7e619.jpg?1783907041"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{G}{G}",
+   "name": "Seedborn Muse",
+   "oracle_text": "Untap all permanents you control during each other player's untap step.",
+   "power": "2",
+   "price_eur": 10.08,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tdc/268/seedborn-muse?utm_source=api",
+   "set": "tdc",
+   "set_name": "Tarkir: Dragonstorm Commander",
+   "toughness": "4",
+   "type_line": "Creature — Spirit"
+  },
+  {
+   "artist": "Tyler Walpole",
+   "cmc": 4,
+   "collector_number": "205",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Wilderness Reclamation",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5e6c0cb4-f17d-48ae-9bbf-9498505a23b0.jpg?1783909598",
+    "large": "https://cards.scryfall.io/large/front/5/e/5e6c0cb4-f17d-48ae-9bbf-9498505a23b0.jpg?1783909598",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5e6c0cb4-f17d-48ae-9bbf-9498505a23b0.jpg?1783909598",
+    "png": "https://cards.scryfall.io/png/front/5/e/5e6c0cb4-f17d-48ae-9bbf-9498505a23b0.png?1783909598",
+    "small": "https://cards.scryfall.io/small/front/5/e/5e6c0cb4-f17d-48ae-9bbf-9498505a23b0.jpg?1783909598"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{G}",
+   "name": "Wilderness Reclamation",
+   "oracle_text": "At the beginning of your end step, untap all lands you control.",
+   "power": null,
+   "price_eur": 1.43,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "enabler",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/205/wilderness-reclamation?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Nicholas Gregory",
+   "cmc": 5,
+   "collector_number": "165",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Herd Baloth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.png?1783926829",
+    "small": "https://cards.scryfall.io/small/front/c/1/c1e9cef5-c55f-47d9-9d2f-300dab8fcb0b.jpg?1783926829"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{G}{G}",
+   "name": "Herd Baloth",
+   "oracle_text": "Whenever one or more +1/+1 counters are put on this creature, you may create a 4/4 green Beast creature token.",
+   "power": "4",
+   "price_eur": 0.19,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "tokens"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh2/165/herd-baloth?utm_source=api",
+   "set": "mh2",
+   "set_name": "Modern Horizons 2",
+   "toughness": "4",
+   "type_line": "Creature — Beast"
+  },
+  {
+   "artist": "Thomas Chamberlain-Keen",
+   "cmc": 3,
+   "collector_number": "169",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Beast Within",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/0/400b43aa-c1d2-4435-b863-061f43889422.jpg?1783903232",
+    "large": "https://cards.scryfall.io/large/front/4/0/400b43aa-c1d2-4435-b863-061f43889422.jpg?1783903232",
+    "normal": "https://cards.scryfall.io/normal/front/4/0/400b43aa-c1d2-4435-b863-061f43889422.jpg?1783903232",
+    "png": "https://cards.scryfall.io/png/front/4/0/400b43aa-c1d2-4435-b863-061f43889422.png?1783903232",
+    "small": "https://cards.scryfall.io/small/front/4/0/400b43aa-c1d2-4435-b863-061f43889422.jpg?1783903232"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Beast Within",
+   "oracle_text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+   "power": null,
+   "price_eur": 0.67,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/169/beast-within?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Isis",
+   "cmc": 2,
+   "collector_number": "40",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Cyclonic Rift",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339",
+    "large": "https://cards.scryfall.io/large/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339",
+    "normal": "https://cards.scryfall.io/normal/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339",
+    "png": "https://cards.scryfall.io/png/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.png?1783913339",
+    "small": "https://cards.scryfall.io/small/front/d/f/dfb7c4b9-f2f4-4d4e-baf2-86551c8150fe.jpg?1783913339"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Overload"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "Cyclonic Rift",
+   "oracle_text": "Return target nonland permanent you don't control to its owner's hand.\nOverload {6}{U} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+   "power": null,
+   "price_eur": 35.89,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "wipe",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/rvr/40/cyclonic-rift?utm_source=api",
+   "set": "rvr",
+   "set_name": "Ravnica Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Gaboleps",
+   "cmc": 5,
+   "collector_number": "15",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Damning Verdict",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5be40c34-6df0-4471-b99b-850ae2be9923.jpg?1783923375",
+    "large": "https://cards.scryfall.io/large/front/5/b/5be40c34-6df0-4471-b99b-850ae2be9923.jpg?1783923375",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5be40c34-6df0-4471-b99b-850ae2be9923.jpg?1783923375",
+    "png": "https://cards.scryfall.io/png/front/5/b/5be40c34-6df0-4471-b99b-850ae2be9923.png?1783923375",
+    "small": "https://cards.scryfall.io/small/front/5/b/5be40c34-6df0-4471-b99b-850ae2be9923.jpg?1783923375"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{W}{W}",
+   "name": "Damning Verdict",
+   "oracle_text": "Destroy all creatures with no counters on them.",
+   "power": null,
+   "price_eur": 5.39,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wipe"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ncc/15/damning-verdict?utm_source=api",
+   "set": "ncc",
+   "set_name": "New Capenna Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "David Álvarez",
+   "cmc": 3,
+   "collector_number": "133",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Generous Gift",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/3/c3f9b454-97e9-4c77-b37a-e974221ae385.jpg?1783903247",
+    "large": "https://cards.scryfall.io/large/front/c/3/c3f9b454-97e9-4c77-b37a-e974221ae385.jpg?1783903247",
+    "normal": "https://cards.scryfall.io/normal/front/c/3/c3f9b454-97e9-4c77-b37a-e974221ae385.jpg?1783903247",
+    "png": "https://cards.scryfall.io/png/front/c/3/c3f9b454-97e9-4c77-b37a-e974221ae385.png?1783903247",
+    "small": "https://cards.scryfall.io/small/front/c/3/c3f9b454-97e9-4c77-b37a-e974221ae385.jpg?1783903247"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{W}",
+   "name": "Generous Gift",
+   "oracle_text": "Destroy target permanent. Its controller creates a 3/3 green Elephant creature token.",
+   "power": null,
+   "price_eur": 0.88,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/133/generous-gift?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Mike Raabe",
+   "cmc": 2,
+   "collector_number": "66",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Snap",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/1/f13406c6-f208-402a-94d3-a94a24f03563.jpg?1783918488",
+    "large": "https://cards.scryfall.io/large/front/f/1/f13406c6-f208-402a-94d3-a94a24f03563.jpg?1783918488",
+    "normal": "https://cards.scryfall.io/normal/front/f/1/f13406c6-f208-402a-94d3-a94a24f03563.jpg?1783918488",
+    "png": "https://cards.scryfall.io/png/front/f/1/f13406c6-f208-402a-94d3-a94a24f03563.png?1783918488",
+    "small": "https://cards.scryfall.io/small/front/f/1/f13406c6-f208-402a-94d3-a94a24f03563.jpg?1783918488"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "Snap",
+   "oracle_text": "Return target creature to its owner's hand. Untap up to two lands.",
+   "power": null,
+   "price_eur": 3.22,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/66/snap?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Greg Smallwood",
+   "cmc": 1,
+   "collector_number": "143",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Swords to Plowshares",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243",
+    "large": "https://cards.scryfall.io/large/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243",
+    "png": "https://cards.scryfall.io/png/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.png?1783903243",
+    "small": "https://cards.scryfall.io/small/front/b/4/b4e9c870-23c0-413a-ae39-265f09da16d1.jpg?1783903243"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{W}",
+   "name": "Swords to Plowshares",
+   "oracle_text": "Exile target creature. Its controller gains life equal to its power.",
+   "power": null,
+   "price_eur": 2.02,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/143/swords-to-plowshares?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Anna Steinbauer",
+   "cmc": 3,
+   "collector_number": "72",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Unwind",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.jpg?1783935018",
+    "large": "https://cards.scryfall.io/large/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.jpg?1783935018",
+    "normal": "https://cards.scryfall.io/normal/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.jpg?1783935018",
+    "png": "https://cards.scryfall.io/png/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.png?1783935018",
+    "small": "https://cards.scryfall.io/small/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.jpg?1783935018"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{U}",
+   "name": "Unwind",
+   "oracle_text": "Counter target noncreature spell. Untap up to three lands.",
+   "power": null,
+   "price_eur": 1.27,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "counter"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dom/72/unwind?utm_source=api",
+   "set": "dom",
+   "set_name": "Dominaria",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Iris Compiet",
+   "cmc": 2,
+   "collector_number": "203",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Wear Down",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fded2b83-3b7d-4c8c-83c4-0624a1069628.jpg?1783910800",
+    "large": "https://cards.scryfall.io/large/front/f/d/fded2b83-3b7d-4c8c-83c4-0624a1069628.jpg?1783910800",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fded2b83-3b7d-4c8c-83c4-0624a1069628.jpg?1783910800",
+    "png": "https://cards.scryfall.io/png/front/f/d/fded2b83-3b7d-4c8c-83c4-0624a1069628.png?1783910800",
+    "small": "https://cards.scryfall.io/small/front/f/d/fded2b83-3b7d-4c8c-83c4-0624a1069628.jpg?1783910800"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Gift"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Wear Down",
+   "oracle_text": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nDestroy target artifact or enchantment. If the gift was promised, instead destroy two target artifacts and/or enchantments.",
+   "power": null,
+   "price_eur": 0.13,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/blb/203/wear-down?utm_source=api",
+   "set": "blb",
+   "set_name": "Bloomburrow",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Jack Wang",
+   "cmc": 1,
+   "collector_number": "198",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Rapid Hybridization",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/ccda5bda-5afd-4548-bd48-12c780bfa68b.jpg?1783903791",
+    "large": "https://cards.scryfall.io/large/front/c/c/ccda5bda-5afd-4548-bd48-12c780bfa68b.jpg?1783903791",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/ccda5bda-5afd-4548-bd48-12c780bfa68b.jpg?1783903791",
+    "png": "https://cards.scryfall.io/png/front/c/c/ccda5bda-5afd-4548-bd48-12c780bfa68b.png?1783903791",
+    "small": "https://cards.scryfall.io/small/front/c/c/ccda5bda-5afd-4548-bd48-12c780bfa68b.jpg?1783903791"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Rapid Hybridization",
+   "oracle_text": "Destroy target creature. It can't be regenerated. That creature's controller creates a 3/3 green Frog Lizard creature token.",
+   "power": null,
+   "price_eur": 1.08,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/198/rapid-hybridization?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Yohann Schepacz",
+   "cmc": 3,
+   "collector_number": "51",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Glen Elendra Guardian",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/388d2e4a-0aa5-4b82-a86c-4777ca60161c.jpg?1783904491",
+    "large": "https://cards.scryfall.io/large/front/3/8/388d2e4a-0aa5-4b82-a86c-4777ca60161c.jpg?1783904491",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/388d2e4a-0aa5-4b82-a86c-4777ca60161c.jpg?1783904491",
+    "png": "https://cards.scryfall.io/png/front/3/8/388d2e4a-0aa5-4b82-a86c-4777ca60161c.png?1783904491",
+    "small": "https://cards.scryfall.io/small/front/3/8/388d2e4a-0aa5-4b82-a86c-4777ca60161c.jpg?1783904491"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying",
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{U}",
+   "name": "Glen Elendra Guardian",
+   "oracle_text": "Flash\nFlying\nThis creature enters with a -1/-1 counter on it.\n{1}{U}, Remove a counter from this creature: Counter target noncreature spell. Its controller draws a card.",
+   "power": "3",
+   "price_eur": 0.74,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "counter"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ecl/51/glen-elendra-guardian?utm_source=api",
+   "set": "ecl",
+   "set_name": "Lorwyn Eclipsed",
+   "toughness": "4",
+   "type_line": "Creature — Faerie Wizard"
+  },
+  {
+   "artist": "Howard Lyon",
+   "cmc": 2,
+   "collector_number": "58",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Mana Leak",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/179236d9-6fe2-4db6-bdfb-f851e8d531a2.jpg?1783921915",
+    "large": "https://cards.scryfall.io/large/front/1/7/179236d9-6fe2-4db6-bdfb-f851e8d531a2.jpg?1783921915",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/179236d9-6fe2-4db6-bdfb-f851e8d531a2.jpg?1783921915",
+    "png": "https://cards.scryfall.io/png/front/1/7/179236d9-6fe2-4db6-bdfb-f851e8d531a2.png?1783921915",
+    "small": "https://cards.scryfall.io/small/front/1/7/179236d9-6fe2-4db6-bdfb-f851e8d531a2.jpg?1783921915"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{U}",
+   "name": "Mana Leak",
+   "oracle_text": "Counter target spell unless its controller pays {3}.",
+   "power": null,
+   "price_eur": 0.2,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "counter"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/2x2/58/mana-leak?utm_source=api",
+   "set": "2x2",
+   "set_name": "Double Masters 2022",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Peter Polach",
+   "cmc": 3,
+   "collector_number": "241",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "U"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+      "large": "https://cards.scryfall.io/large/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+      "normal": "https://cards.scryfall.io/normal/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+      "png": "https://cards.scryfall.io/png/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.png?1783911236",
+      "small": "https://cards.scryfall.io/small/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236"
+     },
+     "loyalty": null,
+     "mana_cost": "{1}{U}{U}",
+     "name": "Sink into Stupor",
+     "oracle_text": "Return target spell or nonland permanent an opponent controls to its owner's hand.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Instant"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+      "large": "https://cards.scryfall.io/large/back/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+      "normal": "https://cards.scryfall.io/normal/back/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+      "png": "https://cards.scryfall.io/png/back/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.png?1783911236",
+      "small": "https://cards.scryfall.io/small/back/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Soporific Springs",
+     "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {U}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Sink into Stupor // Soporific Springs",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+    "large": "https://cards.scryfall.io/large/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236",
+    "png": "https://cards.scryfall.io/png/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.png?1783911236",
+    "small": "https://cards.scryfall.io/small/front/5/3/5358b87a-1a29-426d-b165-40c97da2c14d.jpg?1783911236"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{1}{U}{U}",
+   "name": "Sink into Stupor",
+   "oracle_text": "Return target spell or nonland permanent an opponent controls to its owner's hand.",
+   "power": null,
+   "price_eur": 7.77,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "U"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal",
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/241/sink-into-stupor-soporific-springs?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Instant // Land"
+  },
+  {
+   "artist": "Zack Stella",
+   "cmc": 2,
+   "collector_number": "114",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Counterspell",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1783909630",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1783909630",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1783909630",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.png?1783909630",
+    "small": "https://cards.scryfall.io/small/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1783909630"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}{U}",
+   "name": "Counterspell",
+   "oracle_text": "Counter target spell.",
+   "power": null,
+   "price_eur": 3.32,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "counter"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/114/counterspell?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Mintautas Šukys",
+   "cmc": 1,
+   "collector_number": "63",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [
+    "U"
+   ],
+   "faces": null,
+   "full_name": "Kid Loki",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5c9ff69e-6489-49f3-b401-64856f0b7c11.jpg?1783902956",
+    "large": "https://cards.scryfall.io/large/front/5/c/5c9ff69e-6489-49f3-b401-64856f0b7c11.jpg?1783902956",
+    "normal": "https://cards.scryfall.io/normal/front/5/c/5c9ff69e-6489-49f3-b401-64856f0b7c11.jpg?1783902956",
+    "png": "https://cards.scryfall.io/png/front/5/c/5c9ff69e-6489-49f3-b401-64856f0b7c11.png?1783902956",
+    "small": "https://cards.scryfall.io/small/front/5/c/5c9ff69e-6489-49f3-b401-64856f0b7c11.jpg?1783902956"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{U}",
+   "name": "Kid Loki",
+   "oracle_text": "Each creature you control that you've put one or more +1/+1 counters on this turn has hexproof.\nWhenever you draw your second card each turn, put a +1/+1 counter on Kid Loki.",
+   "power": "1",
+   "price_eur": 0.18,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "engine",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msh/63/kid-loki?utm_source=api",
+   "set": "msh",
+   "set_name": "Marvel Super Heroes",
+   "toughness": "1",
+   "type_line": "Legendary Creature — God Hero Villain"
+  },
+  {
+   "artist": "Uzuri",
+   "cmc": 3,
+   "collector_number": "122",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Bastion Protector",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/5/1582488a-ad15-487e-9271-6d9330b46fb4.jpg?1783903254",
+    "large": "https://cards.scryfall.io/large/front/1/5/1582488a-ad15-487e-9271-6d9330b46fb4.jpg?1783903254",
+    "normal": "https://cards.scryfall.io/normal/front/1/5/1582488a-ad15-487e-9271-6d9330b46fb4.jpg?1783903254",
+    "png": "https://cards.scryfall.io/png/front/1/5/1582488a-ad15-487e-9271-6d9330b46fb4.png?1783903254",
+    "small": "https://cards.scryfall.io/small/front/1/5/1582488a-ad15-487e-9271-6d9330b46fb4.jpg?1783903254"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{W}",
+   "name": "Bastion Protector",
+   "oracle_text": "Commander creatures you control get +2/+2 and have indestructible.",
+   "power": "3",
+   "price_eur": 0.31,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/122/bastion-protector?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": "3",
+   "type_line": "Creature — Human Soldier"
+  },
+  {
+   "artist": "Uros Sljivic",
+   "cmc": 3,
+   "collector_number": "271",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Guardian Augmenter",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/8/78ba1a2a-a2dd-4e90-900e-1421b5e3924a.jpg?1783903765",
+    "large": "https://cards.scryfall.io/large/front/7/8/78ba1a2a-a2dd-4e90-900e-1421b5e3924a.jpg?1783903765",
+    "normal": "https://cards.scryfall.io/normal/front/7/8/78ba1a2a-a2dd-4e90-900e-1421b5e3924a.jpg?1783903765",
+    "png": "https://cards.scryfall.io/png/front/7/8/78ba1a2a-a2dd-4e90-900e-1421b5e3924a.png?1783903765",
+    "small": "https://cards.scryfall.io/small/front/7/8/78ba1a2a-a2dd-4e90-900e-1421b5e3924a.jpg?1783903765"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Guardian Augmenter",
+   "oracle_text": "Flash\nCommander creatures you control get +2/+2.\nCommanders you control have hexproof.",
+   "power": "2",
+   "price_eur": 1.73,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/271/guardian-augmenter?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "2",
+   "type_line": "Creature — Troll Wizard"
+  },
+  {
+   "artist": "James Ryman",
+   "cmc": 2,
+   "collector_number": "295",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Heroic Intervention",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1783915629",
+    "large": "https://cards.scryfall.io/large/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1783915629",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1783915629",
+    "png": "https://cards.scryfall.io/png/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.png?1783915629",
+    "small": "https://cards.scryfall.io/small/front/e/3/e32c67d1-187f-40df-b3b3-6036f5c92834.jpg?1783915629"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Heroic Intervention",
+   "oracle_text": "Permanents you control gain hexproof and indestructible until end of turn.",
+   "power": null,
+   "price_eur": 13.42,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/295/heroic-intervention?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Kari Christensen",
+   "cmc": 2,
+   "collector_number": "87",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Tenuous Truce",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f511555a-09aa-41f8-b240-c21f911a57b4.jpg?1783923346",
+    "large": "https://cards.scryfall.io/large/front/f/5/f511555a-09aa-41f8-b240-c21f911a57b4.jpg?1783923346",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f511555a-09aa-41f8-b240-c21f911a57b4.jpg?1783923346",
+    "png": "https://cards.scryfall.io/png/front/f/5/f511555a-09aa-41f8-b240-c21f911a57b4.png?1783923346",
+    "small": "https://cards.scryfall.io/small/front/f/5/f511555a-09aa-41f8-b240-c21f911a57b4.jpg?1783923346"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Enchant"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{W}",
+   "name": "Tenuous Truce",
+   "oracle_text": "Enchant opponent\nAt the beginning of enchanted opponent's end step, you and that player each draw a card.\nWhen you attack enchanted opponent or a planeswalker they control or when they attack you or a planeswalker you control, sacrifice this Aura.",
+   "power": null,
+   "price_eur": 0.39,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "stax",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ncc/87/tenuous-truce?utm_source=api",
+   "set": "ncc",
+   "set_name": "New Capenna Commander",
+   "toughness": null,
+   "type_line": "Enchantment — Aura"
+  },
+  {
+   "artist": "Kieran Yanner",
+   "cmc": 1,
+   "collector_number": "291",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Tyvar's Stand",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b6ab0855-782a-498c-a885-b3ab3d1bb362.jpg?1783903758",
+    "large": "https://cards.scryfall.io/large/front/b/6/b6ab0855-782a-498c-a885-b3ab3d1bb362.jpg?1783903758",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b6ab0855-782a-498c-a885-b3ab3d1bb362.jpg?1783903758",
+    "png": "https://cards.scryfall.io/png/front/b/6/b6ab0855-782a-498c-a885-b3ab3d1bb362.png?1783903758",
+    "small": "https://cards.scryfall.io/small/front/b/6/b6ab0855-782a-498c-a885-b3ab3d1bb362.jpg?1783903758"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{X}{G}",
+   "name": "Tyvar's Stand",
+   "oracle_text": "Target creature you control gets +X/+X and gains hexproof and indestructible until end of turn. (It can't be the target of spells or abilities your opponents control. Damage and effects that say \"destroy\" don't destroy it.)",
+   "power": null,
+   "price_eur": 1.08,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/291/tyvars-stand?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Justin Gerard",
+   "cmc": 2,
+   "collector_number": "9",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Dawn's Truce",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863",
+    "large": "https://cards.scryfall.io/large/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863",
+    "normal": "https://cards.scryfall.io/normal/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863",
+    "png": "https://cards.scryfall.io/png/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.png?1783910863",
+    "small": "https://cards.scryfall.io/small/front/8/f/8f72bfa0-efef-48ce-aff8-d5818ed71ba6.jpg?1783910863"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Gift"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{W}",
+   "name": "Dawn's Truce",
+   "oracle_text": "Gift a card (You may promise an opponent a gift as you cast this spell. If you do, they draw a card before its other effects.)\nYou and permanents you control gain hexproof until end of turn. If the gift was promised, permanents you control also gain indestructible until end of turn.",
+   "power": null,
+   "price_eur": 9.14,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/blb/9/dawns-truce?utm_source=api",
+   "set": "blb",
+   "set_name": "Bloomburrow",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Winona Nelson",
+   "cmc": 4,
+   "collector_number": "26",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [
+    "W"
+   ],
+   "faces": null,
+   "full_name": "Flare of Fortitude",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1783911302",
+    "large": "https://cards.scryfall.io/large/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1783911302",
+    "normal": "https://cards.scryfall.io/normal/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1783911302",
+    "png": "https://cards.scryfall.io/png/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.png?1783911302",
+    "small": "https://cards.scryfall.io/small/front/3/7/37b41b59-0296-443b-8a62-8d5c4641ef66.jpg?1783911302"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{W}{W}",
+   "name": "Flare of Fortitude",
+   "oracle_text": "You may sacrifice a nontoken white creature rather than pay this spell's mana cost.\nUntil end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",
+   "power": null,
+   "price_eur": 3.92,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/26/flare-of-fortitude?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Svetlin Velinov",
+   "cmc": 2,
+   "collector_number": "77",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Swiftfoot Boots",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03f7e9fc-8e59-45c1-90fc-1d04d929b292.jpg?1785759388",
+    "large": "https://cards.scryfall.io/large/front/0/3/03f7e9fc-8e59-45c1-90fc-1d04d929b292.jpg?1785759388",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03f7e9fc-8e59-45c1-90fc-1d04d929b292.jpg?1785759388",
+    "png": "https://cards.scryfall.io/png/front/0/3/03f7e9fc-8e59-45c1-90fc-1d04d929b292.png?1785759388",
+    "small": "https://cards.scryfall.io/small/front/0/3/03f7e9fc-8e59-45c1-90fc-1d04d929b292.jpg?1785759388"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Equip"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Swiftfoot Boots",
+   "oracle_text": "Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control. It can attack and {T} no matter when it came under your control.)\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mbc/77/swiftfoot-boots?utm_source=api",
+   "set": "mbc",
+   "set_name": "Mystery Booster Commander Edition",
+   "toughness": null,
+   "type_line": "Artifact — Equipment"
+  },
+  {
+   "artist": "Nils Hamm",
+   "cmc": 2,
+   "collector_number": "166",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Bloom Tender",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1783904436",
+    "large": "https://cards.scryfall.io/large/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1783904436",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1783904436",
+    "png": "https://cards.scryfall.io/png/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.png?1783904436",
+    "small": "https://cards.scryfall.io/small/front/b/a/ba86688d-18f0-4b5c-a797-42bf125a6c9f.jpg?1783904436"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Vivid"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Bloom Tender",
+   "oracle_text": "Vivid — {T}: For each color among permanents you control, add one mana of that color.",
+   "power": "1",
+   "price_eur": 13.11,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ecl/166/bloom-tender?utm_source=api",
+   "set": "ecl",
+   "set_name": "Lorwyn Eclipsed",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Rimas Valeikis",
+   "cmc": 2,
+   "collector_number": "173",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Farseek",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1aac0f5-1d01-4673-b8d3-878d9a1d423c.jpg?1783903231",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1aac0f5-1d01-4673-b8d3-878d9a1d423c.jpg?1783903231",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1aac0f5-1d01-4673-b8d3-878d9a1d423c.jpg?1783903231",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1aac0f5-1d01-4673-b8d3-878d9a1d423c.png?1783903231",
+    "small": "https://cards.scryfall.io/small/front/c/1/c1aac0f5-1d01-4673-b8d3-878d9a1d423c.jpg?1783903231"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Farseek",
+   "oracle_text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.",
+   "power": null,
+   "price_eur": 0.7,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/173/farseek?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Filipe Pagliuso",
+   "cmc": 3,
+   "collector_number": "273",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Kami of Whispered Hopes",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0be4e5f6-a1fc-4a91-aafe-f963878cd1b3.jpg?1783903765",
+    "large": "https://cards.scryfall.io/large/front/0/b/0be4e5f6-a1fc-4a91-aafe-f963878cd1b3.jpg?1783903765",
+    "normal": "https://cards.scryfall.io/normal/front/0/b/0be4e5f6-a1fc-4a91-aafe-f963878cd1b3.jpg?1783903765",
+    "png": "https://cards.scryfall.io/png/front/0/b/0be4e5f6-a1fc-4a91-aafe-f963878cd1b3.png?1783903765",
+    "small": "https://cards.scryfall.io/small/front/0/b/0be4e5f6-a1fc-4a91-aafe-f963878cd1b3.jpg?1783903765"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Kami of Whispered Hopes",
+   "oracle_text": "If one or more +1/+1 counters would be put on a permanent you control, that many plus one +1/+1 counters are put on that permanent instead.\n{T}: Add X mana of any one color, where X is this creature's power.",
+   "power": "1",
+   "price_eur": 2.45,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "combo",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/273/kami-of-whispered-hopes?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "1",
+   "type_line": "Creature — Spirit"
+  },
+  {
+   "artist": "John Avon",
+   "cmc": 3,
+   "collector_number": "113",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Kodama's Reach",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/0/90c423cc-1264-4067-9c50-e7c88c68ef2d.jpg?1783904544",
+    "large": "https://cards.scryfall.io/large/front/9/0/90c423cc-1264-4067-9c50-e7c88c68ef2d.jpg?1783904544",
+    "normal": "https://cards.scryfall.io/normal/front/9/0/90c423cc-1264-4067-9c50-e7c88c68ef2d.jpg?1783904544",
+    "png": "https://cards.scryfall.io/png/front/9/0/90c423cc-1264-4067-9c50-e7c88c68ef2d.png?1783904544",
+    "small": "https://cards.scryfall.io/small/front/9/0/90c423cc-1264-4067-9c50-e7c88c68ef2d.jpg?1783904544"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Kodama's Reach",
+   "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+   "power": null,
+   "price_eur": 1.27,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ecc/113/kodamas-reach?utm_source=api",
+   "set": "ecc",
+   "set_name": "Lorwyn Eclipsed Commander",
+   "toughness": null,
+   "type_line": "Sorcery — Arcane"
+  },
+  {
+   "artist": "Jakob Eirich",
+   "cmc": 2,
+   "collector_number": "196",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Tender Wildguide",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/b/6b8bfa91-adb0-4596-8c16-d8bb64fdb26d.jpg?1783910802",
+    "large": "https://cards.scryfall.io/large/front/6/b/6b8bfa91-adb0-4596-8c16-d8bb64fdb26d.jpg?1783910802",
+    "normal": "https://cards.scryfall.io/normal/front/6/b/6b8bfa91-adb0-4596-8c16-d8bb64fdb26d.jpg?1783910802",
+    "png": "https://cards.scryfall.io/png/front/6/b/6b8bfa91-adb0-4596-8c16-d8bb64fdb26d.png?1783910802",
+    "small": "https://cards.scryfall.io/small/front/6/b/6b8bfa91-adb0-4596-8c16-d8bb64fdb26d.jpg?1783910802"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Offspring"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Tender Wildguide",
+   "oracle_text": "Offspring {2} (You may pay an additional {2} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)\n{T}: Add one mana of any color.\n{T}: Put a +1/+1 counter on this creature.",
+   "power": "2",
+   "price_eur": 0.43,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/blb/196/tender-wildguide?utm_source=api",
+   "set": "blb",
+   "set_name": "Bloomburrow",
+   "toughness": "2",
+   "type_line": "Creature — Possum Druid"
+  },
+  {
+   "artist": "Kevin Sidharta",
+   "cmc": 1,
+   "collector_number": "170",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Birds of Paradise",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230",
+    "large": "https://cards.scryfall.io/large/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230",
+    "png": "https://cards.scryfall.io/png/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.png?1783903230",
+    "small": "https://cards.scryfall.io/small/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Birds of Paradise",
+   "oracle_text": "Flying\n{T}: Add one mana of any color.",
+   "power": "0",
+   "price_eur": 8.41,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/170/birds-of-paradise?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": "1",
+   "type_line": "Creature — Bird"
+  },
+  {
+   "artist": "Myles Wohl",
+   "cmc": 1,
+   "collector_number": "211",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Sol Ring",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "large": "https://cards.scryfall.io/large/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "png": "https://cards.scryfall.io/png/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.png?1783903215",
+    "small": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}",
+   "name": "Sol Ring",
+   "oracle_text": "{T}: Add {C}{C}.",
+   "power": null,
+   "price_eur": 1.6,
+   "primary_type": "Artifact",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/211/sol-ring?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Bastien Grivet",
+   "cmc": 0,
+   "collector_number": "325",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Forest",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+    "large": "https://cards.scryfall.io/large/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+    "png": "https://cards.scryfall.io/png/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.png?1785981675",
+    "small": "https://cards.scryfall.io/small/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Forest",
+   "oracle_text": "({T}: Add {G}.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 12,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/325/forest?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Basic Land — Forest"
+  },
+  {
+   "artist": "Bastien Grivet",
+   "cmc": 0,
+   "collector_number": "319",
+   "color_identity": [
+    "U"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Island",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645",
+    "large": "https://cards.scryfall.io/large/front/f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645",
+    "normal": "https://cards.scryfall.io/normal/front/f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645",
+    "png": "https://cards.scryfall.io/png/front/f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.png?1785981645",
+    "small": "https://cards.scryfall.io/small/front/f/3/f3cc07cd-cc79-4745-b0b7-eade60175cc3.jpg?1785981645"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Island",
+   "oracle_text": "({T}: Add {U}.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "U"
+   ],
+   "qty": 13,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/319/island?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Basic Land — Island"
+  },
+  {
+   "artist": "Bastien Grivet",
+   "cmc": 0,
+   "collector_number": "317",
+   "color_identity": [
+    "W"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Plains",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c.jpg?1785981632",
+    "large": "https://cards.scryfall.io/large/front/8/a/8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c.jpg?1785981632",
+    "normal": "https://cards.scryfall.io/normal/front/8/a/8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c.jpg?1785981632",
+    "png": "https://cards.scryfall.io/png/front/8/a/8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c.png?1785981632",
+    "small": "https://cards.scryfall.io/small/front/8/a/8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c.jpg?1785981632"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Plains",
+   "oracle_text": "({T}: Add {W}.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "W"
+   ],
+   "qty": 10,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/317/plains?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Basic Land — Plains"
+  }
+ ],
+ "commander": {
+  "artist": "Marta Nael",
+  "cmc": 4,
+  "collector_number": "3",
+  "color_identity": [
+   "W",
+   "U",
+   "G"
+  ],
+  "colors": [
+   "W",
+   "U",
+   "G"
+  ],
+  "faces": null,
+  "full_name": "Ms. Bumbleflower",
+  "game_changer": false,
+  "images": {
+   "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+   "large": "https://cards.scryfall.io/large/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+   "normal": "https://cards.scryfall.io/normal/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+   "png": "https://cards.scryfall.io/png/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.png?1783910739",
+   "small": "https://cards.scryfall.io/small/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739"
+  },
+  "is_commander": true,
+  "keywords": [
+   "Vigilance"
+  ],
+  "layout": "normal",
+  "loyalty": null,
+  "mana_cost": "{1}{G}{W}{U}",
+  "name": "Ms. Bumbleflower",
+  "oracle_text": "Vigilance\nWhenever you cast a spell, target opponent draws a card. Put a +1/+1 counter on target creature. It gains flying until end of turn. If this is the second time this ability has resolved this turn, you draw two cards.",
+  "power": "1",
+  "price_eur": 7.02,
+  "primary_type": "Creature",
+  "produced_mana": [],
+  "qty": 1,
+  "rarity": "mythic",
+  "roles": [
+   "engine",
+   "draw"
+  ],
+  "scryfall_uri": "https://scryfall.com/card/blc/3/ms-bumbleflower?utm_source=api",
+  "set": "blc",
+  "set_name": "Bloomburrow Commander",
+  "toughness": "5",
+  "type_line": "Legendary Creature — Rabbit Citizen"
+ },
+ "commanders": [
+  "Ms. Bumbleflower"
+ ],
+ "dek_file": "Ms_Bumbleflower.dek",
+ "guide": {
+  "bracket": 4,
+  "bracket_text": "Bracket 4. Llista original de deckstats (`Ms_Bumbleflower.dek`).",
+  "card_refs": [
+   "Ms. Bumbleflower",
+   "Whitemane Lion",
+   "Shrieking Drake",
+   "Consider",
+   "Otherworldly Gaze",
+   "View from Above",
+   "Shimmering Wings",
+   "Innkeeper's Talent",
+   "Kami of Whispered Hopes",
+   "Simic Ascendancy",
+   "Walking Ballista",
+   "Forgotten Ancient",
+   "Managorger Hydra",
+   "Chasm Skulker",
+   "Herd Baloth",
+   "Evolution Witness",
+   "Dusk Legion Duelist",
+   "Kid Loki",
+   "Morska, Undersea Sleuth",
+   "Jolrael, Mwonvuli Recluse",
+   "Seedborn Muse",
+   "Prophet of Kruphix",
+   "Wilderness Reclamation",
+   "High Fae Trickster",
+   "Narset, Parter of Veils",
+   "Authority of the Consuls",
+   "Blind Obedience",
+   "Tenuous Truce",
+   "Damning Verdict",
+   "Bloom Tender",
+   "Tender Wildguide",
+   "Dreamtide Whale",
+   "Experimental Augury",
+   "Glen Elendra Guardian",
+   "Triskaidekaphile",
+   "Tamiyo, Field Researcher",
+   "Loki, God of Mischief",
+   "Cyclonic Rift",
+   "Beast Within",
+   "Generous Gift",
+   "Rapid Hybridization",
+   "Wear Down",
+   "Counterspell",
+   "Mana Leak",
+   "Unwind",
+   "Sink into Stupor",
+   "Guardian Augmenter",
+   "Bastion Protector",
+   "Swiftfoot Boots",
+   "Heroic Intervention",
+   "Tyvar's Stand",
+   "Flare of Fortitude",
+   "Dawn's Truce",
+   "Grand Abolisher",
+   "Mystical Tutor",
+   "Crop Rotation",
+   "Growth Spiral",
+   "Farseek",
+   "Kodama's Reach"
+  ],
+  "intro_html": "",
+  "sections": [
+   {
+    "cards": [
+     "Ms. Bumbleflower",
+     "Whitemane Lion",
+     "Shrieking Drake",
+     "Consider",
+     "Otherworldly Gaze",
+     "View from Above",
+     "Shimmering Wings",
+     "Innkeeper's Talent",
+     "Kami of Whispered Hopes",
+     "Simic Ascendancy",
+     "Walking Ballista",
+     "Forgotten Ancient",
+     "Managorger Hydra",
+     "Chasm Skulker",
+     "Herd Baloth",
+     "Evolution Witness",
+     "Dusk Legion Duelist",
+     "Kid Loki",
+     "Morska, Undersea Sleuth",
+     "Jolrael, Mwonvuli Recluse",
+     "Seedborn Muse",
+     "Prophet of Kruphix",
+     "Wilderness Reclamation",
+     "High Fae Trickster",
+     "Narset, Parter of Veils",
+     "Authority of the Consuls",
+     "Blind Obedience",
+     "Tenuous Truce",
+     "Damning Verdict"
+    ],
+    "gallery": [],
+    "heading": "Idea general",
+    "heading_html": "Idea general",
+    "html": "<p>\"Group hug\" amb trampa. <span class=\"card-ref\" data-card=\"Ms. Bumbleflower\">Ms. Bumbleflower</span>, cada cop que llances un encanteri:</p>\n<ol><li>un rival objectiu roba una carta,</li><li>poses un comptador +1/+1 en una criatura objectiu (guanya volar),</li><li>si és la <strong>segona</strong> vegada que es resol en el torn, <strong>tu robes dues</strong>.</li></ol>\n<p>La baralla explota els tres punts:</p>\n<ul><li><strong>Molts encanteris barats i repetibles</strong> (<span class=\"card-ref\" data-card=\"Whitemane Lion\">Whitemane Lion</span>, <span class=\"card-ref\" data-card=\"Shrieking Drake\">Shrieking Drake</span>, <span class=\"card-ref\" data-card=\"Consider\">Consider</span>, <span class=\"card-ref\" data-card=\"Otherworldly Gaze\">Otherworldly Gaze</span>, <span class=\"card-ref\" data-card=\"View from Above\">View from Above</span>, <span class=\"card-ref\" data-card=\"Shimmering Wings\">Shimmering Wings</span>) per disparar Bumbleflower dues vegades cada torn.</li><li><strong>Payoffs de comptadors</strong>: <span class=\"card-ref\" data-card=\"Innkeeper&#x27;s Talent\">Innkeeper's Talent</span> (dobla comptadors), <span class=\"card-ref\" data-card=\"Kami of Whispered Hopes\">Kami of Whispered Hopes</span> (comptador extra i manà igual a la seva força), <span class=\"card-ref\" data-card=\"Simic Ascendancy\">Simic Ascendancy</span> (victòria alternativa), <span class=\"card-ref\" data-card=\"Walking Ballista\">Walking Ballista</span>, <span class=\"card-ref\" data-card=\"Forgotten Ancient\">Forgotten Ancient</span>, <span class=\"card-ref\" data-card=\"Managorger Hydra\">Managorger Hydra</span>, <span class=\"card-ref\" data-card=\"Chasm Skulker\">Chasm Skulker</span>, <span class=\"card-ref\" data-card=\"Herd Baloth\">Herd Baloth</span>, <span class=\"card-ref\" data-card=\"Evolution Witness\">Evolution Witness</span>, <span class=\"card-ref\" data-card=\"Dusk Legion Duelist\">Dusk Legion Duelist</span>.</li><li><strong>Payoffs de \"segona carta robada\"</strong>: <span class=\"card-ref\" data-card=\"Kid Loki\">Kid Loki</span>, <span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span>, <span class=\"card-ref\" data-card=\"Jolrael, Mwonvuli Recluse\">Jolrael</span>. Bumbleflower els dispara cada torn.</li><li><strong>Jugar en els torns dels altres</strong>: <span class=\"card-ref\" data-card=\"Seedborn Muse\">Seedborn Muse</span>, <span class=\"card-ref\" data-card=\"Prophet of Kruphix\">Prophet of Kruphix</span>, <span class=\"card-ref\" data-card=\"Wilderness Reclamation\">Wilderness Reclamation</span> + <span class=\"card-ref\" data-card=\"High Fae Trickster\">High Fae Trickster</span> (tot té flash) perquè Bumbleflower es dispari en cada torn de la taula.</li><li><strong>Que els rivals no se'n beneficiïn</strong>: <span class=\"card-ref\" data-card=\"Narset, Parter of Veils\">Narset, Parter of Veils</span> (no poden robar més d'una carta per torn → els regals de Bumbleflower s'anul·len), <span class=\"card-ref\" data-card=\"Authority of the Consuls\">Authority of the Consuls</span>, <span class=\"card-ref\" data-card=\"Blind Obedience\">Blind Obedience</span>, <span class=\"card-ref\" data-card=\"Tenuous Truce\">Tenuous Truce</span> per comprar pau.</li><li><strong><span class=\"card-ref\" data-card=\"Damning Verdict\">Damning Verdict</span></strong>: <span class=\"role-ref\" data-role=\"wipe\">board wipe</span> asimètric; les teves criatures sempre tenen comptadors.</li></ul>",
+    "id": "idea-general",
+    "level": 2
+   },
+   {
+    "cards": [],
+    "gallery": [],
+    "heading": "Combos i sinergies més comunes",
+    "heading_html": "<span class=\"role-ref\" data-role=\"combo\">Combos</span> i sinergies més comunes",
+    "html": "",
+    "id": "combos-i-sinergies-mes-comunes",
+    "level": 2
+   },
+   {
+    "cards": [
+     "Whitemane Lion",
+     "Shrieking Drake",
+     "Narset, Parter of Veils",
+     "Kami of Whispered Hopes",
+     "Bloom Tender",
+     "Tender Wildguide",
+     "Seedborn Muse",
+     "Prophet of Kruphix",
+     "High Fae Trickster"
+    ],
+    "gallery": [
+     "Whitemane Lion",
+     "Shrieking Drake",
+     "Narset, Parter of Veils",
+     "Kami of Whispered Hopes",
+     "Bloom Tender",
+     "Tender Wildguide",
+     "Seedborn Muse",
+     "Prophet of Kruphix"
+    ],
+    "heading": "1. Whitemane Lion / Shrieking Drake en bucle = dos encanteris per torn garantits",
+    "heading_html": "1. <span class=\"card-ref\" data-card=\"Whitemane Lion\">Whitemane Lion</span> / <span class=\"card-ref\" data-card=\"Shrieking Drake\">Shrieking Drake</span> en bucle = dos encanteris per torn garantits",
+    "html": "<div class=\"card-gallery\" data-cards=\"Whitemane Lion|Shrieking Drake|Narset, Parter of Veils|Kami of Whispered Hopes|Bloom Tender|Tender Wildguide|Seedborn Muse|Prophet of Kruphix\"></div>\n<ul><li><span class=\"card-ref\" data-card=\"Whitemane Lion\">Whitemane Lion</span> (1W, flash) es torna a si mateix a la mà en entrar. <span class=\"card-ref\" data-card=\"Shrieking Drake\">Shrieking Drake</span> (U) igual. Cada llançament és un disparador de Bumbleflower.</li><li>Per 3-4 manàs cada torn: dos comptadors +1/+1 (més amb Kami/Innkeeper), tu robes dues, un rival en roba dues (o cap amb <span class=\"card-ref\" data-card=\"Narset, Parter of Veils\">Narset</span>).</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Kami of Whispered Hopes\">Kami of Whispered Hopes</span></strong> com a objectiu dels comptadors: Kami gira per X manàs = la seva força, així que es paga sol. <span class=\"card-ref\" data-card=\"Bloom Tender\">Bloom Tender</span> i <span class=\"card-ref\" data-card=\"Tender Wildguide\">Tender Wildguide</span> ajuden.</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Seedborn Muse\">Seedborn Muse</span> / <span class=\"card-ref\" data-card=\"Prophet of Kruphix\">Prophet of Kruphix</span></strong> + <strong><span class=\"card-ref\" data-card=\"High Fae Trickster\">High Fae Trickster</span></strong> el bucle es repeteix en cada torn de la taula: 8 cartes per volta.</li></ul>",
+    "id": "1-whitemane-lion-shrieking-drake-en-bucle-dos-encanteris-per-torn-garantits",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Simic Ascendancy",
+     "Innkeeper's Talent",
+     "Dreamtide Whale",
+     "Experimental Augury",
+     "Glen Elendra Guardian"
+    ],
+    "gallery": [
+     "Simic Ascendancy",
+     "Innkeeper's Talent",
+     "Dreamtide Whale",
+     "Experimental Augury",
+     "Glen Elendra Guardian"
+    ],
+    "heading": "2. Simic Ascendancy = victòria alternativa",
+    "heading_html": "2. <span class=\"card-ref\" data-card=\"Simic Ascendancy\">Simic Ascendancy</span> = victòria alternativa",
+    "html": "<div class=\"card-gallery\" data-cards=\"Simic Ascendancy|Innkeeper&#x27;s Talent|Dreamtide Whale|Experimental Augury|Glen Elendra Guardian\"></div>\n<ul><li>Cada comptador +1/+1 que poses en una criatura teva afegeix un comptador de creixement; amb 20 al teu manteniment guanyes.</li><li><strong><span class=\"card-ref\" data-card=\"Innkeeper&#x27;s Talent\">Innkeeper's Talent</span> nivell 3</strong> dobla TOTS els comptadors (també els de creixement). <strong>Kami</strong> afegeix +1 a cada col·locació.</li><li>Exemple: llances Lion → Bumbleflower posa 1 comptador → Kami el converteix en 2 → Innkeeper el dobla a 4 → Ascendancy 4 de creixement → Innkeeper el dobla a 8. Tres llançaments i guanyes al següent manteniment.</li><li><strong><span class=\"card-ref\" data-card=\"Dreamtide Whale\">Dreamtide Whale</span></strong> (proliferar quan qualsevol jugador llança el seu segon encanteri) i <strong><span class=\"card-ref\" data-card=\"Experimental Augury\">Experimental Augury</span></strong> també fan pujar Ascendancy. Compte: proliferar és opcional per permanent; no proliferis el comptador -1/-1 de <span class=\"card-ref\" data-card=\"Glen Elendra Guardian\">Glen Elendra Guardian</span>.</li></ul>",
+    "id": "2-simic-ascendancy-victoria-alternativa",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Triskaidekaphile",
+     "Morska, Undersea Sleuth",
+     "Tenuous Truce",
+     "Tamiyo, Field Researcher"
+    ],
+    "gallery": [
+     "Triskaidekaphile",
+     "Morska, Undersea Sleuth",
+     "Tenuous Truce",
+     "Tamiyo, Field Researcher"
+    ],
+    "heading": "3. Triskaidekaphile = segona victòria alternativa",
+    "heading_html": "3. <span class=\"card-ref\" data-card=\"Triskaidekaphile\">Triskaidekaphile</span> = segona victòria alternativa",
+    "html": "<div class=\"card-gallery\" data-cards=\"Triskaidekaphile|Morska, Undersea Sleuth|Tenuous Truce|Tamiyo, Field Researcher\"></div>\n<ul><li>Amb 13 cartes a la mà al teu manteniment guanyes. <strong><span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span></strong> et treu el màxim de mà; Bumbleflower, <span class=\"card-ref\" data-card=\"Tenuous Truce\">Tenuous Truce</span>, Loran, <span class=\"card-ref\" data-card=\"Tamiyo, Field Researcher\">Tamiyo</span> i <span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span> t'omplen la mà de pressa.</li><li><span class=\"card-ref\" data-card=\"Triskaidekaphile\">Triskaidekaphile</span> també roba per {3}{U} per ajustar el nombre.</li></ul>",
+    "id": "3-triskaidekaphile-segona-victoria-alternativa",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Walking Ballista",
+     "Forgotten Ancient"
+    ],
+    "gallery": [
+     "Walking Ballista",
+     "Forgotten Ancient"
+    ],
+    "heading": "4. Walking Ballista + muntanya de comptadors",
+    "heading_html": "4. <span class=\"card-ref\" data-card=\"Walking Ballista\">Walking Ballista</span> + muntanya de comptadors",
+    "html": "<div class=\"card-gallery\" data-cards=\"Walking Ballista|Forgotten Ancient\"></div>\n<ul><li>Bumbleflower, Kami, Innkeeper i <strong><span class=\"card-ref\" data-card=\"Forgotten Ancient\">Forgotten Ancient</span></strong> (mou els seus comptadors a l'inici del teu manteniment) converteixen Ballista en una metralladora: treu comptadors per matar criatures o rematar jugadors.</li><li>Llançar Ballista amb X=0 costa 0: és un encanteri gratis per disparar Bumbleflower; amb Innkeeper nivell 3 entra amb el doble de comptadors.</li></ul>",
+    "id": "4-walking-ballista-muntanya-de-comptadors",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Kid Loki",
+     "Morska, Undersea Sleuth",
+     "Jolrael, Mwonvuli Recluse",
+     "Loki, God of Mischief",
+     "High Fae Trickster"
+    ],
+    "gallery": [
+     "Kid Loki",
+     "Morska, Undersea Sleuth",
+     "Jolrael, Mwonvuli Recluse",
+     "Loki, God of Mischief",
+     "High Fae Trickster"
+    ],
+    "heading": "5. Payoffs de \"segona carta robada\"",
+    "heading_html": "5. Payoffs de \"segona carta robada\"",
+    "html": "<div class=\"card-gallery\" data-cards=\"Kid Loki|Morska, Undersea Sleuth|Jolrael, Mwonvuli Recluse|Loki, God of Mischief|High Fae Trickster\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Kid Loki\">Kid Loki</span></strong>: comptador cada torn i <span class=\"role-ref\" data-role=\"protection\">hexproof</span> a tot allò que hagis engreixat.</li><li><strong><span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span></strong>: dos comptadors per torn + pista a cada manteniment.</li><li><strong><span class=\"card-ref\" data-card=\"Jolrael, Mwonvuli Recluse\">Jolrael</span></strong>: un Gat 2/2 per torn; la seva activació {4}{G}{G} fa que totes les teves criatures siguin X/X, X = cartes a la mà (enorme amb <span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span>).</li><li><strong><span class=\"card-ref\" data-card=\"Loki, God of Mischief\">Loki, God of Mischief</span></strong>: una carta cada torn només apuntant amb l'habilitat de Bumbleflower.</li><li>Amb flash generalitzat (<span class=\"card-ref\" data-card=\"High Fae Trickster\">High Fae Trickster</span>) tot això es repeteix en cada torn de la taula.</li></ul>",
+    "id": "5-payoffs-de-segona-carta-robada",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Damning Verdict",
+     "Cyclonic Rift",
+     "Beast Within",
+     "Generous Gift",
+     "Rapid Hybridization",
+     "Wear Down",
+     "Counterspell",
+     "Mana Leak",
+     "Unwind",
+     "Sink into Stupor",
+     "Glen Elendra Guardian",
+     "Guardian Augmenter",
+     "Bastion Protector",
+     "Swiftfoot Boots",
+     "Heroic Intervention",
+     "Tyvar's Stand",
+     "Flare of Fortitude",
+     "Dawn's Truce",
+     "Grand Abolisher",
+     "Narset, Parter of Veils",
+     "Authority of the Consuls",
+     "Blind Obedience"
+    ],
+    "gallery": [
+     "Damning Verdict",
+     "Cyclonic Rift",
+     "Beast Within",
+     "Generous Gift",
+     "Rapid Hybridization",
+     "Wear Down",
+     "Counterspell",
+     "Mana Leak"
+    ],
+    "heading": "6. Control de taula i protection",
+    "heading_html": "6. Control de taula i <span class=\"role-ref\" data-role=\"protection\">protection</span>",
+    "html": "<div class=\"card-gallery\" data-cards=\"Damning Verdict|Cyclonic Rift|Beast Within|Generous Gift|Rapid Hybridization|Wear Down|Counterspell|Mana Leak\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Damning Verdict\">Damning Verdict</span></strong>: destrueix tot el que no té comptadors. Tu et quedes la taula sencera.</li><li><strong><span class=\"card-ref\" data-card=\"Cyclonic Rift\">Cyclonic Rift</span></strong>, <span class=\"card-ref\" data-card=\"Beast Within\">Beast Within</span>, <span class=\"card-ref\" data-card=\"Generous Gift\">Generous Gift</span>, Swords, <span class=\"card-ref\" data-card=\"Rapid Hybridization\">Rapid Hybridization</span>, <span class=\"card-ref\" data-card=\"Wear Down\">Wear Down</span> (dos objectius si regales).</li><li><span class=\"role-ref\" data-role=\"counter\">Counterspells</span>: <span class=\"card-ref\" data-card=\"Counterspell\">Counterspell</span>, <span class=\"card-ref\" data-card=\"Mana Leak\">Mana Leak</span>, <span class=\"card-ref\" data-card=\"Unwind\">Unwind</span> (desgira 3 terres), <span class=\"card-ref\" data-card=\"Sink into Stupor\">Sink into Stupor</span>, <span class=\"card-ref\" data-card=\"Glen Elendra Guardian\">Glen Elendra Guardian</span>.</li><li><span class=\"role-ref\" data-role=\"protection\">Protection</span> per a Bumbleflower: <span class=\"card-ref\" data-card=\"Guardian Augmenter\">Guardian Augmenter</span> (<span class=\"role-ref\" data-role=\"protection\">hexproof</span>), <span class=\"card-ref\" data-card=\"Bastion Protector\">Bastion Protector</span> (<span class=\"role-ref\" data-role=\"protection\">indestructible</span>), <span class=\"card-ref\" data-card=\"Swiftfoot Boots\">Swiftfoot Boots</span>, <span class=\"card-ref\" data-card=\"Heroic Intervention\">Heroic Intervention</span>, <span class=\"card-ref\" data-card=\"Tyvar&#x27;s Stand\">Tyvar's Stand</span>, <span class=\"card-ref\" data-card=\"Flare of Fortitude\">Flare of Fortitude</span> (gratis sacrificant una criatura blanca), <span class=\"card-ref\" data-card=\"Dawn&#x27;s Truce\">Dawn's Truce</span>, <span class=\"card-ref\" data-card=\"Grand Abolisher\">Grand Abolisher</span>.</li><li><strong><span class=\"card-ref\" data-card=\"Narset, Parter of Veils\">Narset</span></strong> i <strong><span class=\"card-ref\" data-card=\"Authority of the Consuls\">Authority of the Consuls</span> / <span class=\"card-ref\" data-card=\"Blind Obedience\">Blind Obedience</span></strong>: frenen els rivals sense invertir-hi gaire.</li></ul>",
+    "id": "6-control-de-taula-i-protection",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Evolution Witness",
+     "Simic Ascendancy",
+     "Walking Ballista",
+     "Sink into Stupor"
+    ],
+    "gallery": [
+     "Evolution Witness",
+     "Simic Ascendancy",
+     "Walking Ballista",
+     "Sink into Stupor"
+    ],
+    "heading": "7. Recursion amb Evolution Witness",
+    "heading_html": "7. <span class=\"role-ref\" data-role=\"recursion\">Recursion</span> amb <span class=\"card-ref\" data-card=\"Evolution Witness\">Evolution Witness</span>",
+    "html": "<div class=\"card-gallery\" data-cards=\"Evolution Witness|Simic Ascendancy|Walking Ballista|Sink into Stupor\"></div>\n<ul><li>Cada cop que hi poses comptadors, torna un permanent del cementiri a la mà: recupera <span class=\"card-ref\" data-card=\"Simic Ascendancy\">Simic Ascendancy</span> després d'un <span class=\"role-ref\" data-role=\"wipe\">board wipe</span>, <span class=\"card-ref\" data-card=\"Walking Ballista\">Walking Ballista</span>, la terra de <span class=\"card-ref\" data-card=\"Sink into Stupor\">Sink into Stupor</span> o qualsevol criatura morta. Bumbleflower li dona un comptador per cada encanteri si el tries com a objectiu.</li></ul>",
+    "id": "7-recursion-amb-evolution-witness",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Mystical Tutor",
+     "Crop Rotation",
+     "Sink into Stupor",
+     "Morska, Undersea Sleuth",
+     "Tamiyo, Field Researcher",
+     "Cyclonic Rift",
+     "Damning Verdict",
+     "Heroic Intervention",
+     "Counterspell",
+     "Growth Spiral",
+     "Whitemane Lion",
+     "Shrieking Drake",
+     "Kami of Whispered Hopes",
+     "Simic Ascendancy",
+     "Innkeeper's Talent",
+     "Triskaidekaphile",
+     "Walking Ballista",
+     "Seedborn Muse",
+     "Prophet of Kruphix",
+     "High Fae Trickster",
+     "Narset, Parter of Veils",
+     "Guardian Augmenter",
+     "Bastion Protector",
+     "Swiftfoot Boots"
+    ],
+    "gallery": [
+     "Whitemane Lion",
+     "Kami of Whispered Hopes",
+     "Innkeeper's Talent",
+     "Simic Ascendancy",
+     "Narset, Parter of Veils",
+     "Seedborn Muse",
+     "High Fae Trickster",
+     "Walking Ballista",
+     "Damning Verdict",
+     "Morska, Undersea Sleuth"
+    ],
+    "heading": "Cartes clau",
+    "heading_html": "Cartes clau",
+    "html": "<p>La baralla només té <strong><span class=\"card-ref\" data-card=\"Mystical Tutor\">Mystical Tutor</span></strong> (instantani/conjur) i <strong><span class=\"card-ref\" data-card=\"Crop Rotation\">Crop Rotation</span></strong> (que amb només bàsiques i <span class=\"card-ref\" data-card=\"Sink into Stupor\">Sink into Stupor</span> és gairebé decoratiu). Els <span class=\"role-ref\" data-role=\"engine\">motors</span> de <span class=\"role-ref\" data-role=\"draw\">card draw</span> (Bumbleflower, <span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span>, Loran, <span class=\"card-ref\" data-card=\"Tamiyo, Field Researcher\">Tamiyo</span>) substitueixen el <span class=\"role-ref\" data-role=\"tutor\">tutor</span>: robes 6-10 cartes per volta.</p>\n<table class=\"md-table\"><thead><tr><th>Situació</th><th>Buscar / mantenir</th></tr></thead><tbody><tr><td><span class=\"card-ref\" data-card=\"Mystical Tutor\">Mystical Tutor</span></td><td><strong><span class=\"card-ref\" data-card=\"Cyclonic Rift\">Cyclonic Rift</span></strong>, <strong><span class=\"card-ref\" data-card=\"Damning Verdict\">Damning Verdict</span></strong>, <strong><span class=\"card-ref\" data-card=\"Heroic Intervention\">Heroic Intervention</span></strong>, <strong><span class=\"card-ref\" data-card=\"Counterspell\">Counterspell</span></strong>, <strong><span class=\"card-ref\" data-card=\"Growth Spiral\">Growth Spiral</span></strong></td></tr><tr><td><span class=\"role-ref\" data-role=\"engine\">Motor</span> mínim</td><td><strong><span class=\"card-ref\" data-card=\"Whitemane Lion\">Whitemane Lion</span></strong> o <strong><span class=\"card-ref\" data-card=\"Shrieking Drake\">Shrieking Drake</span></strong> + <strong><span class=\"card-ref\" data-card=\"Kami of Whispered Hopes\">Kami of Whispered Hopes</span></strong></td></tr><tr><td>Guanyar</td><td><strong><span class=\"card-ref\" data-card=\"Simic Ascendancy\">Simic Ascendancy</span></strong> + <strong><span class=\"card-ref\" data-card=\"Innkeeper&#x27;s Talent\">Innkeeper's Talent</span></strong>; alternatives <strong><span class=\"card-ref\" data-card=\"Triskaidekaphile\">Triskaidekaphile</span></strong>, <strong><span class=\"card-ref\" data-card=\"Walking Ballista\">Walking Ballista</span></strong></td></tr><tr><td>Repetir cada torn</td><td><strong><span class=\"card-ref\" data-card=\"Seedborn Muse\">Seedborn Muse</span> / <span class=\"card-ref\" data-card=\"Prophet of Kruphix\">Prophet of Kruphix</span></strong> + <strong><span class=\"card-ref\" data-card=\"High Fae Trickster\">High Fae Trickster</span></strong></td></tr><tr><td>Que els rivals no aprofitin les seves cartes</td><td><strong><span class=\"card-ref\" data-card=\"Narset, Parter of Veils\">Narset, Parter of Veils</span></strong></td></tr><tr><td>Protegir Bumbleflower</td><td><strong><span class=\"card-ref\" data-card=\"Guardian Augmenter\">Guardian Augmenter</span></strong>, <strong><span class=\"card-ref\" data-card=\"Bastion Protector\">Bastion Protector</span></strong>, <strong><span class=\"card-ref\" data-card=\"Swiftfoot Boots\">Swiftfoot Boots</span></strong></td></tr><tr><td>Reset de taula a favor teu</td><td><strong><span class=\"card-ref\" data-card=\"Damning Verdict\">Damning Verdict</span></strong>, <strong><span class=\"card-ref\" data-card=\"Cyclonic Rift\">Cyclonic Rift</span></strong></td></tr></tbody></table>\n<p><strong>Top 10 de rellevància</strong>: <span class=\"card-ref\" data-card=\"Whitemane Lion\">Whitemane Lion</span> · <span class=\"card-ref\" data-card=\"Kami of Whispered Hopes\">Kami of Whispered Hopes</span> · <span class=\"card-ref\" data-card=\"Innkeeper&#x27;s Talent\">Innkeeper's Talent</span> · <span class=\"card-ref\" data-card=\"Simic Ascendancy\">Simic Ascendancy</span> · <span class=\"card-ref\" data-card=\"Narset, Parter of Veils\">Narset, Parter of Veils</span> · <span class=\"card-ref\" data-card=\"Seedborn Muse\">Seedborn Muse</span> · <span class=\"card-ref\" data-card=\"High Fae Trickster\">High Fae Trickster</span> · <span class=\"card-ref\" data-card=\"Walking Ballista\">Walking Ballista</span> · <span class=\"card-ref\" data-card=\"Damning Verdict\">Damning Verdict</span> · <span class=\"card-ref\" data-card=\"Morska, Undersea Sleuth\">Morska</span>.</p>\n<div class=\"card-gallery\" data-cards=\"Whitemane Lion|Kami of Whispered Hopes|Innkeeper&#x27;s Talent|Simic Ascendancy|Narset, Parter of Veils|Seedborn Muse|High Fae Trickster|Walking Ballista|Damning Verdict|Morska, Undersea Sleuth\"></div>",
+    "id": "cartes-clau",
+    "level": 2
+   },
+   {
+    "cards": [
+     "Narset, Parter of Veils",
+     "Farseek",
+     "Kodama's Reach",
+     "Bloom Tender",
+     "Tender Wildguide"
+    ],
+    "gallery": [],
+    "heading": "Punts febles",
+    "heading_html": "Punts febles",
+    "html": "<ul><li>Sense Bumbleflower la baralla és lenta: el 90 % del valor surt del comandant. Prioritzar les proteccions.</li><li>Els rivals roben cartes: si no tens <span class=\"card-ref\" data-card=\"Narset, Parter of Veils\">Narset</span>, tria sempre com a objectiu el rival que menys les pugui aprofitar (el que està sec de manà o fora de la partida).</li><li>Base de manà de bàsiques: <span class=\"card-ref\" data-card=\"Farseek\">Farseek</span> i <span class=\"card-ref\" data-card=\"Kodama&#x27;s Reach\">Kodama's Reach</span> tenen pocs objectius duals, així que Birds, <span class=\"card-ref\" data-card=\"Bloom Tender\">Bloom Tender</span> i <span class=\"card-ref\" data-card=\"Tender Wildguide\">Tender Wildguide</span> són importants.</li></ul>",
+    "id": "punts-febles",
+    "level": 2
+   }
+  ],
+  "subtitle": "Bant: G/W/U",
+  "title": "Ms. Bumbleflower"
+ },
+ "md_file": "Ms_Bumbleflower.md",
+ "owner": "Ivan",
+ "slug": "ms-bumbleflower",
+ "stats": {
+  "avg_mana_value": 2.37,
+  "by_type": {
+   "Artifact": 2,
+   "Battle": 0,
+   "Creature": 29,
+   "Enchantment": 7,
+   "Instant": 21,
+   "Land": 35,
+   "Other": 0,
+   "Planeswalker": 2,
+   "Sorcery": 4
+  },
+  "cards_by_color": {
+   "B": 0,
+   "G": 20,
+   "R": 0,
+   "U": 23,
+   "W": 13,
+   "colorless": 3,
+   "multicolor": 6
+  },
+  "color_identity": [
+   "W",
+   "U",
+   "G"
+  ],
+  "distinct_cards": 68,
+  "game_changers": [
+   "Crop Rotation",
+   "Cyclonic Rift",
+   "Mystical Tutor",
+   "Narset, Parter of Veils",
+   "Seedborn Muse"
+  ],
+  "keywords": [
+   {
+    "count": 5,
+    "keyword": "Flash"
+   },
+   {
+    "count": 5,
+    "keyword": "Flying"
+   },
+   {
+    "count": 3,
+    "keyword": "Vigilance"
+   },
+   {
+    "count": 2,
+    "keyword": "Enchant"
+   },
+   {
+    "count": 2,
+    "keyword": "Gift"
+   },
+   {
+    "count": 2,
+    "keyword": "Proliferate"
+   },
+   {
+    "count": 2,
+    "keyword": "Surveil"
+   },
+   {
+    "count": 1,
+    "keyword": "Adapt"
+   },
+   {
+    "count": 1,
+    "keyword": "Equip"
+   },
+   {
+    "count": 1,
+    "keyword": "Extort"
+   }
+  ],
+  "land_count": 35,
+  "mana_curve": {
+   "0": 1,
+   "1": 14,
+   "2": 24,
+   "3": 16,
+   "4": 6,
+   "5": 4,
+   "6": 0,
+   "7+": 0
+  },
+  "mana_sources": {
+   "by_color": {
+    "B": 4,
+    "C": 1,
+    "G": 16,
+    "R": 4,
+    "U": 18,
+    "W": 14
+   },
+   "lands_colored": 35,
+   "lands_total": 35,
+   "nonland_producers": 6
+  },
+  "nonland_count": 65,
+  "pips": {
+   "B": 0,
+   "C": 0,
+   "G": 28,
+   "R": 0,
+   "U": 32,
+   "W": 19,
+   "generic": 75
+  },
+  "price_eur": {
+   "most_expensive": [
+    {
+     "name": "Cyclonic Rift",
+     "price_eur": 35.89
+    },
+    {
+     "name": "Heroic Intervention",
+     "price_eur": 13.42
+    },
+    {
+     "name": "Bloom Tender",
+     "price_eur": 13.11
+    },
+    {
+     "name": "Mystical Tutor",
+     "price_eur": 11.76
+    },
+    {
+     "name": "Grand Abolisher",
+     "price_eur": 10.21
+    }
+   ],
+   "priced_cards": 62,
+   "total": 219.82,
+   "unpriced_cards": 38
+  },
+  "rarity": {
+   "common": 47,
+   "mythic": 6,
+   "rare": 28,
+   "uncommon": 19
+  },
+  "roles": [
+   {
+    "cards": [
+     "Growth Spiral",
+     "Wilderness Reclamation",
+     "Bloom Tender",
+     "Farseek",
+     "Kami of Whispered Hopes",
+     "Kodama's Reach",
+     "Tender Wildguide",
+     "Birds of Paradise",
+     "Sol Ring"
+    ],
+    "count": 9,
+    "id": "ramp"
+   },
+   {
+    "cards": [
+     "Ms. Bumbleflower",
+     "Tamiyo, Field Researcher",
+     "Dusk Legion Duelist",
+     "Loran of the Third Path",
+     "Loki, God of Mischief",
+     "Consider",
+     "Experimental Augury",
+     "Growth Spiral",
+     "Otherworldly Gaze",
+     "Spectral Sailor",
+     "Morska, Undersea Sleuth",
+     "Triskaidekaphile",
+     "Narset, Parter of Veils",
+     "Tenuous Truce"
+    ],
+    "count": 14,
+    "id": "draw"
+   },
+   {
+    "cards": [
+     "Crop Rotation",
+     "Mystical Tutor"
+    ],
+    "count": 2,
+    "id": "tutor"
+   },
+   {
+    "cards": [
+     "Loran of the Third Path",
+     "Beast Within",
+     "Cyclonic Rift",
+     "Generous Gift",
+     "Snap",
+     "Swords to Plowshares",
+     "Wear Down",
+     "Rapid Hybridization",
+     "Sink into Stupor"
+    ],
+    "count": 9,
+    "id": "removal"
+   },
+   {
+    "cards": [
+     "Cyclonic Rift",
+     "Damning Verdict"
+    ],
+    "count": 2,
+    "id": "wipe"
+   },
+   {
+    "cards": [
+     "Unwind",
+     "Glen Elendra Guardian",
+     "Mana Leak",
+     "Counterspell"
+    ],
+    "count": 4,
+    "id": "counter"
+   },
+   {
+    "cards": [
+     "Grand Abolisher",
+     "Kid Loki",
+     "Bastion Protector",
+     "Guardian Augmenter",
+     "Heroic Intervention",
+     "Tyvar's Stand",
+     "Dawn's Truce",
+     "Flare of Fortitude",
+     "Swiftfoot Boots"
+    ],
+    "count": 9,
+    "id": "protection"
+   },
+   {
+    "cards": [
+     "Evolution Witness"
+    ],
+    "count": 1,
+    "id": "recursion"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "sac-outlet"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "aristocrat"
+   },
+   {
+    "cards": [
+     "Chasm Skulker",
+     "Jolrael, Mwonvuli Recluse",
+     "Herd Baloth"
+    ],
+    "count": 3,
+    "id": "tokens"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "lord"
+   },
+   {
+    "cards": [
+     "Ms. Bumbleflower",
+     "Loki, God of Mischief",
+     "Shrieking Drake",
+     "Whitemane Lion",
+     "Dreamtide Whale",
+     "Morska, Undersea Sleuth",
+     "Forgotten Ancient",
+     "Jolrael, Mwonvuli Recluse",
+     "Kid Loki"
+    ],
+    "count": 9,
+    "id": "engine"
+   },
+   {
+    "cards": [
+     "Innkeeper's Talent",
+     "Experimental Augury",
+     "Shrieking Drake",
+     "Whitemane Lion",
+     "Dreamtide Whale",
+     "Walking Ballista",
+     "Simic Ascendancy",
+     "Forgotten Ancient",
+     "Kami of Whispered Hopes"
+    ],
+    "count": 9,
+    "id": "combo"
+   },
+   {
+    "cards": [
+     "Innkeeper's Talent",
+     "Walking Ballista",
+     "Simic Ascendancy",
+     "Triskaidekaphile",
+     "Managorger Hydra",
+     "Chasm Skulker"
+    ],
+    "count": 6,
+    "id": "wincon"
+   },
+   {
+    "cards": [
+     "View from Above",
+     "Shimmering Wings",
+     "High Fae Trickster",
+     "Prophet of Kruphix",
+     "Seedborn Muse",
+     "Wilderness Reclamation"
+    ],
+    "count": 6,
+    "id": "enabler"
+   },
+   {
+    "cards": [
+     "Authority of the Consuls",
+     "Narset, Parter of Veils",
+     "Blind Obedience",
+     "Tenuous Truce"
+    ],
+    "count": 4,
+    "id": "stax"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "combat"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "wheel"
+   },
+   {
+    "cards": [
+     "Sink into Stupor",
+     "Forest",
+     "Island",
+     "Plains"
+    ],
+    "count": 36,
+    "id": "land"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "utility"
+   }
+  ],
+  "total_cards": 100
+ },
+ "subtitle": "Bant: G/W/U",
+ "title": "Ms. Bumbleflower"
+}

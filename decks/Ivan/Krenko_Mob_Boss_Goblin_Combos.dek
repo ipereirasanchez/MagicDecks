@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Thousand-Year Elixir" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Lightning Greaves" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Crashing Drawbridge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Generator Servant" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Chieftain" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Motivator" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Warchief" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ashling&apos;s Prerogative" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mass Hysteria" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arcane Signet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mind Stone" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Phyrexian Altar" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ruby Medallion" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Skirk Prospector" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mana Echoes" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Battle Hymn" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Brightstone Ritual" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Jeska&apos;s Will" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Magewright&apos;s Stone" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Ringleader" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Sharpshooter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Conspicuous Snoop" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Chirurgeon" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Lightning Crafter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Aggravated Assault" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Bombardment" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Impact Tremors" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Breath of Fury" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Thornbite Staff" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Muxus, Goblin Grandee" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Pashalik Mons" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Purphoros, God of the Forge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dark-Dweller Oracle" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The One Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Subira, Tulzidi Caravanner" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Reforge the Soul" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wheel of Misfortune" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Rings of Brighthearth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Staff of Domination" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Welder" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Hexing Squelcher" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Underworld Breach" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Chaos Warp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Deflecting Swat" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Pyroblast" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Red Elemental Blast" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Reverberate" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Trashmaster" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Blood Moon" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Price of Glory" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Vandalblast" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Matron" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Recruiter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Engineer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Moggcatcher" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Coat of Arms" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin Lackey" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Warren Instigator" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shared Animosity" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Krenko, Tin Street Kingpin" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Goblin War Strike" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Darksteel Citadel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Great Furnace" />
+  <Cards CatID="0" Quantity="19" Sideboard="false" Name="Mountain" />
+  <Cards CatID="0" Quantity="5" Sideboard="false" Name="Snow-Covered Mountain" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ancient Tomb" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Buried Ruin" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Castle Embereth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cavern of Souls" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Command Beacon" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Field of Ruin" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Path of Ancestry" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Valakut, the Molten Pinnacle" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Hall of the Bandit Lord" />
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Krenko, Mob Boss" />
+</Deck>

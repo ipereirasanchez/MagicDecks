@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Frodo, Adventurous Hobbit" />
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Sam, Loyal Attendant" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ash Barrens" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Brushland" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Canopy Vista" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Evolving Wilds" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Exotic Orchard" />
+  <Cards CatID="0" Quantity="4" Sideboard="false" Name="Forest" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Fortified Village" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Graypelt Refuge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Great Hall of the Citadel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Isolated Chapel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Minas Tirith" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Murmuring Bosk" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Necroblossom Snarl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Path of Ancestry" />
+  <Cards CatID="0" Quantity="4" Sideboard="false" Name="Plains" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sandsteppe Citadel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Scattered Groves" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Scoured Barrens" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Secluded Courtyard" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shineshadow Snarl" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sunpetal Grove" />
+  <Cards CatID="0" Quantity="5" Sideboard="false" Name="Swamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Black Gate" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Shire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Hobbit Hole" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wizard&apos;s Rockets" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arcane Signet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sword of the Animist" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bilbo&apos;s Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ensnaring Bridge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Chromatic Lantern" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Field-Tested Frying Pan" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Inherited Envelope" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Door of Destinies" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Well of Lost Dreams" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bag End Banquet" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Call of the Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dawn of Hope" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Flowering of the White Tree" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Of Herbs and Stewed Rabbit" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Assemble the Entmoot" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Revenge of Ravens" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sanguine Bond" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gleaming Splendor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Path to Exile" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Go for the Throat" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Anguished Unmaking" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mortify" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bilbo&apos;s Gambit" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Revive the Shire" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Battle of Bywater" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Toxic Deluge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dusk // Dawn" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tempt with Discovery" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Ring Goes South" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Fell the Mighty" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Delighted Halfling" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Frodo, Sauron&apos;s Bane" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gilded Goose" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Banquet Guests" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Farmer Cotton" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Feasting Hobbit" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gollum, Obsessed Stalker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Lotho, Corrupt Shirriff" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Meriadoc Brandybuck" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Pippin, Warden of Isengard" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Prize Pig" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Samwise Gamgee" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shire Shirriff" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Boromir, Warden of the Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Lobelia, Defender of Bag End" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mentor of the Meek" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Merry, Warden of Isengard" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Peregrin Took" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Rapacious Guest" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Rosie Cotton of South Lane" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Savvy Hunter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sméagol, Helpful Guide" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Gaffer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tireless Provisioner" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Butterbur, Bree Innkeeper" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Elanor Gardner" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Old Man Willow" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Treebeard, Gracious Host" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gwaihir, Greatest of the Eagles" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Motivated Pony" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Eagle of Deliverance" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bilbo, Fellow Conspirator" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Belladonna Took" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Sackville-Bagginses" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="The Notary Hobbits" />
+</Deck>

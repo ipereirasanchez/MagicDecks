@@ -1,0 +1,5143 @@
+{
+ "bracket": 4,
+ "bracket_text": "Bracket 4. Llista original de deckstats (`_Meren_of_Clan_Nel_Toth_EAT_PRAY_KILL.dek`).",
+ "cards": [
+  {
+   "artist": "Mark Winters",
+   "cmc": 4,
+   "collector_number": "297",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "B",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Meren of Clan Nel Toth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+    "large": "https://cards.scryfall.io/large/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+    "png": "https://cards.scryfall.io/png/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.png?1783907026",
+    "small": "https://cards.scryfall.io/small/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026"
+   },
+   "is_commander": true,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{G}",
+   "name": "Meren of Clan Nel Toth",
+   "oracle_text": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",
+   "power": "3",
+   "price_eur": 2.1,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "recursion",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tdc/297/meren-of-clan-nel-toth?utm_source=api",
+   "set": "tdc",
+   "set_name": "Tarkir: Dragonstorm Commander",
+   "toughness": "4",
+   "type_line": "Legendary Creature — Human Shaman"
+  },
+  {
+   "artist": "Svetlin Velinov",
+   "cmc": 2,
+   "collector_number": "146",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "B",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Abrupt Decay",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a8e328c6-3a84-49cf-a1a3-1d1e5373d274.jpg?1783936626",
+    "large": "https://cards.scryfall.io/large/front/a/8/a8e328c6-3a84-49cf-a1a3-1d1e5373d274.jpg?1783936626",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a8e328c6-3a84-49cf-a1a3-1d1e5373d274.jpg?1783936626",
+    "png": "https://cards.scryfall.io/png/front/a/8/a8e328c6-3a84-49cf-a1a3-1d1e5373d274.png?1783936626",
+    "small": "https://cards.scryfall.io/small/front/a/8/a8e328c6-3a84-49cf-a1a3-1d1e5373d274.jpg?1783936626"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}{G}",
+   "name": "Abrupt Decay",
+   "oracle_text": "This spell can't be countered.\nDestroy target nonland permanent with mana value 3 or less.",
+   "power": null,
+   "price_eur": 2.22,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mm3/146/abrupt-decay?utm_source=api",
+   "set": "mm3",
+   "set_name": "Modern Masters 2017",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Paolo Parente",
+   "cmc": 2,
+   "collector_number": "80",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Accursed Marauder",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5da14d86-0780-4821-a799-96f64b377df4.jpg?1783911284",
+    "large": "https://cards.scryfall.io/large/front/5/d/5da14d86-0780-4821-a799-96f64b377df4.jpg?1783911284",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5da14d86-0780-4821-a799-96f64b377df4.jpg?1783911284",
+    "png": "https://cards.scryfall.io/png/front/5/d/5da14d86-0780-4821-a799-96f64b377df4.png?1783911284",
+    "small": "https://cards.scryfall.io/small/front/5/d/5da14d86-0780-4821-a799-96f64b377df4.jpg?1783911284"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Accursed Marauder",
+   "oracle_text": "When this creature enters, each player sacrifices a nontoken creature of their choice.",
+   "power": "2",
+   "price_eur": 0.34,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "removal",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/80/accursed-marauder?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "1",
+   "type_line": "Creature — Zombie Warrior"
+  },
+  {
+   "artist": "Mathias Kollros",
+   "cmc": 3,
+   "collector_number": "24",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Activated Sleeper",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1783921470",
+    "large": "https://cards.scryfall.io/large/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1783921470",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1783921470",
+    "png": "https://cards.scryfall.io/png/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.png?1783921470",
+    "small": "https://cards.scryfall.io/small/front/3/4/343d01cf-9806-4c2d-a993-ddc9ed248d7f.jpg?1783921470"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Activated Sleeper",
+   "oracle_text": "Flash\nYou may have this creature enter as a copy of any creature card in a graveyard that was put there from the battlefield this turn, except it's a Phyrexian in addition to its other types.",
+   "power": "0",
+   "price_eur": 0.78,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "combo",
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmc/24/activated-sleeper?utm_source=api",
+   "set": "dmc",
+   "set_name": "Dominaria United Commander",
+   "toughness": "0",
+   "type_line": "Creature — Phyrexian Shapeshifter"
+  },
+  {
+   "artist": "Bastien L. Deharme",
+   "cmc": 2,
+   "collector_number": "207",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Animate Dead",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/cc0c2bab-4392-4e7b-9d14-2901f4ffbae8.jpg?1783903787",
+    "large": "https://cards.scryfall.io/large/front/c/c/cc0c2bab-4392-4e7b-9d14-2901f4ffbae8.jpg?1783903787",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/cc0c2bab-4392-4e7b-9d14-2901f4ffbae8.jpg?1783903787",
+    "png": "https://cards.scryfall.io/png/front/c/c/cc0c2bab-4392-4e7b-9d14-2901f4ffbae8.png?1783903787",
+    "small": "https://cards.scryfall.io/small/front/c/c/cc0c2bab-4392-4e7b-9d14-2901f4ffbae8.jpg?1783903787"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Enchant"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Animate Dead",
+   "oracle_text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+   "power": null,
+   "price_eur": 5.79,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/207/animate-dead?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Enchantment — Aura"
+  },
+  {
+   "artist": "rk post",
+   "cmc": 1,
+   "collector_number": "160",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Arbor Elf",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.jpg?1783935136",
+    "large": "https://cards.scryfall.io/large/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.jpg?1783935136",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.jpg?1783935136",
+    "png": "https://cards.scryfall.io/png/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.png?1783935136",
+    "small": "https://cards.scryfall.io/small/front/4/b/4b81165e-f091-4211-8b47-5ea6868b0d4c.jpg?1783935136"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Arbor Elf",
+   "oracle_text": "{T}: Untap target Forest.",
+   "power": "1",
+   "price_eur": 0.61,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/a25/160/arbor-elf?utm_source=api",
+   "set": "a25",
+   "set_name": "Masters 25",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Dmitry Burmak",
+   "cmc": 2,
+   "collector_number": "294",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "B",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Assassin's Trophy",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/a/aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03.jpg?1783903757",
+    "large": "https://cards.scryfall.io/large/front/a/a/aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03.jpg?1783903757",
+    "normal": "https://cards.scryfall.io/normal/front/a/a/aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03.jpg?1783903757",
+    "png": "https://cards.scryfall.io/png/front/a/a/aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03.png?1783903757",
+    "small": "https://cards.scryfall.io/small/front/a/a/aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03.jpg?1783903757"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}{G}",
+   "name": "Assassin's Trophy",
+   "oracle_text": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.",
+   "power": null,
+   "price_eur": 1.12,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/294/assassins-trophy?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Lars Grant-West",
+   "cmc": 6,
+   "collector_number": "99",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Bane of Progress",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54c98a43-d358-4bb5-ba65-dff25c2f12ea.jpg?1783904550",
+    "large": "https://cards.scryfall.io/large/front/5/4/54c98a43-d358-4bb5-ba65-dff25c2f12ea.jpg?1783904550",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/54c98a43-d358-4bb5-ba65-dff25c2f12ea.jpg?1783904550",
+    "png": "https://cards.scryfall.io/png/front/5/4/54c98a43-d358-4bb5-ba65-dff25c2f12ea.png?1783904550",
+    "small": "https://cards.scryfall.io/small/front/5/4/54c98a43-d358-4bb5-ba65-dff25c2f12ea.jpg?1783904550"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{4}{G}{G}",
+   "name": "Bane of Progress",
+   "oracle_text": "When this creature enters, destroy all artifacts and enchantments. Put a +1/+1 counter on this creature for each permanent destroyed this way.",
+   "power": "2",
+   "price_eur": 0.46,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wipe"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ecc/99/bane-of-progress?utm_source=api",
+   "set": "ecc",
+   "set_name": "Lorwyn Eclipsed Commander",
+   "toughness": "2",
+   "type_line": "Creature — Elemental"
+  },
+  {
+   "artist": "Kevin Sidharta",
+   "cmc": 1,
+   "collector_number": "170",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Birds of Paradise",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230",
+    "large": "https://cards.scryfall.io/large/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230",
+    "png": "https://cards.scryfall.io/png/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.png?1783903230",
+    "small": "https://cards.scryfall.io/small/front/4/9/492c2f9a-51e7-4e0f-9899-23bf43ea988b.jpg?1783903230"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Birds of Paradise",
+   "oracle_text": "Flying\n{T}: Add one mana of any color.",
+   "power": "0",
+   "price_eur": 8.41,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/170/birds-of-paradise?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": "1",
+   "type_line": "Creature — Bird"
+  },
+  {
+   "artist": "Daarken",
+   "cmc": 4,
+   "collector_number": "104",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Birthing Pod",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1783941303",
+    "large": "https://cards.scryfall.io/large/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1783941303",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1783941303",
+    "png": "https://cards.scryfall.io/png/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.png?1783941303",
+    "small": "https://cards.scryfall.io/small/front/b/7/b768efa2-e56b-4a7e-ace8-d673f10e0714.jpg?1783941303"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{G/P}",
+   "name": "Birthing Pod",
+   "oracle_text": "({G/P} can be paid with either {G} or 2 life.)\n{1}{G/P}, {T}, Sacrifice a creature: Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield, then shuffle. Activate only as a sorcery.",
+   "power": null,
+   "price_eur": 9.68,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor",
+    "sac-outlet",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/nph/104/birthing-pod?utm_source=api",
+   "set": "nph",
+   "set_name": "New Phyrexia",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Drew Tucker",
+   "cmc": 2,
+   "collector_number": "146",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Birthing Ritual",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.jpg?1783911264",
+    "large": "https://cards.scryfall.io/large/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.jpg?1783911264",
+    "normal": "https://cards.scryfall.io/normal/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.jpg?1783911264",
+    "png": "https://cards.scryfall.io/png/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.png?1783911264",
+    "small": "https://cards.scryfall.io/small/front/4/8/4820d223-4ea1-4850-931c-3d2ab5eb003b.jpg?1783911264"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Birthing Ritual",
+   "oracle_text": "At the beginning of your end step, if you control a creature, look at the top seven cards of your library. Then you may sacrifice a creature. If you do, you may put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature's mana value. Put the rest on the bottom of your library in a random order.",
+   "power": null,
+   "price_eur": 6.63,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "tutor",
+    "sac-outlet",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/146/birthing-ritual?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Mark Zug",
+   "cmc": 4,
+   "collector_number": "75",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Body Snatcher",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/d/2d7d83a8-3bad-40cf-991c-fc7f8e399c42.jpg?1783918483",
+    "large": "https://cards.scryfall.io/large/front/2/d/2d7d83a8-3bad-40cf-991c-fc7f8e399c42.jpg?1783918483",
+    "normal": "https://cards.scryfall.io/normal/front/2/d/2d7d83a8-3bad-40cf-991c-fc7f8e399c42.jpg?1783918483",
+    "png": "https://cards.scryfall.io/png/front/2/d/2d7d83a8-3bad-40cf-991c-fc7f8e399c42.png?1783918483",
+    "small": "https://cards.scryfall.io/small/front/2/d/2d7d83a8-3bad-40cf-991c-fc7f8e399c42.jpg?1783918483"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{B}",
+   "name": "Body Snatcher",
+   "oracle_text": "When this creature enters, exile it unless you discard a creature card.\nWhen this creature dies, exile it and return target creature card from your graveyard to the battlefield.",
+   "power": "2",
+   "price_eur": 0.25,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "recursion",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/75/body-snatcher?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": "2",
+   "type_line": "Creature — Phyrexian Minion"
+  },
+  {
+   "artist": "Randy Gallegos",
+   "cmc": 3,
+   "collector_number": "243",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "B"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+      "large": "https://cards.scryfall.io/large/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+      "normal": "https://cards.scryfall.io/normal/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+      "png": "https://cards.scryfall.io/png/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.png?1783911234",
+      "small": "https://cards.scryfall.io/small/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234"
+     },
+     "loyalty": null,
+     "mana_cost": "{2}{B}",
+     "name": "Boggart Trawler",
+     "oracle_text": "When this creature enters, exile target player's graveyard.",
+     "power": "3",
+     "toughness": "1",
+     "type_line": "Creature — Goblin"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+      "large": "https://cards.scryfall.io/large/back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+      "normal": "https://cards.scryfall.io/normal/back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+      "png": "https://cards.scryfall.io/png/back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.png?1783911234",
+      "small": "https://cards.scryfall.io/small/back/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Boggart Bog",
+     "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {B}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Boggart Trawler // Boggart Bog",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+    "large": "https://cards.scryfall.io/large/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234",
+    "png": "https://cards.scryfall.io/png/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.png?1783911234",
+    "small": "https://cards.scryfall.io/small/front/d/0/d0d484a6-5610-4f1d-95ec-eda273c255e4.jpg?1783911234"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Boggart Trawler",
+   "oracle_text": "When this creature enters, exile target player's graveyard.",
+   "power": "3",
+   "price_eur": 1.82,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/243/boggart-trawler-boggart-bog?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "1",
+   "type_line": "Creature — Goblin // Land"
+  },
+  {
+   "artist": "Dan Dos Santos",
+   "cmc": 1,
+   "collector_number": "105",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Boreal Druid",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1783943332",
+    "large": "https://cards.scryfall.io/large/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1783943332",
+    "normal": "https://cards.scryfall.io/normal/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1783943332",
+    "png": "https://cards.scryfall.io/png/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.png?1783943332",
+    "small": "https://cards.scryfall.io/small/front/4/7/473d3633-6dc7-4026-a50e-3ea76b9e8c20.jpg?1783943332"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Boreal Druid",
+   "oracle_text": "{T}: Add {C}.",
+   "power": "1",
+   "price_eur": 1.9,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/csp/105/boreal-druid?utm_source=api",
+   "set": "csp",
+   "set_name": "Coldsnap",
+   "toughness": "1",
+   "type_line": "Snow Creature — Elf Druid"
+  },
+  {
+   "artist": "Chris Ostrowski",
+   "cmc": 0,
+   "collector_number": "266",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Boseiju, Who Endures",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818",
+    "large": "https://cards.scryfall.io/large/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818",
+    "png": "https://cards.scryfall.io/png/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.png?1783923818",
+    "small": "https://cards.scryfall.io/small/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1783923818"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Channel"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Boseiju, Who Endures",
+   "oracle_text": "{T}: Add {G}.\nChannel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control.",
+   "power": null,
+   "price_eur": 41.34,
+   "primary_type": "Land",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/neo/266/boseiju-who-endures?utm_source=api",
+   "set": "neo",
+   "set_name": "Kamigawa: Neon Dynasty",
+   "toughness": null,
+   "type_line": "Legendary Land"
+  },
+  {
+   "artist": "Heonhwa",
+   "cmc": 3,
+   "collector_number": "82",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Braids, Arisen Nightmare",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/9/f96223d0-04c4-40c2-87a9-0c6bc74adddb.jpg?1783906041",
+    "large": "https://cards.scryfall.io/large/front/f/9/f96223d0-04c4-40c2-87a9-0c6bc74adddb.jpg?1783906041",
+    "normal": "https://cards.scryfall.io/normal/front/f/9/f96223d0-04c4-40c2-87a9-0c6bc74adddb.jpg?1783906041",
+    "png": "https://cards.scryfall.io/png/front/f/9/f96223d0-04c4-40c2-87a9-0c6bc74adddb.png?1783906041",
+    "small": "https://cards.scryfall.io/small/front/f/9/f96223d0-04c4-40c2-87a9-0c6bc74adddb.jpg?1783906041"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}{B}",
+   "name": "Braids, Arisen Nightmare",
+   "oracle_text": "At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent of their choice that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card.",
+   "power": "3",
+   "price_eur": 4.22,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "stax",
+    "sac-outlet",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/eoc/82/braids-arisen-nightmare?utm_source=api",
+   "set": "eoc",
+   "set_name": "Edge of Eternities Commander",
+   "toughness": "3",
+   "type_line": "Legendary Creature — Nightmare"
+  },
+  {
+   "artist": "Ron Spears",
+   "cmc": 3,
+   "collector_number": "249",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "G"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+      "large": "https://cards.scryfall.io/large/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+      "normal": "https://cards.scryfall.io/normal/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+      "png": "https://cards.scryfall.io/png/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.png?1783911228",
+      "small": "https://cards.scryfall.io/small/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228"
+     },
+     "loyalty": null,
+     "mana_cost": "{2}{G}",
+     "name": "Bridgeworks Battle",
+     "oracle_text": "Target creature you control gets +2/+2 until end of turn. It fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",
+     "power": null,
+     "toughness": null,
+     "type_line": "Sorcery"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+      "large": "https://cards.scryfall.io/large/back/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+      "normal": "https://cards.scryfall.io/normal/back/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+      "png": "https://cards.scryfall.io/png/back/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.png?1783911228",
+      "small": "https://cards.scryfall.io/small/back/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Tanglespan Bridgeworks",
+     "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {G}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Bridgeworks Battle // Tanglespan Bridgeworks",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+    "large": "https://cards.scryfall.io/large/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228",
+    "png": "https://cards.scryfall.io/png/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.png?1783911228",
+    "small": "https://cards.scryfall.io/small/front/e/b/ebef3db0-2b58-4581-a79c-fbca9a059e63.jpg?1783911228"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Fight"
+   ],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{2}{G}",
+   "name": "Bridgeworks Battle",
+   "oracle_text": "Target creature you control gets +2/+2 until end of turn. It fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",
+   "power": null,
+   "price_eur": 1.0,
+   "primary_type": "Sorcery",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/249/bridgeworks-battle-tanglespan-bridgeworks?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Sorcery // Land"
+  },
+  {
+   "artist": "Greg Staples",
+   "cmc": 3,
+   "collector_number": "273",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Buried Alive",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.jpg?1783911216",
+    "large": "https://cards.scryfall.io/large/front/7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.jpg?1783911216",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.jpg?1783911216",
+    "png": "https://cards.scryfall.io/png/front/7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.png?1783911216",
+    "small": "https://cards.scryfall.io/small/front/7/6/76878b19-2916-4f3f-bee5-20846bc9e2db.jpg?1783911216"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Buried Alive",
+   "oracle_text": "Search your library for up to three creature cards, put them into your graveyard, then shuffle.",
+   "power": null,
+   "price_eur": 1.19,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/273/buried-alive?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Nicholas Gregory",
+   "cmc": 2,
+   "collector_number": "161",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Cankerbloom",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1783918019",
+    "large": "https://cards.scryfall.io/large/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1783918019",
+    "normal": "https://cards.scryfall.io/normal/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1783918019",
+    "png": "https://cards.scryfall.io/png/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.png?1783918019",
+    "small": "https://cards.scryfall.io/small/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1783918019"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Proliferate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Cankerbloom",
+   "oracle_text": "{1}, Sacrifice this creature: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+   "power": "3",
+   "price_eur": 0.32,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/one/161/cankerbloom?utm_source=api",
+   "set": "one",
+   "set_name": "Phyrexia: All Will Be One",
+   "toughness": "2",
+   "type_line": "Creature — Phyrexian Fungus"
+  },
+  {
+   "artist": "Svetlin Velinov",
+   "cmc": 1,
+   "collector_number": "81",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Carrion Feeder",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/a/0a19da90-880e-4eca-8cf7-6d7baf090d53.jpg?1783933131",
+    "large": "https://cards.scryfall.io/large/front/0/a/0a19da90-880e-4eca-8cf7-6d7baf090d53.jpg?1783933131",
+    "normal": "https://cards.scryfall.io/normal/front/0/a/0a19da90-880e-4eca-8cf7-6d7baf090d53.jpg?1783933131",
+    "png": "https://cards.scryfall.io/png/front/0/a/0a19da90-880e-4eca-8cf7-6d7baf090d53.png?1783933131",
+    "small": "https://cards.scryfall.io/small/front/0/a/0a19da90-880e-4eca-8cf7-6d7baf090d53.jpg?1783933131"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Carrion Feeder",
+   "oracle_text": "This creature can't block.\nSacrifice a creature: Put a +1/+1 counter on this creature.",
+   "power": "1",
+   "price_eur": 3.04,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh1/81/carrion-feeder?utm_source=api",
+   "set": "mh1",
+   "set_name": "Modern Horizons",
+   "toughness": "1",
+   "type_line": "Creature — Zombie"
+  },
+  {
+   "artist": "Raoul Vitale",
+   "cmc": 2,
+   "collector_number": "147",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Collective Resistance",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f260bd08-68b6-44f4-ace9-e298cb13d82e.jpg?1783911263",
+    "large": "https://cards.scryfall.io/large/front/f/2/f260bd08-68b6-44f4-ace9-e298cb13d82e.jpg?1783911263",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f260bd08-68b6-44f4-ace9-e298cb13d82e.jpg?1783911263",
+    "png": "https://cards.scryfall.io/png/front/f/2/f260bd08-68b6-44f4-ace9-e298cb13d82e.png?1783911263",
+    "small": "https://cards.scryfall.io/small/front/f/2/f260bd08-68b6-44f4-ace9-e298cb13d82e.jpg?1783911263"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Escalate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Collective Resistance",
+   "oracle_text": "Escalate {G} (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Target creature gains hexproof and indestructible until end of turn.",
+   "power": null,
+   "price_eur": 2.09,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "protection",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/147/collective-resistance?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Leon Tukker",
+   "cmc": 0,
+   "collector_number": "233",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Command Tower",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+    "large": "https://cards.scryfall.io/large/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+    "normal": "https://cards.scryfall.io/normal/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206",
+    "png": "https://cards.scryfall.io/png/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.png?1783903206",
+    "small": "https://cards.scryfall.io/small/front/0/5/0548fb60-c843-4f8f-a029-6f10efc63a41.jpg?1783903206"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Command Tower",
+   "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+   "power": null,
+   "price_eur": 0.29,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/233/command-tower?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "DiTerlizzi",
+   "cmc": 1,
+   "collector_number": "154",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Crop Rotation",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448",
+    "large": "https://cards.scryfall.io/large/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448",
+    "png": "https://cards.scryfall.io/png/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.png?1783918448",
+    "small": "https://cards.scryfall.io/small/front/5/2/523414cb-f8db-407a-808a-01454e03d8b9.jpg?1783918448"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Crop Rotation",
+   "oracle_text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for a land card, put that card onto the battlefield, then shuffle.",
+   "power": null,
+   "price_eur": 3.67,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/154/crop-rotation?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Lorenzo Mastroianni",
+   "cmc": 4,
+   "collector_number": "302",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "B",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Culling Ritual",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/abaad8c5-763d-4276-9b19-623cd19f59b9.jpg?1783903755",
+    "large": "https://cards.scryfall.io/large/front/a/b/abaad8c5-763d-4276-9b19-623cd19f59b9.jpg?1783903755",
+    "normal": "https://cards.scryfall.io/normal/front/a/b/abaad8c5-763d-4276-9b19-623cd19f59b9.jpg?1783903755",
+    "png": "https://cards.scryfall.io/png/front/a/b/abaad8c5-763d-4276-9b19-623cd19f59b9.png?1783903755",
+    "small": "https://cards.scryfall.io/small/front/a/b/abaad8c5-763d-4276-9b19-623cd19f59b9.jpg?1783903755"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{G}",
+   "name": "Culling Ritual",
+   "oracle_text": "Destroy each nonland permanent with mana value 2 or less. Add {B} or {G} for each permanent destroyed this way.",
+   "power": null,
+   "price_eur": 0.62,
+   "primary_type": "Sorcery",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wipe",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/302/culling-ritual?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Scott M. Fischer",
+   "cmc": 1,
+   "collector_number": "55",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Culling the Weak",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1783946521",
+    "large": "https://cards.scryfall.io/large/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1783946521",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1783946521",
+    "png": "https://cards.scryfall.io/png/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.png?1783946521",
+    "small": "https://cards.scryfall.io/small/front/5/0/50c33f18-0a5c-4e46-ab0d-6e450915594f.jpg?1783946521"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Culling the Weak",
+   "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nAdd {B}{B}{B}{B}.",
+   "power": null,
+   "price_eur": 7.45,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "sac-outlet",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/exo/55/culling-the-weak?utm_source=api",
+   "set": "exo",
+   "set_name": "Exodus",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Randy Gallegos",
+   "cmc": 2,
+   "collector_number": "83",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Dance of the Dead",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/4/44de44be-db14-4932-968b-a5bc8b575716.jpg?1783942625",
+    "large": "https://cards.scryfall.io/large/front/4/4/44de44be-db14-4932-968b-a5bc8b575716.jpg?1783942625",
+    "normal": "https://cards.scryfall.io/normal/front/4/4/44de44be-db14-4932-968b-a5bc8b575716.jpg?1783942625",
+    "png": "https://cards.scryfall.io/png/front/4/4/44de44be-db14-4932-968b-a5bc8b575716.png?1783942625",
+    "small": "https://cards.scryfall.io/small/front/4/4/44de44be-db14-4932-968b-a5bc8b575716.jpg?1783942625"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Enchant"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Dance of the Dead",
+   "oracle_text": "Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with this Aura.\" Put enchanted creature card onto the battlefield tapped under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets +1/+1 and doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If the player does, untap that creature.",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/me2/83/dance-of-the-dead?utm_source=api",
+   "set": "me2",
+   "set_name": "Masters Edition II",
+   "toughness": null,
+   "type_line": "Enchantment — Aura"
+  },
+  {
+   "artist": "Immanuela Crovius",
+   "cmc": 2,
+   "collector_number": "94",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Dark Confidant",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/5/2520ab23-a068-4462-b261-2754409b4108.jpg?1783906622",
+    "large": "https://cards.scryfall.io/large/front/2/5/2520ab23-a068-4462-b261-2754409b4108.jpg?1783906622",
+    "normal": "https://cards.scryfall.io/normal/front/2/5/2520ab23-a068-4462-b261-2754409b4108.jpg?1783906622",
+    "png": "https://cards.scryfall.io/png/front/2/5/2520ab23-a068-4462-b261-2754409b4108.png?1783906622",
+    "small": "https://cards.scryfall.io/small/front/2/5/2520ab23-a068-4462-b261-2754409b4108.jpg?1783906622"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Dark Confidant",
+   "oracle_text": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
+   "power": "2",
+   "price_eur": 4.22,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fin/94/dark-confidant?utm_source=api",
+   "set": "fin",
+   "set_name": "Final Fantasy",
+   "toughness": "1",
+   "type_line": "Creature — Human Wizard"
+  },
+  {
+   "artist": "Nino Is",
+   "cmc": 1,
+   "collector_number": "793",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Dark Ritual",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+    "large": "https://cards.scryfall.io/large/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+    "normal": "https://cards.scryfall.io/normal/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013",
+    "png": "https://cards.scryfall.io/png/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.png?1783903013",
+    "small": "https://cards.scryfall.io/small/front/1/1/11e12a84-e7be-4afc-a230-c2e644743fa8.jpg?1783903013"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Dark Ritual",
+   "oracle_text": "Add {B}{B}{B}.",
+   "power": null,
+   "price_eur": 9.25,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/793/dark-ritual?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Johannes Voss",
+   "cmc": 0,
+   "collector_number": "254",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": [
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+      "large": "https://cards.scryfall.io/large/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+      "normal": "https://cards.scryfall.io/normal/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+      "png": "https://cards.scryfall.io/png/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.png?1783928184",
+      "small": "https://cards.scryfall.io/small/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Darkbore Pathway",
+     "oracle_text": "{T}: Add {B}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+      "large": "https://cards.scryfall.io/large/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+      "normal": "https://cards.scryfall.io/normal/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+      "png": "https://cards.scryfall.io/png/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.png?1783928184",
+      "small": "https://cards.scryfall.io/small/back/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Slitherbore Pathway",
+     "oracle_text": "{T}: Add {G}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Darkbore Pathway // Slitherbore Pathway",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+    "large": "https://cards.scryfall.io/large/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+    "normal": "https://cards.scryfall.io/normal/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184",
+    "png": "https://cards.scryfall.io/png/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.png?1783928184",
+    "small": "https://cards.scryfall.io/small/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.jpg?1783928184"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Darkbore Pathway",
+   "oracle_text": "{T}: Add {B}.",
+   "power": null,
+   "price_eur": 5.5,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/khm/254/darkbore-pathway-slitherbore-pathway?utm_source=api",
+   "set": "khm",
+   "set_name": "Kaldheim",
+   "toughness": null,
+   "type_line": "Land // Land"
+  },
+  {
+   "artist": "Sidharth Chaturvedi",
+   "cmc": 2,
+   "collector_number": "176",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Dauthi Voidwalker",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/5/3573b9a2-7911-475c-8ae7-25bd0dbb7159.jpg?1783907090",
+    "large": "https://cards.scryfall.io/large/front/3/5/3573b9a2-7911-475c-8ae7-25bd0dbb7159.jpg?1783907090",
+    "normal": "https://cards.scryfall.io/normal/front/3/5/3573b9a2-7911-475c-8ae7-25bd0dbb7159.jpg?1783907090",
+    "png": "https://cards.scryfall.io/png/front/3/5/3573b9a2-7911-475c-8ae7-25bd0dbb7159.png?1783907090",
+    "small": "https://cards.scryfall.io/small/front/3/5/3573b9a2-7911-475c-8ae7-25bd0dbb7159.jpg?1783907090"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Shadow"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}{B}",
+   "name": "Dauthi Voidwalker",
+   "oracle_text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nIf a card would be put into an opponent's graveyard from anywhere, instead exile it with a void counter on it.\n{T}, Sacrifice this creature: Choose an exiled card an opponent owns with a void counter on it. You may play it this turn without paying its mana cost.",
+   "power": "3",
+   "price_eur": 5.4,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tdc/176/dauthi-voidwalker?utm_source=api",
+   "set": "tdc",
+   "set_name": "Tarkir: Dragonstorm Commander",
+   "toughness": "2",
+   "type_line": "Creature — Dauthi Rogue"
+  },
+  {
+   "artist": "Piotr Dura",
+   "cmc": 0,
+   "collector_number": "253",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Deathcap Glade",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/8/78897104-80e1-4d8a-9958-145b40f679e8.jpg?1783903621",
+    "large": "https://cards.scryfall.io/large/front/7/8/78897104-80e1-4d8a-9958-145b40f679e8.jpg?1783903621",
+    "normal": "https://cards.scryfall.io/normal/front/7/8/78897104-80e1-4d8a-9958-145b40f679e8.jpg?1783903621",
+    "png": "https://cards.scryfall.io/png/front/7/8/78897104-80e1-4d8a-9958-145b40f679e8.png?1783903621",
+    "small": "https://cards.scryfall.io/small/front/7/8/78897104-80e1-4d8a-9958-145b40f679e8.jpg?1783903621"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Deathcap Glade",
+   "oracle_text": "This land enters tapped unless you control two or more other lands.\n{T}: Add {B} or {G}.",
+   "power": null,
+   "price_eur": 1.99,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/sos/253/deathcap-glade?utm_source=api",
+   "set": "sos",
+   "set_name": "Secrets of Strixhaven",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Steve Argyle",
+   "cmc": 1,
+   "collector_number": "175",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "B",
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Deathrite Shaman",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/f/cfdb1c47-14be-491f-88b3-bed03489dbc5.jpg?1783913292",
+    "large": "https://cards.scryfall.io/large/front/c/f/cfdb1c47-14be-491f-88b3-bed03489dbc5.jpg?1783913292",
+    "normal": "https://cards.scryfall.io/normal/front/c/f/cfdb1c47-14be-491f-88b3-bed03489dbc5.jpg?1783913292",
+    "png": "https://cards.scryfall.io/png/front/c/f/cfdb1c47-14be-491f-88b3-bed03489dbc5.png?1783913292",
+    "small": "https://cards.scryfall.io/small/front/c/f/cfdb1c47-14be-491f-88b3-bed03489dbc5.jpg?1783913292"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B/G}",
+   "name": "Deathrite Shaman",
+   "oracle_text": "{T}: Exile target land card from a graveyard. Add one mana of any color. (Activate only as an instant.)\n{B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.\n{G}, {T}: Exile target creature card from a graveyard. You gain 2 life.",
+   "power": "1",
+   "price_eur": 7.33,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "ramp",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/rvr/175/deathrite-shaman?utm_source=api",
+   "set": "rvr",
+   "set_name": "Ravnica Remastered",
+   "toughness": "2",
+   "type_line": "Creature — Elf Shaman"
+  },
+  {
+   "artist": "Daarken",
+   "cmc": 6,
+   "collector_number": "73",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Demon of Dark Schemes",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99c99736-5c9c-4d2f-946d-05606fcdd039.jpg?1783937212",
+    "large": "https://cards.scryfall.io/large/front/9/9/99c99736-5c9c-4d2f-946d-05606fcdd039.jpg?1783937212",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99c99736-5c9c-4d2f-946d-05606fcdd039.jpg?1783937212",
+    "png": "https://cards.scryfall.io/png/front/9/9/99c99736-5c9c-4d2f-946d-05606fcdd039.png?1783937212",
+    "small": "https://cards.scryfall.io/small/front/9/9/99c99736-5c9c-4d2f-946d-05606fcdd039.jpg?1783937212"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{B}{B}{B}",
+   "name": "Demon of Dark Schemes",
+   "oracle_text": "Flying\nWhen this creature enters, all other creatures get -2/-2 until end of turn.\nWhenever another creature dies, you get {E} (an energy counter).\n{2}{B}, Pay {E}{E}{E}{E}: Put target creature card from a graveyard onto the battlefield under your control tapped.",
+   "power": "5",
+   "price_eur": 1.33,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "recursion",
+    "wipe",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/kld/73/demon-of-dark-schemes?utm_source=api",
+   "set": "kld",
+   "set_name": "Kaladesh",
+   "toughness": "5",
+   "type_line": "Creature — Demon"
+  },
+  {
+   "artist": "Kieran Yanner",
+   "cmc": 3,
+   "collector_number": "149",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Demon's Disciple",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/c/cc7f2ce1-b442-4051-b1fe-90efde9bc181.jpg?1783915678",
+    "large": "https://cards.scryfall.io/large/front/c/c/cc7f2ce1-b442-4051-b1fe-90efde9bc181.jpg?1783915678",
+    "normal": "https://cards.scryfall.io/normal/front/c/c/cc7f2ce1-b442-4051-b1fe-90efde9bc181.jpg?1783915678",
+    "png": "https://cards.scryfall.io/png/front/c/c/cc7f2ce1-b442-4051-b1fe-90efde9bc181.png?1783915678",
+    "small": "https://cards.scryfall.io/small/front/c/c/cc7f2ce1-b442-4051-b1fe-90efde9bc181.jpg?1783915678"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Demon's Disciple",
+   "oracle_text": "When this creature enters, each player sacrifices a creature or planeswalker of their choice.",
+   "power": "3",
+   "price_eur": 0.2,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "removal",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/149/demons-disciple?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": "1",
+   "type_line": "Creature — Human Cleric"
+  },
+  {
+   "artist": "Dan Murayama Scott",
+   "cmc": 2,
+   "collector_number": "89",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Diabolic Intent",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d72ab698-de67-4ca8-8e42-b05346bf52fa.jpg?1783920094",
+    "large": "https://cards.scryfall.io/large/front/d/7/d72ab698-de67-4ca8-8e42-b05346bf52fa.jpg?1783920094",
+    "normal": "https://cards.scryfall.io/normal/front/d/7/d72ab698-de67-4ca8-8e42-b05346bf52fa.jpg?1783920094",
+    "png": "https://cards.scryfall.io/png/front/d/7/d72ab698-de67-4ca8-8e42-b05346bf52fa.png?1783920094",
+    "small": "https://cards.scryfall.io/small/front/d/7/d72ab698-de67-4ca8-8e42-b05346bf52fa.jpg?1783920094"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Diabolic Intent",
+   "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card, put that card into your hand, then shuffle.",
+   "power": null,
+   "price_eur": 12.0,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor",
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/bro/89/diabolic-intent?utm_source=api",
+   "set": "bro",
+   "set_name": "The Brothers' War",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Michael C. Hayes",
+   "cmc": 5,
+   "collector_number": "65",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Dictate of Erebos",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f06db70-95f9-41eb-8e5f-8bc56fd34c09.jpg?1783939437",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f06db70-95f9-41eb-8e5f-8bc56fd34c09.jpg?1783939437",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f06db70-95f9-41eb-8e5f-8bc56fd34c09.jpg?1783939437",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f06db70-95f9-41eb-8e5f-8bc56fd34c09.png?1783939437",
+    "small": "https://cards.scryfall.io/small/front/9/f/9f06db70-95f9-41eb-8e5f-8bc56fd34c09.jpg?1783939437"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{B}{B}",
+   "name": "Dictate of Erebos",
+   "oracle_text": "Flash\nWhenever a creature you control dies, each opponent sacrifices a creature of their choice.",
+   "power": null,
+   "price_eur": 14.88,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal",
+    "stax",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/jou/65/dictate-of-erebos?utm_source=api",
+   "set": "jou",
+   "set_name": "Journey into Nyx",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Valera Lutfullina",
+   "cmc": 6,
+   "collector_number": "250",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "G"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+      "large": "https://cards.scryfall.io/large/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+      "normal": "https://cards.scryfall.io/normal/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+      "png": "https://cards.scryfall.io/png/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.png?1783911228",
+      "small": "https://cards.scryfall.io/small/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228"
+     },
+     "loyalty": null,
+     "mana_cost": "{3}{G}{G}{G}",
+     "name": "Disciple of Freyalise",
+     "oracle_text": "When this creature enters, you may sacrifice another creature. If you do, you gain X life and draw X cards, where X is that creature's power.",
+     "power": "3",
+     "toughness": "3",
+     "type_line": "Creature — Elf Druid"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+      "large": "https://cards.scryfall.io/large/back/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+      "normal": "https://cards.scryfall.io/normal/back/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+      "png": "https://cards.scryfall.io/png/back/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.png?1783911228",
+      "small": "https://cards.scryfall.io/small/back/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Garden of Freyalise",
+     "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {G}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Disciple of Freyalise // Garden of Freyalise",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+    "large": "https://cards.scryfall.io/large/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+    "normal": "https://cards.scryfall.io/normal/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228",
+    "png": "https://cards.scryfall.io/png/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.png?1783911228",
+    "small": "https://cards.scryfall.io/small/front/a/8/a8e9ea5a-5e10-4b77-baef-0352ff035483.jpg?1783911228"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{3}{G}{G}{G}",
+   "name": "Disciple of Freyalise",
+   "oracle_text": "When this creature enters, you may sacrifice another creature. If you do, you gain X life and draw X cards, where X is that creature's power.",
+   "power": "3",
+   "price_eur": 2.67,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "draw",
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/250/disciple-of-freyalise-garden-of-freyalise?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "3",
+   "type_line": "Creature — Elf Druid // Land"
+  },
+  {
+   "artist": "Jason Rainville",
+   "cmc": 3,
+   "collector_number": "195",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Eldritch Evolution",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/606caf13-c0d3-4a61-9a1a-32f13b6448ab.jpg?1783908101",
+    "large": "https://cards.scryfall.io/large/front/6/0/606caf13-c0d3-4a61-9a1a-32f13b6448ab.jpg?1783908101",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/606caf13-c0d3-4a61-9a1a-32f13b6448ab.jpg?1783908101",
+    "png": "https://cards.scryfall.io/png/front/6/0/606caf13-c0d3-4a61-9a1a-32f13b6448ab.png?1783908101",
+    "small": "https://cards.scryfall.io/small/front/6/0/606caf13-c0d3-4a61-9a1a-32f13b6448ab.jpg?1783908101"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}{G}",
+   "name": "Eldritch Evolution",
+   "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution.",
+   "power": null,
+   "price_eur": 2.23,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor",
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/inr/195/eldritch-evolution?utm_source=api",
+   "set": "inr",
+   "set_name": "Innistrad Remastered",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Justin Sweet",
+   "cmc": 1,
+   "collector_number": "47",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Elves of Deep Shadow",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/6040ba5e-7042-4095-9000-89bcb8ce1ea6.jpg?1783940403",
+    "large": "https://cards.scryfall.io/large/front/6/0/6040ba5e-7042-4095-9000-89bcb8ce1ea6.jpg?1783940403",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/6040ba5e-7042-4095-9000-89bcb8ce1ea6.jpg?1783940403",
+    "png": "https://cards.scryfall.io/png/front/6/0/6040ba5e-7042-4095-9000-89bcb8ce1ea6.png?1783940403",
+    "small": "https://cards.scryfall.io/small/front/6/0/6040ba5e-7042-4095-9000-89bcb8ce1ea6.jpg?1783940403"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Elves of Deep Shadow",
+   "oracle_text": "{T}: Add {B}. This creature deals 1 damage to you.",
+   "power": "1",
+   "price_eur": 2.87,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ddj/47/elves-of-deep-shadow?utm_source=api",
+   "set": "ddj",
+   "set_name": "Duel Decks: Izzet vs. Golgari",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Iga Oliwiak",
+   "cmc": 1,
+   "collector_number": "205",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Elvish Mystic",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/08b9a296-3b76-4f8f-9d71-7c9af92bb3b4.jpg?1785647413",
+    "large": "https://cards.scryfall.io/large/front/0/8/08b9a296-3b76-4f8f-9d71-7c9af92bb3b4.jpg?1785647413",
+    "normal": "https://cards.scryfall.io/normal/front/0/8/08b9a296-3b76-4f8f-9d71-7c9af92bb3b4.jpg?1785647413",
+    "png": "https://cards.scryfall.io/png/front/0/8/08b9a296-3b76-4f8f-9d71-7c9af92bb3b4.png?1785647413",
+    "small": "https://cards.scryfall.io/small/front/0/8/08b9a296-3b76-4f8f-9d71-7c9af92bb3b4.jpg?1785647413"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Elvish Mystic",
+   "oracle_text": "{T}: Add {G}.",
+   "power": "1",
+   "price_eur": 6.66,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/hoc/205/elvish-mystic?utm_source=api",
+   "set": "hoc",
+   "set_name": "The Hobbit Eternal",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Seb McKinnon",
+   "cmc": 1,
+   "collector_number": "82",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Entomb",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.jpg?1783918480",
+    "large": "https://cards.scryfall.io/large/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.jpg?1783918480",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.jpg?1783918480",
+    "png": "https://cards.scryfall.io/png/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.png?1783918480",
+    "small": "https://cards.scryfall.io/small/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.jpg?1783918480"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Entomb",
+   "oracle_text": "Search your library for a card, put that card into your graveyard, then shuffle.",
+   "power": null,
+   "price_eur": 14.53,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/82/entomb?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Chris Rahn",
+   "cmc": 3,
+   "collector_number": "286",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Eternal Witness",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/9/39704000-65d3-4d39-849e-a3b617376bbc.jpg?1783915632",
+    "large": "https://cards.scryfall.io/large/front/3/9/39704000-65d3-4d39-849e-a3b617376bbc.jpg?1783915632",
+    "normal": "https://cards.scryfall.io/normal/front/3/9/39704000-65d3-4d39-849e-a3b617376bbc.jpg?1783915632",
+    "png": "https://cards.scryfall.io/png/front/3/9/39704000-65d3-4d39-849e-a3b617376bbc.png?1783915632",
+    "small": "https://cards.scryfall.io/small/front/3/9/39704000-65d3-4d39-849e-a3b617376bbc.jpg?1783915632"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}{G}",
+   "name": "Eternal Witness",
+   "oracle_text": "When this creature enters, you may return target card from your graveyard to your hand.",
+   "power": "2",
+   "price_eur": 0.71,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/286/eternal-witness?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": "1",
+   "type_line": "Creature — Human Shaman"
+  },
+  {
+   "artist": "Yeong-Hao Han",
+   "cmc": 4,
+   "collector_number": "244",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "B"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+      "large": "https://cards.scryfall.io/large/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+      "normal": "https://cards.scryfall.io/normal/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+      "png": "https://cards.scryfall.io/png/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.png?1783911234",
+      "small": "https://cards.scryfall.io/small/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234"
+     },
+     "loyalty": null,
+     "mana_cost": "{2}{B}{B}",
+     "name": "Fell the Profane",
+     "oracle_text": "Destroy target creature or planeswalker.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Instant"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+      "large": "https://cards.scryfall.io/large/back/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+      "normal": "https://cards.scryfall.io/normal/back/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+      "png": "https://cards.scryfall.io/png/back/a/3/a3cb782d-c459-468d-9779-9b5669abc337.png?1783911234",
+      "small": "https://cards.scryfall.io/small/back/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Fell Mire",
+     "oracle_text": "As this land enters, you may pay 3 life. If you don't, it enters tapped.\n{T}: Add {B}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Fell the Profane // Fell Mire",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+    "large": "https://cards.scryfall.io/large/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234",
+    "png": "https://cards.scryfall.io/png/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.png?1783911234",
+    "small": "https://cards.scryfall.io/small/front/a/3/a3cb782d-c459-468d-9779-9b5669abc337.jpg?1783911234"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{B}",
+   "name": "Fell the Profane",
+   "oracle_text": "Destroy target creature or planeswalker.",
+   "power": null,
+   "price_eur": 4.44,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/244/fell-the-profane-fell-mire?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Instant // Land"
+  },
+  {
+   "artist": "Bastien Grivet",
+   "cmc": 0,
+   "collector_number": "325",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Forest",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+    "large": "https://cards.scryfall.io/large/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675",
+    "png": "https://cards.scryfall.io/png/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.png?1785981675",
+    "small": "https://cards.scryfall.io/small/front/d/c/dce15387-4114-4b3e-91aa-5b42b45c44ac.jpg?1785981675"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Forest",
+   "oracle_text": "({T}: Add {G}.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 6,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/325/forest?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Basic Land — Forest"
+  },
+  {
+   "artist": "Igor Kieryluk",
+   "cmc": 1,
+   "collector_number": "228",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Fyndhorn Elves",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/5/450744cf-7eba-491b-97b0-ca80c6368bbb.jpg?1783928794",
+    "large": "https://cards.scryfall.io/large/front/4/5/450744cf-7eba-491b-97b0-ca80c6368bbb.jpg?1783928794",
+    "normal": "https://cards.scryfall.io/normal/front/4/5/450744cf-7eba-491b-97b0-ca80c6368bbb.jpg?1783928794",
+    "png": "https://cards.scryfall.io/png/front/4/5/450744cf-7eba-491b-97b0-ca80c6368bbb.png?1783928794",
+    "small": "https://cards.scryfall.io/small/front/4/5/450744cf-7eba-491b-97b0-ca80c6368bbb.jpg?1783928794"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Fyndhorn Elves",
+   "oracle_text": "{T}: Add {G}.",
+   "power": "1",
+   "price_eur": 3.23,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmr/228/fyndhorn-elves?utm_source=api",
+   "set": "cmr",
+   "set_name": "Commander Legends",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Scott Murphy",
+   "cmc": 5,
+   "collector_number": "142",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Gray Merchant of Asphodel",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/00d001d0-fd29-4b7c-9d0e-9131b995f910.jpg?1783909617",
+    "large": "https://cards.scryfall.io/large/front/0/0/00d001d0-fd29-4b7c-9d0e-9131b995f910.jpg?1783909617",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/00d001d0-fd29-4b7c-9d0e-9131b995f910.jpg?1783909617",
+    "png": "https://cards.scryfall.io/png/front/0/0/00d001d0-fd29-4b7c-9d0e-9131b995f910.png?1783909617",
+    "small": "https://cards.scryfall.io/small/front/0/0/00d001d0-fd29-4b7c-9d0e-9131b995f910.jpg?1783909617"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{B}{B}",
+   "name": "Gray Merchant of Asphodel",
+   "oracle_text": "When this creature enters, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+   "power": "2",
+   "price_eur": 2.08,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "wincon",
+    "aristocrat",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/142/gray-merchant-of-asphodel?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": "4",
+   "type_line": "Creature — Zombie"
+  },
+  {
+   "artist": "Seb McKinnon",
+   "cmc": 3,
+   "collector_number": "754",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Grim Haruspex",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f5c19b87-e114-46d4-9f6c-c02e838a08dd.jpg?1783922449",
+    "large": "https://cards.scryfall.io/large/front/f/5/f5c19b87-e114-46d4-9f6c-c02e838a08dd.jpg?1783922449",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f5c19b87-e114-46d4-9f6c-c02e838a08dd.jpg?1783922449",
+    "png": "https://cards.scryfall.io/png/front/f/5/f5c19b87-e114-46d4-9f6c-c02e838a08dd.png?1783922449",
+    "small": "https://cards.scryfall.io/small/front/f/5/f5c19b87-e114-46d4-9f6c-c02e838a08dd.jpg?1783922449"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Morph"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Grim Haruspex",
+   "oracle_text": "Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card.",
+   "power": "3",
+   "price_eur": 2.01,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/clb/754/grim-haruspex?utm_source=api",
+   "set": "clb",
+   "set_name": "Commander Legends: Battle for Baldur's Gate",
+   "toughness": "2",
+   "type_line": "Creature — Human Wizard"
+  },
+  {
+   "artist": "Izzy",
+   "cmc": 1,
+   "collector_number": "349",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Haywire Mite",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7.jpg?1783903739",
+    "large": "https://cards.scryfall.io/large/front/6/f/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7.jpg?1783903739",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7.jpg?1783903739",
+    "png": "https://cards.scryfall.io/png/front/6/f/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7.png?1783903739",
+    "small": "https://cards.scryfall.io/small/front/6/f/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7.jpg?1783903739"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}",
+   "name": "Haywire Mite",
+   "oracle_text": "When this creature dies, you gain 2 life.\n{G}, Sacrifice this creature: Exile target noncreature artifact or noncreature enchantment.",
+   "power": "1",
+   "price_eur": 0.7,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/349/haywire-mite?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "1",
+   "type_line": "Artifact Creature — Insect"
+  },
+  {
+   "artist": "Slawomir Maniak",
+   "cmc": 6,
+   "collector_number": "95",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Kokusho, the Evening Star",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/b/ab56cedb-1bcd-48a5-8503-a8e324e236ad.jpg?1783935537",
+    "large": "https://cards.scryfall.io/large/front/a/b/ab56cedb-1bcd-48a5-8503-a8e324e236ad.jpg?1783935537",
+    "normal": "https://cards.scryfall.io/normal/front/a/b/ab56cedb-1bcd-48a5-8503-a8e324e236ad.jpg?1783935537",
+    "png": "https://cards.scryfall.io/png/front/a/b/ab56cedb-1bcd-48a5-8503-a8e324e236ad.png?1783935537",
+    "small": "https://cards.scryfall.io/small/front/a/b/ab56cedb-1bcd-48a5-8503-a8e324e236ad.jpg?1783935537"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Flying"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{4}{B}{B}",
+   "name": "Kokusho, the Evening Star",
+   "oracle_text": "Flying\nWhen Kokusho dies, each opponent loses 5 life. You gain life equal to the life lost this way.",
+   "power": "5",
+   "price_eur": 16.38,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wincon",
+    "combo",
+    "aristocrat"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ima/95/kokusho-the-evening-star?utm_source=api",
+   "set": "ima",
+   "set_name": "Iconic Masters",
+   "toughness": "5",
+   "type_line": "Legendary Creature — Dragon Spirit"
+  },
+  {
+   "artist": "Sam Burley",
+   "cmc": 0,
+   "collector_number": "79",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Lazotep Quarry",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.jpg?1783911415",
+    "large": "https://cards.scryfall.io/large/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.jpg?1783911415",
+    "normal": "https://cards.scryfall.io/normal/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.jpg?1783911415",
+    "png": "https://cards.scryfall.io/png/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.png?1783911415",
+    "small": "https://cards.scryfall.io/small/front/f/f/ff73b7f3-62f3-4a05-b439-bae2d0f63d2f.jpg?1783911415"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Lazotep Quarry",
+   "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add one mana of any color.\n{X}{2}, {T}, Sacrifice a Desert: Exile target creature card with mana value X from your graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie. Activate only as a sorcery.",
+   "power": null,
+   "price_eur": 7.69,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m3c/79/lazotep-quarry?utm_source=api",
+   "set": "m3c",
+   "set_name": "Modern Horizons 3 Commander",
+   "toughness": null,
+   "type_line": "Land — Desert"
+  },
+  {
+   "artist": "Kev Walker",
+   "cmc": 1,
+   "collector_number": "227",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Llanowar Elves",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1783909057",
+    "large": "https://cards.scryfall.io/large/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1783909057",
+    "normal": "https://cards.scryfall.io/normal/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1783909057",
+    "png": "https://cards.scryfall.io/png/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.png?1783909057",
+    "small": "https://cards.scryfall.io/small/front/6/a/6a0b230b-d391-4998-a3f7-7b158a0ec2cd.jpg?1783909057"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Llanowar Elves",
+   "oracle_text": "{T}: Add {G}.",
+   "power": "1",
+   "price_eur": 0.23,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/227/llanowar-elves?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Lucas Graciano",
+   "cmc": 0,
+   "collector_number": "383",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Llanowar Wastes",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/266316d3-3bbc-4283-aab8-69629855909f.jpg?1783903726",
+    "large": "https://cards.scryfall.io/large/front/2/6/266316d3-3bbc-4283-aab8-69629855909f.jpg?1783903726",
+    "normal": "https://cards.scryfall.io/normal/front/2/6/266316d3-3bbc-4283-aab8-69629855909f.jpg?1783903726",
+    "png": "https://cards.scryfall.io/png/front/2/6/266316d3-3bbc-4283-aab8-69629855909f.png?1783903726",
+    "small": "https://cards.scryfall.io/small/front/2/6/266316d3-3bbc-4283-aab8-69629855909f.jpg?1783903726"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Llanowar Wastes",
+   "oracle_text": "{T}: Add {C}.\n{T}: Add {B} or {G}. This land deals 1 damage to you.",
+   "power": null,
+   "price_eur": 1.05,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "C",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/383/llanowar-wastes?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Marta Nael",
+   "cmc": 1,
+   "collector_number": "111",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "B"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+      "large": "https://cards.scryfall.io/large/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+      "normal": "https://cards.scryfall.io/normal/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+      "png": "https://cards.scryfall.io/png/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.png?1783929378",
+      "small": "https://cards.scryfall.io/small/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378"
+     },
+     "loyalty": null,
+     "mana_cost": "{B}",
+     "name": "Malakir Rebirth",
+     "oracle_text": "Choose target creature. You lose 2 life. Until end of turn, that creature gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\"",
+     "power": null,
+     "toughness": null,
+     "type_line": "Instant"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+      "large": "https://cards.scryfall.io/large/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+      "normal": "https://cards.scryfall.io/normal/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+      "png": "https://cards.scryfall.io/png/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.png?1783929378",
+      "small": "https://cards.scryfall.io/small/back/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Malakir Mire",
+     "oracle_text": "This land enters tapped.\n{T}: Add {B}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Malakir Rebirth // Malakir Mire",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "large": "https://cards.scryfall.io/large/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "normal": "https://cards.scryfall.io/normal/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378",
+    "png": "https://cards.scryfall.io/png/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.png?1783929378",
+    "small": "https://cards.scryfall.io/small/front/6/0/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60.jpg?1783929378"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Malakir Rebirth",
+   "oracle_text": "Choose target creature. You lose 2 life. Until end of turn, that creature gains \"When this creature dies, return it to the battlefield tapped under its owner's control.\"",
+   "power": null,
+   "price_eur": 10.68,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "protection",
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/znr/111/malakir-rebirth-malakir-mire?utm_source=api",
+   "set": "znr",
+   "set_name": "Zendikar Rising",
+   "toughness": null,
+   "type_line": "Instant // Land"
+  },
+  {
+   "artist": "Sidharth Chaturvedi",
+   "cmc": 3,
+   "collector_number": "609",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Midnight Reaper",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f229b0e6-1ffd-410e-b04b-a0afc179c58c.jpg?1783908929",
+    "large": "https://cards.scryfall.io/large/front/f/2/f229b0e6-1ffd-410e-b04b-a0afc179c58c.jpg?1783908929",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f229b0e6-1ffd-410e-b04b-a0afc179c58c.jpg?1783908929",
+    "png": "https://cards.scryfall.io/png/front/f/2/f229b0e6-1ffd-410e-b04b-a0afc179c58c.png?1783908929",
+    "small": "https://cards.scryfall.io/small/front/f/2/f229b0e6-1ffd-410e-b04b-a0afc179c58c.jpg?1783908929"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Midnight Reaper",
+   "oracle_text": "Whenever a nontoken creature you control dies, this creature deals 1 damage to you and you draw a card.",
+   "power": "3",
+   "price_eur": 0.25,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/609/midnight-reaper?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": "2",
+   "type_line": "Creature — Zombie Knight"
+  },
+  {
+   "artist": "Chris Rahn",
+   "cmc": 6,
+   "collector_number": "173",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Mikaeus, the Unhallowed",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670",
+    "large": "https://cards.scryfall.io/large/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670",
+    "normal": "https://cards.scryfall.io/normal/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670",
+    "png": "https://cards.scryfall.io/png/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.png?1783915670",
+    "small": "https://cards.scryfall.io/small/front/b/c/bc1f42a2-fe11-45da-9552-069803b4068a.jpg?1783915670"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Intimidate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{B}{B}{B}",
+   "name": "Mikaeus, the Unhallowed",
+   "oracle_text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a Human deals damage to you, destroy it.\nOther non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+   "power": "5",
+   "price_eur": 23.59,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "combo",
+    "lord",
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/173/mikaeus-the-unhallowed?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": "5",
+   "type_line": "Legendary Creature — Zombie Cleric"
+  },
+  {
+   "artist": "Kev Walker",
+   "cmc": 4,
+   "collector_number": "91",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Mindslicer",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/f/afc86134-8af6-4355-b1ad-96917c99ff3c.jpg?1783918474",
+    "large": "https://cards.scryfall.io/large/front/a/f/afc86134-8af6-4355-b1ad-96917c99ff3c.jpg?1783918474",
+    "normal": "https://cards.scryfall.io/normal/front/a/f/afc86134-8af6-4355-b1ad-96917c99ff3c.jpg?1783918474",
+    "png": "https://cards.scryfall.io/png/front/a/f/afc86134-8af6-4355-b1ad-96917c99ff3c.png?1783918474",
+    "small": "https://cards.scryfall.io/small/front/a/f/afc86134-8af6-4355-b1ad-96917c99ff3c.jpg?1783918474"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{B}",
+   "name": "Mindslicer",
+   "oracle_text": "When this creature dies, each player discards their hand.",
+   "power": "4",
+   "price_eur": 0.37,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wheel",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/91/mindslicer?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": "3",
+   "type_line": "Creature — Horror"
+  },
+  {
+   "artist": "Tyler Walpole",
+   "cmc": 3,
+   "collector_number": "219",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Morbid Opportunist",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.jpg?1783903784",
+    "large": "https://cards.scryfall.io/large/front/0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.jpg?1783903784",
+    "normal": "https://cards.scryfall.io/normal/front/0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.jpg?1783903784",
+    "png": "https://cards.scryfall.io/png/front/0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.png?1783903784",
+    "small": "https://cards.scryfall.io/small/front/0/8/08838865-a9b6-4323-96a2-0d3a7aba9d3d.jpg?1783903784"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Morbid Opportunist",
+   "oracle_text": "Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.",
+   "power": "1",
+   "price_eur": 0.24,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/219/morbid-opportunist?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "3",
+   "type_line": "Creature — Human Rogue"
+  },
+  {
+   "artist": "Bastien L. Deharme",
+   "cmc": 3,
+   "collector_number": "131",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Necromancy",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3dd34a1a-e76b-46ee-be8d-5f7f4a092648.jpg?1783913006",
+    "large": "https://cards.scryfall.io/large/front/3/d/3dd34a1a-e76b-46ee-be8d-5f7f4a092648.jpg?1783913006",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3dd34a1a-e76b-46ee-be8d-5f7f4a092648.jpg?1783913006",
+    "png": "https://cards.scryfall.io/png/front/3/d/3dd34a1a-e76b-46ee-be8d-5f7f4a092648.png?1783913006",
+    "small": "https://cards.scryfall.io/small/front/3/d/3dd34a1a-e76b-46ee-be8d-5f7f4a092648.jpg?1783913006"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Necromancy",
+   "oracle_text": "You may cast this spell as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nWhen this enchantment enters, if it's on the battlefield, it becomes an Aura with \"enchant creature put onto the battlefield with Necromancy.\" Put target creature card from a graveyard onto the battlefield under your control and attach this enchantment to it. When this enchantment leaves the battlefield, that creature's controller sacrifices it.",
+   "power": null,
+   "price_eur": 12.73,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/131/necromancy?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Dave Kendall",
+   "cmc": 3,
+   "collector_number": "98",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Necropotence",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/8/c89c6895-b0f8-444a-9c89-c6b4fd027b3e.jpg?1783935537",
+    "large": "https://cards.scryfall.io/large/front/c/8/c89c6895-b0f8-444a-9c89-c6b4fd027b3e.jpg?1783935537",
+    "normal": "https://cards.scryfall.io/normal/front/c/8/c89c6895-b0f8-444a-9c89-c6b4fd027b3e.jpg?1783935537",
+    "png": "https://cards.scryfall.io/png/front/c/8/c89c6895-b0f8-444a-9c89-c6b4fd027b3e.png?1783935537",
+    "small": "https://cards.scryfall.io/small/front/c/8/c89c6895-b0f8-444a-9c89-c6b4fd027b3e.jpg?1783935537"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}{B}{B}",
+   "name": "Necropotence",
+   "oracle_text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.",
+   "power": null,
+   "price_eur": 27.46,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ima/98/necropotence?utm_source=api",
+   "set": "ima",
+   "set_name": "Iconic Masters",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Noah Bradley",
+   "cmc": 0,
+   "collector_number": "243",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Nurturing Peatland",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1783933066",
+    "large": "https://cards.scryfall.io/large/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1783933066",
+    "normal": "https://cards.scryfall.io/normal/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1783933066",
+    "png": "https://cards.scryfall.io/png/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.png?1783933066",
+    "small": "https://cards.scryfall.io/small/front/2/7/2744ac83-a79f-4042-8720-688b5adda382.jpg?1783933066"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Nurturing Peatland",
+   "oracle_text": "{T}, Pay 1 life: Add {B} or {G}.\n{1}, {T}, Sacrifice this land: Draw a card.",
+   "power": null,
+   "price_eur": 5.63,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh1/243/nurturing-peatland?utm_source=api",
+   "set": "mh1",
+   "set_name": "Modern Horizons",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Maxim Kostin",
+   "cmc": 2,
+   "collector_number": "103",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Orcish Bowmasters",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
+    "large": "https://cards.scryfall.io/large/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
+    "normal": "https://cards.scryfall.io/normal/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299",
+    "png": "https://cards.scryfall.io/png/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.png?1783916299",
+    "small": "https://cards.scryfall.io/small/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1783916299"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Amass",
+    "Flash"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Orcish Bowmasters",
+   "oracle_text": "Flash\nWhen this creature enters and whenever an opponent draws a card except the first one they draw in each of their draw steps, this creature deals 1 damage to any target. Then amass Orcs 1.",
+   "power": "1",
+   "price_eur": 32.63,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ltr/103/orcish-bowmasters?utm_source=api",
+   "set": "ltr",
+   "set_name": "The Lord of the Rings: Tales of Middle-earth",
+   "toughness": "1",
+   "type_line": "Creature — Orc Archer"
+  },
+  {
+   "artist": "Pavel Kolomeyets",
+   "cmc": 0,
+   "collector_number": "289",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Overgrown Tomb",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836",
+    "large": "https://cards.scryfall.io/large/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836",
+    "normal": "https://cards.scryfall.io/normal/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836",
+    "png": "https://cards.scryfall.io/png/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.png?1784036836",
+    "small": "https://cards.scryfall.io/small/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Overgrown Tomb",
+   "oracle_text": "({T}: Add {B} or {G}.)\nAs this land enters, you may pay 2 life. If you don't, it enters tapped.",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/289/overgrown-tomb?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Land — Swamp Forest"
+  },
+  {
+   "artist": "Igor Kieryluk",
+   "cmc": 5,
+   "collector_number": "263",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Phyrexian Delver",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/6/86f6f3e9-b594-49da-b0af-75a672590da1.jpg?1783917153",
+    "large": "https://cards.scryfall.io/large/front/8/6/86f6f3e9-b594-49da-b0af-75a672590da1.jpg?1783917153",
+    "normal": "https://cards.scryfall.io/normal/front/8/6/86f6f3e9-b594-49da-b0af-75a672590da1.jpg?1783917153",
+    "png": "https://cards.scryfall.io/png/front/8/6/86f6f3e9-b594-49da-b0af-75a672590da1.png?1783917153",
+    "small": "https://cards.scryfall.io/small/front/8/6/86f6f3e9-b594-49da-b0af-75a672590da1.jpg?1783917153"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{B}{B}",
+   "name": "Phyrexian Delver",
+   "oracle_text": "When this creature enters, return target creature card from your graveyard to the battlefield. You lose life equal to that card's mana value.",
+   "power": "3",
+   "price_eur": 0.65,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/moc/263/phyrexian-delver?utm_source=api",
+   "set": "moc",
+   "set_name": "March of the Machine Commander",
+   "toughness": "2",
+   "type_line": "Creature — Phyrexian Zombie"
+  },
+  {
+   "artist": "Martin de Diego Sádaba",
+   "cmc": 0,
+   "collector_number": "303",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Phyrexian Tower",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b47f6d2-9f65-47a4-bfc4-15619befe53d.jpg?1783911207",
+    "large": "https://cards.scryfall.io/large/front/0/b/0b47f6d2-9f65-47a4-bfc4-15619befe53d.jpg?1783911207",
+    "normal": "https://cards.scryfall.io/normal/front/0/b/0b47f6d2-9f65-47a4-bfc4-15619befe53d.jpg?1783911207",
+    "png": "https://cards.scryfall.io/png/front/0/b/0b47f6d2-9f65-47a4-bfc4-15619befe53d.png?1783911207",
+    "small": "https://cards.scryfall.io/small/front/0/b/0b47f6d2-9f65-47a4-bfc4-15619befe53d.jpg?1783911207"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Phyrexian Tower",
+   "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice a creature: Add {B}{B}.",
+   "power": null,
+   "price_eur": 27.73,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "land",
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/303/phyrexian-tower?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Legendary Land"
+  },
+  {
+   "artist": "Anna Steinbauer",
+   "cmc": 3,
+   "collector_number": "89",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Plaguecrafter",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/7/97505837-e0e2-4f7b-8581-01942e886bb8.jpg?1783913321",
+    "large": "https://cards.scryfall.io/large/front/9/7/97505837-e0e2-4f7b-8581-01942e886bb8.jpg?1783913321",
+    "normal": "https://cards.scryfall.io/normal/front/9/7/97505837-e0e2-4f7b-8581-01942e886bb8.jpg?1783913321",
+    "png": "https://cards.scryfall.io/png/front/9/7/97505837-e0e2-4f7b-8581-01942e886bb8.png?1783913321",
+    "small": "https://cards.scryfall.io/small/front/9/7/97505837-e0e2-4f7b-8581-01942e886bb8.jpg?1783913321"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Plaguecrafter",
+   "oracle_text": "When this creature enters, each player sacrifices a creature or planeswalker of their choice. Each player who can't discards a card.",
+   "power": "3",
+   "price_eur": 0.45,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal",
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/rvr/89/plaguecrafter?utm_source=api",
+   "set": "rvr",
+   "set_name": "Ravnica Remastered",
+   "toughness": "2",
+   "type_line": "Creature — Human Shaman"
+  },
+  {
+   "artist": "Rebecca Guay",
+   "cmc": 2,
+   "collector_number": "286",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Priest of Titania",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1783911212",
+    "large": "https://cards.scryfall.io/large/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1783911212",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1783911212",
+    "png": "https://cards.scryfall.io/png/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.png?1783911212",
+    "small": "https://cards.scryfall.io/small/front/e/b/eb11921b-1b28-483f-a707-4de21a6daa31.jpg?1783911212"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Priest of Titania",
+   "oracle_text": "{T}: Add {G} for each Elf on the battlefield.",
+   "power": "1",
+   "price_eur": 0.96,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/286/priest-of-titania?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": "1",
+   "type_line": "Creature — Elf Druid"
+  },
+  {
+   "artist": "Sam Burley",
+   "cmc": 0,
+   "collector_number": "244",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Prismatic Vista",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.jpg?1783933066",
+    "large": "https://cards.scryfall.io/large/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.jpg?1783933066",
+    "normal": "https://cards.scryfall.io/normal/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.jpg?1783933066",
+    "png": "https://cards.scryfall.io/png/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.png?1783933066",
+    "small": "https://cards.scryfall.io/small/front/e/3/e37da81e-be12-45a2-9128-376f1ad7b3e8.jpg?1783933066"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Prismatic Vista",
+   "oracle_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.",
+   "power": null,
+   "price_eur": 30.39,
+   "primary_type": "Land",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh1/244/prismatic-vista?utm_source=api",
+   "set": "mh1",
+   "set_name": "Modern Horizons",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Matt Cavotta",
+   "cmc": 7,
+   "collector_number": "153",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Protean Hulk",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69bf0bb7-3076-4dbf-a72e-4d91560be2fe.jpg?1783913300",
+    "large": "https://cards.scryfall.io/large/front/6/9/69bf0bb7-3076-4dbf-a72e-4d91560be2fe.jpg?1783913300",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69bf0bb7-3076-4dbf-a72e-4d91560be2fe.jpg?1783913300",
+    "png": "https://cards.scryfall.io/png/front/6/9/69bf0bb7-3076-4dbf-a72e-4d91560be2fe.png?1783913300",
+    "small": "https://cards.scryfall.io/small/front/6/9/69bf0bb7-3076-4dbf-a72e-4d91560be2fe.jpg?1783913300"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{5}{G}{G}",
+   "name": "Protean Hulk",
+   "oracle_text": "When this creature dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle.",
+   "power": "6",
+   "price_eur": 5.31,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "combo",
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/rvr/153/protean-hulk?utm_source=api",
+   "set": "rvr",
+   "set_name": "Ravnica Remastered",
+   "toughness": "6",
+   "type_line": "Creature — Beast"
+  },
+  {
+   "artist": "Daarken",
+   "cmc": 4,
+   "collector_number": "136",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Ravenous Chupacabra",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a4dfbac0-1849-41c5-853a-1fee108d0b01.jpg?1783913009",
+    "large": "https://cards.scryfall.io/large/front/a/4/a4dfbac0-1849-41c5-853a-1fee108d0b01.jpg?1783913009",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a4dfbac0-1849-41c5-853a-1fee108d0b01.jpg?1783913009",
+    "png": "https://cards.scryfall.io/png/front/a/4/a4dfbac0-1849-41c5-853a-1fee108d0b01.png?1783913009",
+    "small": "https://cards.scryfall.io/small/front/a/4/a4dfbac0-1849-41c5-853a-1fee108d0b01.jpg?1783913009"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{B}",
+   "name": "Ravenous Chupacabra",
+   "oracle_text": "When this creature enters, destroy target creature an opponent controls.",
+   "power": "2",
+   "price_eur": 0.52,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/136/ravenous-chupacabra?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": "2",
+   "type_line": "Creature — Beast Horror"
+  },
+  {
+   "artist": "Johann Bodin",
+   "cmc": 1,
+   "collector_number": "155",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Reanimate",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1783909614",
+    "large": "https://cards.scryfall.io/large/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1783909614",
+    "normal": "https://cards.scryfall.io/normal/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1783909614",
+    "png": "https://cards.scryfall.io/png/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.png?1783909614",
+    "small": "https://cards.scryfall.io/small/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1783909614"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Reanimate",
+   "oracle_text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.",
+   "power": null,
+   "price_eur": 8.55,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/155/reanimate?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Raoul Vitale",
+   "cmc": 1,
+   "collector_number": "256",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [
+    "B",
+    "G"
+   ],
+   "faces": [
+    {
+     "colors": [
+      "B",
+      "G"
+     ],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+      "large": "https://cards.scryfall.io/large/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+      "normal": "https://cards.scryfall.io/normal/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+      "png": "https://cards.scryfall.io/png/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.png?1783911227",
+      "small": "https://cards.scryfall.io/small/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227"
+     },
+     "loyalty": null,
+     "mana_cost": "{B/G}",
+     "name": "Revitalizing Repast",
+     "oracle_text": "Put a +1/+1 counter on target creature. It gains indestructible until end of turn.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Instant"
+    },
+    {
+     "colors": [],
+     "images": {
+      "art_crop": "https://cards.scryfall.io/art_crop/back/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+      "large": "https://cards.scryfall.io/large/back/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+      "normal": "https://cards.scryfall.io/normal/back/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+      "png": "https://cards.scryfall.io/png/back/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.png?1783911227",
+      "small": "https://cards.scryfall.io/small/back/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227"
+     },
+     "loyalty": null,
+     "mana_cost": "",
+     "name": "Old-Growth Grove",
+     "oracle_text": "This land enters tapped.\n{T}: Add {B} or {G}.",
+     "power": null,
+     "toughness": null,
+     "type_line": "Land"
+    }
+   ],
+   "full_name": "Revitalizing Repast // Old-Growth Grove",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+    "large": "https://cards.scryfall.io/large/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227",
+    "png": "https://cards.scryfall.io/png/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.png?1783911227",
+    "small": "https://cards.scryfall.io/small/front/0/3/03522b6b-31ec-4126-8885-5dbb2248688b.jpg?1783911227"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "modal_dfc",
+   "loyalty": null,
+   "mana_cost": "{B/G}",
+   "name": "Revitalizing Repast",
+   "oracle_text": "Put a +1/+1 counter on target creature. It gains indestructible until end of turn.",
+   "power": null,
+   "price_eur": 1.46,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/256/revitalizing-repast-old-growth-grove?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Instant // Land"
+  },
+  {
+   "artist": "Anastasia Ovchinnikova",
+   "cmc": 2,
+   "collector_number": "285",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Sakura-Tribe Elder",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a8b1c49-8594-426d-b585-41140235bb0e.jpg?1783903761",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a8b1c49-8594-426d-b585-41140235bb0e.jpg?1783903761",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a8b1c49-8594-426d-b585-41140235bb0e.jpg?1783903761",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a8b1c49-8594-426d-b585-41140235bb0e.png?1783903761",
+    "small": "https://cards.scryfall.io/small/front/7/a/7a8b1c49-8594-426d-b585-41140235bb0e.jpg?1783903761"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{G}",
+   "name": "Sakura-Tribe Elder",
+   "oracle_text": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+   "power": "1",
+   "price_eur": 0.43,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/285/sakura-tribe-elder?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "1",
+   "type_line": "Creature — Snake Shaman"
+  },
+  {
+   "artist": "Lordigan",
+   "cmc": 1,
+   "collector_number": "210",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Skullclamp",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215",
+    "large": "https://cards.scryfall.io/large/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215",
+    "normal": "https://cards.scryfall.io/normal/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215",
+    "png": "https://cards.scryfall.io/png/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.png?1783903215",
+    "small": "https://cards.scryfall.io/small/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Equip"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}",
+   "name": "Skullclamp",
+   "oracle_text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}",
+   "power": null,
+   "price_eur": 5.41,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/210/skullclamp?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact — Equipment"
+  },
+  {
+   "artist": "Myles Wohl",
+   "cmc": 1,
+   "collector_number": "211",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Sol Ring",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "large": "https://cards.scryfall.io/large/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "png": "https://cards.scryfall.io/png/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.png?1783903215",
+    "small": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}",
+   "name": "Sol Ring",
+   "oracle_text": "{T}: Add {C}{C}.",
+   "power": null,
+   "price_eur": 1.6,
+   "primary_type": "Artifact",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/211/sol-ring?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Donato Giancola",
+   "cmc": 1,
+   "collector_number": "180",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Spore Frog",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1783933092",
+    "large": "https://cards.scryfall.io/large/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1783933092",
+    "normal": "https://cards.scryfall.io/normal/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1783933092",
+    "png": "https://cards.scryfall.io/png/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.png?1783933092",
+    "small": "https://cards.scryfall.io/small/front/6/d/6d42fd52-34ea-4d1b-80dc-58fb0593bb5b.jpg?1783933092"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Spore Frog",
+   "oracle_text": "Sacrifice this creature: Prevent all combat damage that would be dealt this turn.",
+   "power": "1",
+   "price_eur": 0.24,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh1/180/spore-frog?utm_source=api",
+   "set": "mh1",
+   "set_name": "Modern Horizons",
+   "toughness": "1",
+   "type_line": "Creature — Frog"
+  },
+  {
+   "artist": "Bastien Grivet",
+   "cmc": 0,
+   "collector_number": "321",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Swamp",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
+    "large": "https://cards.scryfall.io/large/front/b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
+    "normal": "https://cards.scryfall.io/normal/front/b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659",
+    "png": "https://cards.scryfall.io/png/front/b/7/b7387103-1df1-4fd0-9e91-1544509792c7.png?1785981659",
+    "small": "https://cards.scryfall.io/small/front/b/7/b7387103-1df1-4fd0-9e91-1544509792c7.jpg?1785981659"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Swamp",
+   "oracle_text": "({T}: Add {B}.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 4,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/321/swamp?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Basic Land — Swamp"
+  },
+  {
+   "artist": "Rob Alexander",
+   "cmc": 0,
+   "collector_number": "305",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Tainted Wood",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3da7ab6b-b10a-4786-b1eb-92de7e66690e.jpg?1783909564",
+    "large": "https://cards.scryfall.io/large/front/3/d/3da7ab6b-b10a-4786-b1eb-92de7e66690e.jpg?1783909564",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3da7ab6b-b10a-4786-b1eb-92de7e66690e.jpg?1783909564",
+    "png": "https://cards.scryfall.io/png/front/3/d/3da7ab6b-b10a-4786-b1eb-92de7e66690e.png?1783909564",
+    "small": "https://cards.scryfall.io/small/front/3/d/3da7ab6b-b10a-4786-b1eb-92de7e66690e.jpg?1783909564"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Tainted Wood",
+   "oracle_text": "{T}: Add {C}.\n{T}: Add {B} or {G}. Activate only if you control a Swamp.",
+   "power": null,
+   "price_eur": 0.34,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "C",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dsc/305/tainted-wood?utm_source=api",
+   "set": "dsc",
+   "set_name": "Duskmourn: House of Horror Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Steven Belledin",
+   "cmc": 0,
+   "collector_number": "82",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Talon Gates of Madara",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.jpg?1783911414",
+    "large": "https://cards.scryfall.io/large/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.jpg?1783911414",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.jpg?1783911414",
+    "png": "https://cards.scryfall.io/png/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.png?1783911414",
+    "small": "https://cards.scryfall.io/small/front/d/e/de92facf-762b-4a23-8d5e-bb673b0500c0.jpg?1783911414"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Talon Gates of Madara",
+   "oracle_text": "When this land enters, up to one target creature phases out.\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{4}: Put this card from your hand onto the battlefield.",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m3c/82/talon-gates-of-madara?utm_source=api",
+   "set": "m3c",
+   "set_name": "Modern Horizons 3 Commander",
+   "toughness": null,
+   "type_line": "Land — Gate"
+  },
+  {
+   "artist": "Anthony Devine",
+   "cmc": 3,
+   "collector_number": "161",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Toxic Deluge",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/e/de5afccc-8d42-4bd6-b068-b9ea2361655e.jpg?1783903236",
+    "large": "https://cards.scryfall.io/large/front/d/e/de5afccc-8d42-4bd6-b068-b9ea2361655e.jpg?1783903236",
+    "normal": "https://cards.scryfall.io/normal/front/d/e/de5afccc-8d42-4bd6-b068-b9ea2361655e.jpg?1783903236",
+    "png": "https://cards.scryfall.io/png/front/d/e/de5afccc-8d42-4bd6-b068-b9ea2361655e.png?1783903236",
+    "small": "https://cards.scryfall.io/small/front/d/e/de5afccc-8d42-4bd6-b068-b9ea2361655e.jpg?1783903236"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}",
+   "name": "Toxic Deluge",
+   "oracle_text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn.",
+   "power": null,
+   "price_eur": 4.82,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wipe"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/161/toxic-deluge?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Sergey Glushakov",
+   "cmc": 0,
+   "collector_number": "271",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Underground Mortuary",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f6ca59cd-8779-4a84-a54b-e863b79c61f0.jpg?1783912822",
+    "large": "https://cards.scryfall.io/large/front/f/6/f6ca59cd-8779-4a84-a54b-e863b79c61f0.jpg?1783912822",
+    "normal": "https://cards.scryfall.io/normal/front/f/6/f6ca59cd-8779-4a84-a54b-e863b79c61f0.jpg?1783912822",
+    "png": "https://cards.scryfall.io/png/front/f/6/f6ca59cd-8779-4a84-a54b-e863b79c61f0.png?1783912822",
+    "small": "https://cards.scryfall.io/small/front/f/6/f6ca59cd-8779-4a84-a54b-e863b79c61f0.jpg?1783912822"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Surveil"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Underground Mortuary",
+   "oracle_text": "({T}: Add {B} or {G}.)\nThis land enters tapped.\nWhen this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",
+   "power": null,
+   "price_eur": 15.46,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkm/271/underground-mortuary?utm_source=api",
+   "set": "mkm",
+   "set_name": "Murders at Karlov Manor",
+   "toughness": null,
+   "type_line": "Land — Swamp Forest"
+  },
+  {
+   "artist": "Gabriel Tanko",
+   "cmc": 0,
+   "collector_number": "80",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Undergrowth Stadium",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f25aa8aa-e2f7-4634-8a96-2082e76c6503.jpg?1783904148",
+    "large": "https://cards.scryfall.io/large/front/f/2/f25aa8aa-e2f7-4634-8a96-2082e76c6503.jpg?1783904148",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f25aa8aa-e2f7-4634-8a96-2082e76c6503.jpg?1783904148",
+    "png": "https://cards.scryfall.io/png/front/f/2/f25aa8aa-e2f7-4634-8a96-2082e76c6503.png?1783904148",
+    "small": "https://cards.scryfall.io/small/front/f/2/f25aa8aa-e2f7-4634-8a96-2082e76c6503.jpg?1783904148"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Undergrowth Stadium",
+   "oracle_text": "This land enters tapped unless you have two or more opponents.\n{T}: Add {B} or {G}.",
+   "power": null,
+   "price_eur": 4.67,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tmc/80/undergrowth-stadium?utm_source=api",
+   "set": "tmc",
+   "set_name": "Teenage Mutant Ninja Turtles Eternal",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "James Paick",
+   "cmc": 2,
+   "collector_number": "106",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Unmarked Grave",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1783926852",
+    "large": "https://cards.scryfall.io/large/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1783926852",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1783926852",
+    "png": "https://cards.scryfall.io/png/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.png?1783926852",
+    "small": "https://cards.scryfall.io/small/front/4/9/492b368b-de32-45c1-8459-238aae54f9fc.jpg?1783926852"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{B}",
+   "name": "Unmarked Grave",
+   "oracle_text": "Search your library for a nonlegendary card, put that card into your graveyard, then shuffle.",
+   "power": null,
+   "price_eur": 2.04,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh2/106/unmarked-grave?utm_source=api",
+   "set": "mh2",
+   "set_name": "Modern Horizons 2",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "John Avon",
+   "cmc": 0,
+   "collector_number": "287",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Urborg, Tomb of Yawgmoth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+    "large": "https://cards.scryfall.io/large/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+    "normal": "https://cards.scryfall.io/normal/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747",
+    "png": "https://cards.scryfall.io/png/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.png?1783927747",
+    "small": "https://cards.scryfall.io/small/front/9/e/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6.jpg?1783927747"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Urborg, Tomb of Yawgmoth",
+   "oracle_text": "Each land is a Swamp in addition to its other land types.",
+   "power": null,
+   "price_eur": 35.05,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tsr/287/urborg-tomb-of-yawgmoth?utm_source=api",
+   "set": "tsr",
+   "set_name": "Time Spiral Remastered",
+   "toughness": null,
+   "type_line": "Legendary Land"
+  },
+  {
+   "artist": "Vance Kovacs",
+   "cmc": 0,
+   "collector_number": "260",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Verdant Catacombs",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+    "large": "https://cards.scryfall.io/large/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791",
+    "png": "https://cards.scryfall.io/png/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.png?1783926791",
+    "small": "https://cards.scryfall.io/small/front/9/4/94c229ea-90da-4aa0-bfda-b162fb3b5b8b.jpg?1783926791"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Verdant Catacombs",
+   "oracle_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
+   "power": null,
+   "price_eur": 23.22,
+   "primary_type": "Land",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh2/260/verdant-catacombs?utm_source=api",
+   "set": "mh2",
+   "set_name": "Modern Horizons 2",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "John Stanko",
+   "cmc": 1,
+   "collector_number": "229",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Viscera Seer",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780",
+    "large": "https://cards.scryfall.io/large/front/f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780",
+    "normal": "https://cards.scryfall.io/normal/front/f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780",
+    "png": "https://cards.scryfall.io/png/front/f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.png?1783903780",
+    "small": "https://cards.scryfall.io/small/front/f/5/f511830b-1c1f-4d30-aa5d-4314726d142e.jpg?1783903780"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Scry"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{B}",
+   "name": "Viscera Seer",
+   "oracle_text": "Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+   "power": "1",
+   "price_eur": 0.63,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "sac-outlet",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/229/viscera-seer?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": "1",
+   "type_line": "Creature — Vampire Wizard"
+  },
+  {
+   "artist": "Bartek Fedyczak",
+   "cmc": 0,
+   "collector_number": "268",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Wastewood Verge",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/c/5ceacc7d-d407-4f82-af58-9bdf8426924e.jpg?1783907837",
+    "large": "https://cards.scryfall.io/large/front/5/c/5ceacc7d-d407-4f82-af58-9bdf8426924e.jpg?1783907837",
+    "normal": "https://cards.scryfall.io/normal/front/5/c/5ceacc7d-d407-4f82-af58-9bdf8426924e.jpg?1783907837",
+    "png": "https://cards.scryfall.io/png/front/5/c/5ceacc7d-d407-4f82-af58-9bdf8426924e.png?1783907837",
+    "small": "https://cards.scryfall.io/small/front/5/c/5ceacc7d-d407-4f82-af58-9bdf8426924e.jpg?1783907837"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Wastewood Verge",
+   "oracle_text": "{T}: Add {G}.\n{T}: Add {B}. Activate only if you control a Swamp or a Forest.",
+   "power": null,
+   "price_eur": 8.4,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dft/268/wastewood-verge?utm_source=api",
+   "set": "dft",
+   "set_name": "Aetherdrift",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Tony Szczudlo",
+   "cmc": 1,
+   "collector_number": "195",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Wild Growth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.jpg?1783912983",
+    "large": "https://cards.scryfall.io/large/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.jpg?1783912983",
+    "normal": "https://cards.scryfall.io/normal/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.jpg?1783912983",
+    "png": "https://cards.scryfall.io/png/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.png?1783912983",
+    "small": "https://cards.scryfall.io/small/front/4/7/47260e7c-29bf-46f1-a029-9da7bbb418b5.jpg?1783912983"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Enchant"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Wild Growth",
+   "oracle_text": "Enchant land\nWhenever enchanted land is tapped for mana, its controller adds an additional {G}.",
+   "power": null,
+   "price_eur": 0.54,
+   "primary_type": "Enchantment",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/195/wild-growth?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": null,
+   "type_line": "Enchantment — Aura"
+  },
+  {
+   "artist": "Christine Choi",
+   "cmc": 0,
+   "collector_number": "424",
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Woodland Cemetery",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4d6f6c96-f813-4864-b4e1-b2a0aa8be1e8.jpg?1783903713",
+    "large": "https://cards.scryfall.io/large/front/4/d/4d6f6c96-f813-4864-b4e1-b2a0aa8be1e8.jpg?1783903713",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4d6f6c96-f813-4864-b4e1-b2a0aa8be1e8.jpg?1783903713",
+    "png": "https://cards.scryfall.io/png/front/4/d/4d6f6c96-f813-4864-b4e1-b2a0aa8be1e8.png?1783903713",
+    "small": "https://cards.scryfall.io/small/front/4/d/4d6f6c96-f813-4864-b4e1-b2a0aa8be1e8.jpg?1783903713"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Woodland Cemetery",
+   "oracle_text": "This land enters tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}.",
+   "power": null,
+   "price_eur": 0.88,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/soc/424/woodland-cemetery?utm_source=api",
+   "set": "soc",
+   "set_name": "Secrets of Strixhaven Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Volkan Baǵa",
+   "cmc": 1,
+   "collector_number": "185",
+   "color_identity": [
+    "G"
+   ],
+   "colors": [
+    "G"
+   ],
+   "faces": null,
+   "full_name": "Worldly Tutor",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f39aa2e9-e294-4ce6-bf5e-e1f579101a7a.jpg?1783918434",
+    "large": "https://cards.scryfall.io/large/front/f/3/f39aa2e9-e294-4ce6-bf5e-e1f579101a7a.jpg?1783918434",
+    "normal": "https://cards.scryfall.io/normal/front/f/3/f39aa2e9-e294-4ce6-bf5e-e1f579101a7a.jpg?1783918434",
+    "png": "https://cards.scryfall.io/png/front/f/3/f39aa2e9-e294-4ce6-bf5e-e1f579101a7a.png?1783918434",
+    "small": "https://cards.scryfall.io/small/front/f/3/f39aa2e9-e294-4ce6-bf5e-e1f579101a7a.jpg?1783918434"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{G}",
+   "name": "Worldly Tutor",
+   "oracle_text": "Search your library for a creature card, reveal it, then shuffle and put the card on top.",
+   "power": null,
+   "price_eur": 19.9,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/185/worldly-tutor?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Daarken",
+   "cmc": 4,
+   "collector_number": "75",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Yahenni's Expertise",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1783936760",
+    "large": "https://cards.scryfall.io/large/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1783936760",
+    "normal": "https://cards.scryfall.io/normal/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1783936760",
+    "png": "https://cards.scryfall.io/png/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.png?1783936760",
+    "small": "https://cards.scryfall.io/small/front/f/2/f2f28735-122c-45ba-bde5-decfd9b11b32.jpg?1783936760"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{B}",
+   "name": "Yahenni's Expertise",
+   "oracle_text": "All creatures get -3/-3 until end of turn.\nYou may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
+   "power": null,
+   "price_eur": 0.44,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wipe"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/aer/75/yahennis-expertise?utm_source=api",
+   "set": "aer",
+   "set_name": "Aether Revolt",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Sarah Finnigan",
+   "cmc": 0,
+   "collector_number": "261",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Yavimaya, Cradle of Growth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791",
+    "large": "https://cards.scryfall.io/large/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791",
+    "png": "https://cards.scryfall.io/png/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.png?1783926791",
+    "small": "https://cards.scryfall.io/small/front/4/e/4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c.jpg?1783926791"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Yavimaya, Cradle of Growth",
+   "oracle_text": "Each land is a Forest in addition to its other land types.",
+   "power": null,
+   "price_eur": 10.92,
+   "primary_type": "Land",
+   "produced_mana": [
+    "G"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh2/261/yavimaya-cradle-of-growth?utm_source=api",
+   "set": "mh2",
+   "set_name": "Modern Horizons 2",
+   "toughness": null,
+   "type_line": "Legendary Land"
+  },
+  {
+   "artist": "Mark Winters",
+   "cmc": 4,
+   "collector_number": "110",
+   "color_identity": [
+    "B"
+   ],
+   "colors": [
+    "B"
+   ],
+   "faces": null,
+   "full_name": "Yawgmoth, Thran Physician",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/5/b5a79f5d-d0df-4799-ac3a-84305e3af0c9.jpg?1783918469",
+    "large": "https://cards.scryfall.io/large/front/b/5/b5a79f5d-d0df-4799-ac3a-84305e3af0c9.jpg?1783918469",
+    "normal": "https://cards.scryfall.io/normal/front/b/5/b5a79f5d-d0df-4799-ac3a-84305e3af0c9.jpg?1783918469",
+    "png": "https://cards.scryfall.io/png/front/b/5/b5a79f5d-d0df-4799-ac3a-84305e3af0c9.png?1783918469",
+    "small": "https://cards.scryfall.io/small/front/b/5/b5a79f5d-d0df-4799-ac3a-84305e3af0c9.jpg?1783918469"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Protection",
+    "Proliferate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{B}{B}",
+   "name": "Yawgmoth, Thran Physician",
+   "oracle_text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+   "power": "2",
+   "price_eur": 29.04,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "combo",
+    "sac-outlet",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/110/yawgmoth-thran-physician?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": "4",
+   "type_line": "Legendary Creature — Human Cleric"
+  }
+ ],
+ "commander": {
+  "artist": "Mark Winters",
+  "cmc": 4,
+  "collector_number": "297",
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "colors": [
+   "B",
+   "G"
+  ],
+  "faces": null,
+  "full_name": "Meren of Clan Nel Toth",
+  "game_changer": false,
+  "images": {
+   "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+   "large": "https://cards.scryfall.io/large/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+   "normal": "https://cards.scryfall.io/normal/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+   "png": "https://cards.scryfall.io/png/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.png?1783907026",
+   "small": "https://cards.scryfall.io/small/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026"
+  },
+  "is_commander": true,
+  "keywords": [],
+  "layout": "normal",
+  "loyalty": null,
+  "mana_cost": "{2}{B}{G}",
+  "name": "Meren of Clan Nel Toth",
+  "oracle_text": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand.",
+  "power": "3",
+  "price_eur": 2.1,
+  "primary_type": "Creature",
+  "produced_mana": [],
+  "qty": 1,
+  "rarity": "mythic",
+  "roles": [
+   "recursion",
+   "engine"
+  ],
+  "scryfall_uri": "https://scryfall.com/card/tdc/297/meren-of-clan-nel-toth?utm_source=api",
+  "set": "tdc",
+  "set_name": "Tarkir: Dragonstorm Commander",
+  "toughness": "4",
+  "type_line": "Legendary Creature — Human Shaman"
+ },
+ "commanders": [
+  "Meren of Clan Nel Toth"
+ ],
+ "dek_file": "_Meren_of_Clan_Nel_Toth_EAT_PRAY_KILL.dek",
+ "guide": {
+  "bracket": 4,
+  "bracket_text": "Bracket 4. Llista original de deckstats (`_Meren_of_Clan_Nel_Toth_EAT_PRAY_KILL.dek`).",
+  "card_refs": [
+   "Mikaeus, the Unhallowed",
+   "Sakura-Tribe Elder",
+   "Spore Frog",
+   "Cankerbloom",
+   "Haywire Mite",
+   "Plaguecrafter",
+   "Demon's Disciple",
+   "Accursed Marauder",
+   "Ravenous Chupacabra",
+   "Viscera Seer",
+   "Yawgmoth, Thran Physician",
+   "Carrion Feeder",
+   "Culling the Weak",
+   "Phyrexian Tower",
+   "Lazotep Quarry",
+   "Birthing Pod",
+   "Eldritch Evolution",
+   "Birthing Ritual",
+   "Braids, Arisen Nightmare",
+   "Grim Haruspex",
+   "Midnight Reaper",
+   "Morbid Opportunist",
+   "Skullclamp",
+   "Dark Confidant",
+   "Necropotence",
+   "Reanimate",
+   "Animate Dead",
+   "Necromancy",
+   "Dance of the Dead",
+   "Malakir Rebirth",
+   "Body Snatcher",
+   "Phyrexian Delver",
+   "Demon of Dark Schemes",
+   "Activated Sleeper",
+   "Protean Hulk",
+   "Kokusho, the Evening Star",
+   "Dictate of Erebos",
+   "Gray Merchant of Asphodel",
+   "Entomb",
+   "Buried Alive",
+   "Unmarked Grave",
+   "Mindslicer",
+   "Culling Ritual",
+   "Toxic Deluge",
+   "Yahenni's Expertise",
+   "Bane of Progress",
+   "Elvish Mystic",
+   "Boreal Druid",
+   "Arbor Elf",
+   "Orcish Bowmasters",
+   "Eternal Witness",
+   "Talon Gates of Madara",
+   "Dauthi Voidwalker",
+   "Worldly Tutor",
+   "Diabolic Intent",
+   "Crop Rotation",
+   "Collective Resistance",
+   "Assassin's Trophy",
+   "Abrupt Decay",
+   "Boseiju, Who Endures"
+  ],
+  "intro_html": "",
+  "sections": [
+   {
+    "cards": [
+     "Mikaeus, the Unhallowed",
+     "Sakura-Tribe Elder",
+     "Spore Frog",
+     "Cankerbloom",
+     "Haywire Mite",
+     "Plaguecrafter",
+     "Demon's Disciple",
+     "Accursed Marauder",
+     "Ravenous Chupacabra",
+     "Viscera Seer",
+     "Yawgmoth, Thran Physician",
+     "Carrion Feeder",
+     "Culling the Weak",
+     "Phyrexian Tower",
+     "Lazotep Quarry",
+     "Birthing Pod",
+     "Eldritch Evolution",
+     "Birthing Ritual",
+     "Braids, Arisen Nightmare",
+     "Grim Haruspex",
+     "Midnight Reaper",
+     "Morbid Opportunist",
+     "Skullclamp",
+     "Dark Confidant",
+     "Necropotence",
+     "Reanimate",
+     "Animate Dead",
+     "Necromancy",
+     "Dance of the Dead",
+     "Malakir Rebirth",
+     "Body Snatcher",
+     "Phyrexian Delver",
+     "Demon of Dark Schemes",
+     "Activated Sleeper",
+     "Protean Hulk",
+     "Kokusho, the Evening Star",
+     "Dictate of Erebos"
+    ],
+    "gallery": [],
+    "heading": "Idea general",
+    "heading_html": "Idea general",
+    "html": "<p><span class=\"role-ref\" data-role=\"aristocrat\">Aristocrats</span> + reanimator amb un pla de <span class=\"role-ref\" data-role=\"combo\">combo</span> de <strong><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus, the Unhallowed</span></strong>. Meren premia sacrificar criatures (comptadors d'experiència) i cada final de torn retorna una criatura del cementiri al camp (o a la mà si encara no tens prou experiència). La baralla:</p>\n<ol><li><strong>Menja</strong>: 11 <span class=\"role-ref\" data-role=\"ramp\">mana dorks</span> i criatures barates amb efectes d'entrada/mort (<span class=\"card-ref\" data-card=\"Sakura-Tribe Elder\">Sakura-Tribe Elder</span>, <span class=\"card-ref\" data-card=\"Spore Frog\">Spore Frog</span>, <span class=\"card-ref\" data-card=\"Cankerbloom\">Cankerbloom</span>, <span class=\"card-ref\" data-card=\"Haywire Mite\">Haywire Mite</span>, <span class=\"card-ref\" data-card=\"Plaguecrafter\">Plaguecrafter</span>, <span class=\"card-ref\" data-card=\"Demon&#x27;s Disciple\">Demon's Disciple</span>, <span class=\"card-ref\" data-card=\"Accursed Marauder\">Accursed Marauder</span>, <span class=\"card-ref\" data-card=\"Ravenous Chupacabra\">Ravenous Chupacabra</span>).</li><li><strong>Resa</strong>: <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlets</span> (<span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span>, <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span>, <span class=\"card-ref\" data-card=\"Carrion Feeder\">Carrion Feeder</span>, <span class=\"card-ref\" data-card=\"Culling the Weak\">Culling the Weak</span>, <span class=\"card-ref\" data-card=\"Phyrexian Tower\">Phyrexian Tower</span>, <span class=\"card-ref\" data-card=\"Lazotep Quarry\">Lazotep Quarry</span>, <span class=\"card-ref\" data-card=\"Birthing Pod\">Birthing Pod</span>, <span class=\"card-ref\" data-card=\"Eldritch Evolution\">Eldritch Evolution</span>, <span class=\"card-ref\" data-card=\"Birthing Ritual\">Birthing Ritual</span>, <span class=\"card-ref\" data-card=\"Braids, Arisen Nightmare\">Braids</span>) i <span class=\"role-ref\" data-role=\"engine\">engines</span> de cartes per mort (<span class=\"card-ref\" data-card=\"Grim Haruspex\">Grim Haruspex</span>, <span class=\"card-ref\" data-card=\"Midnight Reaper\">Midnight Reaper</span>, <span class=\"card-ref\" data-card=\"Morbid Opportunist\">Morbid Opportunist</span>, <span class=\"card-ref\" data-card=\"Skullclamp\">Skullclamp</span>, <span class=\"card-ref\" data-card=\"Dark Confidant\">Dark Confidant</span>, <span class=\"card-ref\" data-card=\"Necropotence\">Necropotence</span>).</li><li><strong>Mata</strong>: <span class=\"role-ref\" data-role=\"recursion\">reanimation</span> barata (<span class=\"card-ref\" data-card=\"Reanimate\">Reanimate</span>, <span class=\"card-ref\" data-card=\"Animate Dead\">Animate Dead</span>, <span class=\"card-ref\" data-card=\"Necromancy\">Necromancy</span>, <span class=\"card-ref\" data-card=\"Dance of the Dead\">Dance of the Dead</span>, <span class=\"card-ref\" data-card=\"Malakir Rebirth\">Malakir Rebirth</span>, <span class=\"card-ref\" data-card=\"Body Snatcher\">Body Snatcher</span>, <span class=\"card-ref\" data-card=\"Phyrexian Delver\">Phyrexian Delver</span>, <span class=\"card-ref\" data-card=\"Demon of Dark Schemes\">Demon of Dark Schemes</span>, <span class=\"card-ref\" data-card=\"Activated Sleeper\">Activated Sleeper</span>) per posar <strong><span class=\"card-ref\" data-card=\"Protean Hulk\">Protean Hulk</span></strong>, <strong><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span></strong> o <strong><span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span></strong> en joc molt abans d'hora, i <span class=\"role-ref\" data-role=\"removal\">edicts</span> repetibles (<span class=\"card-ref\" data-card=\"Dictate of Erebos\">Dictate of Erebos</span>, <span class=\"card-ref\" data-card=\"Plaguecrafter\">Plaguecrafter</span>) que deixen els rivals sense taula.</li></ol>",
+    "id": "idea-general",
+    "level": 2
+   },
+   {
+    "cards": [],
+    "gallery": [],
+    "heading": "Combos més comuns",
+    "heading_html": "<span class=\"role-ref\" data-role=\"combo\">Combos</span> més comuns",
+    "html": "",
+    "id": "combos-mes-comuns",
+    "level": 2
+   },
+   {
+    "cards": [
+     "Mikaeus, the Unhallowed",
+     "Yawgmoth, Thran Physician",
+     "Kokusho, the Evening Star",
+     "Gray Merchant of Asphodel",
+     "Viscera Seer",
+     "Dictate of Erebos"
+    ],
+    "gallery": [
+     "Mikaeus, the Unhallowed",
+     "Yawgmoth, Thran Physician",
+     "Kokusho, the Evening Star",
+     "Gray Merchant of Asphodel",
+     "Viscera Seer",
+     "Dictate of Erebos"
+    ],
+    "heading": "1. Mikaeus, the Unhallowed + Yawgmoth, Thran Physician + 2 criatures no humanes = WIN",
+    "heading_html": "1. <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus, the Unhallowed</span> + <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth, Thran Physician</span> + 2 criatures no humanes = WIN",
+    "html": "<div class=\"card-gallery\" data-cards=\"Mikaeus, the Unhallowed|Yawgmoth, Thran Physician|Kokusho, the Evening Star|Gray Merchant of Asphodel|Viscera Seer|Dictate of Erebos\"></div>\n<ul><li><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> dona \"undying\" a les teves criatures no humanes. <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> és Humà, així que no l'afecta, però ell és el <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span>.</li><li>Sacrifica la criatura A (paga 1 vida): robes una carta i poses un comptador -1/-1. A torna amb un comptador +1/+1. Sacrifica B, i posa el -1/-1 sobre A: els comptadors s'anul·len i A torna a tenir undying. Repeteix alternant.</li><li>Resultat: robes tota la biblioteca, poses comptadors -1/-1 infinits a les criatures rivals (els escombres la taula) i guanyes experiència infinita per a Meren.</li><li><span class=\"role-ref\" data-role=\"wincon\">Wincon</span>: <strong><span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho, the Evening Star</span></strong> al bucle (amb <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> no és Humà → undying): cada mort drena 5 a cada rival. <strong><span class=\"card-ref\" data-card=\"Gray Merchant of Asphodel\">Gray Merchant of Asphodel</span></strong> reanimat també tanca la partida. Amb <strong><span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span></strong> en lloc de <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> el bucle no és infinit (falta treure el comptador), però sí que pots matar <span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span> dues vegades.</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Dictate of Erebos\">Dictate of Erebos</span></strong> a taula cada sacrifici teu és un <span class=\"role-ref\" data-role=\"removal\">edict</span> per a cada rival.</li></ul>",
+    "id": "1-mikaeus-the-unhallowed-yawgmoth-thran-physician-2-criatures-no-humanes-win",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Protean Hulk",
+     "Viscera Seer",
+     "Culling the Weak",
+     "Phyrexian Tower",
+     "Eldritch Evolution",
+     "Birthing Pod",
+     "Mikaeus, the Unhallowed",
+     "Yawgmoth, Thran Physician",
+     "Haywire Mite",
+     "Spore Frog",
+     "Body Snatcher",
+     "Carrion Feeder",
+     "Kokusho, the Evening Star",
+     "Entomb",
+     "Buried Alive",
+     "Unmarked Grave",
+     "Reanimate",
+     "Animate Dead",
+     "Necromancy",
+     "Dance of the Dead",
+     "Phyrexian Delver",
+     "Demon of Dark Schemes",
+     "Activated Sleeper"
+    ],
+    "gallery": [
+     "Protean Hulk",
+     "Viscera Seer",
+     "Culling the Weak",
+     "Phyrexian Tower",
+     "Eldritch Evolution",
+     "Birthing Pod",
+     "Mikaeus, the Unhallowed",
+     "Yawgmoth, Thran Physician"
+    ],
+    "heading": "2. Protean Hulk = tutor de 6 manàs al camp",
+    "heading_html": "2. <span class=\"card-ref\" data-card=\"Protean Hulk\">Protean Hulk</span> = <span class=\"role-ref\" data-role=\"tutor\">tutor</span> de 6 manàs al camp",
+    "html": "<div class=\"card-gallery\" data-cards=\"Protean Hulk|Viscera Seer|Culling the Weak|Phyrexian Tower|Eldritch Evolution|Birthing Pod|Mikaeus, the Unhallowed|Yawgmoth, Thran Physician\"></div>\n<ul><li>Hulk mor (<span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span>, <span class=\"card-ref\" data-card=\"Culling the Weak\">Culling the Weak</span>, <span class=\"card-ref\" data-card=\"Phyrexian Tower\">Phyrexian Tower</span>, <span class=\"card-ref\" data-card=\"Eldritch Evolution\">Eldritch Evolution</span> sacrificant-lo, <span class=\"card-ref\" data-card=\"Birthing Pod\">Birthing Pod</span>) → busca criatures amb cost total ≤6.</li><li>Piles habituals:<ul><li><strong><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> (6)</strong> si ja tens <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> a taula o a la mà.</li><li><strong><span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> (4) + <span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span> (1) + <span class=\"card-ref\" data-card=\"Haywire Mite\">Haywire Mite</span> / <span class=\"card-ref\" data-card=\"Spore Frog\">Spore Frog</span> (1)</strong> si ja tens <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span>.</li><li><strong><span class=\"card-ref\" data-card=\"Body Snatcher\">Body Snatcher</span> (4) + <span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span> (1) + <span class=\"card-ref\" data-card=\"Carrion Feeder\">Carrion Feeder</span> (1)</strong>: sacrifica <span class=\"card-ref\" data-card=\"Body Snatcher\">Body Snatcher</span> → Hulk torna → segon disparador de Hulk.</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> ja a taula</strong>, Hulk té undying: mor dues vegades = 12 manàs de criatures (<span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> + Seer + Mite, i després <span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span>).</li></ul></li><li>Com posar-lo: <strong><span class=\"card-ref\" data-card=\"Entomb\">Entomb</span> / <span class=\"card-ref\" data-card=\"Buried Alive\">Buried Alive</span> / <span class=\"card-ref\" data-card=\"Unmarked Grave\">Unmarked Grave</span> → <span class=\"card-ref\" data-card=\"Reanimate\">Reanimate</span> / <span class=\"card-ref\" data-card=\"Animate Dead\">Animate Dead</span> / <span class=\"card-ref\" data-card=\"Necromancy\">Necromancy</span> / <span class=\"card-ref\" data-card=\"Dance of the Dead\">Dance of the Dead</span></strong>; o <span class=\"card-ref\" data-card=\"Birthing Pod\">Birthing Pod</span> des d'un 6; o <span class=\"card-ref\" data-card=\"Eldritch Evolution\">Eldritch Evolution</span> des d'un 5 (<span class=\"card-ref\" data-card=\"Phyrexian Delver\">Phyrexian Delver</span>, <span class=\"card-ref\" data-card=\"Demon of Dark Schemes\">Demon of Dark Schemes</span>).</li><li><strong><span class=\"card-ref\" data-card=\"Activated Sleeper\">Activated Sleeper</span></strong>: si Hulk ha mort aquest torn, entra com a còpia i el tornes a sacrificar. <strong>Meren</strong> amb 7 d'experiència retorna Hulk cada final de torn.</li></ul>",
+    "id": "2-protean-hulk-tutor-de-6-manas-al-camp",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Birthing Pod",
+     "Eldritch Evolution",
+     "Birthing Ritual",
+     "Dark Confidant",
+     "Cankerbloom",
+     "Plaguecrafter",
+     "Grim Haruspex",
+     "Yawgmoth, Thran Physician",
+     "Body Snatcher",
+     "Mikaeus, the Unhallowed",
+     "Kokusho, the Evening Star",
+     "Sakura-Tribe Elder"
+    ],
+    "gallery": [
+     "Birthing Pod",
+     "Eldritch Evolution",
+     "Birthing Ritual",
+     "Dark Confidant",
+     "Cankerbloom",
+     "Plaguecrafter",
+     "Grim Haruspex",
+     "Yawgmoth, Thran Physician"
+    ],
+    "heading": "3. Cadenes de Birthing Pod / Eldritch Evolution / Birthing Ritual",
+    "heading_html": "3. Cadenes de <span class=\"card-ref\" data-card=\"Birthing Pod\">Birthing Pod</span> / <span class=\"card-ref\" data-card=\"Eldritch Evolution\">Eldritch Evolution</span> / <span class=\"card-ref\" data-card=\"Birthing Ritual\">Birthing Ritual</span>",
+    "html": "<div class=\"card-gallery\" data-cards=\"Birthing Pod|Eldritch Evolution|Birthing Ritual|Dark Confidant|Cankerbloom|Plaguecrafter|Grim Haruspex|Yawgmoth, Thran Physician\"></div>\n<ul><li>Pod: 1 (dork) → 2 (<span class=\"card-ref\" data-card=\"Dark Confidant\">Dark Confidant</span>, <span class=\"card-ref\" data-card=\"Cankerbloom\">Cankerbloom</span>) → 3 (<span class=\"card-ref\" data-card=\"Plaguecrafter\">Plaguecrafter</span>, <span class=\"card-ref\" data-card=\"Grim Haruspex\">Grim Haruspex</span>) → 4 (<strong><span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span></strong>, <span class=\"card-ref\" data-card=\"Body Snatcher\">Body Snatcher</span>) → 5 (Chupacabra, Delver) → 6 (<strong><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span></strong>, <span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span>) → 7 (<strong>Hulk</strong>).</li><li><span class=\"card-ref\" data-card=\"Eldritch Evolution\">Eldritch Evolution</span> salta 2: d'un dork d'1 a <span class=\"card-ref\" data-card=\"Grim Haruspex\">Grim Haruspex</span>, de <span class=\"card-ref\" data-card=\"Plaguecrafter\">Plaguecrafter</span> a Delver/Demon, de <span class=\"card-ref\" data-card=\"Sakura-Tribe Elder\">Sakura-Tribe Elder</span> a <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span>.</li><li><span class=\"card-ref\" data-card=\"Birthing Ritual\">Birthing Ritual</span> cada final de torn mira 7 i posa una criatura de cost X+1.</li><li>Tot el que sacrifiques torna amb Meren; tot el que mor dona experiència.</li></ul>",
+    "id": "3-cadenes-de-birthing-pod-eldritch-evolution-birthing-ritual",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Plaguecrafter",
+     "Demon's Disciple",
+     "Accursed Marauder",
+     "Dictate of Erebos",
+     "Braids, Arisen Nightmare",
+     "Mindslicer",
+     "Culling Ritual",
+     "Toxic Deluge",
+     "Yahenni's Expertise",
+     "Bane of Progress"
+    ],
+    "gallery": [
+     "Plaguecrafter",
+     "Demon's Disciple",
+     "Accursed Marauder",
+     "Dictate of Erebos",
+     "Braids, Arisen Nightmare",
+     "Mindslicer",
+     "Culling Ritual",
+     "Toxic Deluge"
+    ],
+    "heading": "4. Edicts en bucle (stax de criatures)",
+    "heading_html": "4. <span class=\"role-ref\" data-role=\"removal\">Edicts</span> en bucle (<span class=\"role-ref\" data-role=\"stax\">stax</span> de criatures)",
+    "html": "<div class=\"card-gallery\" data-cards=\"Plaguecrafter|Demon&#x27;s Disciple|Accursed Marauder|Dictate of Erebos|Braids, Arisen Nightmare|Mindslicer|Culling Ritual|Toxic Deluge\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Plaguecrafter\">Plaguecrafter</span> / <span class=\"card-ref\" data-card=\"Demon&#x27;s Disciple\">Demon's Disciple</span> / <span class=\"card-ref\" data-card=\"Accursed Marauder\">Accursed Marauder</span></strong> + Meren: cada torn moren, tornen i cada rival torna a sacrificar.</li><li><strong><span class=\"card-ref\" data-card=\"Dictate of Erebos\">Dictate of Erebos</span></strong> + qualsevol <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span>: cada dork teu que sacrifiques és un <span class=\"role-ref\" data-role=\"removal\">edict</span> triple.</li><li><strong><span class=\"card-ref\" data-card=\"Braids, Arisen Nightmare\">Braids, Arisen Nightmare</span></strong>: sacrifiques una terra / criatura / artefacte al final del torn i els rivals perden 2 vides i tu robes si no t'imiten.</li><li><strong><span class=\"card-ref\" data-card=\"Mindslicer\">Mindslicer</span></strong> + <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span>: tothom descarta la mà. A tu tant te fa, jugues des del cementiri amb Meren.</li><li><strong><span class=\"card-ref\" data-card=\"Culling Ritual\">Culling Ritual</span></strong>, <strong><span class=\"card-ref\" data-card=\"Toxic Deluge\">Toxic Deluge</span></strong>, <strong><span class=\"card-ref\" data-card=\"Yahenni&#x27;s Expertise\">Yahenni's Expertise</span></strong>, <strong><span class=\"card-ref\" data-card=\"Bane of Progress\">Bane of Progress</span></strong>: <span class=\"role-ref\" data-role=\"wipe\">board wipes</span> que respecten el teu pla (les teves criatures tornen).</li></ul>",
+    "id": "4-edicts-en-bucle-stax-de-criatures",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Grim Haruspex",
+     "Midnight Reaper",
+     "Morbid Opportunist",
+     "Skullclamp",
+     "Elvish Mystic",
+     "Boreal Druid",
+     "Arbor Elf",
+     "Yawgmoth, Thran Physician",
+     "Dark Confidant",
+     "Necropotence",
+     "Orcish Bowmasters"
+    ],
+    "gallery": [
+     "Grim Haruspex",
+     "Midnight Reaper",
+     "Morbid Opportunist",
+     "Skullclamp",
+     "Elvish Mystic",
+     "Boreal Druid",
+     "Arbor Elf",
+     "Yawgmoth, Thran Physician"
+    ],
+    "heading": "5. Engines de cartes per mort",
+    "heading_html": "5. <span class=\"role-ref\" data-role=\"engine\">Engines</span> de cartes per mort",
+    "html": "<div class=\"card-gallery\" data-cards=\"Grim Haruspex|Midnight Reaper|Morbid Opportunist|Skullclamp|Elvish Mystic|Boreal Druid|Arbor Elf|Yawgmoth, Thran Physician\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Grim Haruspex\">Grim Haruspex</span>, <span class=\"card-ref\" data-card=\"Midnight Reaper\">Midnight Reaper</span>, <span class=\"card-ref\" data-card=\"Morbid Opportunist\">Morbid Opportunist</span></strong>: cada criatura teva que mor és una carta.</li><li><strong><span class=\"card-ref\" data-card=\"Skullclamp\">Skullclamp</span></strong> en dorks X/1 (Llanowar, <span class=\"card-ref\" data-card=\"Elvish Mystic\">Elvish Mystic</span>, <span class=\"card-ref\" data-card=\"Boreal Druid\">Boreal Druid</span>, <span class=\"card-ref\" data-card=\"Arbor Elf\">Arbor Elf</span>...): 2 cartes per {1}.</li><li><strong><span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span></strong> només amb dorks: roba i posa -1/-1 als X/1 rivals.</li><li><strong><span class=\"card-ref\" data-card=\"Dark Confidant\">Dark Confidant</span></strong> i <strong><span class=\"card-ref\" data-card=\"Necropotence\">Necropotence</span></strong> com a combustible extra; <strong><span class=\"card-ref\" data-card=\"Orcish Bowmasters\">Orcish Bowmasters</span></strong> castiga els <span class=\"role-ref\" data-role=\"wheel\">wheels</span> rivals.</li></ul>",
+    "id": "5-engines-de-cartes-per-mort",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Spore Frog",
+     "Sakura-Tribe Elder",
+     "Eternal Witness",
+     "Reanimate",
+     "Culling the Weak",
+     "Toxic Deluge",
+     "Talon Gates of Madara",
+     "Dauthi Voidwalker"
+    ],
+    "gallery": [
+     "Spore Frog",
+     "Sakura-Tribe Elder",
+     "Eternal Witness",
+     "Reanimate",
+     "Culling the Weak",
+     "Toxic Deluge",
+     "Talon Gates of Madara",
+     "Dauthi Voidwalker"
+    ],
+    "heading": "6. Valor defensiu amb Meren",
+    "heading_html": "6. Valor defensiu amb Meren",
+    "html": "<div class=\"card-gallery\" data-cards=\"Spore Frog|Sakura-Tribe Elder|Eternal Witness|Reanimate|Culling the Weak|Toxic Deluge|Talon Gates of Madara|Dauthi Voidwalker\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Spore Frog\">Spore Frog</span></strong> cada torn = boira permanent.</li><li><strong><span class=\"card-ref\" data-card=\"Sakura-Tribe Elder\">Sakura-Tribe Elder</span></strong> cada torn = una terra per torn.</li><li><strong><span class=\"card-ref\" data-card=\"Eternal Witness\">Eternal Witness</span></strong> en bucle recupera <span class=\"card-ref\" data-card=\"Reanimate\">Reanimate</span>, <span class=\"card-ref\" data-card=\"Culling the Weak\">Culling the Weak</span>, <span class=\"card-ref\" data-card=\"Toxic Deluge\">Toxic Deluge</span>.</li><li><strong><span class=\"card-ref\" data-card=\"Talon Gates of Madara\">Talon Gates of Madara</span></strong>: fa desaparèixer temporalment Meren davant d'un <span class=\"role-ref\" data-role=\"wipe\">board wipe</span> o de l'atacant rival.</li><li><strong><span class=\"card-ref\" data-card=\"Dauthi Voidwalker\">Dauthi Voidwalker</span></strong>: apaga la <span class=\"role-ref\" data-role=\"recursion\">reanimation</span> rival i et deixa jugar el que exilia.</li></ul>",
+    "id": "6-valor-defensiu-amb-meren",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Worldly Tutor",
+     "Diabolic Intent",
+     "Entomb",
+     "Buried Alive",
+     "Unmarked Grave",
+     "Eldritch Evolution",
+     "Birthing Pod",
+     "Birthing Ritual",
+     "Protean Hulk",
+     "Crop Rotation",
+     "Yawgmoth, Thran Physician",
+     "Mikaeus, the Unhallowed",
+     "Reanimate",
+     "Kokusho, the Evening Star",
+     "Gray Merchant of Asphodel",
+     "Dictate of Erebos",
+     "Plaguecrafter",
+     "Toxic Deluge",
+     "Grim Haruspex",
+     "Skullclamp",
+     "Necropotence",
+     "Viscera Seer",
+     "Phyrexian Tower",
+     "Lazotep Quarry",
+     "Talon Gates of Madara",
+     "Collective Resistance",
+     "Malakir Rebirth",
+     "Spore Frog",
+     "Haywire Mite",
+     "Cankerbloom",
+     "Assassin's Trophy",
+     "Abrupt Decay",
+     "Body Snatcher"
+    ],
+    "gallery": [
+     "Mikaeus, the Unhallowed",
+     "Yawgmoth, Thran Physician",
+     "Protean Hulk",
+     "Kokusho, the Evening Star",
+     "Viscera Seer",
+     "Body Snatcher",
+     "Dictate of Erebos",
+     "Grim Haruspex",
+     "Skullclamp",
+     "Necropotence"
+    ],
+    "heading": "Cartes clau (objectius de tutor)",
+    "heading_html": "Cartes clau (objectius de <span class=\"role-ref\" data-role=\"tutor\">tutor</span>)",
+    "html": "<p><span class=\"role-ref\" data-role=\"tutor\">Tutors</span> de la baralla: <strong><span class=\"card-ref\" data-card=\"Worldly Tutor\">Worldly Tutor</span></strong> (criatura a dalt), <strong><span class=\"card-ref\" data-card=\"Diabolic Intent\">Diabolic Intent</span></strong> (qualsevol carta, sacrificant una criatura: a sobre dona experiència), <strong><span class=\"card-ref\" data-card=\"Entomb\">Entomb</span> / <span class=\"card-ref\" data-card=\"Buried Alive\">Buried Alive</span> / <span class=\"card-ref\" data-card=\"Unmarked Grave\">Unmarked Grave</span></strong> (criatures al cementiri; <span class=\"card-ref\" data-card=\"Unmarked Grave\">Unmarked Grave</span> només no llegendàries, així que Hulk sí, <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span>/<span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span> no), <strong><span class=\"card-ref\" data-card=\"Eldritch Evolution\">Eldritch Evolution</span> / <span class=\"card-ref\" data-card=\"Birthing Pod\">Birthing Pod</span> / <span class=\"card-ref\" data-card=\"Birthing Ritual\">Birthing Ritual</span></strong> (criatures al camp), <strong><span class=\"card-ref\" data-card=\"Protean Hulk\">Protean Hulk</span></strong>, <strong><span class=\"card-ref\" data-card=\"Crop Rotation\">Crop Rotation</span></strong> (terres).</p>\n<table class=\"md-table\"><thead><tr><th>Situació</th><th>Buscar</th></tr></thead><tbody><tr><td>Guanyar (tens <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> o <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span>)</td><td>L'altra peça: <strong><span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth, Thran Physician</span></strong> / <strong><span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus, the Unhallowed</span></strong></td></tr><tr><td>Tens <span class=\"role-ref\" data-role=\"recursion\">reanimation</span> a la mà</td><td><strong><span class=\"card-ref\" data-card=\"Protean Hulk\">Protean Hulk</span></strong> al cementiri (<span class=\"card-ref\" data-card=\"Entomb\">Entomb</span> / <span class=\"card-ref\" data-card=\"Buried Alive\">Buried Alive</span>)</td></tr><tr><td><span class=\"card-ref\" data-card=\"Buried Alive\">Buried Alive</span></td><td><strong>Hulk + <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> + <span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span></strong>; <span class=\"card-ref\" data-card=\"Reanimate\">Reanimate</span> a Hulk i Meren retorna la resta</td></tr><tr><td><span class=\"role-ref\" data-role=\"wincon\">Wincon</span> després del bucle</td><td><strong><span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho, the Evening Star</span></strong>, <strong><span class=\"card-ref\" data-card=\"Gray Merchant of Asphodel\">Gray Merchant of Asphodel</span></strong></td></tr><tr><td>Rivals amb taula</td><td><strong><span class=\"card-ref\" data-card=\"Dictate of Erebos\">Dictate of Erebos</span></strong>, <strong><span class=\"card-ref\" data-card=\"Plaguecrafter\">Plaguecrafter</span></strong>, <strong><span class=\"card-ref\" data-card=\"Toxic Deluge\">Toxic Deluge</span></strong></td></tr><tr><td>Cartes</td><td><strong><span class=\"card-ref\" data-card=\"Grim Haruspex\">Grim Haruspex</span></strong>, <strong><span class=\"card-ref\" data-card=\"Skullclamp\">Skullclamp</span></strong>, <strong><span class=\"card-ref\" data-card=\"Necropotence\">Necropotence</span></strong></td></tr><tr><td>Necessites un <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span></td><td><strong><span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span></strong>, <strong><span class=\"card-ref\" data-card=\"Phyrexian Tower\">Phyrexian Tower</span></strong> (<span class=\"card-ref\" data-card=\"Crop Rotation\">Crop Rotation</span>), <strong><span class=\"card-ref\" data-card=\"Lazotep Quarry\">Lazotep Quarry</span></strong></td></tr><tr><td>Et faran un <span class=\"role-ref\" data-role=\"wipe\">board wipe</span> / mataran Meren</td><td><strong><span class=\"card-ref\" data-card=\"Talon Gates of Madara\">Talon Gates of Madara</span></strong> (<span class=\"card-ref\" data-card=\"Crop Rotation\">Crop Rotation</span>), <strong><span class=\"card-ref\" data-card=\"Collective Resistance\">Collective Resistance</span></strong>, <strong><span class=\"card-ref\" data-card=\"Malakir Rebirth\">Malakir Rebirth</span></strong>, <strong><span class=\"card-ref\" data-card=\"Spore Frog\">Spore Frog</span></strong></td></tr><tr><td>Graveyard <span class=\"role-ref\" data-role=\"stax\">hate</span> rival</td><td><strong><span class=\"card-ref\" data-card=\"Haywire Mite\">Haywire Mite</span></strong>, <strong><span class=\"card-ref\" data-card=\"Cankerbloom\">Cankerbloom</span></strong>, <strong><span class=\"card-ref\" data-card=\"Assassin&#x27;s Trophy\">Assassin's Trophy</span></strong>, <strong><span class=\"card-ref\" data-card=\"Abrupt Decay\">Abrupt Decay</span></strong></td></tr></tbody></table>\n<p><strong>Top 10 de rellevància</strong>: <span class=\"card-ref\" data-card=\"Mikaeus, the Unhallowed\">Mikaeus</span> · <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> · <span class=\"card-ref\" data-card=\"Protean Hulk\">Protean Hulk</span> · <span class=\"card-ref\" data-card=\"Kokusho, the Evening Star\">Kokusho</span> · <span class=\"card-ref\" data-card=\"Viscera Seer\">Viscera Seer</span> · <span class=\"card-ref\" data-card=\"Body Snatcher\">Body Snatcher</span> · <span class=\"card-ref\" data-card=\"Dictate of Erebos\">Dictate of Erebos</span> · <span class=\"card-ref\" data-card=\"Grim Haruspex\">Grim Haruspex</span> · <span class=\"card-ref\" data-card=\"Skullclamp\">Skullclamp</span> · <span class=\"card-ref\" data-card=\"Necropotence\">Necropotence</span>.</p>\n<div class=\"card-gallery\" data-cards=\"Mikaeus, the Unhallowed|Yawgmoth, Thran Physician|Protean Hulk|Kokusho, the Evening Star|Viscera Seer|Body Snatcher|Dictate of Erebos|Grim Haruspex|Skullclamp|Necropotence\"></div>",
+    "id": "cartes-clau-objectius-de-tutor",
+    "level": 2
+   },
+   {
+    "cards": [
+     "Dauthi Voidwalker",
+     "Haywire Mite",
+     "Cankerbloom",
+     "Assassin's Trophy",
+     "Abrupt Decay",
+     "Boseiju, Who Endures",
+     "Collective Resistance",
+     "Body Snatcher",
+     "Yawgmoth, Thran Physician",
+     "Necropotence",
+     "Reanimate"
+    ],
+    "gallery": [],
+    "heading": "Punts febles",
+    "heading_html": "Punts febles",
+    "html": "<ul><li><strong>Rest in Peace / Leyline of the Void / <span class=\"card-ref\" data-card=\"Dauthi Voidwalker\">Dauthi Voidwalker</span> rival</strong> apaguen Meren i tota la <span class=\"role-ref\" data-role=\"recursion\">reanimation</span>. Respostes: <span class=\"card-ref\" data-card=\"Haywire Mite\">Haywire Mite</span>, <span class=\"card-ref\" data-card=\"Cankerbloom\">Cankerbloom</span>, <span class=\"card-ref\" data-card=\"Assassin&#x27;s Trophy\">Assassin's Trophy</span>, <span class=\"card-ref\" data-card=\"Abrupt Decay\">Abrupt Decay</span>, <span class=\"card-ref\" data-card=\"Boseiju, Who Endures\">Boseiju</span>, <span class=\"card-ref\" data-card=\"Collective Resistance\">Collective Resistance</span>.</li><li>Torpor Orb / Hushbringer anul·len Hulk, <span class=\"card-ref\" data-card=\"Body Snatcher\">Body Snatcher</span>, Delver i els <span class=\"role-ref\" data-role=\"removal\">edicts</span>.</li><li>El bucle de <span class=\"card-ref\" data-card=\"Yawgmoth, Thran Physician\">Yawgmoth</span> costa 1 vida per activació; compte amb la vida gastada en <span class=\"card-ref\" data-card=\"Necropotence\">Necropotence</span> i <span class=\"card-ref\" data-card=\"Reanimate\">Reanimate</span>.</li></ul>",
+    "id": "punts-febles",
+    "level": 2
+   }
+  ],
+  "subtitle": "Golgari: B/G",
+  "title": "Meren of Clan Nel Toth – EAT PRAY KILL"
+ },
+ "md_file": "_Meren_of_Clan_Nel_Toth_EAT_PRAY_KILL.md",
+ "owner": "Ivan",
+ "slug": "meren-of-clan-nel-toth-eat-pray-kill",
+ "stats": {
+  "avg_mana_value": 2.62,
+  "by_type": {
+   "Artifact": 3,
+   "Battle": 0,
+   "Creature": 41,
+   "Enchantment": 7,
+   "Instant": 11,
+   "Land": 29,
+   "Other": 0,
+   "Planeswalker": 0,
+   "Sorcery": 9
+  },
+  "cards_by_color": {
+   "B": 39,
+   "G": 23,
+   "R": 0,
+   "U": 0,
+   "W": 0,
+   "colorless": 3,
+   "multicolor": 6
+  },
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "distinct_cards": 92,
+  "game_changers": [
+   "Crop Rotation",
+   "Necropotence",
+   "Orcish Bowmasters",
+   "Worldly Tutor"
+  ],
+  "keywords": [
+   {
+    "count": 3,
+    "keyword": "Enchant"
+   },
+   {
+    "count": 3,
+    "keyword": "Flash"
+   },
+   {
+    "count": 3,
+    "keyword": "Flying"
+   },
+   {
+    "count": 2,
+    "keyword": "Proliferate"
+   },
+   {
+    "count": 1,
+    "keyword": "Amass"
+   },
+   {
+    "count": 1,
+    "keyword": "Channel"
+   },
+   {
+    "count": 1,
+    "keyword": "Equip"
+   },
+   {
+    "count": 1,
+    "keyword": "Escalate"
+   },
+   {
+    "count": 1,
+    "keyword": "Fight"
+   },
+   {
+    "count": 1,
+    "keyword": "Intimidate"
+   }
+  ],
+  "land_count": 29,
+  "mana_curve": {
+   "0": 0,
+   "1": 23,
+   "2": 15,
+   "3": 15,
+   "4": 9,
+   "5": 3,
+   "6": 5,
+   "7+": 1
+  },
+  "mana_sources": {
+   "by_color": {
+    "B": 29,
+    "C": 7,
+    "G": 32,
+    "R": 5,
+    "U": 5,
+    "W": 5
+   },
+   "lands_colored": 27,
+   "lands_total": 29,
+   "nonland_producers": 19
+  },
+  "nonland_count": 71,
+  "pips": {
+   "B": 63,
+   "C": 0,
+   "G": 35,
+   "R": 0,
+   "U": 0,
+   "W": 0,
+   "generic": 90
+  },
+  "price_eur": {
+   "most_expensive": [
+    {
+     "name": "Boseiju, Who Endures",
+     "price_eur": 41.34
+    },
+    {
+     "name": "Urborg, Tomb of Yawgmoth",
+     "price_eur": 35.05
+    },
+    {
+     "name": "Orcish Bowmasters",
+     "price_eur": 32.63
+    },
+    {
+     "name": "Prismatic Vista",
+     "price_eur": 30.39
+    },
+    {
+     "name": "Yawgmoth, Thran Physician",
+     "price_eur": 29.04
+    }
+   ],
+   "priced_cards": 87,
+   "total": 590.55,
+   "unpriced_cards": 13
+  },
+  "rarity": {
+   "common": 24,
+   "mythic": 9,
+   "rare": 43,
+   "uncommon": 24
+  },
+  "roles": [
+   {
+    "cards": [
+     "Arbor Elf",
+     "Birds of Paradise",
+     "Boreal Druid",
+     "Culling Ritual",
+     "Culling the Weak",
+     "Dark Ritual",
+     "Deathrite Shaman",
+     "Elves of Deep Shadow",
+     "Elvish Mystic",
+     "Fyndhorn Elves",
+     "Llanowar Elves",
+     "Priest of Titania",
+     "Sakura-Tribe Elder",
+     "Sol Ring",
+     "Wild Growth"
+    ],
+    "count": 15,
+    "id": "ramp"
+   },
+   {
+    "cards": [
+     "Dark Confidant",
+     "Disciple of Freyalise",
+     "Grim Haruspex",
+     "Midnight Reaper",
+     "Morbid Opportunist",
+     "Necropotence",
+     "Nurturing Peatland",
+     "Skullclamp",
+     "Yawgmoth, Thran Physician"
+    ],
+    "count": 9,
+    "id": "draw"
+   },
+   {
+    "cards": [
+     "Birthing Pod",
+     "Birthing Ritual",
+     "Buried Alive",
+     "Crop Rotation",
+     "Diabolic Intent",
+     "Eldritch Evolution",
+     "Entomb",
+     "Protean Hulk",
+     "Unmarked Grave",
+     "Worldly Tutor"
+    ],
+    "count": 10,
+    "id": "tutor"
+   },
+   {
+    "cards": [
+     "Abrupt Decay",
+     "Accursed Marauder",
+     "Assassin's Trophy",
+     "Boseiju, Who Endures",
+     "Bridgeworks Battle",
+     "Cankerbloom",
+     "Collective Resistance",
+     "Demon's Disciple",
+     "Dictate of Erebos",
+     "Fell the Profane",
+     "Haywire Mite",
+     "Orcish Bowmasters",
+     "Plaguecrafter",
+     "Ravenous Chupacabra"
+    ],
+    "count": 14,
+    "id": "removal"
+   },
+   {
+    "cards": [
+     "Bane of Progress",
+     "Culling Ritual",
+     "Demon of Dark Schemes",
+     "Toxic Deluge",
+     "Yahenni's Expertise"
+    ],
+    "count": 5,
+    "id": "wipe"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "counter"
+   },
+   {
+    "cards": [
+     "Collective Resistance",
+     "Malakir Rebirth",
+     "Revitalizing Repast",
+     "Spore Frog",
+     "Talon Gates of Madara"
+    ],
+    "count": 5,
+    "id": "protection"
+   },
+   {
+    "cards": [
+     "Meren of Clan Nel Toth",
+     "Activated Sleeper",
+     "Animate Dead",
+     "Body Snatcher",
+     "Dance of the Dead",
+     "Demon of Dark Schemes",
+     "Eternal Witness",
+     "Malakir Rebirth",
+     "Mikaeus, the Unhallowed",
+     "Necromancy",
+     "Phyrexian Delver",
+     "Reanimate"
+    ],
+    "count": 12,
+    "id": "recursion"
+   },
+   {
+    "cards": [
+     "Birthing Pod",
+     "Birthing Ritual",
+     "Braids, Arisen Nightmare",
+     "Carrion Feeder",
+     "Culling the Weak",
+     "Diabolic Intent",
+     "Disciple of Freyalise",
+     "Eldritch Evolution",
+     "Lazotep Quarry",
+     "Phyrexian Tower",
+     "Viscera Seer",
+     "Yawgmoth, Thran Physician"
+    ],
+    "count": 12,
+    "id": "sac-outlet"
+   },
+   {
+    "cards": [
+     "Gray Merchant of Asphodel",
+     "Kokusho, the Evening Star"
+    ],
+    "count": 2,
+    "id": "aristocrat"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "tokens"
+   },
+   {
+    "cards": [
+     "Mikaeus, the Unhallowed"
+    ],
+    "count": 1,
+    "id": "lord"
+   },
+   {
+    "cards": [
+     "Meren of Clan Nel Toth",
+     "Birthing Pod",
+     "Birthing Ritual",
+     "Braids, Arisen Nightmare",
+     "Dark Confidant",
+     "Demon of Dark Schemes",
+     "Grim Haruspex",
+     "Midnight Reaper",
+     "Morbid Opportunist",
+     "Necropotence",
+     "Skullclamp"
+    ],
+    "count": 11,
+    "id": "engine"
+   },
+   {
+    "cards": [
+     "Activated Sleeper",
+     "Body Snatcher",
+     "Dictate of Erebos",
+     "Gray Merchant of Asphodel",
+     "Kokusho, the Evening Star",
+     "Mikaeus, the Unhallowed",
+     "Protean Hulk",
+     "Viscera Seer",
+     "Yawgmoth, Thran Physician"
+    ],
+    "count": 9,
+    "id": "combo"
+   },
+   {
+    "cards": [
+     "Gray Merchant of Asphodel",
+     "Kokusho, the Evening Star"
+    ],
+    "count": 2,
+    "id": "wincon"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "enabler"
+   },
+   {
+    "cards": [
+     "Accursed Marauder",
+     "Boggart Trawler",
+     "Braids, Arisen Nightmare",
+     "Dauthi Voidwalker",
+     "Deathrite Shaman",
+     "Demon's Disciple",
+     "Dictate of Erebos",
+     "Mindslicer",
+     "Orcish Bowmasters",
+     "Plaguecrafter"
+    ],
+    "count": 10,
+    "id": "stax"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "combat"
+   },
+   {
+    "cards": [
+     "Mindslicer"
+    ],
+    "count": 1,
+    "id": "wheel"
+   },
+   {
+    "cards": [
+     "Boggart Trawler",
+     "Boseiju, Who Endures",
+     "Bridgeworks Battle",
+     "Command Tower",
+     "Darkbore Pathway",
+     "Deathcap Glade",
+     "Disciple of Freyalise",
+     "Fell the Profane",
+     "Forest",
+     "Lazotep Quarry",
+     "Llanowar Wastes",
+     "Malakir Rebirth",
+     "Nurturing Peatland",
+     "Overgrown Tomb",
+     "Phyrexian Tower",
+     "Prismatic Vista",
+     "Revitalizing Repast",
+     "Swamp",
+     "Tainted Wood",
+     "Talon Gates of Madara",
+     "Underground Mortuary",
+     "Undergrowth Stadium",
+     "Urborg, Tomb of Yawgmoth",
+     "Verdant Catacombs",
+     "Wastewood Verge",
+     "Woodland Cemetery",
+     "Yavimaya, Cradle of Growth"
+    ],
+    "count": 35,
+    "id": "land"
+   },
+   {
+    "cards": [],
+    "count": 0,
+    "id": "utility"
+   }
+  ],
+  "total_cards": 100
+ },
+ "subtitle": "Golgari: B/G",
+ "title": "Meren of Clan Nel Toth – EAT PRAY KILL"
+}

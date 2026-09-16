@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Abrupt Decay" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Accursed Marauder" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Activated Sleeper" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Animate Dead" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Arbor Elf" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Assassin&apos;s Trophy" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bane of Progress" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Birthing Pod" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Birthing Ritual" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Body Snatcher" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Boggart Trawler" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Boreal Druid" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Boseiju, Who Endures" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Braids, Arisen Nightmare" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bridgeworks Battle" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Buried Alive" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cankerbloom" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Carrion Feeder" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Collective Resistance" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Command Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Crop Rotation" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Culling Ritual" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Culling the Weak" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dance of the Dead" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dark Confidant" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dark Ritual" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Darkbore Pathway" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dauthi Voidwalker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Deathcap Glade" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Deathrite Shaman" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Demon of Dark Schemes" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Demon&apos;s Disciple" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Diabolic Intent" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dictate of Erebos" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Disciple of Freyalise" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Eldritch Evolution" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Elves of Deep Shadow" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Elvish Mystic" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Entomb" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Eternal Witness" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Fell the Profane" />
+  <Cards CatID="0" Quantity="6" Sideboard="false" Name="Forest" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Fyndhorn Elves" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Gray Merchant of Asphodel" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Grim Haruspex" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Haywire Mite" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Kokusho, the Evening Star" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Lazotep Quarry" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Llanowar Elves" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Llanowar Wastes" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Malakir Rebirth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Midnight Reaper" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mikaeus, the Unhallowed" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mindslicer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Morbid Opportunist" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Necromancy" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Necropotence" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Nurturing Peatland" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Orcish Bowmasters" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Overgrown Tomb" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Phyrexian Delver" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Phyrexian Tower" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Plaguecrafter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Priest of Titania" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Prismatic Vista" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Protean Hulk" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Ravenous Chupacabra" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Reanimate" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Revitalizing Repast" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Skullclamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Spore Frog" />
+  <Cards CatID="0" Quantity="4" Sideboard="false" Name="Swamp" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tainted Wood" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Talon Gates of Madara" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Toxic Deluge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Underground Mortuary" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Undergrowth Stadium" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Unmarked Grave" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Urborg, Tomb of Yawgmoth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Verdant Catacombs" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Viscera Seer" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wastewood Verge" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wild Growth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Woodland Cemetery" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Worldly Tutor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Yahenni&apos;s Expertise" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Yavimaya, Cradle of Growth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Yawgmoth, Thran Physician" />
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Meren of Clan Nel Toth" />
+</Deck>

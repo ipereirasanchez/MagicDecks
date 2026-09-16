@@ -1,0 +1,232 @@
+{
+ "deck": "Ms_Bumbleflower",
+ "cards": {
+  "Ms. Bumbleflower": [
+   "engine",
+   "draw"
+  ],
+  "Tamiyo, Field Researcher": [
+   "draw"
+  ],
+  "Dusk Legion Duelist": [
+   "draw"
+  ],
+  "Evolution Witness": [
+   "recursion"
+  ],
+  "Loran of the Third Path": [
+   "removal",
+   "draw"
+  ],
+  "Loki, God of Mischief": [
+   "draw",
+   "engine"
+  ],
+  "Innkeeper's Talent": [
+   "combo",
+   "wincon"
+  ],
+  "Consider": [
+   "draw"
+  ],
+  "Crop Rotation": [
+   "tutor"
+  ],
+  "Experimental Augury": [
+   "draw",
+   "combo"
+  ],
+  "Growth Spiral": [
+   "ramp",
+   "draw"
+  ],
+  "Mystical Tutor": [
+   "tutor"
+  ],
+  "Otherworldly Gaze": [
+   "draw"
+  ],
+  "Shrieking Drake": [
+   "combo",
+   "engine"
+  ],
+  "Whitemane Lion": [
+   "combo",
+   "engine"
+  ],
+  "Spectral Sailor": [
+   "draw"
+  ],
+  "View from Above": [
+   "enabler"
+  ],
+  "Shimmering Wings": [
+   "enabler"
+  ],
+  "Dreamtide Whale": [
+   "engine",
+   "combo"
+  ],
+  "Walking Ballista": [
+   "wincon",
+   "combo"
+  ],
+  "Morska, Undersea Sleuth": [
+   "engine",
+   "draw"
+  ],
+  "Simic Ascendancy": [
+   "wincon",
+   "combo"
+  ],
+  "Triskaidekaphile": [
+   "wincon",
+   "draw"
+  ],
+  "Managorger Hydra": [
+   "wincon"
+  ],
+  "Chasm Skulker": [
+   "wincon",
+   "tokens"
+  ],
+  "Forgotten Ancient": [
+   "engine",
+   "combo"
+  ],
+  "Authority of the Consuls": [
+   "stax"
+  ],
+  "Narset, Parter of Veils": [
+   "stax",
+   "draw"
+  ],
+  "Blind Obedience": [
+   "stax"
+  ],
+  "Grand Abolisher": [
+   "protection"
+  ],
+  "High Fae Trickster": [
+   "enabler"
+  ],
+  "Jolrael, Mwonvuli Recluse": [
+   "engine",
+   "tokens"
+  ],
+  "Prophet of Kruphix": [
+   "enabler"
+  ],
+  "Seedborn Muse": [
+   "enabler"
+  ],
+  "Wilderness Reclamation": [
+   "enabler",
+   "ramp"
+  ],
+  "Herd Baloth": [
+   "tokens"
+  ],
+  "Beast Within": [
+   "removal"
+  ],
+  "Cyclonic Rift": [
+   "wipe",
+   "removal"
+  ],
+  "Damning Verdict": [
+   "wipe"
+  ],
+  "Generous Gift": [
+   "removal"
+  ],
+  "Snap": [
+   "removal"
+  ],
+  "Swords to Plowshares": [
+   "removal"
+  ],
+  "Unwind": [
+   "counter"
+  ],
+  "Wear Down": [
+   "removal"
+  ],
+  "Rapid Hybridization": [
+   "removal"
+  ],
+  "Glen Elendra Guardian": [
+   "counter"
+  ],
+  "Mana Leak": [
+   "counter"
+  ],
+  "Sink into Stupor": [
+   "removal",
+   "land"
+  ],
+  "Counterspell": [
+   "counter"
+  ],
+  "Kid Loki": [
+   "engine",
+   "protection"
+  ],
+  "Bastion Protector": [
+   "protection"
+  ],
+  "Guardian Augmenter": [
+   "protection"
+  ],
+  "Heroic Intervention": [
+   "protection"
+  ],
+  "Tenuous Truce": [
+   "stax",
+   "draw"
+  ],
+  "Tyvar's Stand": [
+   "protection"
+  ],
+  "Dawn's Truce": [
+   "protection"
+  ],
+  "Flare of Fortitude": [
+   "protection"
+  ],
+  "Swiftfoot Boots": [
+   "protection"
+  ],
+  "Bloom Tender": [
+   "ramp"
+  ],
+  "Farseek": [
+   "ramp"
+  ],
+  "Kami of Whispered Hopes": [
+   "combo",
+   "ramp"
+  ],
+  "Kodama's Reach": [
+   "ramp"
+  ],
+  "Tender Wildguide": [
+   "ramp"
+  ],
+  "Birds of Paradise": [
+   "ramp"
+  ],
+  "Sol Ring": [
+   "ramp"
+  ],
+  "Forest": [
+   "land"
+  ],
+  "Island": [
+   "land"
+  ],
+  "Plains": [
+   "land"
+  ]
+ }
+}

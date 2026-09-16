@@ -1,0 +1,258 @@
+{
+ "decks": [
+  {
+   "bracket": 4,
+   "card_count": 100,
+   "color_identity": [
+    "W",
+    "B",
+    "R"
+   ],
+   "commander": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a577ba08-0aa8-45be-aa83-d5078770127c.jpg?1783908078",
+    "name": "Edgar Markov",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a577ba08-0aa8-45be-aa83-d5078770127c.jpg?1783908078"
+   },
+   "commanders": [
+    "Edgar Markov"
+   ],
+   "file": "data/decks/edgar-markov-vampire-tribal.json",
+   "has_guide": true,
+   "owner": "Ivan",
+   "price_eur": 874.89,
+   "slug": "edgar-markov-vampire-tribal",
+   "subtitle": "Mardu: W/B/R",
+   "title": "Edgar Markov – Vampire Tribal"
+  },
+  {
+   "bracket": 3,
+   "card_count": 108,
+   "color_identity": [
+    "W",
+    "B",
+    "G"
+   ],
+   "commander": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/2/328df403-7428-4b17-bdd1-9759fc0f32d8.jpg?1783916041",
+    "name": "Frodo, Adventurous Hobbit",
+    "normal": "https://cards.scryfall.io/normal/front/3/2/328df403-7428-4b17-bdd1-9759fc0f32d8.jpg?1783916041"
+   },
+   "commanders": [
+    "Frodo, Adventurous Hobbit",
+    "Sam, Loyal Attendant"
+   ],
+   "file": "data/decks/hobbits.json",
+   "has_guide": true,
+   "owner": "Miquel",
+   "price_eur": 221.93,
+   "slug": "hobbits",
+   "subtitle": "Abzan: G/W/B",
+   "title": "Hobbits"
+  },
+  {
+   "bracket": 4,
+   "card_count": 100,
+   "color_identity": [
+    "R"
+   ],
+   "commander": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+    "name": "Krenko, Mob Boss",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065"
+   },
+   "commanders": [
+    "Krenko, Mob Boss"
+   ],
+   "file": "data/decks/krenko-mob-boss-goblin-combos.json",
+   "has_guide": true,
+   "owner": "Ivan",
+   "price_eur": 738.07,
+   "slug": "krenko-mob-boss-goblin-combos",
+   "subtitle": "Mono vermell",
+   "title": "Krenko, Mob Boss – Goblin Combos"
+  },
+  {
+   "bracket": 4,
+   "card_count": 100,
+   "color_identity": [
+    "B",
+    "G"
+   ],
+   "commander": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026",
+    "name": "Meren of Clan Nel Toth",
+    "normal": "https://cards.scryfall.io/normal/front/5/0/508b1442-bf2c-4ad6-9bcf-bd894e081ab6.jpg?1783907026"
+   },
+   "commanders": [
+    "Meren of Clan Nel Toth"
+   ],
+   "file": "data/decks/meren-of-clan-nel-toth-eat-pray-kill.json",
+   "has_guide": true,
+   "owner": "Ivan",
+   "price_eur": 590.55,
+   "slug": "meren-of-clan-nel-toth-eat-pray-kill",
+   "subtitle": "Golgari: B/G",
+   "title": "Meren of Clan Nel Toth – EAT PRAY KILL"
+  },
+  {
+   "bracket": 4,
+   "card_count": 100,
+   "color_identity": [
+    "W",
+    "U",
+    "G"
+   ],
+   "commander": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739",
+    "name": "Ms. Bumbleflower",
+    "normal": "https://cards.scryfall.io/normal/front/4/2/42bbedc1-6b83-46b4-8b3b-a4e05ce77d87.jpg?1783910739"
+   },
+   "commanders": [
+    "Ms. Bumbleflower"
+   ],
+   "file": "data/decks/ms-bumbleflower.json",
+   "has_guide": true,
+   "owner": "Ivan",
+   "price_eur": 219.82,
+   "slug": "ms-bumbleflower",
+   "subtitle": "Bant: G/W/U",
+   "title": "Ms. Bumbleflower"
+  },
+  {
+   "bracket": 4,
+   "card_count": 100,
+   "color_identity": [
+    "U",
+    "B",
+    "R"
+   ],
+   "commander": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1.jpg?1783916249",
+    "name": "Sauron, the Dark Lord",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1.jpg?1783916249"
+   },
+   "commanders": [
+    "Sauron, the Dark Lord"
+   ],
+   "file": "data/decks/sauron-the-dark-lord.json",
+   "has_guide": true,
+   "owner": "Ivan",
+   "price_eur": 958.02,
+   "slug": "sauron-the-dark-lord",
+   "subtitle": "Grixis: U/B/R",
+   "title": "Sauron, the Dark Lord"
+  }
+ ],
+ "generated_at": "2026-09-15T14:41:31Z",
+ "owners": [
+  "Ivan",
+  "Miquel"
+ ],
+ "roles": [
+  {
+   "ca": "Accelerar el manà: terres extra, criatures o pedres que produeixen manà. Permet jugar cartes cares abans que els rivals.",
+   "id": "ramp",
+   "label": "Ramp"
+  },
+  {
+   "ca": "Robar cartes o generar avantatge de cartes. Sense això la mà es buida i la baralla es queda sense gasolina.",
+   "id": "draw",
+   "label": "Card draw"
+  },
+  {
+   "ca": "Buscar una carta concreta a la biblioteca i posar-la a la mà, a dalt de tot o directament en joc. Dona consistència: converteix qualsevol mà en la peça que falta.",
+   "id": "tutor",
+   "label": "Tutor"
+  },
+  {
+   "ca": "Eliminar un permanent concret d'un rival: destruir, exiliar, fer sacrificar (edict) o rebotar.",
+   "id": "removal",
+   "label": "Removal"
+  },
+  {
+   "ca": "Netejar tota la taula d'un cop (o gairebé). Reinicia la partida quan els rivals van per davant.",
+   "id": "wipe",
+   "label": "Board wipe"
+  },
+  {
+   "ca": "Contrarestar un encanteri a la pila perquè no arribi a resoldre's. Només a velocitat d'instantani, normalment blau.",
+   "id": "counter",
+   "label": "Counterspell"
+  },
+  {
+   "ca": "Protegir les teves cartes: hexproof, indestructible, fer-les intocables un torn o salvar-les d'un board wipe.",
+   "id": "protection",
+   "label": "Protection"
+  },
+  {
+   "ca": "Recuperar cartes del cementiri, a la mà o directament al camp de batalla (reanimation).",
+   "id": "recursion",
+   "label": "Recursion"
+  },
+  {
+   "ca": "Un efecte que et permet sacrificar criatures quan vulguis, gratis o per un cost petit. És el motor dels combos de sacrifici i una resposta al removal (sacrifiques en resposta).",
+   "id": "sac-outlet",
+   "label": "Sac outlet"
+  },
+  {
+   "ca": "Cartes que castiguen quan moren criatures (Blood Artist) o que drenen vida als rivals. Amb un sac outlet i fitxes converteixen cada mort en dany.",
+   "id": "aristocrat",
+   "label": "Aristocrat"
+  },
+  {
+   "ca": "Crear fitxes de criatura. Omplen la taula per atacar, bloquejar o sacrificar.",
+   "id": "tokens",
+   "label": "Token maker"
+  },
+  {
+   "ca": "Bonificar tot l'exèrcit alhora: +1/+1 a totes les criatures d'un tipus (lord) o a totes les teves (anthem).",
+   "id": "lord",
+   "label": "Lord / Anthem"
+  },
+  {
+   "ca": "Motor de valor repetible: cada torn (o cada cop que passa una cosa) genera cartes, manà o fitxes. Sol ser el que fa que la baralla \"vagi sola\".",
+   "id": "engine",
+   "label": "Engine"
+  },
+  {
+   "ca": "Peça d'un combo: amb una o dues cartes més crea un bucle infinit o una jugada que guanya la partida.",
+   "id": "combo",
+   "label": "Combo piece"
+  },
+  {
+   "ca": "Condició de victòria: la carta que tanca la partida, sigui amb dany massiu, drenatge o una victòria alternativa.",
+   "id": "wincon",
+   "label": "Wincon"
+  },
+  {
+   "ca": "Fa que el pla funcioni: dona pressa, desgira, dona flash o permet activar habilitats més d'un cop. No guanya sola, però sense ella el motor va lent.",
+   "id": "enabler",
+   "label": "Enabler"
+  },
+  {
+   "ca": "Restringir o encarir el joc dels rivals (Narset, Blind Obedience, Authority of the Consuls). Ells pateixen més que tu perquè la teva baralla està preparada.",
+   "id": "stax",
+   "label": "Stax / Tax"
+  },
+  {
+   "ca": "Fases de combat extra o trucs de combat que fan que un atac normal es converteixi en un atac letal.",
+   "id": "combat",
+   "label": "Combat"
+  },
+  {
+   "ca": "Descartar la mà i robar-ne una de nova (wheel) o fer descartar als rivals. Alimenta el cementiri i les cartes que premien descartar.",
+   "id": "wheel",
+   "label": "Wheel / Discard"
+  },
+  {
+   "ca": "Terres. Les terres amb habilitats extres (utility lands) tenen també el rol que fan (per exemple Phyrexian Tower és sac outlet).",
+   "id": "land",
+   "label": "Land"
+  },
+  {
+   "ca": "Cartes de suport que no encaixen en cap altre rol: valor puntual, flexibilitat o resposta a situacions concretes.",
+   "id": "utility",
+   "label": "Utility"
+  }
+ ]
+}

@@ -1,0 +1,4196 @@
+{
+ "bracket": 4,
+ "bracket_text": "Bracket 4. Llista original de deckstats (`Krenko_Mob_Boss_Goblin_Combos.dek`).",
+ "cards": [
+  {
+   "artist": "Lie Setiawan",
+   "cmc": 4,
+   "collector_number": "204",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Krenko, Mob Boss",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+    "large": "https://cards.scryfall.io/large/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+    "normal": "https://cards.scryfall.io/normal/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+    "png": "https://cards.scryfall.io/png/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.png?1783909065",
+    "small": "https://cards.scryfall.io/small/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065"
+   },
+   "is_commander": true,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}{R}",
+   "name": "Krenko, Mob Boss",
+   "oracle_text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
+   "power": "3",
+   "price_eur": 1.48,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "engine",
+    "tokens",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/204/krenko-mob-boss?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": "3",
+   "type_line": "Legendary Creature — Goblin Warrior"
+  },
+  {
+   "artist": "Richard Sardinha",
+   "cmc": 3,
+   "collector_number": "271",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Thousand-Year Elixir",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95c2d832-5244-4236-81d5-2920aa2e281e.jpg?1783927502",
+    "large": "https://cards.scryfall.io/large/front/9/5/95c2d832-5244-4236-81d5-2920aa2e281e.jpg?1783927502",
+    "normal": "https://cards.scryfall.io/normal/front/9/5/95c2d832-5244-4236-81d5-2920aa2e281e.jpg?1783927502",
+    "png": "https://cards.scryfall.io/png/front/9/5/95c2d832-5244-4236-81d5-2920aa2e281e.png?1783927502",
+    "small": "https://cards.scryfall.io/small/front/9/5/95c2d832-5244-4236-81d5-2920aa2e281e.jpg?1783927502"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}",
+   "name": "Thousand-Year Elixir",
+   "oracle_text": "You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature.",
+   "power": null,
+   "price_eur": 12.4,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/c21/271/thousand-year-elixir?utm_source=api",
+   "set": "c21",
+   "set_name": "Commander 2021",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Darius Zablockis",
+   "cmc": 2,
+   "collector_number": "202",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Lightning Greaves",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/6/b61634ae-05be-4b56-8ebb-9d4ade902e42.jpg?1783903217",
+    "large": "https://cards.scryfall.io/large/front/b/6/b61634ae-05be-4b56-8ebb-9d4ade902e42.jpg?1783903217",
+    "normal": "https://cards.scryfall.io/normal/front/b/6/b61634ae-05be-4b56-8ebb-9d4ade902e42.jpg?1783903217",
+    "png": "https://cards.scryfall.io/png/front/b/6/b61634ae-05be-4b56-8ebb-9d4ade902e42.png?1783903217",
+    "small": "https://cards.scryfall.io/small/front/b/6/b61634ae-05be-4b56-8ebb-9d4ade902e42.jpg?1783903217"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Equip"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Lightning Greaves",
+   "oracle_text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+   "power": null,
+   "price_eur": 4.17,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "enabler",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/202/lightning-greaves?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact — Equipment"
+  },
+  {
+   "artist": "Mark Behm",
+   "cmc": 2,
+   "collector_number": "316",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Crashing Drawbridge",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/018257cf-8981-4691-92ab-6a33f77c9680.jpg?1783907014",
+    "large": "https://cards.scryfall.io/large/front/0/1/018257cf-8981-4691-92ab-6a33f77c9680.jpg?1783907014",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/018257cf-8981-4691-92ab-6a33f77c9680.jpg?1783907014",
+    "png": "https://cards.scryfall.io/png/front/0/1/018257cf-8981-4691-92ab-6a33f77c9680.png?1783907014",
+    "small": "https://cards.scryfall.io/small/front/0/1/018257cf-8981-4691-92ab-6a33f77c9680.jpg?1783907014"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Defender"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Crashing Drawbridge",
+   "oracle_text": "Defender\n{T}: Creatures you control gain haste until end of turn.",
+   "power": "0",
+   "price_eur": 0.72,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tdc/316/crashing-drawbridge?utm_source=api",
+   "set": "tdc",
+   "set_name": "Tarkir: Dragonstorm Commander",
+   "toughness": "4",
+   "type_line": "Artifact Creature — Wall"
+  },
+  {
+   "artist": "Mathias Kollros",
+   "cmc": 2,
+   "collector_number": "133",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Generator Servant",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5ea15262-c00f-4865-bb6a-37ccb2ef62bd.jpg?1783933806",
+    "large": "https://cards.scryfall.io/large/front/5/e/5ea15262-c00f-4865-bb6a-37ccb2ef62bd.jpg?1783933806",
+    "normal": "https://cards.scryfall.io/normal/front/5/e/5ea15262-c00f-4865-bb6a-37ccb2ef62bd.jpg?1783933806",
+    "png": "https://cards.scryfall.io/png/front/5/e/5ea15262-c00f-4865-bb6a-37ccb2ef62bd.png?1783933806",
+    "small": "https://cards.scryfall.io/small/front/5/e/5ea15262-c00f-4865-bb6a-37ccb2ef62bd.jpg?1783933806"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Generator Servant",
+   "oracle_text": "{T}, Sacrifice this creature: Add {C}{C}. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)",
+   "power": "2",
+   "price_eur": 0.19,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp",
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/uma/133/generator-servant?utm_source=api",
+   "set": "uma",
+   "set_name": "Ultimate Masters",
+   "toughness": "1",
+   "type_line": "Creature — Elemental"
+  },
+  {
+   "artist": "Sam Wood",
+   "cmc": 3,
+   "collector_number": "324",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Chieftain",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89fcc35b-76fa-4408-8620-a1e11b2caf1f.jpg?1783930390",
+    "large": "https://cards.scryfall.io/large/front/8/9/89fcc35b-76fa-4408-8620-a1e11b2caf1f.jpg?1783930390",
+    "normal": "https://cards.scryfall.io/normal/front/8/9/89fcc35b-76fa-4408-8620-a1e11b2caf1f.jpg?1783930390",
+    "png": "https://cards.scryfall.io/png/front/8/9/89fcc35b-76fa-4408-8620-a1e11b2caf1f.png?1783930390",
+    "small": "https://cards.scryfall.io/small/front/8/9/89fcc35b-76fa-4408-8620-a1e11b2caf1f.jpg?1783930390"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Haste"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}{R}",
+   "name": "Goblin Chieftain",
+   "oracle_text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nOther Goblin creatures you control get +1/+1 and have haste.",
+   "power": "2",
+   "price_eur": 4.41,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler",
+    "lord"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/jmp/324/goblin-chieftain?utm_source=api",
+   "set": "jmp",
+   "set_name": "Jumpstart",
+   "toughness": "2",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Johann Bodin",
+   "cmc": 1,
+   "collector_number": "143",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Motivator",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/4/94b3a4fb-9024-45ef-a54b-cf3a9fa5b9c2.jpg?1783934551",
+    "large": "https://cards.scryfall.io/large/front/9/4/94b3a4fb-9024-45ef-a54b-cf3a9fa5b9c2.jpg?1783934551",
+    "normal": "https://cards.scryfall.io/normal/front/9/4/94b3a4fb-9024-45ef-a54b-cf3a9fa5b9c2.jpg?1783934551",
+    "png": "https://cards.scryfall.io/png/front/9/4/94b3a4fb-9024-45ef-a54b-cf3a9fa5b9c2.png?1783934551",
+    "small": "https://cards.scryfall.io/small/front/9/4/94b3a4fb-9024-45ef-a54b-cf3a9fa5b9c2.jpg?1783934551"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Goblin Motivator",
+   "oracle_text": "{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.)",
+   "power": "1",
+   "price_eur": 0.18,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m19/143/goblin-motivator?utm_source=api",
+   "set": "m19",
+   "set_name": "Core Set 2019",
+   "toughness": "1",
+   "type_line": "Creature — Goblin Warrior"
+  },
+  {
+   "artist": "Karl Kopinski",
+   "cmc": 3,
+   "collector_number": "130",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Warchief",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5bac033c-dc4e-40a0-b103-4892e4b50249.jpg?1783934992",
+    "large": "https://cards.scryfall.io/large/front/5/b/5bac033c-dc4e-40a0-b103-4892e4b50249.jpg?1783934992",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5bac033c-dc4e-40a0-b103-4892e4b50249.jpg?1783934992",
+    "png": "https://cards.scryfall.io/png/front/5/b/5bac033c-dc4e-40a0-b103-4892e4b50249.png?1783934992",
+    "small": "https://cards.scryfall.io/small/front/5/b/5bac033c-dc4e-40a0-b103-4892e4b50249.jpg?1783934992"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}{R}",
+   "name": "Goblin Warchief",
+   "oracle_text": "Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.",
+   "power": "2",
+   "price_eur": 0.79,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "enabler",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dom/130/goblin-warchief?utm_source=api",
+   "set": "dom",
+   "set_name": "Dominaria",
+   "toughness": "2",
+   "type_line": "Creature — Goblin Warrior"
+  },
+  {
+   "artist": "Warren Mahy",
+   "cmc": 2,
+   "collector_number": "150",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Ashling's Prerogative",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.jpg?1783942880",
+    "large": "https://cards.scryfall.io/large/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.jpg?1783942880",
+    "normal": "https://cards.scryfall.io/normal/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.jpg?1783942880",
+    "png": "https://cards.scryfall.io/png/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.png?1783942880",
+    "small": "https://cards.scryfall.io/small/front/d/8/d850d95e-ba27-49cc-aa7a-42508852fe20.jpg?1783942880"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Ashling's Prerogative",
+   "oracle_text": "As this enchantment enters, choose odd or even. (Zero is even.)\nEach creature with mana value of the chosen quality has haste.\nEach creature without mana value of the chosen quality enters tapped.",
+   "power": null,
+   "price_eur": 0.66,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/lrw/150/ashlings-prerogative?utm_source=api",
+   "set": "lrw",
+   "set_name": "Lorwyn",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Justine Cruz",
+   "cmc": 1,
+   "collector_number": "164",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Mass Hysteria",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/c/3c1854c9-11df-406d-b751-302b6f3a08fd.jpg?1783908114",
+    "large": "https://cards.scryfall.io/large/front/3/c/3c1854c9-11df-406d-b751-302b6f3a08fd.jpg?1783908114",
+    "normal": "https://cards.scryfall.io/normal/front/3/c/3c1854c9-11df-406d-b751-302b6f3a08fd.jpg?1783908114",
+    "png": "https://cards.scryfall.io/png/front/3/c/3c1854c9-11df-406d-b751-302b6f3a08fd.png?1783908114",
+    "small": "https://cards.scryfall.io/small/front/3/c/3c1854c9-11df-406d-b751-302b6f3a08fd.jpg?1783908114"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Mass Hysteria",
+   "oracle_text": "All creatures have haste.",
+   "power": null,
+   "price_eur": 1.18,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/inr/164/mass-hysteria?utm_source=api",
+   "set": "inr",
+   "set_name": "Innistrad Remastered",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Jason Smith",
+   "cmc": 2,
+   "collector_number": "191",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Arcane Signet",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+    "large": "https://cards.scryfall.io/large/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+    "normal": "https://cards.scryfall.io/normal/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222",
+    "png": "https://cards.scryfall.io/png/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.png?1783903222",
+    "small": "https://cards.scryfall.io/small/front/1/c/1cad1bd2-7c56-4ce0-99a6-b2a49c1288dd.jpg?1783903222"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Arcane Signet",
+   "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+   "power": null,
+   "price_eur": 0.49,
+   "primary_type": "Artifact",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/191/arcane-signet?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Adam Rex",
+   "cmc": 2,
+   "collector_number": "76",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Mind Stone",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b30a8f92-ce42-4b27-a893-bcf97fde228d.jpg?1785759375",
+    "large": "https://cards.scryfall.io/large/front/b/3/b30a8f92-ce42-4b27-a893-bcf97fde228d.jpg?1785759375",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b30a8f92-ce42-4b27-a893-bcf97fde228d.jpg?1785759375",
+    "png": "https://cards.scryfall.io/png/front/b/3/b30a8f92-ce42-4b27-a893-bcf97fde228d.png?1785759375",
+    "small": "https://cards.scryfall.io/small/front/b/3/b30a8f92-ce42-4b27-a893-bcf97fde228d.jpg?1785759375"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Mind Stone",
+   "oracle_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card.",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Artifact",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mbc/76/mind-stone?utm_source=api",
+   "set": "mbc",
+   "set_name": "Mystery Booster Commander Edition",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Yigit Koroglu",
+   "cmc": 3,
+   "collector_number": "311",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Phyrexian Altar",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95d9f93c-50a8-41a9-be98-d1900bf1c12f.jpg?1783921789",
+    "large": "https://cards.scryfall.io/large/front/9/5/95d9f93c-50a8-41a9-be98-d1900bf1c12f.jpg?1783921789",
+    "normal": "https://cards.scryfall.io/normal/front/9/5/95d9f93c-50a8-41a9-be98-d1900bf1c12f.jpg?1783921789",
+    "png": "https://cards.scryfall.io/png/front/9/5/95d9f93c-50a8-41a9-be98-d1900bf1c12f.png?1783921789",
+    "small": "https://cards.scryfall.io/small/front/9/5/95d9f93c-50a8-41a9-be98-d1900bf1c12f.jpg?1783921789"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}",
+   "name": "Phyrexian Altar",
+   "oracle_text": "Sacrifice a creature: Add one mana of any color.",
+   "power": null,
+   "price_eur": 39.26,
+   "primary_type": "Artifact",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "sac-outlet",
+    "ramp",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/2x2/311/phyrexian-altar?utm_source=api",
+   "set": "2x2",
+   "set_name": "Double Masters 2022",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Daniel Ljunggren",
+   "cmc": 2,
+   "collector_number": "295",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Ruby Medallion",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+    "large": "https://cards.scryfall.io/large/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+    "normal": "https://cards.scryfall.io/normal/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209",
+    "png": "https://cards.scryfall.io/png/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.png?1783911209",
+    "small": "https://cards.scryfall.io/small/front/6/3/630febf5-58ff-4dab-a5a8-575ebc5435a6.jpg?1783911209"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Ruby Medallion",
+   "oracle_text": "Red spells you cast cost {1} less to cast.",
+   "power": null,
+   "price_eur": 10.81,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh3/295/ruby-medallion?utm_source=api",
+   "set": "mh3",
+   "set_name": "Modern Horizons 3",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Myles Wohl",
+   "cmc": 1,
+   "collector_number": "211",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Sol Ring",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "large": "https://cards.scryfall.io/large/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "normal": "https://cards.scryfall.io/normal/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215",
+    "png": "https://cards.scryfall.io/png/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.png?1783903215",
+    "small": "https://cards.scryfall.io/small/front/9/1/91fdb56b-54d5-4272-8319-505ff987fe9b.jpg?1783903215"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}",
+   "name": "Sol Ring",
+   "oracle_text": "{T}: Add {C}{C}.",
+   "power": null,
+   "price_eur": 1.6,
+   "primary_type": "Artifact",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/211/sol-ring?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Slawomir Maniak",
+   "cmc": 1,
+   "collector_number": "137",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Skirk Prospector",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.jpg?1783918455",
+    "large": "https://cards.scryfall.io/large/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.jpg?1783918455",
+    "normal": "https://cards.scryfall.io/normal/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.jpg?1783918455",
+    "png": "https://cards.scryfall.io/png/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.png?1783918455",
+    "small": "https://cards.scryfall.io/small/front/7/b/7bc508b3-8b38-4cf0-89a7-a2cb247ed083.jpg?1783918455"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Skirk Prospector",
+   "oracle_text": "Sacrifice a Goblin: Add {R}.",
+   "power": "1",
+   "price_eur": 0.17,
+   "primary_type": "Creature",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "sac-outlet",
+    "ramp",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/137/skirk-prospector?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": "1",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Christopher Moeller",
+   "cmc": 4,
+   "collector_number": "136",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Mana Echoes",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd079929-fa58-4484-91b7-31305b87ee43.jpg?1783930162",
+    "large": "https://cards.scryfall.io/large/front/b/d/bd079929-fa58-4484-91b7-31305b87ee43.jpg?1783930162",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bd079929-fa58-4484-91b7-31305b87ee43.jpg?1783930162",
+    "png": "https://cards.scryfall.io/png/front/b/d/bd079929-fa58-4484-91b7-31305b87ee43.png?1783930162",
+    "small": "https://cards.scryfall.io/small/front/b/d/bd079929-fa58-4484-91b7-31305b87ee43.jpg?1783930162"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}{R}",
+   "name": "Mana Echoes",
+   "oracle_text": "Whenever a creature enters, you may add an amount of {C} equal to the number of creatures you control that share a creature type with it.",
+   "power": null,
+   "price_eur": 33.13,
+   "primary_type": "Enchantment",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "ramp",
+    "combo",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/2xm/136/mana-echoes?utm_source=api",
+   "set": "2xm",
+   "set_name": "Double Masters",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Nils Hamm",
+   "cmc": 2,
+   "collector_number": "128",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Battle Hymn",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.jpg?1783940689",
+    "large": "https://cards.scryfall.io/large/front/4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.jpg?1783940689",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.jpg?1783940689",
+    "png": "https://cards.scryfall.io/png/front/4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.png?1783940689",
+    "small": "https://cards.scryfall.io/small/front/4/3/43b5d46e-7054-44f8-9a14-b412f2f0ab86.jpg?1783940689"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Battle Hymn",
+   "oracle_text": "Add {R} for each creature you control.",
+   "power": null,
+   "price_eur": 2.18,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/avr/128/battle-hymn?utm_source=api",
+   "set": "avr",
+   "set_name": "Avacyn Restored",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Wayne England",
+   "cmc": 1,
+   "collector_number": "191",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Brightstone Ritual",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/b/5b08b0a6-c94e-4407-8a24-c8202497b5f2.jpg?1783945058",
+    "large": "https://cards.scryfall.io/large/front/5/b/5b08b0a6-c94e-4407-8a24-c8202497b5f2.jpg?1783945058",
+    "normal": "https://cards.scryfall.io/normal/front/5/b/5b08b0a6-c94e-4407-8a24-c8202497b5f2.jpg?1783945058",
+    "png": "https://cards.scryfall.io/png/front/5/b/5b08b0a6-c94e-4407-8a24-c8202497b5f2.png?1783945058",
+    "small": "https://cards.scryfall.io/small/front/5/b/5b08b0a6-c94e-4407-8a24-c8202497b5f2.jpg?1783945058"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Brightstone Ritual",
+   "oracle_text": "Add {R} for each Goblin on the battlefield.",
+   "power": null,
+   "price_eur": 0.91,
+   "primary_type": "Instant",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ons/191/brightstone-ritual?utm_source=api",
+   "set": "ons",
+   "set_name": "Onslaught",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Izzy",
+   "cmc": 3,
+   "collector_number": "156",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Jeska's Will",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+    "large": "https://cards.scryfall.io/large/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+    "normal": "https://cards.scryfall.io/normal/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996",
+    "png": "https://cards.scryfall.io/png/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.png?1783912996",
+    "small": "https://cards.scryfall.io/small/front/9/9/99e0c371-1024-4432-9fd9-3bc29c8d38e4.jpg?1783912996"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Jeska's Will",
+   "oracle_text": "Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn.",
+   "power": null,
+   "price_eur": 31.41,
+   "primary_type": "Sorcery",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "ramp",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mkc/156/jeskas-will?utm_source=api",
+   "set": "mkc",
+   "set_name": "Murders at Karlov Manor Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Carl Critchlow",
+   "cmc": 2,
+   "collector_number": "162",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Magewright's Stone",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/2/d27e8442-91ce-4106-bfc6-a1f6e0e34c2d.jpg?1783943382",
+    "large": "https://cards.scryfall.io/large/front/d/2/d27e8442-91ce-4106-bfc6-a1f6e0e34c2d.jpg?1783943382",
+    "normal": "https://cards.scryfall.io/normal/front/d/2/d27e8442-91ce-4106-bfc6-a1f6e0e34c2d.jpg?1783943382",
+    "png": "https://cards.scryfall.io/png/front/d/2/d27e8442-91ce-4106-bfc6-a1f6e0e34c2d.png?1783943382",
+    "small": "https://cards.scryfall.io/small/front/d/2/d27e8442-91ce-4106-bfc6-a1f6e0e34c2d.jpg?1783943382"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Magewright's Stone",
+   "oracle_text": "{1}, {T}: Untap target creature that has an activated ability with {T} in its cost.",
+   "power": null,
+   "price_eur": 4.66,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "enabler",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dis/162/magewrights-stone?utm_source=api",
+   "set": "dis",
+   "set_name": "Dissension",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Gabor Szikszai",
+   "cmc": 4,
+   "collector_number": "143",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Ringleader",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.jpg?1783932976",
+    "large": "https://cards.scryfall.io/large/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.jpg?1783932976",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.jpg?1783932976",
+    "png": "https://cards.scryfall.io/png/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.png?1783932976",
+    "small": "https://cards.scryfall.io/small/front/6/9/6911af4e-4abd-4cf9-8a86-ae5d680c6f12.jpg?1783932976"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Haste"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{R}",
+   "name": "Goblin Ringleader",
+   "oracle_text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen this creature enters, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+   "power": "2",
+   "price_eur": 0.43,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m20/143/goblin-ringleader?utm_source=api",
+   "set": "m20",
+   "set_name": "Core Set 2020",
+   "toughness": "2",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Wayne Reynolds",
+   "cmc": 3,
+   "collector_number": "111",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Sharpshooter",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f72e9e2-ed47-40ff-bc2e-8446ef545022.jpg?1783939668",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f72e9e2-ed47-40ff-bc2e-8446ef545022.jpg?1783939668",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f72e9e2-ed47-40ff-bc2e-8446ef545022.jpg?1783939668",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f72e9e2-ed47-40ff-bc2e-8446ef545022.png?1783939668",
+    "small": "https://cards.scryfall.io/small/front/4/f/4f72e9e2-ed47-40ff-bc2e-8446ef545022.jpg?1783939668"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Goblin Sharpshooter",
+   "oracle_text": "This creature doesn't untap during your untap step.\nWhenever a creature dies, untap this creature.\n{T}: This creature deals 1 damage to any target.",
+   "power": "1",
+   "price_eur": 19.24,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/c13/111/goblin-sharpshooter?utm_source=api",
+   "set": "c13",
+   "set_name": "Commander 2013",
+   "toughness": "1",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Zoltan Boros",
+   "cmc": 2,
+   "collector_number": "139",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Conspicuous Snoop",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.jpg?1783930693",
+    "large": "https://cards.scryfall.io/large/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.jpg?1783930693",
+    "normal": "https://cards.scryfall.io/normal/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.jpg?1783930693",
+    "png": "https://cards.scryfall.io/png/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.png?1783930693",
+    "small": "https://cards.scryfall.io/small/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.jpg?1783930693"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}{R}",
+   "name": "Conspicuous Snoop",
+   "oracle_text": "Play with the top card of your library revealed.\nYou may cast Goblin spells from the top of your library.\nAs long as the top card of your library is a Goblin card, this creature has all activated abilities of that card.",
+   "power": "2",
+   "price_eur": 4.01,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "combo",
+    "draw",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m21/139/conspicuous-snoop?utm_source=api",
+   "set": "m21",
+   "set_name": "Core Set 2021",
+   "toughness": "2",
+   "type_line": "Creature — Goblin Rogue"
+  },
+  {
+   "artist": "Dan Frazier",
+   "cmc": 1,
+   "collector_number": "94",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Chirurgeon",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6da90318-4db4-4f03-ae2f-b1faeca46f57.jpg?1783942945",
+    "large": "https://cards.scryfall.io/large/front/6/d/6da90318-4db4-4f03-ae2f-b1faeca46f57.jpg?1783942945",
+    "normal": "https://cards.scryfall.io/normal/front/6/d/6da90318-4db4-4f03-ae2f-b1faeca46f57.jpg?1783942945",
+    "png": "https://cards.scryfall.io/png/front/6/d/6da90318-4db4-4f03-ae2f-b1faeca46f57.png?1783942945",
+    "small": "https://cards.scryfall.io/small/front/6/d/6da90318-4db4-4f03-ae2f-b1faeca46f57.jpg?1783942945"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Regenerate"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Goblin Chirurgeon",
+   "oracle_text": "Sacrifice a Goblin: Regenerate target creature.",
+   "power": "0",
+   "price_eur": null,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "sac-outlet",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/me1/94/goblin-chirurgeon?utm_source=api",
+   "set": "me1",
+   "set_name": "Masters Edition",
+   "toughness": "2",
+   "type_line": "Creature — Goblin Shaman"
+  },
+  {
+   "artist": "Dan Murayama Scott",
+   "cmc": 4,
+   "collector_number": "93",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Lightning Crafter",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/6/f68f5ac9-0345-4052-9f93-d9f7afc66932.jpg?1783942786",
+    "large": "https://cards.scryfall.io/large/front/f/6/f68f5ac9-0345-4052-9f93-d9f7afc66932.jpg?1783942786",
+    "normal": "https://cards.scryfall.io/normal/front/f/6/f68f5ac9-0345-4052-9f93-d9f7afc66932.jpg?1783942786",
+    "png": "https://cards.scryfall.io/png/front/f/6/f68f5ac9-0345-4052-9f93-d9f7afc66932.png?1783942786",
+    "small": "https://cards.scryfall.io/small/front/f/6/f68f5ac9-0345-4052-9f93-d9f7afc66932.jpg?1783942786"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Champion"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{R}",
+   "name": "Lightning Crafter",
+   "oracle_text": "Champion a Goblin or Shaman (When this enters, sacrifice it unless you exile another Goblin or Shaman you control. When this leaves the battlefield, that card returns to the battlefield.)\n{T}: This creature deals 3 damage to any target.",
+   "power": "3",
+   "price_eur": 2.44,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "combo",
+    "wincon",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mor/93/lightning-crafter?utm_source=api",
+   "set": "mor",
+   "set_name": "Morningtide",
+   "toughness": "3",
+   "type_line": "Creature — Goblin Shaman"
+  },
+  {
+   "artist": "Greg Staples",
+   "cmc": 3,
+   "collector_number": "185",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Aggravated Assault",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.jpg?1783945060",
+    "large": "https://cards.scryfall.io/large/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.jpg?1783945060",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.jpg?1783945060",
+    "png": "https://cards.scryfall.io/png/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.png?1783945060",
+    "small": "https://cards.scryfall.io/small/front/c/9/c99c5707-d5f2-4675-bfca-e801e6b0f627.jpg?1783945060"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Aggravated Assault",
+   "oracle_text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate only as a sorcery.",
+   "power": null,
+   "price_eur": 18.45,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "combat",
+    "combo",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ons/185/aggravated-assault?utm_source=api",
+   "set": "ons",
+   "set_name": "Onslaught",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Dave Kendall",
+   "cmc": 2,
+   "collector_number": "279",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Bombardment",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1783926784",
+    "large": "https://cards.scryfall.io/large/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1783926784",
+    "normal": "https://cards.scryfall.io/normal/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1783926784",
+    "png": "https://cards.scryfall.io/png/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.png?1783926784",
+    "small": "https://cards.scryfall.io/small/front/e/2/e262f55e-9239-4a97-a19e-9b08fb34502e.jpg?1783926784"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Goblin Bombardment",
+   "oracle_text": "Sacrifice a creature: This enchantment deals 1 damage to any target.",
+   "power": null,
+   "price_eur": 2.63,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "sac-outlet",
+    "combo",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh2/279/goblin-bombardment?utm_source=api",
+   "set": "mh2",
+   "set_name": "Modern Horizons 2",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Lake Hurwitz",
+   "cmc": 2,
+   "collector_number": "717",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Impact Tremors",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg?1783908891",
+    "large": "https://cards.scryfall.io/large/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg?1783908891",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg?1783908891",
+    "png": "https://cards.scryfall.io/png/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.png?1783908891",
+    "small": "https://cards.scryfall.io/small/front/d/0/d0b7cecf-b51b-4d30-b7e9-cd7976271e07.jpg?1783908891"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Impact Tremors",
+   "oracle_text": "Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "aristocrat",
+    "wincon",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/fdn/717/impact-tremors?utm_source=api",
+   "set": "fdn",
+   "set_name": "Foundations",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Kev Walker",
+   "cmc": 4,
+   "collector_number": "121",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Breath of Fury",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/1/a1fce58d-d754-4532-b4d0-4bb3cf108090.jpg?1783937066",
+    "large": "https://cards.scryfall.io/large/front/a/1/a1fce58d-d754-4532-b4d0-4bb3cf108090.jpg?1783937066",
+    "normal": "https://cards.scryfall.io/normal/front/a/1/a1fce58d-d754-4532-b4d0-4bb3cf108090.jpg?1783937066",
+    "png": "https://cards.scryfall.io/png/front/a/1/a1fce58d-d754-4532-b4d0-4bb3cf108090.png?1783937066",
+    "small": "https://cards.scryfall.io/small/front/a/1/a1fce58d-d754-4532-b4d0-4bb3cf108090.jpg?1783937066"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Enchant"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}{R}",
+   "name": "Breath of Fury",
+   "oracle_text": "Enchant creature you control\nWhen enchanted creature deals combat damage to a player, sacrifice it and attach this Aura to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase.",
+   "power": null,
+   "price_eur": 9.36,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "combat",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/c16/121/breath-of-fury?utm_source=api",
+   "set": "c16",
+   "set_name": "Commander 2016",
+   "toughness": null,
+   "type_line": "Enchantment — Aura"
+  },
+  {
+   "artist": "Jesper Ejsing",
+   "cmc": 2,
+   "collector_number": "145",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Thornbite Staff",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1ab3225-64a9-411e-b22b-1869e958b8e5.jpg?1783942774",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1ab3225-64a9-411e-b22b-1869e958b8e5.jpg?1783942774",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1ab3225-64a9-411e-b22b-1869e958b8e5.jpg?1783942774",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1ab3225-64a9-411e-b22b-1869e958b8e5.png?1783942774",
+    "small": "https://cards.scryfall.io/small/front/c/1/c1ab3225-64a9-411e-b22b-1869e958b8e5.jpg?1783942774"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Equip"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}",
+   "name": "Thornbite Staff",
+   "oracle_text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to any target\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters, you may attach this Equipment to it.\nEquip {4}",
+   "power": null,
+   "price_eur": 7.16,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "combo",
+    "enabler",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mor/145/thornbite-staff?utm_source=api",
+   "set": "mor",
+   "set_name": "Morningtide",
+   "toughness": null,
+   "type_line": "Kindred Artifact — Shaman Equipment"
+  },
+  {
+   "artist": "Dmitry Burmak",
+   "cmc": 6,
+   "collector_number": "24",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Muxus, Goblin Grandee",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1783930502",
+    "large": "https://cards.scryfall.io/large/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1783930502",
+    "normal": "https://cards.scryfall.io/normal/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1783930502",
+    "png": "https://cards.scryfall.io/png/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.png?1783930502",
+    "small": "https://cards.scryfall.io/small/front/2/c/2c716d10-2130-43b7-a939-349d437e1091.jpg?1783930502"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{4}{R}{R}",
+   "name": "Muxus, Goblin Grandee",
+   "oracle_text": "When Muxus enters, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.\nWhenever Muxus attacks, it gets +1/+1 until end of turn for each other Goblin you control.",
+   "power": "4",
+   "price_eur": 11.82,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "engine",
+    "tutor",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/jmp/24/muxus-goblin-grandee?utm_source=api",
+   "set": "jmp",
+   "set_name": "Jumpstart",
+   "toughness": "4",
+   "type_line": "Legendary Creature — Goblin Noble"
+  },
+  {
+   "artist": "Steven Belledin",
+   "cmc": 5,
+   "collector_number": "136",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Kiki-Jiki, Mirror Breaker",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527",
+    "large": "https://cards.scryfall.io/large/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527",
+    "png": "https://cards.scryfall.io/png/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.png?1783935527",
+    "small": "https://cards.scryfall.io/small/front/a/2/a2ff0ee3-9600-4c7d-acec-6ec90595384e.jpg?1783935527"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Haste"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}{R}{R}",
+   "name": "Kiki-Jiki, Mirror Breaker",
+   "oracle_text": "Haste\n{T}: Create a token that's a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",
+   "power": "2",
+   "price_eur": 7.18,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "combo",
+    "wincon",
+    "tokens"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ima/136/kiki-jiki-mirror-breaker?utm_source=api",
+   "set": "ima",
+   "set_name": "Iconic Masters",
+   "toughness": "2",
+   "type_line": "Legendary Creature — Goblin Shaman"
+  },
+  {
+   "artist": "Dave Kendall",
+   "cmc": 3,
+   "collector_number": "133",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Pashalik Mons",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/a/ca20a650-65b0-4714-b7ce-0481af3db377.jpg?1783918458",
+    "large": "https://cards.scryfall.io/large/front/c/a/ca20a650-65b0-4714-b7ce-0481af3db377.jpg?1783918458",
+    "normal": "https://cards.scryfall.io/normal/front/c/a/ca20a650-65b0-4714-b7ce-0481af3db377.jpg?1783918458",
+    "png": "https://cards.scryfall.io/png/front/c/a/ca20a650-65b0-4714-b7ce-0481af3db377.png?1783918458",
+    "small": "https://cards.scryfall.io/small/front/c/a/ca20a650-65b0-4714-b7ce-0481af3db377.jpg?1783918458"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Pashalik Mons",
+   "oracle_text": "Whenever Pashalik Mons or another Goblin you control dies, Pashalik Mons deals 1 damage to any target.\n{3}{R}, Sacrifice a Goblin: Create two 1/1 red Goblin creature tokens.",
+   "power": "2",
+   "price_eur": 2.11,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "aristocrat",
+    "wincon",
+    "tokens"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dmr/133/pashalik-mons?utm_source=api",
+   "set": "dmr",
+   "set_name": "Dominaria Remastered",
+   "toughness": "2",
+   "type_line": "Legendary Creature — Goblin Warrior"
+  },
+  {
+   "artist": "Eric Deschamps",
+   "cmc": 4,
+   "collector_number": "246",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Purphoros, God of the Forge",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/7/4736a2c4-c89c-48db-a104-6303e7e2eee8.jpg?1783915646",
+    "large": "https://cards.scryfall.io/large/front/4/7/4736a2c4-c89c-48db-a104-6303e7e2eee8.jpg?1783915646",
+    "normal": "https://cards.scryfall.io/normal/front/4/7/4736a2c4-c89c-48db-a104-6303e7e2eee8.jpg?1783915646",
+    "png": "https://cards.scryfall.io/png/front/4/7/4736a2c4-c89c-48db-a104-6303e7e2eee8.png?1783915646",
+    "small": "https://cards.scryfall.io/small/front/4/7/4736a2c4-c89c-48db-a104-6303e7e2eee8.jpg?1783915646"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Indestructible"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{R}",
+   "name": "Purphoros, God of the Forge",
+   "oracle_text": "Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nWhenever another creature you control enters, Purphoros deals 2 damage to each opponent.\n{2}{R}: Creatures you control get +1/+0 until end of turn.",
+   "power": "6",
+   "price_eur": 21.6,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "aristocrat",
+    "wincon",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/246/purphoros-god-of-the-forge?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": "5",
+   "type_line": "Legendary Enchantment Creature — God"
+  },
+  {
+   "artist": "Lordigan",
+   "cmc": 1,
+   "collector_number": "210",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Skullclamp",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215",
+    "large": "https://cards.scryfall.io/large/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215",
+    "normal": "https://cards.scryfall.io/normal/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215",
+    "png": "https://cards.scryfall.io/png/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.png?1783903215",
+    "small": "https://cards.scryfall.io/small/front/1/d/1d8b007b-3169-4ee3-80c7-781fc096fc7a.jpg?1783903215"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Equip"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}",
+   "name": "Skullclamp",
+   "oracle_text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}",
+   "power": null,
+   "price_eur": 5.41,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "draw",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/210/skullclamp?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Artifact — Equipment"
+  },
+  {
+   "artist": "Deruchenko Alexander",
+   "cmc": 2,
+   "collector_number": "106",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Dark-Dweller Oracle",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd35664f-b99d-46b6-988e-8f2814b0a854.jpg?1783921890",
+    "large": "https://cards.scryfall.io/large/front/b/d/bd35664f-b99d-46b6-988e-8f2814b0a854.jpg?1783921890",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bd35664f-b99d-46b6-988e-8f2814b0a854.jpg?1783921890",
+    "png": "https://cards.scryfall.io/png/front/b/d/bd35664f-b99d-46b6-988e-8f2814b0a854.png?1783921890",
+    "small": "https://cards.scryfall.io/small/front/b/d/bd35664f-b99d-46b6-988e-8f2814b0a854.jpg?1783921890"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Dark-Dweller Oracle",
+   "oracle_text": "{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn. (You still pay its costs. You can play a land this way only if you have an available land play remaining.)",
+   "power": "2",
+   "price_eur": 0.16,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "sac-outlet",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/2x2/106/dark-dweller-oracle?utm_source=api",
+   "set": "2x2",
+   "set_name": "Double Masters 2022",
+   "toughness": "2",
+   "type_line": "Creature — Goblin Shaman"
+  },
+  {
+   "artist": "Veli Nyström",
+   "cmc": 4,
+   "collector_number": "246",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "The One Ring",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+    "large": "https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+    "normal": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239",
+    "png": "https://cards.scryfall.io/png/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.png?1783916239",
+    "small": "https://cards.scryfall.io/small/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Indestructible"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{4}",
+   "name": "The One Ring",
+   "oracle_text": "Indestructible\nWhen The One Ring enters, if you cast it, you gain protection from everything until your next turn.\nAt the beginning of your upkeep, you lose 1 life for each burden counter on The One Ring.\n{T}: Put a burden counter on The One Ring, then draw a card for each burden counter on The One Ring.",
+   "power": null,
+   "price_eur": 86.7,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "draw",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ltr/246/the-one-ring?utm_source=api",
+   "set": "ltr",
+   "set_name": "The Lord of the Rings: Tales of Middle-earth",
+   "toughness": null,
+   "type_line": "Legendary Artifact"
+  },
+  {
+   "artist": "Leesha Hannigan",
+   "cmc": 3,
+   "collector_number": "261",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Subira, Tulzidi Caravanner",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/da62b97e-e4cd-462d-9ab9-2230ca360c32.jpg?1783915640",
+    "large": "https://cards.scryfall.io/large/front/d/a/da62b97e-e4cd-462d-9ab9-2230ca360c32.jpg?1783915640",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/da62b97e-e4cd-462d-9ab9-2230ca360c32.jpg?1783915640",
+    "png": "https://cards.scryfall.io/png/front/d/a/da62b97e-e4cd-462d-9ab9-2230ca360c32.png?1783915640",
+    "small": "https://cards.scryfall.io/small/front/d/a/da62b97e-e4cd-462d-9ab9-2230ca360c32.jpg?1783915640"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Haste"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Subira, Tulzidi Caravanner",
+   "oracle_text": "Haste\n{1}: Another target creature with power 2 or less can't be blocked this turn.\n{1}{R}, {T}, Discard your hand: Until end of turn, whenever a creature you control with power 2 or less deals combat damage to a player, draw a card.",
+   "power": "2",
+   "price_eur": 0.18,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "draw",
+    "wheel"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/261/subira-tulzidi-caravanner?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": "3",
+   "type_line": "Legendary Creature — Human Shaman"
+  },
+  {
+   "artist": "Jaime Jones",
+   "cmc": 5,
+   "collector_number": "167",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Reforge the Soul",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/c/1c3509c6-2ae7-45be-8ac9-4d14d69db32f.jpg?1783908117",
+    "large": "https://cards.scryfall.io/large/front/1/c/1c3509c6-2ae7-45be-8ac9-4d14d69db32f.jpg?1783908117",
+    "normal": "https://cards.scryfall.io/normal/front/1/c/1c3509c6-2ae7-45be-8ac9-4d14d69db32f.jpg?1783908117",
+    "png": "https://cards.scryfall.io/png/front/1/c/1c3509c6-2ae7-45be-8ac9-4d14d69db32f.png?1783908117",
+    "small": "https://cards.scryfall.io/small/front/1/c/1c3509c6-2ae7-45be-8ac9-4d14d69db32f.jpg?1783908117"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Miracle"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}{R}{R}",
+   "name": "Reforge the Soul",
+   "oracle_text": "Each player discards their hand, then draws seven cards.\nMiracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+   "power": null,
+   "price_eur": 3.39,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wheel",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/inr/167/reforge-the-soul?utm_source=api",
+   "set": "inr",
+   "set_name": "Innistrad Remastered",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "J.P. Targete",
+   "cmc": 3,
+   "collector_number": "211",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Wheel of Misfortune",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74177b51-a300-49d9-8ea7-557b19cf80c7.jpg?1783928800",
+    "large": "https://cards.scryfall.io/large/front/7/4/74177b51-a300-49d9-8ea7-557b19cf80c7.jpg?1783928800",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74177b51-a300-49d9-8ea7-557b19cf80c7.jpg?1783928800",
+    "png": "https://cards.scryfall.io/png/front/7/4/74177b51-a300-49d9-8ea7-557b19cf80c7.png?1783928800",
+    "small": "https://cards.scryfall.io/small/front/7/4/74177b51-a300-49d9-8ea7-557b19cf80c7.jpg?1783928800"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Wheel of Misfortune",
+   "oracle_text": "Each player secretly chooses a number 0 or greater, then all players reveal those numbers simultaneously and determine the highest and lowest numbers revealed this way. Wheel of Misfortune deals damage equal to the highest number to each player who chose that number. Each player who didn't choose the lowest number discards their hand, then draws seven cards.",
+   "power": null,
+   "price_eur": 7.71,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "wheel",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmr/211/wheel-of-misfortune?utm_source=api",
+   "set": "cmr",
+   "set_name": "Commander Legends",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Howard Lyon",
+   "cmc": 3,
+   "collector_number": "335",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Rings of Brighthearth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/3/838ffc87-517a-4d94-8ce0-bc9ed01ecc52.jpg?1783928748",
+    "large": "https://cards.scryfall.io/large/front/8/3/838ffc87-517a-4d94-8ce0-bc9ed01ecc52.jpg?1783928748",
+    "normal": "https://cards.scryfall.io/normal/front/8/3/838ffc87-517a-4d94-8ce0-bc9ed01ecc52.jpg?1783928748",
+    "png": "https://cards.scryfall.io/png/front/8/3/838ffc87-517a-4d94-8ce0-bc9ed01ecc52.png?1783928748",
+    "small": "https://cards.scryfall.io/small/front/8/3/838ffc87-517a-4d94-8ce0-bc9ed01ecc52.jpg?1783928748"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}",
+   "name": "Rings of Brighthearth",
+   "oracle_text": "Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.",
+   "power": null,
+   "price_eur": 4.5,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmr/335/rings-of-brighthearth?utm_source=api",
+   "set": "cmr",
+   "set_name": "Commander Legends",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Ben Thompson",
+   "cmc": 3,
+   "collector_number": "343",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Staff of Domination",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/d/fde838c8-2f32-4e7d-a236-0bc42dd7abd9.jpg?1783928743",
+    "large": "https://cards.scryfall.io/large/front/f/d/fde838c8-2f32-4e7d-a236-0bc42dd7abd9.jpg?1783928743",
+    "normal": "https://cards.scryfall.io/normal/front/f/d/fde838c8-2f32-4e7d-a236-0bc42dd7abd9.jpg?1783928743",
+    "png": "https://cards.scryfall.io/png/front/f/d/fde838c8-2f32-4e7d-a236-0bc42dd7abd9.png?1783928743",
+    "small": "https://cards.scryfall.io/small/front/f/d/fde838c8-2f32-4e7d-a236-0bc42dd7abd9.jpg?1783928743"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{3}",
+   "name": "Staff of Domination",
+   "oracle_text": "{1}: Untap this artifact.\n{2}, {T}: You gain 1 life.\n{3}, {T}: Untap target creature.\n{4}, {T}: Tap target creature.\n{5}, {T}: Draw a card.",
+   "power": null,
+   "price_eur": 9.57,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler",
+    "combo",
+    "draw"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmr/343/staff-of-domination?utm_source=api",
+   "set": "cmr",
+   "set_name": "Commander Legends",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Scott M. Fischer",
+   "cmc": 1,
+   "collector_number": "101",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Welder",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/7/17cd920a-de09-454a-a9da-c84512e3aff1.jpg?1783934742",
+    "large": "https://cards.scryfall.io/large/front/1/7/17cd920a-de09-454a-a9da-c84512e3aff1.jpg?1783934742",
+    "normal": "https://cards.scryfall.io/normal/front/1/7/17cd920a-de09-454a-a9da-c84512e3aff1.jpg?1783934742",
+    "png": "https://cards.scryfall.io/png/front/1/7/17cd920a-de09-454a-a9da-c84512e3aff1.png?1783934742",
+    "small": "https://cards.scryfall.io/small/front/1/7/17cd920a-de09-454a-a9da-c84512e3aff1.jpg?1783934742"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Goblin Welder",
+   "oracle_text": "{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.",
+   "power": "1",
+   "price_eur": 17.01,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "recursion",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cm2/101/goblin-welder?utm_source=api",
+   "set": "cm2",
+   "set_name": "Commander Anthology Volume II",
+   "toughness": "1",
+   "type_line": "Creature — Goblin Artificer"
+  },
+  {
+   "artist": "Matt Stewart",
+   "cmc": 2,
+   "collector_number": "145",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Hexing Squelcher",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442",
+    "large": "https://cards.scryfall.io/large/front/6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442",
+    "normal": "https://cards.scryfall.io/normal/front/6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442",
+    "png": "https://cards.scryfall.io/png/front/6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.png?1783904442",
+    "small": "https://cards.scryfall.io/small/front/6/7/674960ce-ff33-4d5e-a24a-a4582b2e9809.jpg?1783904442"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Ward"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Hexing Squelcher",
+   "oracle_text": "This spell can't be countered.\nWard—Pay 2 life.\nSpells you control can't be countered.\nOther creatures you control have \"Ward—Pay 2 life.\"",
+   "power": "2",
+   "price_eur": 19.86,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ecl/145/hexing-squelcher?utm_source=api",
+   "set": "ecl",
+   "set_name": "Lorwyn Eclipsed",
+   "toughness": "2",
+   "type_line": "Creature — Goblin Sorcerer"
+  },
+  {
+   "artist": "Lie Setiawan",
+   "cmc": 2,
+   "collector_number": "161",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Underworld Breach",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1783931543",
+    "large": "https://cards.scryfall.io/large/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1783931543",
+    "normal": "https://cards.scryfall.io/normal/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1783931543",
+    "png": "https://cards.scryfall.io/png/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.png?1783931543",
+    "small": "https://cards.scryfall.io/small/front/0/e/0e51d796-7279-4c06-87f0-37adbdaa41df.jpg?1783931543"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Underworld Breach",
+   "oracle_text": "Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)\nAt the beginning of the end step, sacrifice this enchantment.",
+   "power": null,
+   "price_eur": 7.01,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "recursion",
+    "combo",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/thb/161/underworld-breach?utm_source=api",
+   "set": "thb",
+   "set_name": "Theros Beyond Death",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Trevor Claxton",
+   "cmc": 3,
+   "collector_number": "72",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Chaos Warp",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb8d8106-b9bd-405c-886e-72fc301c65e1.jpg?1787743253",
+    "large": "https://cards.scryfall.io/large/front/f/b/fb8d8106-b9bd-405c-886e-72fc301c65e1.jpg?1787743253",
+    "normal": "https://cards.scryfall.io/normal/front/f/b/fb8d8106-b9bd-405c-886e-72fc301c65e1.jpg?1787743253",
+    "png": "https://cards.scryfall.io/png/front/f/b/fb8d8106-b9bd-405c-886e-72fc301c65e1.png?1787743253",
+    "small": "https://cards.scryfall.io/small/front/f/b/fb8d8106-b9bd-405c-886e-72fc301c65e1.jpg?1787743253"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Chaos Warp",
+   "oracle_text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mbc/72/chaos-warp?utm_source=api",
+   "set": "mbc",
+   "set_name": "Mystery Booster Commander Edition",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Izzy",
+   "cmc": 3,
+   "collector_number": "214",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Deflecting Swat",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+    "large": "https://cards.scryfall.io/large/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+    "normal": "https://cards.scryfall.io/normal/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656",
+    "png": "https://cards.scryfall.io/png/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.png?1783915656",
+    "small": "https://cards.scryfall.io/small/front/b/4/b4b36435-55b3-4615-8812-af41d4fc64d9.jpg?1783915656"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Deflecting Swat",
+   "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nYou may choose new targets for target spell or ability.",
+   "power": null,
+   "price_eur": 62.22,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "protection",
+    "counter"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/cmm/214/deflecting-swat?utm_source=api",
+   "set": "cmm",
+   "set_name": "Commander Masters",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Lake Hurwitz",
+   "cmc": 1,
+   "collector_number": "142",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Pyroblast",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/0/b029eb9a-dd7a-40c2-96c4-0063d9cc002c.jpg?1783937576",
+    "large": "https://cards.scryfall.io/large/front/b/0/b029eb9a-dd7a-40c2-96c4-0063d9cc002c.jpg?1783937576",
+    "normal": "https://cards.scryfall.io/normal/front/b/0/b029eb9a-dd7a-40c2-96c4-0063d9cc002c.jpg?1783937576",
+    "png": "https://cards.scryfall.io/png/front/b/0/b029eb9a-dd7a-40c2-96c4-0063d9cc002c.png?1783937576",
+    "small": "https://cards.scryfall.io/small/front/b/0/b029eb9a-dd7a-40c2-96c4-0063d9cc002c.jpg?1783937576"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Pyroblast",
+   "oracle_text": "Choose one —\n• Counter target spell if it's blue.\n• Destroy target permanent if it's blue.",
+   "power": null,
+   "price_eur": 10.91,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "counter",
+    "removal",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ema/142/pyroblast?utm_source=api",
+   "set": "ema",
+   "set_name": "Eternal Masters",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Izzy",
+   "cmc": 1,
+   "collector_number": "147",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Red Elemental Blast",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/0/70a45e9b-699e-425a-9f3d-267274830d3e.jpg?1783935140",
+    "large": "https://cards.scryfall.io/large/front/7/0/70a45e9b-699e-425a-9f3d-267274830d3e.jpg?1783935140",
+    "normal": "https://cards.scryfall.io/normal/front/7/0/70a45e9b-699e-425a-9f3d-267274830d3e.jpg?1783935140",
+    "png": "https://cards.scryfall.io/png/front/7/0/70a45e9b-699e-425a-9f3d-267274830d3e.png?1783935140",
+    "small": "https://cards.scryfall.io/small/front/7/0/70a45e9b-699e-425a-9f3d-267274830d3e.jpg?1783935140"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Red Elemental Blast",
+   "oracle_text": "Choose one —\n• Counter target blue spell.\n• Destroy target blue permanent.",
+   "power": null,
+   "price_eur": 11.87,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "counter",
+    "removal",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/a25/147/red-elemental-blast?utm_source=api",
+   "set": "a25",
+   "set_name": "Masters 25",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "jD",
+   "cmc": 2,
+   "collector_number": "145",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Reverberate",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/5996feb4-02ac-45e8-a7f2-966cf74391dc.jpg?1783940482",
+    "large": "https://cards.scryfall.io/large/front/5/9/5996feb4-02ac-45e8-a7f2-966cf74391dc.jpg?1783940482",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/5996feb4-02ac-45e8-a7f2-966cf74391dc.jpg?1783940482",
+    "png": "https://cards.scryfall.io/png/front/5/9/5996feb4-02ac-45e8-a7f2-966cf74391dc.png?1783940482",
+    "small": "https://cards.scryfall.io/small/front/5/9/5996feb4-02ac-45e8-a7f2-966cf74391dc.jpg?1783940482"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}{R}",
+   "name": "Reverberate",
+   "oracle_text": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
+   "power": null,
+   "price_eur": 1.95,
+   "primary_type": "Instant",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "utility",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m13/145/reverberate?utm_source=api",
+   "set": "m13",
+   "set_name": "Magic 2013",
+   "toughness": null,
+   "type_line": "Instant"
+  },
+  {
+   "artist": "Jakub Kasper",
+   "cmc": 4,
+   "collector_number": "144",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Trashmaster",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2bc69988-3c2d-4b76-a8c0-05926b9bbd08.jpg?1783934551",
+    "large": "https://cards.scryfall.io/large/front/2/b/2bc69988-3c2d-4b76-a8c0-05926b9bbd08.jpg?1783934551",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2bc69988-3c2d-4b76-a8c0-05926b9bbd08.jpg?1783934551",
+    "png": "https://cards.scryfall.io/png/front/2/b/2bc69988-3c2d-4b76-a8c0-05926b9bbd08.png?1783934551",
+    "small": "https://cards.scryfall.io/small/front/2/b/2bc69988-3c2d-4b76-a8c0-05926b9bbd08.jpg?1783934551"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}{R}",
+   "name": "Goblin Trashmaster",
+   "oracle_text": "Other Goblins you control get +1/+1.\nSacrifice a Goblin: Destroy target artifact.",
+   "power": "3",
+   "price_eur": 6.08,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "removal",
+    "lord",
+    "sac-outlet"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/m19/144/goblin-trashmaster?utm_source=api",
+   "set": "m19",
+   "set_name": "Core Set 2019",
+   "toughness": "3",
+   "type_line": "Creature — Goblin Warrior"
+  },
+  {
+   "artist": "Franz Vohwinkel",
+   "cmc": 3,
+   "collector_number": "118",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Blood Moon",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1783930171",
+    "large": "https://cards.scryfall.io/large/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1783930171",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1783930171",
+    "png": "https://cards.scryfall.io/png/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.png?1783930171",
+    "small": "https://cards.scryfall.io/small/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1783930171"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Blood Moon",
+   "oracle_text": "Nonbasic lands are Mountains.",
+   "power": null,
+   "price_eur": 7.25,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/2xm/118/blood-moon?utm_source=api",
+   "set": "2xm",
+   "set_name": "Double Masters",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Darrell Riche",
+   "cmc": 3,
+   "collector_number": "214",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Price of Glory",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/8/785ccfe1-04f1-4d2e-9e30-2ae3efe7213a.jpg?1783945225",
+    "large": "https://cards.scryfall.io/large/front/7/8/785ccfe1-04f1-4d2e-9e30-2ae3efe7213a.jpg?1783945225",
+    "normal": "https://cards.scryfall.io/normal/front/7/8/785ccfe1-04f1-4d2e-9e30-2ae3efe7213a.jpg?1783945225",
+    "png": "https://cards.scryfall.io/png/front/7/8/785ccfe1-04f1-4d2e-9e30-2ae3efe7213a.png?1783945225",
+    "small": "https://cards.scryfall.io/small/front/7/8/785ccfe1-04f1-4d2e-9e30-2ae3efe7213a.jpg?1783945225"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Price of Glory",
+   "oracle_text": "Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.",
+   "power": null,
+   "price_eur": 4.61,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "stax"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ody/214/price-of-glory?utm_source=api",
+   "set": "ody",
+   "set_name": "Odyssey",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Javier Charro",
+   "cmc": 1,
+   "collector_number": "168",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Vandalblast",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/1/71067239-d46f-4201-a91c-6aa4c41fa8b1.jpg?1783903232",
+    "large": "https://cards.scryfall.io/large/front/7/1/71067239-d46f-4201-a91c-6aa4c41fa8b1.jpg?1783903232",
+    "normal": "https://cards.scryfall.io/normal/front/7/1/71067239-d46f-4201-a91c-6aa4c41fa8b1.jpg?1783903232",
+    "png": "https://cards.scryfall.io/png/front/7/1/71067239-d46f-4201-a91c-6aa4c41fa8b1.png?1783903232",
+    "small": "https://cards.scryfall.io/small/front/7/1/71067239-d46f-4201-a91c-6aa4c41fa8b1.jpg?1783903232"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Overload"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Vandalblast",
+   "oracle_text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+   "power": null,
+   "price_eur": 1.25,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "removal",
+    "wipe"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/msc/168/vandalblast?utm_source=api",
+   "set": "msc",
+   "set_name": "Marvel Super Heroes Commander",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "Jesper Ejsing",
+   "cmc": 3,
+   "collector_number": "DMR-123",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Matron",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/e/8ee0fdd4-1fb5-4160-b408-2c51ef4f85d0.jpg?1783903458",
+    "large": "https://cards.scryfall.io/large/front/8/e/8ee0fdd4-1fb5-4160-b408-2c51ef4f85d0.jpg?1783903458",
+    "normal": "https://cards.scryfall.io/normal/front/8/e/8ee0fdd4-1fb5-4160-b408-2c51ef4f85d0.jpg?1783903458",
+    "png": "https://cards.scryfall.io/png/front/8/e/8ee0fdd4-1fb5-4160-b408-2c51ef4f85d0.png?1783903458",
+    "small": "https://cards.scryfall.io/small/front/8/e/8ee0fdd4-1fb5-4160-b408-2c51ef4f85d0.jpg?1783903458"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Goblin Matron",
+   "oracle_text": "When this creature enters, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.",
+   "power": "1",
+   "price_eur": 0.12,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "tutor"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/plst/DMR-123/goblin-matron?utm_source=api",
+   "set": "plst",
+   "set_name": "The List",
+   "toughness": "1",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Scott Kirschner",
+   "cmc": 2,
+   "collector_number": "186",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Recruiter",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/1/61bd1548-2ffa-4705-ba88-913f37d4ce92.jpg?1783946171",
+    "large": "https://cards.scryfall.io/large/front/6/1/61bd1548-2ffa-4705-ba88-913f37d4ce92.jpg?1783946171",
+    "normal": "https://cards.scryfall.io/normal/front/6/1/61bd1548-2ffa-4705-ba88-913f37d4ce92.jpg?1783946171",
+    "png": "https://cards.scryfall.io/png/front/6/1/61bd1548-2ffa-4705-ba88-913f37d4ce92.png?1783946171",
+    "small": "https://cards.scryfall.io/small/front/6/1/61bd1548-2ffa-4705-ba88-913f37d4ce92.jpg?1783946171"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Goblin Recruiter",
+   "oracle_text": "When this creature enters, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order.",
+   "power": "1",
+   "price_eur": 4.26,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "tutor",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/6ed/186/goblin-recruiter?utm_source=api",
+   "set": "6ed",
+   "set_name": "Classic Sixth Edition",
+   "toughness": "1",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Jehan Choo",
+   "cmc": 2,
+   "collector_number": "128",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Engineer",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/5/a55c4d47-5252-40af-961d-c08bc688028a.jpg?1783933112",
+    "large": "https://cards.scryfall.io/large/front/a/5/a55c4d47-5252-40af-961d-c08bc688028a.jpg?1783933112",
+    "normal": "https://cards.scryfall.io/normal/front/a/5/a55c4d47-5252-40af-961d-c08bc688028a.jpg?1783933112",
+    "png": "https://cards.scryfall.io/png/front/a/5/a55c4d47-5252-40af-961d-c08bc688028a.png?1783933112",
+    "small": "https://cards.scryfall.io/small/front/a/5/a55c4d47-5252-40af-961d-c08bc688028a.jpg?1783933112"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{1}{R}",
+   "name": "Goblin Engineer",
+   "oracle_text": "When this creature enters, you may search your library for an artifact card, put it into your graveyard, then shuffle.\n{R}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield.",
+   "power": "1",
+   "price_eur": 9.23,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor",
+    "recursion",
+    "combo"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mh1/128/goblin-engineer?utm_source=api",
+   "set": "mh1",
+   "set_name": "Modern Horizons",
+   "toughness": "2",
+   "type_line": "Creature — Goblin Artificer"
+  },
+  {
+   "artist": "Pete Venters",
+   "cmc": 4,
+   "collector_number": "96",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Moggcatcher",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/b/9ba582d7-1dce-4664-8bd9-6b419596788c.jpg?1783945818",
+    "large": "https://cards.scryfall.io/large/front/9/b/9ba582d7-1dce-4664-8bd9-6b419596788c.jpg?1783945818",
+    "normal": "https://cards.scryfall.io/normal/front/9/b/9ba582d7-1dce-4664-8bd9-6b419596788c.jpg?1783945818",
+    "png": "https://cards.scryfall.io/png/front/9/b/9ba582d7-1dce-4664-8bd9-6b419596788c.png?1783945818",
+    "small": "https://cards.scryfall.io/small/front/9/b/9ba582d7-1dce-4664-8bd9-6b419596788c.jpg?1783945818"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}{R}",
+   "name": "Moggcatcher",
+   "oracle_text": "{3}, {T}: Search your library for a Goblin permanent card, put it onto the battlefield, then shuffle.",
+   "power": "2",
+   "price_eur": 6.03,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tutor",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/nem/96/moggcatcher?utm_source=api",
+   "set": "nem",
+   "set_name": "Nemesis",
+   "toughness": "2",
+   "type_line": "Creature — Human Mercenary"
+  },
+  {
+   "artist": "Scott M. Fischer",
+   "cmc": 5,
+   "collector_number": "58",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Coat of Arms",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/513d4c36-6ad4-4ee9-b161-3136eb59504f.jpg?1783936560",
+    "large": "https://cards.scryfall.io/large/front/5/1/513d4c36-6ad4-4ee9-b161-3136eb59504f.jpg?1783936560",
+    "normal": "https://cards.scryfall.io/normal/front/5/1/513d4c36-6ad4-4ee9-b161-3136eb59504f.jpg?1783936560",
+    "png": "https://cards.scryfall.io/png/front/5/1/513d4c36-6ad4-4ee9-b161-3136eb59504f.png?1783936560",
+    "small": "https://cards.scryfall.io/small/front/5/1/513d4c36-6ad4-4ee9-b161-3136eb59504f.jpg?1783936560"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{5}",
+   "name": "Coat of Arms",
+   "oracle_text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)",
+   "power": null,
+   "price_eur": 12.23,
+   "primary_type": "Artifact",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "lord",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/dds/58/coat-of-arms?utm_source=api",
+   "set": "dds",
+   "set_name": "Duel Decks: Mind vs. Might",
+   "toughness": null,
+   "type_line": "Artifact"
+  },
+  {
+   "artist": "Christopher Moeller",
+   "cmc": 1,
+   "collector_number": "167",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin Lackey",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/0/30104836-1e9d-4533-98f8-d5c4e6484b52.jpg?1783939274",
+    "large": "https://cards.scryfall.io/large/front/3/0/30104836-1e9d-4533-98f8-d5c4e6484b52.jpg?1783939274",
+    "normal": "https://cards.scryfall.io/normal/front/3/0/30104836-1e9d-4533-98f8-d5c4e6484b52.jpg?1783939274",
+    "png": "https://cards.scryfall.io/png/front/3/0/30104836-1e9d-4533-98f8-d5c4e6484b52.png?1783939274",
+    "small": "https://cards.scryfall.io/small/front/3/0/30104836-1e9d-4533-98f8-d5c4e6484b52.jpg?1783939274"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Goblin Lackey",
+   "oracle_text": "Whenever this creature deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",
+   "power": "1",
+   "price_eur": null,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "enabler",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/vma/167/goblin-lackey?utm_source=api",
+   "set": "vma",
+   "set_name": "Vintage Masters",
+   "toughness": "1",
+   "type_line": "Creature — Goblin"
+  },
+  {
+   "artist": "Svetlin Velinov",
+   "cmc": 2,
+   "collector_number": "32",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Warren Instigator",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/4/a47fe35f-859c-4663-a4dd-f7ca38e1099a.jpg?1783935607",
+    "large": "https://cards.scryfall.io/large/front/a/4/a47fe35f-859c-4663-a4dd-f7ca38e1099a.jpg?1783935607",
+    "normal": "https://cards.scryfall.io/normal/front/a/4/a47fe35f-859c-4663-a4dd-f7ca38e1099a.jpg?1783935607",
+    "png": "https://cards.scryfall.io/png/front/a/4/a47fe35f-859c-4663-a4dd-f7ca38e1099a.png?1783935607",
+    "small": "https://cards.scryfall.io/small/front/a/4/a47fe35f-859c-4663-a4dd-f7ca38e1099a.jpg?1783935607"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Double strike"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}{R}",
+   "name": "Warren Instigator",
+   "oracle_text": "Double strike\nWhenever this creature deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+   "power": "1",
+   "price_eur": null,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "enabler",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/ddt/32/warren-instigator?utm_source=api",
+   "set": "ddt",
+   "set_name": "Duel Decks: Merfolk vs. Goblins",
+   "toughness": "1",
+   "type_line": "Creature — Goblin Berserker"
+  },
+  {
+   "artist": "Chuck Lukacs",
+   "cmc": 3,
+   "collector_number": "231",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Shared Animosity",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/b/1bd77ae9-c5ba-44af-80e9-7c852722ef6c.jpg?1783913862",
+    "large": "https://cards.scryfall.io/large/front/1/b/1bd77ae9-c5ba-44af-80e9-7c852722ef6c.jpg?1783913862",
+    "normal": "https://cards.scryfall.io/normal/front/1/b/1bd77ae9-c5ba-44af-80e9-7c852722ef6c.jpg?1783913862",
+    "png": "https://cards.scryfall.io/png/front/1/b/1bd77ae9-c5ba-44af-80e9-7c852722ef6c.png?1783913862",
+    "small": "https://cards.scryfall.io/small/front/1/b/1bd77ae9-c5ba-44af-80e9-7c852722ef6c.jpg?1783913862"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Shared Animosity",
+   "oracle_text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.",
+   "power": null,
+   "price_eur": 2.59,
+   "primary_type": "Enchantment",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "lord",
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/lcc/231/shared-animosity?utm_source=api",
+   "set": "lcc",
+   "set_name": "The Lost Caverns of Ixalan Commander",
+   "toughness": null,
+   "type_line": "Enchantment"
+  },
+  {
+   "artist": "Viko Menezes",
+   "cmc": 3,
+   "collector_number": "287",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Krenko, Tin Street Kingpin",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2f5689e2-d8a2-442b-8027-f89686adcb67.jpg?1783917146",
+    "large": "https://cards.scryfall.io/large/front/2/f/2f5689e2-d8a2-442b-8027-f89686adcb67.jpg?1783917146",
+    "normal": "https://cards.scryfall.io/normal/front/2/f/2f5689e2-d8a2-442b-8027-f89686adcb67.jpg?1783917146",
+    "png": "https://cards.scryfall.io/png/front/2/f/2f5689e2-d8a2-442b-8027-f89686adcb67.png?1783917146",
+    "small": "https://cards.scryfall.io/small/front/2/f/2f5689e2-d8a2-442b-8027-f89686adcb67.jpg?1783917146"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{2}{R}",
+   "name": "Krenko, Tin Street Kingpin",
+   "oracle_text": "Whenever Krenko attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",
+   "power": "1",
+   "price_eur": 2.09,
+   "primary_type": "Creature",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "tokens",
+    "engine"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/moc/287/krenko-tin-street-kingpin?utm_source=api",
+   "set": "moc",
+   "set_name": "March of the Machine Commander",
+   "toughness": "2",
+   "type_line": "Legendary Creature — Goblin"
+  },
+  {
+   "artist": "Pete Venters",
+   "cmc": 1,
+   "collector_number": "96",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [
+    "R"
+   ],
+   "faces": null,
+   "full_name": "Goblin War Strike",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.jpg?1783944873",
+    "large": "https://cards.scryfall.io/large/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.jpg?1783944873",
+    "normal": "https://cards.scryfall.io/normal/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.jpg?1783944873",
+    "png": "https://cards.scryfall.io/png/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.png?1783944873",
+    "small": "https://cards.scryfall.io/small/front/d/c/dce59945-37a2-4f09-8831-9d44b4a59ea7.jpg?1783944873"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "{R}",
+   "name": "Goblin War Strike",
+   "oracle_text": "Goblin War Strike deals damage to target player or planeswalker equal to the number of Goblins you control.",
+   "power": null,
+   "price_eur": 0.9,
+   "primary_type": "Sorcery",
+   "produced_mana": [],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "wincon"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/scg/96/goblin-war-strike?utm_source=api",
+   "set": "scg",
+   "set_name": "Scourge",
+   "toughness": null,
+   "type_line": "Sorcery"
+  },
+  {
+   "artist": "John Avon",
+   "cmc": 0,
+   "collector_number": "285",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Darksteel Citadel",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg?1783927495",
+    "large": "https://cards.scryfall.io/large/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg?1783927495",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg?1783927495",
+    "png": "https://cards.scryfall.io/png/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.png?1783927495",
+    "small": "https://cards.scryfall.io/small/front/2/b/2ba7597d-6d76-45b8-b172-342999e401bd.jpg?1783927495"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Indestructible"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Darksteel Citadel",
+   "oracle_text": "Indestructible\n{T}: Add {C}.",
+   "power": null,
+   "price_eur": 1.12,
+   "primary_type": "Land",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/c21/285/darksteel-citadel?utm_source=api",
+   "set": "c21",
+   "set_name": "Commander 2021",
+   "toughness": null,
+   "type_line": "Artifact Land"
+  },
+  {
+   "artist": "Rob Alexander",
+   "cmc": 0,
+   "collector_number": "161",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Great Furnace",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/4/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1.jpg?1783906013",
+    "large": "https://cards.scryfall.io/large/front/7/4/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1.jpg?1783906013",
+    "normal": "https://cards.scryfall.io/normal/front/7/4/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1.jpg?1783906013",
+    "png": "https://cards.scryfall.io/png/front/7/4/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1.png?1783906013",
+    "small": "https://cards.scryfall.io/small/front/7/4/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1.jpg?1783906013"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Great Furnace",
+   "oracle_text": "{T}: Add {R}.",
+   "power": null,
+   "price_eur": 2.56,
+   "primary_type": "Land",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/eoc/161/great-furnace?utm_source=api",
+   "set": "eoc",
+   "set_name": "Edge of Eternities Commander",
+   "toughness": null,
+   "type_line": "Artifact Land"
+  },
+  {
+   "artist": "Bastien Grivet",
+   "cmc": 0,
+   "collector_number": "323",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Mountain",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
+    "large": "https://cards.scryfall.io/large/front/2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
+    "normal": "https://cards.scryfall.io/normal/front/2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666",
+    "png": "https://cards.scryfall.io/png/front/2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.png?1785981666",
+    "small": "https://cards.scryfall.io/small/front/2/a/2a844b96-6616-4c39-8f4f-5d14a3b2bd55.jpg?1785981666"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Mountain",
+   "oracle_text": "({T}: Add {R}.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 19,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/trk/323/mountain?utm_source=api",
+   "set": "trk",
+   "set_name": "Star Trek",
+   "toughness": null,
+   "type_line": "Basic Land — Mountain"
+  },
+  {
+   "artist": "Adam Paquette",
+   "cmc": 0,
+   "collector_number": "282",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Snow-Covered Mountain",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1783928164",
+    "large": "https://cards.scryfall.io/large/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1783928164",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1783928164",
+    "png": "https://cards.scryfall.io/png/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.png?1783928164",
+    "small": "https://cards.scryfall.io/small/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.jpg?1783928164"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Snow-Covered Mountain",
+   "oracle_text": "({T}: Add {R}.)",
+   "power": null,
+   "price_eur": 0.52,
+   "primary_type": "Land",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 5,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/khm/282/snow-covered-mountain?utm_source=api",
+   "set": "khm",
+   "set_name": "Kaldheim",
+   "toughness": null,
+   "type_line": "Basic Snow Land — Mountain"
+  },
+  {
+   "artist": "Yeong-Hao Han",
+   "cmc": 0,
+   "collector_number": "236",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Ancient Tomb",
+   "game_changer": true,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+    "large": "https://cards.scryfall.io/large/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+    "normal": "https://cards.scryfall.io/normal/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762",
+    "png": "https://cards.scryfall.io/png/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.png?1783933762",
+    "small": "https://cards.scryfall.io/small/front/b/d/bd3d4b4b-cf31-4f89-8140-9650edb03c7b.jpg?1783933762"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Ancient Tomb",
+   "oracle_text": "{T}: Add {C}{C}. This land deals 2 damage to you.",
+   "power": null,
+   "price_eur": 104.61,
+   "primary_type": "Land",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "ramp"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/uma/236/ancient-tomb?utm_source=api",
+   "set": "uma",
+   "set_name": "Ultimate Masters",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Franz Vohwinkel",
+   "cmc": 0,
+   "collector_number": "150",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Buried Ruin",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7ab1a074-9d92-4125-9200-84cd035f8f53.jpg?1783906016",
+    "large": "https://cards.scryfall.io/large/front/7/a/7ab1a074-9d92-4125-9200-84cd035f8f53.jpg?1783906016",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7ab1a074-9d92-4125-9200-84cd035f8f53.jpg?1783906016",
+    "png": "https://cards.scryfall.io/png/front/7/a/7ab1a074-9d92-4125-9200-84cd035f8f53.png?1783906016",
+    "small": "https://cards.scryfall.io/small/front/7/a/7ab1a074-9d92-4125-9200-84cd035f8f53.jpg?1783906016"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Buried Ruin",
+   "oracle_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Return target artifact card from your graveyard to your hand.",
+   "power": null,
+   "price_eur": 0.42,
+   "primary_type": "Land",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "recursion"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/eoc/150/buried-ruin?utm_source=api",
+   "set": "eoc",
+   "set_name": "Edge of Eternities Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Jaime Jones",
+   "cmc": 0,
+   "collector_number": "347",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Castle Embereth",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/3/337f2d97-b317-4c10-b151-7acccf38fca8.jpg?1783906997",
+    "large": "https://cards.scryfall.io/large/front/3/3/337f2d97-b317-4c10-b151-7acccf38fca8.jpg?1783906997",
+    "normal": "https://cards.scryfall.io/normal/front/3/3/337f2d97-b317-4c10-b151-7acccf38fca8.jpg?1783906997",
+    "png": "https://cards.scryfall.io/png/front/3/3/337f2d97-b317-4c10-b151-7acccf38fca8.png?1783906997",
+    "small": "https://cards.scryfall.io/small/front/3/3/337f2d97-b317-4c10-b151-7acccf38fca8.jpg?1783906997"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Castle Embereth",
+   "oracle_text": "This land enters tapped unless you control a Mountain.\n{T}: Add {R}.\n{1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.",
+   "power": null,
+   "price_eur": 0.27,
+   "primary_type": "Land",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "lord"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tdc/347/castle-embereth?utm_source=api",
+   "set": "tdc",
+   "set_name": "Tarkir: Dragonstorm Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Alayna Danner",
+   "cmc": 0,
+   "collector_number": "269",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Cavern of Souls",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg?1783913719",
+    "large": "https://cards.scryfall.io/large/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg?1783913719",
+    "normal": "https://cards.scryfall.io/normal/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg?1783913719",
+    "png": "https://cards.scryfall.io/png/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.png?1783913719",
+    "small": "https://cards.scryfall.io/small/front/3/a/3aad15a2-8a1b-4460-9b06-e85863081878.jpg?1783913719"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Cavern of Souls",
+   "oracle_text": "As this land enters, choose a creature type.\n{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.",
+   "power": null,
+   "price_eur": 39.64,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "mythic",
+   "roles": [
+    "land",
+    "protection"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/lci/269/cavern-of-souls?utm_source=api",
+   "set": "lci",
+   "set_name": "The Lost Caverns of Ixalan",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Jonas De Ro",
+   "cmc": 0,
+   "collector_number": "352",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Command Beacon",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/3/435e9678-9ff3-4e5d-8061-3f806e1c2ed2.jpg?1783906993",
+    "large": "https://cards.scryfall.io/large/front/4/3/435e9678-9ff3-4e5d-8061-3f806e1c2ed2.jpg?1783906993",
+    "normal": "https://cards.scryfall.io/normal/front/4/3/435e9678-9ff3-4e5d-8061-3f806e1c2ed2.jpg?1783906993",
+    "png": "https://cards.scryfall.io/png/front/4/3/435e9678-9ff3-4e5d-8061-3f806e1c2ed2.png?1783906993",
+    "small": "https://cards.scryfall.io/small/front/4/3/435e9678-9ff3-4e5d-8061-3f806e1c2ed2.jpg?1783906993"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Command Beacon",
+   "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Put your commander into your hand from the command zone.",
+   "power": null,
+   "price_eur": 7.64,
+   "primary_type": "Land",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "utility"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/tdc/352/command-beacon?utm_source=api",
+   "set": "tdc",
+   "set_name": "Tarkir: Dragonstorm Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Chris Ostrowski",
+   "cmc": 0,
+   "collector_number": "400",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Field of Ruin",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/143147d2-2eec-41e7-b78a-592288b38630.jpg?1783917099",
+    "large": "https://cards.scryfall.io/large/front/1/4/143147d2-2eec-41e7-b78a-592288b38630.jpg?1783917099",
+    "normal": "https://cards.scryfall.io/normal/front/1/4/143147d2-2eec-41e7-b78a-592288b38630.jpg?1783917099",
+    "png": "https://cards.scryfall.io/png/front/1/4/143147d2-2eec-41e7-b78a-592288b38630.png?1783917099",
+    "small": "https://cards.scryfall.io/small/front/1/4/143147d2-2eec-41e7-b78a-592288b38630.jpg?1783917099"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Field of Ruin",
+   "oracle_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice this land: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",
+   "power": null,
+   "price_eur": 0.23,
+   "primary_type": "Land",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "uncommon",
+   "roles": [
+    "land",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/moc/400/field-of-ruin?utm_source=api",
+   "set": "moc",
+   "set_name": "March of the Machine Commander",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Alayna Danner",
+   "cmc": 0,
+   "collector_number": "80",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Path of Ancestry",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.jpg?1785759407",
+    "large": "https://cards.scryfall.io/large/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.jpg?1785759407",
+    "normal": "https://cards.scryfall.io/normal/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.jpg?1785759407",
+    "png": "https://cards.scryfall.io/png/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.png?1785759407",
+    "small": "https://cards.scryfall.io/small/front/b/1/b1aaa7b0-1cac-4a92-b880-7ef1ac00618f.jpg?1785759407"
+   },
+   "is_commander": false,
+   "keywords": [
+    "Scry"
+   ],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Path of Ancestry",
+   "oracle_text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+   "power": null,
+   "price_eur": null,
+   "primary_type": "Land",
+   "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+   ],
+   "qty": 1,
+   "rarity": "common",
+   "roles": [
+    "land"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/mbc/80/path-of-ancestry?utm_source=api",
+   "set": "mbc",
+   "set_name": "Mystery Booster Commander Edition",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Kieran Yanner",
+   "cmc": 0,
+   "collector_number": "228",
+   "color_identity": [
+    "R"
+   ],
+   "colors": [],
+   "faces": null,
+   "full_name": "Valakut, the Molten Pinnacle",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1783942120",
+    "large": "https://cards.scryfall.io/large/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1783942120",
+    "normal": "https://cards.scryfall.io/normal/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1783942120",
+    "png": "https://cards.scryfall.io/png/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.png?1783942120",
+    "small": "https://cards.scryfall.io/small/front/3/7/37bce60d-2cb0-4772-9f5c-122a7ed426a0.jpg?1783942120"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Valakut, the Molten Pinnacle",
+   "oracle_text": "This land enters tapped.\nWhenever a Mountain you control enters, if you control at least five other Mountains, you may have this land deal 3 damage to any target.\n{T}: Add {R}.",
+   "power": null,
+   "price_eur": 8.24,
+   "primary_type": "Land",
+   "produced_mana": [
+    "R"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "removal"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle?utm_source=api",
+   "set": "zen",
+   "set_name": "Zendikar",
+   "toughness": null,
+   "type_line": "Land"
+  },
+  {
+   "artist": "Paolo Parente",
+   "cmc": 0,
+   "collector_number": "277",
+   "color_identity": [],
+   "colors": [],
+   "faces": null,
+   "full_name": "Hall of the Bandit Lord",
+   "game_changer": false,
+   "images": {
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/59fa5bab-8626-4b45-a3a3-621f6d9509ab.jpg?1783944274",
+    "large": "https://cards.scryfall.io/large/front/5/9/59fa5bab-8626-4b45-a3a3-621f6d9509ab.jpg?1783944274",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/59fa5bab-8626-4b45-a3a3-621f6d9509ab.jpg?1783944274",
+    "png": "https://cards.scryfall.io/png/front/5/9/59fa5bab-8626-4b45-a3a3-621f6d9509ab.png?1783944274",
+    "small": "https://cards.scryfall.io/small/front/5/9/59fa5bab-8626-4b45-a3a3-621f6d9509ab.jpg?1783944274"
+   },
+   "is_commander": false,
+   "keywords": [],
+   "layout": "normal",
+   "loyalty": null,
+   "mana_cost": "",
+   "name": "Hall of the Bandit Lord",
+   "oracle_text": "Hall of the Bandit Lord enters tapped.\n{T}, Pay 3 life: Add {C}. If that mana is spent on a creature spell, it gains haste.",
+   "power": null,
+   "price_eur": 8.42,
+   "primary_type": "Land",
+   "produced_mana": [
+    "C"
+   ],
+   "qty": 1,
+   "rarity": "rare",
+   "roles": [
+    "land",
+    "enabler"
+   ],
+   "scryfall_uri": "https://scryfall.com/card/chk/277/hall-of-the-bandit-lord?utm_source=api",
+   "set": "chk",
+   "set_name": "Champions of Kamigawa",
+   "toughness": null,
+   "type_line": "Legendary Land"
+  }
+ ],
+ "commander": {
+  "artist": "Lie Setiawan",
+  "cmc": 4,
+  "collector_number": "204",
+  "color_identity": [
+   "R"
+  ],
+  "colors": [
+   "R"
+  ],
+  "faces": null,
+  "full_name": "Krenko, Mob Boss",
+  "game_changer": false,
+  "images": {
+   "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+   "large": "https://cards.scryfall.io/large/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+   "normal": "https://cards.scryfall.io/normal/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065",
+   "png": "https://cards.scryfall.io/png/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.png?1783909065",
+   "small": "https://cards.scryfall.io/small/front/8/2/824b2d73-2151-4e5e-9f05-8f63e2bdcaa9.jpg?1783909065"
+  },
+  "is_commander": true,
+  "keywords": [],
+  "layout": "normal",
+  "loyalty": null,
+  "mana_cost": "{2}{R}{R}",
+  "name": "Krenko, Mob Boss",
+  "oracle_text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
+  "power": "3",
+  "price_eur": 1.48,
+  "primary_type": "Creature",
+  "produced_mana": [],
+  "qty": 1,
+  "rarity": "rare",
+  "roles": [
+   "engine",
+   "tokens",
+   "combo"
+  ],
+  "scryfall_uri": "https://scryfall.com/card/fdn/204/krenko-mob-boss?utm_source=api",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "toughness": "3",
+  "type_line": "Legendary Creature — Goblin Warrior"
+ },
+ "commanders": [
+  "Krenko, Mob Boss"
+ ],
+ "dek_file": "Krenko_Mob_Boss_Goblin_Combos.dek",
+ "guide": {
+  "bracket": 4,
+  "bracket_text": "Bracket 4. Llista original de deckstats (`Krenko_Mob_Boss_Goblin_Combos.dek`).",
+  "card_refs": [
+   "Lightning Greaves",
+   "Thousand-Year Elixir",
+   "Crashing Drawbridge",
+   "Goblin Motivator",
+   "Goblin Chieftain",
+   "Goblin Warchief",
+   "Mass Hysteria",
+   "Ashling's Prerogative",
+   "Hall of the Bandit Lord",
+   "Magewright's Stone",
+   "Staff of Domination",
+   "Thornbite Staff",
+   "Rings of Brighthearth",
+   "Goblin Bombardment",
+   "Impact Tremors",
+   "Purphoros, God of the Forge",
+   "Pashalik Mons",
+   "Goblin War Strike",
+   "Coat of Arms",
+   "Shared Animosity",
+   "Aggravated Assault",
+   "Skirk Prospector",
+   "Brightstone Ritual",
+   "Battle Hymn",
+   "Mana Echoes",
+   "Phyrexian Altar",
+   "Muxus, Goblin Grandee",
+   "Jeska's Will",
+   "Wheel of Misfortune",
+   "Reforge the Soul",
+   "Underworld Breach",
+   "Goblin Engineer",
+   "Goblin Welder",
+   "Lightning Crafter",
+   "Reverberate",
+   "Kiki-Jiki, Mirror Breaker",
+   "Goblin Sharpshooter",
+   "Warren Instigator",
+   "Conspicuous Snoop",
+   "Goblin Recruiter",
+   "Goblin Lackey",
+   "Breath of Fury",
+   "Goblin Trashmaster",
+   "Blood Moon",
+   "Price of Glory",
+   "Hexing Squelcher",
+   "Pyroblast",
+   "Red Elemental Blast",
+   "Deflecting Swat",
+   "Goblin Matron",
+   "Moggcatcher",
+   "Goblin Ringleader",
+   "Dark-Dweller Oracle",
+   "Skullclamp",
+   "The One Ring",
+   "Subira, Tulzidi Caravanner"
+  ],
+  "intro_html": "",
+  "sections": [
+   {
+    "cards": [
+     "Lightning Greaves",
+     "Thousand-Year Elixir",
+     "Crashing Drawbridge",
+     "Goblin Motivator",
+     "Goblin Chieftain",
+     "Goblin Warchief",
+     "Mass Hysteria",
+     "Ashling's Prerogative",
+     "Hall of the Bandit Lord",
+     "Magewright's Stone",
+     "Staff of Domination",
+     "Thornbite Staff",
+     "Rings of Brighthearth",
+     "Goblin Bombardment",
+     "Impact Tremors",
+     "Purphoros, God of the Forge",
+     "Pashalik Mons",
+     "Goblin War Strike",
+     "Coat of Arms",
+     "Shared Animosity",
+     "Aggravated Assault",
+     "Skirk Prospector",
+     "Brightstone Ritual",
+     "Battle Hymn",
+     "Mana Echoes",
+     "Phyrexian Altar",
+     "Muxus, Goblin Grandee",
+     "Jeska's Will",
+     "Wheel of Misfortune",
+     "Reforge the Soul",
+     "Underworld Breach"
+    ],
+    "gallery": [],
+    "heading": "Idea general",
+    "heading_html": "Idea general",
+    "html": "<p>Baralla de <span class=\"role-ref\" data-role=\"combo\">combo</span> tribal Goblin. Krenko dobla els teus goblins cada cop que es gira, així que tota la baralla es construeix al voltant de tres preguntes:</p>\n<ol><li><strong>Com giro Krenko el torn que entra?</strong> Pressa: <span class=\"card-ref\" data-card=\"Lightning Greaves\">Lightning Greaves</span>, <span class=\"card-ref\" data-card=\"Thousand-Year Elixir\">Thousand-Year Elixir</span>, <span class=\"card-ref\" data-card=\"Crashing Drawbridge\">Crashing Drawbridge</span>, <span class=\"card-ref\" data-card=\"Goblin Motivator\">Goblin Motivator</span>, <span class=\"card-ref\" data-card=\"Goblin Chieftain\">Goblin Chieftain</span>, <span class=\"card-ref\" data-card=\"Goblin Warchief\">Goblin Warchief</span>, <span class=\"card-ref\" data-card=\"Mass Hysteria\">Mass Hysteria</span>, <span class=\"card-ref\" data-card=\"Ashling&#x27;s Prerogative\">Ashling's Prerogative</span> (tria \"parell\": Krenko té cost 4), <span class=\"card-ref\" data-card=\"Hall of the Bandit Lord\">Hall of the Bandit Lord</span>.</li><li><strong>Com el giro més d'un cop per torn?</strong> <span class=\"card-ref\" data-card=\"Thousand-Year Elixir\">Thousand-Year Elixir</span>, <span class=\"card-ref\" data-card=\"Magewright&#x27;s Stone\">Magewright's Stone</span>, <span class=\"card-ref\" data-card=\"Staff of Domination\">Staff of Domination</span>, <span class=\"card-ref\" data-card=\"Thornbite Staff\">Thornbite Staff</span> (es desgira cada cop que mor una criatura), <span class=\"card-ref\" data-card=\"Rings of Brighthearth\">Rings of Brighthearth</span> (copia l'habilitat).</li><li><strong>Com converteixo goblins en victòria?</strong> <span class=\"card-ref\" data-card=\"Goblin Bombardment\">Goblin Bombardment</span>, <span class=\"card-ref\" data-card=\"Impact Tremors\">Impact Tremors</span>, <span class=\"card-ref\" data-card=\"Purphoros, God of the Forge\">Purphoros</span>, <span class=\"card-ref\" data-card=\"Pashalik Mons\">Pashalik Mons</span>, <span class=\"card-ref\" data-card=\"Goblin War Strike\">Goblin War Strike</span>, <span class=\"card-ref\" data-card=\"Coat of Arms\">Coat of Arms</span>, <span class=\"card-ref\" data-card=\"Shared Animosity\">Shared Animosity</span>, <span class=\"card-ref\" data-card=\"Aggravated Assault\">Aggravated Assault</span>.</li></ol>\n<p>Els goblins també són manà: <span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span>, <span class=\"card-ref\" data-card=\"Brightstone Ritual\">Brightstone Ritual</span>, <span class=\"card-ref\" data-card=\"Battle Hymn\">Battle Hymn</span>, <span class=\"card-ref\" data-card=\"Mana Echoes\">Mana Echoes</span> i <span class=\"card-ref\" data-card=\"Phyrexian Altar\">Phyrexian Altar</span> converteixen cossos en ritual, cosa que permet encadenar <span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus</span>, <span class=\"card-ref\" data-card=\"Jeska&#x27;s Will\">Jeska's Will</span> i <span class=\"role-ref\" data-role=\"wheel\">wheels</span> (<span class=\"card-ref\" data-card=\"Wheel of Misfortune\">Wheel of Misfortune</span>, <span class=\"card-ref\" data-card=\"Reforge the Soul\">Reforge the Soul</span>) amb <span class=\"card-ref\" data-card=\"Underworld Breach\">Underworld Breach</span>.</p>",
+    "id": "idea-general",
+    "level": 2
+   },
+   {
+    "cards": [],
+    "gallery": [],
+    "heading": "Combos més comuns",
+    "heading_html": "<span class=\"role-ref\" data-role=\"combo\">Combos</span> més comuns",
+    "html": "",
+    "id": "combos-mes-comuns",
+    "level": 2
+   },
+   {
+    "cards": [
+     "Thornbite Staff",
+     "Goblin Engineer",
+     "Goblin Welder",
+     "Lightning Crafter",
+     "Goblin Bombardment",
+     "Skirk Prospector",
+     "Phyrexian Altar",
+     "Goblin War Strike",
+     "Reverberate",
+     "Impact Tremors",
+     "Purphoros, God of the Forge",
+     "Pashalik Mons"
+    ],
+    "gallery": [
+     "Thornbite Staff",
+     "Goblin Engineer",
+     "Goblin Welder",
+     "Lightning Crafter",
+     "Goblin Bombardment",
+     "Skirk Prospector",
+     "Phyrexian Altar",
+     "Goblin War Strike"
+    ],
+    "heading": "1. Krenko + Thornbite Staff + sac outlet = goblins infinits (WIN)",
+    "heading_html": "1. Krenko + <span class=\"card-ref\" data-card=\"Thornbite Staff\">Thornbite Staff</span> + <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span> = goblins infinits (WIN)",
+    "html": "<div class=\"card-gallery\" data-cards=\"Thornbite Staff|Goblin Engineer|Goblin Welder|Lightning Crafter|Goblin Bombardment|Skirk Prospector|Phyrexian Altar|Goblin War Strike\"></div>\n<ul><li>Equipa <span class=\"card-ref\" data-card=\"Thornbite Staff\">Thornbite Staff</span> a Krenko (equipar costa {4}; <span class=\"card-ref\" data-card=\"Goblin Engineer\">Goblin Engineer</span> el busca al cementiri i el retorna al camp per {R}, i <span class=\"card-ref\" data-card=\"Goblin Welder\">Goblin Welder</span> l'intercanvia per qualsevol artefacte en joc).</li><li>Variant sense Krenko: <span class=\"card-ref\" data-card=\"Thornbite Staff\">Thornbite Staff</span> s'acobla gratis a qualsevol Xaman que entri. En <strong><span class=\"card-ref\" data-card=\"Lightning Crafter\">Lightning Crafter</span></strong> (Goblin Xaman) fa 3 danys i es desgira amb cada mort; amb <span class=\"card-ref\" data-card=\"Goblin Bombardment\">Goblin Bombardment</span> i un grapat de goblins neteja la taula o tanca la partida.</li><li>Gira Krenko → X <span class=\"role-ref\" data-role=\"tokens\">fitxes</span>. Sacrifica un goblin amb <strong><span class=\"card-ref\" data-card=\"Goblin Bombardment\">Goblin Bombardment</span></strong> / <strong><span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span></strong> / <strong><span class=\"card-ref\" data-card=\"Phyrexian Altar\">Phyrexian Altar</span></strong> → Krenko es desgira → repeteix. Cada iteració dobla l'exèrcit.</li><li>Resultat segons el <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span>:<ul><li>Bombardment → dany infinit.</li><li><span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span> → manà vermell infinit (per a <span class=\"card-ref\" data-card=\"Goblin War Strike\">Goblin War Strike</span>, <span class=\"card-ref\" data-card=\"Lightning Crafter\">Lightning Crafter</span>, <span class=\"card-ref\" data-card=\"Reverberate\">Reverberate</span>...).</li><li><span class=\"card-ref\" data-card=\"Phyrexian Altar\">Phyrexian Altar</span> → manà de qualsevol color infinit.</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Impact Tremors\">Impact Tremors</span> / <span class=\"card-ref\" data-card=\"Purphoros, God of the Forge\">Purphoros</span> / <span class=\"card-ref\" data-card=\"Pashalik Mons\">Pashalik Mons</span></strong> a taula, qualsevol de les tres mata quan les <span class=\"role-ref\" data-role=\"tokens\">fitxes</span> entren/moren.</li></ul></li></ul>",
+    "id": "1-krenko-thornbite-staff-sac-outlet-goblins-infinits-win",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Kiki-Jiki, Mirror Breaker",
+     "Lightning Crafter",
+     "Goblin Sharpshooter",
+     "Warren Instigator"
+    ],
+    "gallery": [
+     "Kiki-Jiki, Mirror Breaker",
+     "Lightning Crafter",
+     "Goblin Sharpshooter",
+     "Warren Instigator"
+    ],
+    "heading": "2. Kiki-Jiki, Mirror Breaker + Lightning Crafter = dany infinit (WIN)",
+    "heading_html": "2. <span class=\"card-ref\" data-card=\"Kiki-Jiki, Mirror Breaker\">Kiki-Jiki, Mirror Breaker</span> + <span class=\"card-ref\" data-card=\"Lightning Crafter\">Lightning Crafter</span> = dany infinit (WIN)",
+    "html": "<div class=\"card-gallery\" data-cards=\"Kiki-Jiki, Mirror Breaker|Lightning Crafter|Goblin Sharpshooter|Warren Instigator\"></div>\n<ul><li>Kiki copia <span class=\"card-ref\" data-card=\"Lightning Crafter\">Lightning Crafter</span>. La còpia entra amb pressa i \"campiona\" Kiki (l'exilia). Gira la còpia: 3 danys.</li><li>Sacrifica la còpia (Bombardment / Prospector) o espera al final del torn → Kiki torna → repeteix. Amb un <span class=\"role-ref\" data-role=\"sac-outlet\">sac outlet</span> és infinit en el mateix torn.</li><li>Kiki també combina amb <strong><span class=\"card-ref\" data-card=\"Goblin Sharpshooter\">Goblin Sharpshooter</span></strong> i <strong><span class=\"card-ref\" data-card=\"Warren Instigator\">Warren Instigator</span></strong> per treure'n valor, però l'assassí és Crafter.</li></ul>",
+    "id": "2-kiki-jiki-mirror-breaker-lightning-crafter-dany-infinit-win",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Conspicuous Snoop",
+     "Kiki-Jiki, Mirror Breaker",
+     "Goblin Recruiter",
+     "Goblin Bombardment",
+     "Impact Tremors",
+     "Purphoros, God of the Forge",
+     "Pashalik Mons",
+     "Coat of Arms",
+     "Goblin Sharpshooter",
+     "Muxus, Goblin Grandee"
+    ],
+    "gallery": [
+     "Conspicuous Snoop",
+     "Kiki-Jiki, Mirror Breaker",
+     "Goblin Recruiter",
+     "Goblin Bombardment",
+     "Impact Tremors",
+     "Purphoros, God of the Forge",
+     "Pashalik Mons",
+     "Coat of Arms"
+    ],
+    "heading": "3. Conspicuous Snoop + Kiki-Jiki a dalt de la biblioteca = Snoops infinits (WIN)",
+    "heading_html": "3. <span class=\"card-ref\" data-card=\"Conspicuous Snoop\">Conspicuous Snoop</span> + <span class=\"card-ref\" data-card=\"Kiki-Jiki, Mirror Breaker\">Kiki-Jiki</span> a dalt de la biblioteca = Snoops infinits (WIN)",
+    "html": "<div class=\"card-gallery\" data-cards=\"Conspicuous Snoop|Kiki-Jiki, Mirror Breaker|Goblin Recruiter|Goblin Bombardment|Impact Tremors|Purphoros, God of the Forge|Pashalik Mons|Coat of Arms\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Goblin Recruiter\">Goblin Recruiter</span></strong> busca els goblins que vulguis i els apila a dalt en l'ordre que triïs. Posa <span class=\"card-ref\" data-card=\"Kiki-Jiki, Mirror Breaker\">Kiki-Jiki</span> al capdamunt.</li><li>Snoop guanya l'habilitat activada de Kiki: gira't → còpia de Snoop amb pressa. La còpia també veu Kiki a dalt, així que també copia... Snoops infinits amb pressa.</li><li><span class=\"role-ref\" data-role=\"wincon\">Wincon</span>: <span class=\"card-ref\" data-card=\"Goblin Bombardment\">Goblin Bombardment</span>, <span class=\"card-ref\" data-card=\"Impact Tremors\">Impact Tremors</span>, <span class=\"card-ref\" data-card=\"Purphoros, God of the Forge\">Purphoros</span>, <span class=\"card-ref\" data-card=\"Pashalik Mons\">Pashalik Mons</span>, o simplement atacar amb <span class=\"card-ref\" data-card=\"Coat of Arms\">Coat of Arms</span>.</li><li>Alternativa: Recruiter apila <strong><span class=\"card-ref\" data-card=\"Goblin Sharpshooter\">Goblin Sharpshooter</span></strong> a sota i Snoop els pot llançar des de dalt; amb <span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus</span> reveles 6 goblins segurs.</li></ul>",
+    "id": "3-conspicuous-snoop-kiki-jiki-a-dalt-de-la-biblioteca-snoops-infinits-win",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Mana Echoes",
+     "Staff of Domination",
+     "Magewright's Stone",
+     "Thousand-Year Elixir",
+     "Goblin War Strike",
+     "Skirk Prospector"
+    ],
+    "gallery": [
+     "Mana Echoes",
+     "Staff of Domination",
+     "Magewright's Stone",
+     "Thousand-Year Elixir",
+     "Goblin War Strike",
+     "Skirk Prospector"
+    ],
+    "heading": "4. Mana Echoes + Krenko = manà infinit",
+    "heading_html": "4. <span class=\"card-ref\" data-card=\"Mana Echoes\">Mana Echoes</span> + Krenko = manà infinit",
+    "html": "<div class=\"card-gallery\" data-cards=\"Mana Echoes|Staff of Domination|Magewright&#x27;s Stone|Thousand-Year Elixir|Goblin War Strike|Skirk Prospector\"></div>\n<ul><li>Cada fitxa que entra afegeix {C} per cada goblin amb qui comparteix tipus → 8 goblins → 8 <span class=\"role-ref\" data-role=\"tokens\">fitxes</span> → 64 manàs incolors.</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Staff of Domination\">Staff of Domination</span></strong> ({3}: desgirar criatura) el bucle és infinit: goblins, manà, vides i cartes infinites.</li><li>Amb <strong><span class=\"card-ref\" data-card=\"Magewright&#x27;s Stone\">Magewright's Stone</span></strong> o <strong><span class=\"card-ref\" data-card=\"Thousand-Year Elixir\">Thousand-Year Elixir</span></strong> aconsegueixes el segon gir i ja sol ser suficient per a un <span class=\"card-ref\" data-card=\"Goblin War Strike\">Goblin War Strike</span> letal.</li><li><span class=\"card-ref\" data-card=\"Mana Echoes\">Mana Echoes</span> també funciona amb <strong><span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span></strong> per llançar tota la baralla.</li></ul>",
+    "id": "4-mana-echoes-krenko-mana-infinit",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Skirk Prospector",
+     "Brightstone Ritual",
+     "Battle Hymn",
+     "Jeska's Will",
+     "Muxus, Goblin Grandee",
+     "Goblin Lackey",
+     "Warren Instigator",
+     "Underworld Breach",
+     "Wheel of Misfortune",
+     "Reforge the Soul",
+     "Goblin War Strike"
+    ],
+    "gallery": [
+     "Skirk Prospector",
+     "Brightstone Ritual",
+     "Battle Hymn",
+     "Jeska's Will",
+     "Muxus, Goblin Grandee",
+     "Goblin Lackey",
+     "Warren Instigator",
+     "Underworld Breach"
+    ],
+    "heading": "5. Torn explosiu amb Muxus i rituals",
+    "heading_html": "5. Torn explosiu amb <span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus</span> i rituals",
+    "html": "<div class=\"card-gallery\" data-cards=\"Skirk Prospector|Brightstone Ritual|Battle Hymn|Jeska&#x27;s Will|Muxus, Goblin Grandee|Goblin Lackey|Warren Instigator|Underworld Breach\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span> / <span class=\"card-ref\" data-card=\"Brightstone Ritual\">Brightstone Ritual</span> / <span class=\"card-ref\" data-card=\"Battle Hymn\">Battle Hymn</span> / <span class=\"card-ref\" data-card=\"Jeska&#x27;s Will\">Jeska's Will</span></strong> → 6+ manàs per a <strong><span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus, Goblin Grandee</span></strong>: revela 6 i posa en joc tots els goblins de cost ≤5 (Krenko Tin Street, Chieftain, Warchief, Sharpshooter, Snoop, Matron, Recruiter...).</li><li><strong><span class=\"card-ref\" data-card=\"Goblin Lackey\">Goblin Lackey</span> / <span class=\"card-ref\" data-card=\"Warren Instigator\">Warren Instigator</span></strong>: quan connecten posen <span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus</span> o Kiki gratis.</li><li><strong><span class=\"card-ref\" data-card=\"Underworld Breach\">Underworld Breach</span></strong> + <strong><span class=\"card-ref\" data-card=\"Wheel of Misfortune\">Wheel of Misfortune</span> / <span class=\"card-ref\" data-card=\"Reforge the Soul\">Reforge the Soul</span> / <span class=\"card-ref\" data-card=\"Brightstone Ritual\">Brightstone Ritual</span> / <span class=\"card-ref\" data-card=\"Jeska&#x27;s Will\">Jeska's Will</span></strong>: torna a llançar rituals i <span class=\"role-ref\" data-role=\"wheel\">wheels</span> des del cementiri mentre tinguis cartes per exiliar; <span class=\"card-ref\" data-card=\"Goblin War Strike\">Goblin War Strike</span> des del cementiri és un <span class=\"role-ref\" data-role=\"wincon\">wincon</span> habitual.</li></ul>",
+    "id": "5-torn-explosiu-amb-muxus-i-rituals",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Aggravated Assault",
+     "Mana Echoes",
+     "Breath of Fury"
+    ],
+    "gallery": [
+     "Aggravated Assault",
+     "Mana Echoes",
+     "Breath of Fury"
+    ],
+    "heading": "6. Combats extra",
+    "heading_html": "6. Combats extra",
+    "html": "<div class=\"card-gallery\" data-cards=\"Aggravated Assault|Mana Echoes|Breath of Fury\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Aggravated Assault\">Aggravated Assault</span></strong> + manà de goblins (Prospector, <span class=\"card-ref\" data-card=\"Mana Echoes\">Mana Echoes</span>) = <span class=\"role-ref\" data-role=\"combat\">extra combats</span> infinits amb goblins amb pressa (Chieftain/Warchief).</li><li><strong><span class=\"card-ref\" data-card=\"Breath of Fury\">Breath of Fury</span></strong> en una fitxa evasiva: sacrifica-la quan connecti, mou-la a una altra fitxa, desgira i <span class=\"role-ref\" data-role=\"combat\">extra combat</span>. Amb Krenko amb pressa cada combat dobla l'exèrcit.</li></ul>",
+    "id": "6-combats-extra",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Goblin Sharpshooter",
+     "Pashalik Mons",
+     "Goblin Trashmaster",
+     "Blood Moon",
+     "Price of Glory",
+     "Hexing Squelcher",
+     "Pyroblast",
+     "Red Elemental Blast",
+     "Deflecting Swat",
+     "Reverberate"
+    ],
+    "gallery": [
+     "Goblin Sharpshooter",
+     "Pashalik Mons",
+     "Goblin Trashmaster",
+     "Blood Moon",
+     "Price of Glory",
+     "Hexing Squelcher",
+     "Pyroblast",
+     "Red Elemental Blast"
+    ],
+    "heading": "7. Control de taula amb goblins",
+    "heading_html": "7. Control de taula amb goblins",
+    "html": "<div class=\"card-gallery\" data-cards=\"Goblin Sharpshooter|Pashalik Mons|Goblin Trashmaster|Blood Moon|Price of Glory|Hexing Squelcher|Pyroblast|Red Elemental Blast\"></div>\n<ul><li><strong><span class=\"card-ref\" data-card=\"Goblin Sharpshooter\">Goblin Sharpshooter</span> + Bombardment/Prospector</strong>: cada mort desgira Sharpshooter → esborra totes les X/1 rivals (<span class=\"role-ref\" data-role=\"ramp\">mana dorks</span>, <span class=\"role-ref\" data-role=\"stax\">hatebears</span>).</li><li><strong><span class=\"card-ref\" data-card=\"Pashalik Mons\">Pashalik Mons</span></strong>: cada goblin que mor fa 1 dany a qualsevol objectiu.</li><li><strong><span class=\"card-ref\" data-card=\"Goblin Trashmaster\">Goblin Trashmaster</span></strong>: sacrifica un goblin → destrueix un artefacte.</li><li><strong><span class=\"card-ref\" data-card=\"Blood Moon\">Blood Moon</span></strong> i <strong><span class=\"card-ref\" data-card=\"Price of Glory\">Price of Glory</span></strong> castiguen les taules multicolor i qui jugui durant el teu torn; <strong><span class=\"card-ref\" data-card=\"Hexing Squelcher\">Hexing Squelcher</span></strong> fa que res del que és teu es pugui contrarestar.</li><li><strong><span class=\"card-ref\" data-card=\"Pyroblast\">Pyroblast</span> / <span class=\"card-ref\" data-card=\"Red Elemental Blast\">Red Elemental Blast</span> / <span class=\"card-ref\" data-card=\"Deflecting Swat\">Deflecting Swat</span> / <span class=\"card-ref\" data-card=\"Reverberate\">Reverberate</span></strong>: <span class=\"role-ref\" data-role=\"protection\">protection</span> contra el blau i contra el <span class=\"role-ref\" data-role=\"removal\">removal</span> a Krenko.</li></ul>",
+    "id": "7-control-de-taula-amb-goblins",
+    "level": 3
+   },
+   {
+    "cards": [
+     "Goblin Matron",
+     "Goblin Recruiter",
+     "Moggcatcher",
+     "Conspicuous Snoop",
+     "Goblin Engineer",
+     "Goblin Welder",
+     "Muxus, Goblin Grandee",
+     "Goblin Ringleader",
+     "Dark-Dweller Oracle",
+     "Thornbite Staff",
+     "Goblin Bombardment",
+     "Skirk Prospector",
+     "Kiki-Jiki, Mirror Breaker",
+     "Lightning Crafter",
+     "Mana Echoes",
+     "Brightstone Ritual",
+     "Lightning Greaves",
+     "Thousand-Year Elixir",
+     "Goblin Chieftain",
+     "Impact Tremors",
+     "Purphoros, God of the Forge",
+     "Coat of Arms",
+     "Goblin War Strike",
+     "Goblin Sharpshooter",
+     "Pashalik Mons",
+     "Skullclamp",
+     "The One Ring",
+     "Subira, Tulzidi Caravanner",
+     "Staff of Domination"
+    ],
+    "gallery": [
+     "Thornbite Staff",
+     "Kiki-Jiki, Mirror Breaker",
+     "Lightning Crafter",
+     "Conspicuous Snoop",
+     "Goblin Recruiter",
+     "Skirk Prospector",
+     "Goblin Bombardment",
+     "Mana Echoes",
+     "Staff of Domination",
+     "Purphoros, God of the Forge"
+    ],
+    "heading": "Cartes clau (objectius de tutor)",
+    "heading_html": "Cartes clau (objectius de <span class=\"role-ref\" data-role=\"tutor\">tutor</span>)",
+    "html": "<p>La baralla té molts <span class=\"role-ref\" data-role=\"tutor\">tutors</span>: <strong><span class=\"card-ref\" data-card=\"Goblin Matron\">Goblin Matron</span></strong> (goblin a la mà), <strong><span class=\"card-ref\" data-card=\"Goblin Recruiter\">Goblin Recruiter</span></strong> (apila tots els goblins que vulguis), <strong><span class=\"card-ref\" data-card=\"Moggcatcher\">Moggcatcher</span></strong> (goblin directe al camp cada torn), <strong><span class=\"card-ref\" data-card=\"Conspicuous Snoop\">Conspicuous Snoop</span></strong> (llança des de dalt), <strong><span class=\"card-ref\" data-card=\"Goblin Engineer\">Goblin Engineer</span></strong> (artefacte al cementiri i després el retorna si costa ≤3), <strong><span class=\"card-ref\" data-card=\"Goblin Welder\">Goblin Welder</span></strong> (intercanvia artefactes), <strong><span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus</span></strong>, <strong><span class=\"card-ref\" data-card=\"Goblin Ringleader\">Goblin Ringleader</span></strong> (4 cartes, queda't els goblins), <strong><span class=\"card-ref\" data-card=\"Dark-Dweller Oracle\">Dark-Dweller Oracle</span></strong> (sacrifica i juga la carta de dalt).</p>\n<table class=\"md-table\"><thead><tr><th>Situació</th><th>Buscar</th></tr></thead><tbody><tr><td>Krenko a taula, vols tancar la partida</td><td><strong><span class=\"card-ref\" data-card=\"Thornbite Staff\">Thornbite Staff</span></strong> (Engineer el posa al cementiri i el retorna: costa 2) + <strong><span class=\"card-ref\" data-card=\"Goblin Bombardment\">Goblin Bombardment</span></strong> / <strong><span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span></strong></td></tr><tr><td>Sense Krenko</td><td><strong><span class=\"card-ref\" data-card=\"Kiki-Jiki, Mirror Breaker\">Kiki-Jiki</span></strong> + <strong><span class=\"card-ref\" data-card=\"Lightning Crafter\">Lightning Crafter</span></strong> (Matron / Recruiter / <span class=\"card-ref\" data-card=\"Moggcatcher\">Moggcatcher</span>)</td></tr><tr><td>Tens Recruiter</td><td>Apila <strong><span class=\"card-ref\" data-card=\"Kiki-Jiki, Mirror Breaker\">Kiki-Jiki</span></strong> a dalt + <strong><span class=\"card-ref\" data-card=\"Conspicuous Snoop\">Conspicuous Snoop</span></strong> a la mà; a sota Sharpshooter, <span class=\"card-ref\" data-card=\"Muxus, Goblin Grandee\">Muxus</span>, Krenko Tin Street</td></tr><tr><td>Necessites manà</td><td><strong><span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span></strong>, <strong><span class=\"card-ref\" data-card=\"Mana Echoes\">Mana Echoes</span></strong>, <strong><span class=\"card-ref\" data-card=\"Brightstone Ritual\">Brightstone Ritual</span></strong></td></tr><tr><td>Necessites donar pressa a Krenko</td><td><strong><span class=\"card-ref\" data-card=\"Lightning Greaves\">Lightning Greaves</span></strong>, <strong><span class=\"card-ref\" data-card=\"Thousand-Year Elixir\">Thousand-Year Elixir</span></strong> (Engineer els recupera: costen 2 i 3), <strong><span class=\"card-ref\" data-card=\"Goblin Chieftain\">Goblin Chieftain</span> / Warchief</strong></td></tr><tr><td><span class=\"role-ref\" data-role=\"wincon\">Wincon</span> passiu amb taula ampla</td><td><strong><span class=\"card-ref\" data-card=\"Impact Tremors\">Impact Tremors</span></strong>, <strong><span class=\"card-ref\" data-card=\"Purphoros, God of the Forge\">Purphoros</span></strong>, <strong><span class=\"card-ref\" data-card=\"Coat of Arms\">Coat of Arms</span></strong>, <strong><span class=\"card-ref\" data-card=\"Goblin War Strike\">Goblin War Strike</span></strong></td></tr><tr><td>Taula rival amb <span class=\"role-ref\" data-role=\"stax\">hatebears</span></td><td><strong><span class=\"card-ref\" data-card=\"Goblin Sharpshooter\">Goblin Sharpshooter</span></strong>, <strong><span class=\"card-ref\" data-card=\"Pashalik Mons\">Pashalik Mons</span></strong></td></tr><tr><td>Cartes</td><td><strong><span class=\"card-ref\" data-card=\"Skullclamp\">Skullclamp</span></strong> (Engineer el recupera), <strong><span class=\"card-ref\" data-card=\"The One Ring\">The One Ring</span></strong>, <strong><span class=\"card-ref\" data-card=\"Subira, Tulzidi Caravanner\">Subira</span></strong></td></tr></tbody></table>\n<p><strong>Top 10 de rellevància</strong>: <span class=\"card-ref\" data-card=\"Thornbite Staff\">Thornbite Staff</span> · <span class=\"card-ref\" data-card=\"Kiki-Jiki, Mirror Breaker\">Kiki-Jiki</span> · <span class=\"card-ref\" data-card=\"Lightning Crafter\">Lightning Crafter</span> · <span class=\"card-ref\" data-card=\"Conspicuous Snoop\">Conspicuous Snoop</span> · <span class=\"card-ref\" data-card=\"Goblin Recruiter\">Goblin Recruiter</span> · <span class=\"card-ref\" data-card=\"Skirk Prospector\">Skirk Prospector</span> · <span class=\"card-ref\" data-card=\"Goblin Bombardment\">Goblin Bombardment</span> · <span class=\"card-ref\" data-card=\"Mana Echoes\">Mana Echoes</span> · <span class=\"card-ref\" data-card=\"Staff of Domination\">Staff of Domination</span> · <span class=\"card-ref\" data-card=\"Purphoros, God of the Forge\">Purphoros</span>.</p>\n<div class=\"card-gallery\" data-cards=\"Thornbite Staff|Kiki-Jiki, Mirror Breaker|Lightning Crafter|Conspicuous Snoop|Goblin Recruiter|Skirk Prospector|Goblin Bombardment|Mana Echoes|Staff of Domination|Purphoros, God of the Forge\"></div>",
+    "id": "cartes-clau-objectius-de-tutor",
+    "level": 2
+   },
+   {
+    "cards": [
+     "Deflecting Swat",
+     "Pyroblast",
+     "Underworld Breach",
+     "Goblin Welder"
+    ],
+    "gallery": [],
+    "heading": "Punts febles",
+    "heading_html": "Punts febles",
+    "html": "<ul><li>Krenko és el cor: el <span class=\"role-ref\" data-role=\"removal\">removal</span> a velocitat d'instantani abans de girar-lo fa molt de mal. Per això les botes, <span class=\"card-ref\" data-card=\"Deflecting Swat\">Deflecting Swat</span> i <span class=\"card-ref\" data-card=\"Pyroblast\">Pyroblast</span> són prioritaris.</li><li>Els <span class=\"role-ref\" data-role=\"wipe\">board wipes</span> i els efectes anti-fitxes (Authority of the Consuls, que fa entrar tot girat) frenen el pla A; el pla B és Kiki + Crafter.</li><li>Cementiri: <span class=\"card-ref\" data-card=\"Underworld Breach\">Underworld Breach</span> i <span class=\"card-ref\" data-card=\"Goblin Welder\">Goblin Welder</span> perden força amb Rest in Peace.</li></ul>",
+    "id": "punts-febles",
+    "level": 2
+   }
+  ],
+  "subtitle": "Mono vermell",
+  "title": "Krenko, Mob Boss – Goblin Combos"
+ },
+ "md_file": "Krenko_Mob_Boss_Goblin_Combos.md",
+ "owner": "Ivan",
+ "slug": "krenko-mob-boss-goblin-combos",
+ "stats": {
+  "avg_mana_value": 2.57,
+  "by_type": {
+   "Artifact": 14,
+   "Battle": 0,
+   "Creature": 28,
+   "Enchantment": 11,
+   "Instant": 7,
+   "Land": 35,
+   "Other": 0,
+   "Planeswalker": 0,
+   "Sorcery": 5
+  },
+  "cards_by_color": {
+   "B": 0,
+   "G": 0,
+   "R": 50,
+   "U": 0,
+   "W": 0,
+   "colorless": 15,
+   "multicolor": 0
+  },
+  "color_identity": [
+   "R"
+  ],
+  "distinct_cards": 78,
+  "game_changers": [
+   "Ancient Tomb",
+   "Jeska's Will",
+   "The One Ring",
+   "Underworld Breach"
+  ],
+  "keywords": [
+   {
+    "count": 4,
+    "keyword": "Haste"
+   },
+   {
+    "count": 3,
+    "keyword": "Equip"
+   },
+   {
+    "count": 3,
+    "keyword": "Indestructible"
+   },
+   {
+    "count": 1,
+    "keyword": "Champion"
+   },
+   {
+    "count": 1,
+    "keyword": "Defender"
+   },
+   {
+    "count": 1,
+    "keyword": "Double strike"
+   },
+   {
+    "count": 1,
+    "keyword": "Enchant"
+   },
+   {
+    "count": 1,
+    "keyword": "Miracle"
+   },
+   {
+    "count": 1,
+    "keyword": "Overload"
+   },
+   {
+    "count": 1,
+    "keyword": "Regenerate"
+   }
+  ],
+  "land_count": 35,
+  "mana_curve": {
+   "0": 0,
+   "1": 13,
+   "2": 20,
+   "3": 19,
+   "4": 9,
+   "5": 3,
+   "6": 1,
+   "7+": 0
+  },
+  "mana_sources": {
+   "by_color": {
+    "B": 4,
+    "C": 11,
+    "G": 4,
+    "R": 35,
+    "U": 4,
+    "W": 4
+   },
+   "lands_colored": 29,
+   "lands_total": 35,
+   "nonland_producers": 10
+  },
+  "nonland_count": 65,
+  "pips": {
+   "B": 0,
+   "C": 0,
+   "G": 0,
+   "R": 64,
+   "U": 0,
+   "W": 0,
+   "generic": 103
+  },
+  "price_eur": {
+   "most_expensive": [
+    {
+     "name": "Ancient Tomb",
+     "price_eur": 104.61
+    },
+    {
+     "name": "The One Ring",
+     "price_eur": 86.7
+    },
+    {
+     "name": "Deflecting Swat",
+     "price_eur": 62.22
+    },
+    {
+     "name": "Cavern of Souls",
+     "price_eur": 39.64
+    },
+    {
+     "name": "Phyrexian Altar",
+     "price_eur": 39.26
+    }
+   ],
+   "priced_cards": 74,
+   "total": 738.07,
+   "unpriced_cards": 26
+  },
+  "rarity": {
+   "common": 37,
+   "mythic": 6,
+   "rare": 40,
+   "uncommon": 17
+  },
+  "roles": [
+   {
+    "cards": [
+     "Generator Servant",
+     "Goblin Warchief",
+     "Arcane Signet",
+     "Mind Stone",
+     "Phyrexian Altar",
+     "Ruby Medallion",
+     "Sol Ring",
+     "Skirk Prospector",
+     "Mana Echoes",
+     "Battle Hymn",
+     "Brightstone Ritual",
+     "Jeska's Will",
+     "Goblin Lackey",
+     "Warren Instigator",
+     "Ancient Tomb"
+    ],
+    "count": 15,
+    "id": "ramp"
+   },
+   {
+    "cards": [
+     "Mind Stone",
+     "Jeska's Will",
+     "Goblin Ringleader",
+     "Conspicuous Snoop",
+     "Skullclamp",
+     "Dark-Dweller Oracle",
+     "The One Ring",
+     "Subira, Tulzidi Caravanner",
+     "Reforge the Soul",
+     "Wheel of Misfortune",
+     "Staff of Domination"
+    ],
+    "count": 11,
+    "id": "draw"
+   },
+   {
+    "cards": [
+     "Muxus, Goblin Grandee",
+     "Goblin Matron",
+     "Goblin Recruiter",
+     "Goblin Engineer",
+     "Moggcatcher"
+    ],
+    "count": 5,
+    "id": "tutor"
+   },
+   {
+    "cards": [
+     "Goblin Sharpshooter",
+     "Lightning Crafter",
+     "Chaos Warp",
+     "Pyroblast",
+     "Red Elemental Blast",
+     "Goblin Trashmaster",
+     "Vandalblast",
+     "Field of Ruin",
+     "Valakut, the Molten Pinnacle"
+    ],
+    "count": 9,
+    "id": "removal"
+   },
+   {
+    "cards": [
+     "Vandalblast"
+    ],
+    "count": 1,
+    "id": "wipe"
+   },
+   {
+    "cards": [
+     "Deflecting Swat",
+     "Pyroblast",
+     "Red Elemental Blast"
+    ],
+    "count": 3,
+    "id": "counter"
+   },
+   {
+    "cards": [
+     "Lightning Greaves",
+     "Goblin Chirurgeon",
+     "The One Ring",
+     "Hexing Squelcher",
+     "Deflecting Swat",
+     "Pyroblast",
+     "Red Elemental Blast",
+     "Reverberate",
+     "Cavern of Souls"
+    ],
+    "count": 9,
+    "id": "protection"
+   },
+   {
+    "cards": [
+     "Goblin Welder",
+     "Underworld Breach",
+     "Goblin Engineer",
+     "Buried Ruin"
+    ],
+    "count": 4,
+    "id": "recursion"
+   },
+   {
+    "cards": [
+     "Phyrexian Altar",
+     "Skirk Prospector",
+     "Goblin Chirurgeon",
+     "Goblin Bombardment",
+     "Dark-Dweller Oracle",
+     "Goblin Trashmaster"
+    ],
+    "count": 6,
+    "id": "sac-outlet"
+   },
+   {
+    "cards": [
+     "Impact Tremors",
+     "Pashalik Mons",
+     "Purphoros, God of the Forge"
+    ],
+    "count": 3,
+    "id": "aristocrat"
+   },
+   {
+    "cards": [
+     "Krenko, Mob Boss",
+     "Kiki-Jiki, Mirror Breaker",
+     "Pashalik Mons",
+     "Krenko, Tin Street Kingpin"
+    ],
+    "count": 4,
+    "id": "tokens"
+   },
+   {
+    "cards": [
+     "Goblin Chieftain",
+     "Goblin Trashmaster",
+     "Coat of Arms",
+     "Shared Animosity",
+     "Castle Embereth"
+    ],
+    "count": 5,
+    "id": "lord"
+   },
+   {
+    "cards": [
+     "Krenko, Mob Boss",
+     "Mana Echoes",
+     "Muxus, Goblin Grandee",
+     "Skullclamp",
+     "Underworld Breach",
+     "Moggcatcher",
+     "Krenko, Tin Street Kingpin"
+    ],
+    "count": 7,
+    "id": "engine"
+   },
+   {
+    "cards": [
+     "Krenko, Mob Boss",
+     "Thousand-Year Elixir",
+     "Phyrexian Altar",
+     "Skirk Prospector",
+     "Mana Echoes",
+     "Magewright's Stone",
+     "Goblin Sharpshooter",
+     "Conspicuous Snoop",
+     "Lightning Crafter",
+     "Aggravated Assault",
+     "Goblin Bombardment",
+     "Impact Tremors",
+     "Breath of Fury",
+     "Thornbite Staff",
+     "Kiki-Jiki, Mirror Breaker",
+     "Purphoros, God of the Forge",
+     "Rings of Brighthearth",
+     "Staff of Domination",
+     "Goblin Welder",
+     "Underworld Breach",
+     "Goblin Recruiter",
+     "Goblin Engineer"
+    ],
+    "count": 22,
+    "id": "combo"
+   },
+   {
+    "cards": [
+     "Conspicuous Snoop",
+     "Lightning Crafter",
+     "Aggravated Assault",
+     "Goblin Bombardment",
+     "Impact Tremors",
+     "Thornbite Staff",
+     "Muxus, Goblin Grandee",
+     "Kiki-Jiki, Mirror Breaker",
+     "Pashalik Mons",
+     "Purphoros, God of the Forge",
+     "Coat of Arms",
+     "Shared Animosity",
+     "Goblin War Strike"
+    ],
+    "count": 13,
+    "id": "wincon"
+   },
+   {
+    "cards": [
+     "Thousand-Year Elixir",
+     "Lightning Greaves",
+     "Crashing Drawbridge",
+     "Generator Servant",
+     "Goblin Chieftain",
+     "Goblin Motivator",
+     "Goblin Warchief",
+     "Ashling's Prerogative",
+     "Mass Hysteria",
+     "Magewright's Stone",
+     "Thornbite Staff",
+     "Rings of Brighthearth",
+     "Staff of Domination",
+     "Goblin Lackey",
+     "Warren Instigator",
+     "Hall of the Bandit Lord"
+    ],
+    "count": 16,
+    "id": "enabler"
+   },
+   {
+    "cards": [
+     "Blood Moon",
+     "Price of Glory"
+    ],
+    "count": 2,
+    "id": "stax"
+   },
+   {
+    "cards": [
+     "Aggravated Assault",
+     "Breath of Fury"
+    ],
+    "count": 2,
+    "id": "combat"
+   },
+   {
+    "cards": [
+     "Subira, Tulzidi Caravanner",
+     "Reforge the Soul",
+     "Wheel of Misfortune"
+    ],
+    "count": 3,
+    "id": "wheel"
+   },
+   {
+    "cards": [
+     "Darksteel Citadel",
+     "Great Furnace",
+     "Mountain",
+     "Snow-Covered Mountain",
+     "Ancient Tomb",
+     "Buried Ruin",
+     "Castle Embereth",
+     "Cavern of Souls",
+     "Command Beacon",
+     "Field of Ruin",
+     "Path of Ancestry",
+     "Valakut, the Molten Pinnacle",
+     "Hall of the Bandit Lord"
+    ],
+    "count": 35,
+    "id": "land"
+   },
+   {
+    "cards": [
+     "Reverberate",
+     "Command Beacon"
+    ],
+    "count": 2,
+    "id": "utility"
+   }
+  ],
+  "total_cards": 100
+ },
+ "subtitle": "Mono vermell",
+ "title": "Krenko, Mob Boss – Goblin Combos"
+}

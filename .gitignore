@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+decks/img/
+decks/_cache/img/
+decks/**/*.pdf
+decks/*.pdf

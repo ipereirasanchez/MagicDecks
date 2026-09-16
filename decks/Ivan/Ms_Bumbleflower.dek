@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck>
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tamiyo, Field Researcher" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dusk Legion Duelist" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Evolution Witness" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Loran of the Third Path" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Loki, God of Mischief" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Innkeeper&apos;s Talent" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Consider" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Crop Rotation" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Experimental Augury" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Growth Spiral" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mystical Tutor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Otherworldly Gaze" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shrieking Drake" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Whitemane Lion" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Spectral Sailor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="View from Above" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Shimmering Wings" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dreamtide Whale" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Walking Ballista" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Morska, Undersea Sleuth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Simic Ascendancy" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Triskaidekaphile" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Managorger Hydra" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Chasm Skulker" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Forgotten Ancient" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Authority of the Consuls" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Narset, Parter of Veils" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Blind Obedience" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Grand Abolisher" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="High Fae Trickster" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Jolrael, Mwonvuli Recluse" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Prophet of Kruphix" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Seedborn Muse" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wilderness Reclamation" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Herd Baloth" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Beast Within" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Cyclonic Rift" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Damning Verdict" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Generous Gift" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Snap" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Swords to Plowshares" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Unwind" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Wear Down" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Rapid Hybridization" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Glen Elendra Guardian" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Mana Leak" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sink into Stupor" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Counterspell" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Kid Loki" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bastion Protector" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Guardian Augmenter" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Heroic Intervention" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tenuous Truce" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tyvar&apos;s Stand" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Dawn&apos;s Truce" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Flare of Fortitude" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Bloom Tender" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Farseek" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Kami of Whispered Hopes" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Kodama&apos;s Reach" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Tender Wildguide" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Birds of Paradise" />
+  <Cards CatID="0" Quantity="1" Sideboard="false" Name="Sol Ring" />
+  <Cards CatID="0" Quantity="12" Sideboard="false" Name="Forest" />
+  <Cards CatID="0" Quantity="13" Sideboard="false" Name="Island" />
+  <Cards CatID="0" Quantity="10" Sideboard="false" Name="Plains" />
+  <Cards CatID="0" Quantity="1" Sideboard="true" Name="Ms. Bumbleflower" />
+</Deck>
