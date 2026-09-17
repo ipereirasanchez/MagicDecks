@@ -154,13 +154,14 @@ function factsHtml(ev, lang) {
   return `<dl class="event-facts">${rows.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${v}</dd></div>`).join("")}</dl>`;
 }
 
+/* Browsers only allow autoplay when the video starts muted; the controls let the visitor unmute. */
 function videoHtml(ev, lang) {
   const v = ev.video;
   if (!v?.src) return "";
   const l = labels(lang);
   return `
     <figure class="event-video">
-      <video controls preload="metadata" playsinline${ev.art ? ` poster="${esc(ev.art)}"` : ""}>
+      <video controls autoplay muted loop playsinline preload="auto"${ev.art ? ` poster="${esc(ev.art)}"` : ""}>
         <source src="${esc(v.src)}"${v.type ? ` type="${esc(v.type)}"` : ""}>
         ${esc(l.videoFallback)} <a href="${esc(v.src)}" target="_blank" rel="noopener">${esc(l.videoOpen)}</a>
       </video>

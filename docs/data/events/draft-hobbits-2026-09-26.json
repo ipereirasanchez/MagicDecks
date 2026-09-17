@@ -6810,7 +6810,10 @@
  "pages": {
   "ca": {
    "event": {
-    "card_refs": [],
+    "card_refs": [
+     "Enchanted River's Grasp",
+     "Celebrate the Mountain-king"
+    ],
     "intro_html": "<p>El nostre primer draft de <strong>The Hobbit</strong>: sobres de l'edició, cartes en anglès, una taula rodona i una tarda de Magic. Aquesta pàgina explica què és un draft, com l'organitzarem i què convé saber si és el teu primer draft o fa temps de l'últim. La guia de l'edició (mecàniques, arquetips, les cartes més fortes i com draftejar-la) és a la pàgina següent.</p>",
     "sections": [
      {
@@ -6850,9 +6853,30 @@
       "gallery": [],
       "heading": "Consells generals per draftejar",
       "heading_html": "Consells generals per draftejar",
-      "html": "<p>Si és el teu primer draft, amb això en tens de sobres:</p>\n<ol><li><strong>Primer qualitat, després color.</strong> A les 3 o 4 primeres tries del primer sobre agafa el millor que vegis (bombes i removal), encara que sigui de colors diferents. Et compromets a partir de la meitat del primer sobre.</li><li><strong>Dos colors.</strong> Gairebé totes les baralles de draft són bicolors. Un tercer color només per a una o dues cartes molt bones, i amb ajuda per produir aquell manà.</li><li><strong>El removal val més que una criatura normal.</strong> Una carta que elimina una criatura rival gairebé sempre és millor tria que una criatura de nivell mitjà.</li><li><strong>Compta les criatures.</strong> Una baralla de 40 en vol entre 14 i 17. L'error més habitual és arribar amb 9 criatures i 12 cartes que no fan res sense criatures.</li><li><strong>Corba de manà.</strong> Molt de cost 2 i 3, una mica de 4, poc de 5 o més. Si la teva mà no juga res fins al torn 4, perds.</li><li><strong>17 terres</strong> de 40. 16 si la baralla és molt barata, 18 si jugues landfall i cartes cares.</li><li><strong>Llegeix els senyals.</strong> Si a la cinquena tria t'arriba una carta molt bona d'un color, és que a la teva dreta ningú no l'agafa: aquell color està obert. Al segon sobre els senyals vénen de l'altre costat.</li><li><strong>Evasió i mida guanyen partides.</strong> Voladors, amenaça (menace), criatures grans. Les 2/2 sense text, no.</li><li><strong>Trucs de combat amb moderació.</strong> Dos o tres són bons; sis és mà plena i taula buida.</li><li><strong>No agafis cartes «per a Commander»</strong> mentre el sobre tingui alguna cosa útil per a la teva baralla. Primer la baralla, després els capricis. Això sí, l'última tria de cada sobre és gratis.</li><li><strong>Consistència abans que sinergia.</strong> Si l'arquetip no t'ha arribat, dos colors amb bones criatures i removal guanyen igual.</li><li><strong>Fes servir la banqueta.</strong> Entre partides pots canviar cartes: contra molts voladors, contra equipament, contra una baralla més lenta o més ràpida que la teva.</li></ol>\n<p>Per saber què esperar de l'edició (quines mecàniques té, quines cartes són les més fortes i quines baralles es poden muntar), continua amb la guia de l'edició.</p>",
+      "html": "<p>Si és el teu primer draft, amb això en tens de sobres:</p>\n<ol><li><strong>Primer qualitat, després color.</strong> A les 3 o 4 primeres tries del primer sobre agafa el millor que vegis (bombes i removal), encara que sigui de colors diferents. Et compromets a partir de la meitat del primer sobre.</li><li><strong>Dos colors.</strong> Gairebé totes les baralles de draft són bicolors. Un tercer color només per a una o dues cartes molt bones, i amb ajuda per produir aquell manà.</li><li><strong>El removal val més que una criatura normal.</strong> Una carta que elimina una criatura rival gairebé sempre és millor tria que una criatura de nivell mitjà.</li><li><strong>Compta les criatures.</strong> Una baralla de 40 en vol entre 14 i 17. L'error més habitual és arribar amb 9 criatures i 12 cartes que no fan res sense criatures.</li><li><strong>Corba de manà.</strong> Molt de cost 2 i 3, una mica de 4, poc de 5 o més (vegeu la taula de més avall). Si la teva mà no juga res fins al torn 4, perds.</li><li><strong>17 terres</strong> de 40. 16 si la baralla és molt barata, 18 si jugues landfall i cartes cares.</li><li><strong>Llegeix els senyals.</strong> Si a la cinquena tria t'arriba una carta molt bona d'un color, és que a la teva dreta ningú no l'agafa: aquell color està obert. Al segon sobre els senyals vénen de l'altre costat.</li><li><strong>Evasió i mida guanyen partides.</strong> Voladors, amenaça (menace), criatures grans. Les 2/2 sense text, no.</li><li><strong>Trucs de combat amb moderació.</strong> Dos o tres són bons; sis és mà plena i taula buida.</li><li><strong>No agafis cartes «per a Commander»</strong> mentre el sobre tingui alguna cosa útil per a la teva baralla. Primer la baralla, després els capricis. Això sí, l'última tria de cada sobre és gratis.</li><li><strong>Consistència abans que sinergia.</strong> Si l'arquetip no t'ha arribat, dos colors amb bones criatures i removal guanyen igual.</li><li><strong>Fes servir la banqueta.</strong> Entre partides pots canviar cartes: contra molts voladors, contra equipament, contra una baralla més lenta o més ràpida que la teva.</li></ol>",
       "id": "consells-generals-per-draftejar",
       "level": 2
+     },
+     {
+      "cards": [],
+      "gallery": [],
+      "heading": "Corba de manà recomanada",
+      "heading_html": "Corba de manà recomanada",
+      "html": "<p>Per a una baralla de 40 cartes amb 17 terres, les 23 cartes restants haurien de repartir-se més o menys així:</p>\n<table class=\"md-table\"><thead><tr><th>Cost de manà</th><th>Cartes</th><th>Comentari</th></tr></thead><tbody><tr><td>1</td><td>1-2</td><td>Només si fan alguna cosa més que ser un cos (removal barat, un equipament).</td></tr><tr><td>2</td><td>5-7</td><td>El pilar de la baralla: vols jugar sempre alguna cosa al torn 2.</td></tr><tr><td>3</td><td>5-6</td><td>Les millors criatures i el removal solen ser aquí.</td></tr><tr><td>4</td><td>3-5</td><td>Criatures que dominen la taula i removal car.</td></tr><tr><td>5</td><td>2-3</td><td>Amenaces grans; amb 17 terres les jugaràs al torn 5 o 6.</td></tr><tr><td>6 o més</td><td>0-2</td><td>Només bombes. Cada carta de 6 o més és un torn sense jugar res si arriba aviat.</td></tr></tbody></table>\n<p>Regles ràpides: el cost mitjà de les cartes que no són terra hauria de quedar entre 2,8 i 3,3. Si tens més de 3 cartes de cost 5 o més, juga 18 terres. Si en tens moltes de cost 1 i 2 i cap de 5, pots baixar a 16. Les cartes d'aventura, compta-les pel cost de la meitat que jugaràs primer.</p>",
+      "id": "corba-de-mana-recomanada",
+      "level": 3
+     },
+     {
+      "cards": [
+       "Enchanted River's Grasp",
+       "Celebrate the Mountain-king"
+      ],
+      "gallery": [],
+      "heading": "Quantes cartes de cada tipus",
+      "heading_html": "Quantes cartes de cada tipus",
+      "html": "<p>Sobre les 23 cartes que no són terra (a la dreta, el percentatge sobre tota la baralla de 40):</p>\n<table class=\"md-table\"><thead><tr><th>Tipus</th><th>Cartes</th><th>% de 40</th><th>Per què</th></tr></thead><tbody><tr><td>Criatures</td><td>14-17</td><td>35-42%</td><td>Guanyen les partides. Amb menys de 14 et quedes sense atacants ni bloquejadors.</td></tr><tr><td>Instantanis i conjurs</td><td>4-7</td><td>10-17%</td><td>Sobretot removal (3-5) i un o dos trucs de combat. Més de 7 vol dir que et falten criatures.</td></tr><tr><td>Artefactes (equipaments)</td><td>0-3</td><td>0-7%</td><td>Un bon equipament fa millors totes les criatures; el quart ja sobra.</td></tr><tr><td>Encanteris</td><td>0-2</td><td>0-5%</td><td>Només si són removal (<span class=\"card-ref\" data-card=\"Enchanted River&#x27;s Grasp\">Enchanted River's Grasp</span>, <span class=\"card-ref\" data-card=\"Celebrate the Mountain-king\">Celebrate the Mountain-king</span>) o una Saga que faci de 2 per 1. Les aures que només donen +X/+X, mai.</td></tr><tr><td>Terres</td><td>16-18</td><td>40-45%</td><td>17 és el nombre per defecte.</td></tr></tbody></table>\n<p>En resum: dues terceres parts de les cartes que no són terra han de ser criatures, i gairebé tota la resta, removal. Les cartes «que fan coses interessants» però ni ataquen ni maten res són les primeres a caure quan sobren cartes.</p>\n<p>Per saber què esperar de l'edició (quines mecàniques té, quines cartes són les més fortes i quines baralles es poden muntar), continua amb la guia de l'edició.</p>",
+      "id": "quantes-cartes-de-cada-tipus",
+      "level": 3
      }
     ],
     "subtitle": "The Hobbit",
@@ -7804,7 +7828,10 @@
   },
   "it": {
    "event": {
-    "card_refs": [],
+    "card_refs": [
+     "Enchanted River's Grasp",
+     "Celebrate the Mountain-king"
+    ],
     "intro_html": "<p>Il nostro primo draft di <strong>The Hobbit</strong>: buste dell'espansione, carte in inglese, un tavolo rotondo e un pomeriggio di Magic. Questa pagina spiega che cos'è un draft, come lo organizzeremo e cosa conviene sapere se è il tuo primo draft o se è passato del tempo dall'ultimo. La guida all'espansione (meccaniche, archetipi, le carte più forti e come draftarla) è nella pagina successiva.</p>",
     "sections": [
      {
@@ -7844,9 +7871,30 @@
       "gallery": [],
       "heading": "Consigli generali per draftare",
       "heading_html": "Consigli generali per draftare",
-      "html": "<p>Se è il tuo primo draft, con questo sei a posto:</p>\n<ol><li><strong>Prima la qualità, poi il colore.</strong> Nelle prime 3 o 4 scelte della prima busta prendi il meglio che vedi (bombe e removal), anche se di colori diversi. Ti impegni a partire dalla metà della prima busta.</li><li><strong>Due colori.</strong> Quasi tutti i mazzi da draft sono bicolori. Un terzo colore solo per una o due carte molto buone, e con aiuti per produrre quel mana.</li><li><strong>Il removal vale più di una creatura normale.</strong> Una carta che elimina una creatura avversaria è quasi sempre una scelta migliore di una creatura di livello medio.</li><li><strong>Conta le creature.</strong> Un mazzo da 40 ne vuole tra 14 e 17. L'errore più comune è arrivare con 9 creature e 12 carte che non fanno niente senza creature.</li><li><strong>Curva di mana.</strong> Molto a costo 2 e 3, un po' a 4, poco a 5 o più. Se la tua mano non gioca niente fino al turno 4, perdi.</li><li><strong>17 terre</strong> su 40. 16 se il mazzo è molto economico, 18 se giochi landfall e carte costose.</li><li><strong>Leggi i segnali.</strong> Se alla quinta scelta ti arriva una carta molto buona di un colore, vuol dire che alla tua destra nessuno lo sta prendendo: quel colore è aperto. Nella seconda busta i segnali arrivano dall'altro lato.</li><li><strong>Evasione e dimensioni vincono le partite.</strong> Volanti, minacciare, creature grosse. Le 2/2 senza testo, no.</li><li><strong>Trucchi da combattimento con moderazione.</strong> Due o tre sono buoni; sei sono mano piena e tavolo vuoto.</li><li><strong>Non prendere carte «per Commander»</strong> finché la busta ha qualcosa di utile per il tuo mazzo. Prima il mazzo, poi i capricci. Però l'ultima scelta di ogni busta è gratis.</li><li><strong>Consistenza prima della sinergia.</strong> Se l'archetipo non ti è arrivato, due colori con buone creature e removal vincono lo stesso.</li><li><strong>Usa la sideboard.</strong> Tra una partita e l'altra puoi cambiare carte: contro tanti volanti, contro gli equipaggiamenti, contro un mazzo più lento o più veloce del tuo.</li></ol>\n<p>Per sapere cosa aspettarti dall'espansione (quali meccaniche ha, quali carte sono le più forti e quali mazzi si possono costruire), continua con la guida all'espansione.</p>",
+      "html": "<p>Se è il tuo primo draft, con questo sei a posto:</p>\n<ol><li><strong>Prima la qualità, poi il colore.</strong> Nelle prime 3 o 4 scelte della prima busta prendi il meglio che vedi (bombe e removal), anche se di colori diversi. Ti impegni a partire dalla metà della prima busta.</li><li><strong>Due colori.</strong> Quasi tutti i mazzi da draft sono bicolori. Un terzo colore solo per una o due carte molto buone, e con aiuti per produrre quel mana.</li><li><strong>Il removal vale più di una creatura normale.</strong> Una carta che elimina una creatura avversaria è quasi sempre una scelta migliore di una creatura di livello medio.</li><li><strong>Conta le creature.</strong> Un mazzo da 40 ne vuole tra 14 e 17. L'errore più comune è arrivare con 9 creature e 12 carte che non fanno niente senza creature.</li><li><strong>Curva di mana.</strong> Molto a costo 2 e 3, un po' a 4, poco a 5 o più (vedi la tabella qui sotto). Se la tua mano non gioca niente fino al turno 4, perdi.</li><li><strong>17 terre</strong> su 40. 16 se il mazzo è molto economico, 18 se giochi landfall e carte costose.</li><li><strong>Leggi i segnali.</strong> Se alla quinta scelta ti arriva una carta molto buona di un colore, vuol dire che alla tua destra nessuno lo sta prendendo: quel colore è aperto. Nella seconda busta i segnali arrivano dall'altro lato.</li><li><strong>Evasione e dimensioni vincono le partite.</strong> Volanti, minacciare, creature grosse. Le 2/2 senza testo, no.</li><li><strong>Trucchi da combattimento con moderazione.</strong> Due o tre sono buoni; sei sono mano piena e tavolo vuoto.</li><li><strong>Non prendere carte «per Commander»</strong> finché la busta ha qualcosa di utile per il tuo mazzo. Prima il mazzo, poi i capricci. Però l'ultima scelta di ogni busta è gratis.</li><li><strong>Consistenza prima della sinergia.</strong> Se l'archetipo non ti è arrivato, due colori con buone creature e removal vincono lo stesso.</li><li><strong>Usa la sideboard.</strong> Tra una partita e l'altra puoi cambiare carte: contro tanti volanti, contro gli equipaggiamenti, contro un mazzo più lento o più veloce del tuo.</li></ol>",
       "id": "consigli-generali-per-draftare",
       "level": 2
+     },
+     {
+      "cards": [],
+      "gallery": [],
+      "heading": "Curva di mana consigliata",
+      "heading_html": "Curva di mana consigliata",
+      "html": "<p>Per un mazzo da 40 carte con 17 terre, le 23 carte restanti dovrebbero distribuirsi più o meno così:</p>\n<table class=\"md-table\"><thead><tr><th>Costo di mana</th><th>Carte</th><th>Commento</th></tr></thead><tbody><tr><td>1</td><td>1-2</td><td>Solo se fanno qualcosa in più che essere un corpo (removal economico, un equipaggiamento).</td></tr><tr><td>2</td><td>5-7</td><td>Il pilastro del mazzo: vuoi sempre giocare qualcosa al turno 2.</td></tr><tr><td>3</td><td>5-6</td><td>Le migliori creature e il removal di solito stanno qui.</td></tr><tr><td>4</td><td>3-5</td><td>Creature che dominano il tavolo e removal costoso.</td></tr><tr><td>5</td><td>2-3</td><td>Minacce grosse; con 17 terre le giocherai al turno 5 o 6.</td></tr><tr><td>6 o più</td><td>0-2</td><td>Solo bombe. Ogni carta da 6 o più è un turno senza giocare niente se arriva presto.</td></tr></tbody></table>\n<p>Regole rapide: il costo medio delle carte non terra dovrebbe stare tra 2,8 e 3,3. Se hai più di 3 carte a costo 5 o più, gioca 18 terre. Se ne hai molte a costo 1 e 2 e nessuna a 5, puoi scendere a 16. Le carte avventura, contale per il costo della metà che giocherai per prima.</p>",
+      "id": "curva-di-mana-consigliata",
+      "level": 3
+     },
+     {
+      "cards": [
+       "Enchanted River's Grasp",
+       "Celebrate the Mountain-king"
+      ],
+      "gallery": [],
+      "heading": "Quante carte di ogni tipo",
+      "heading_html": "Quante carte di ogni tipo",
+      "html": "<p>Sulle 23 carte non terra (a destra, la percentuale sull'intero mazzo da 40):</p>\n<table class=\"md-table\"><thead><tr><th>Tipo</th><th>Carte</th><th>% su 40</th><th>Perché</th></tr></thead><tbody><tr><td>Creature</td><td>14-17</td><td>35-42%</td><td>Vincono le partite. Con meno di 14 resti senza attaccanti né bloccanti.</td></tr><tr><td>Istantanei e stregonerie</td><td>4-7</td><td>10-17%</td><td>Soprattutto removal (3-5) e uno o due trucchi da combattimento. Più di 7 vuol dire che ti mancano creature.</td></tr><tr><td>Artefatti (equipaggiamenti)</td><td>0-3</td><td>0-7%</td><td>Un buon equipaggiamento rende migliori tutte le creature; il quarto è già di troppo.</td></tr><tr><td>Incantesimi</td><td>0-2</td><td>0-5%</td><td>Solo se sono removal (<span class=\"card-ref\" data-card=\"Enchanted River&#x27;s Grasp\">Enchanted River's Grasp</span>, <span class=\"card-ref\" data-card=\"Celebrate the Mountain-king\">Celebrate the Mountain-king</span>) o una Saga che faccia da 2 per 1. Le aure che danno solo +X/+X, mai.</td></tr><tr><td>Terre</td><td>16-18</td><td>40-45%</td><td>17 è il numero di default.</td></tr></tbody></table>\n<p>In sintesi: due terzi delle carte non terra devono essere creature, e quasi tutto il resto removal. Le carte «che fanno cose interessanti» ma non attaccano né uccidono niente sono le prime a saltare quando le carte avanzano.</p>\n<p>Per sapere cosa aspettarti dall'espansione (quali meccaniche ha, quali carte sono le più forti e quali mazzi si possono costruire), continua con la guida all'espansione.</p>",
+      "id": "quante-carte-di-ogni-tipo",
+      "level": 3
      }
     ],
     "subtitle": "The Hobbit",

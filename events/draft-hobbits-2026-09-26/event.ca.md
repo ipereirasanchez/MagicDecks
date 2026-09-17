@@ -49,7 +49,7 @@ Si és el teu primer draft, amb això en tens de sobres:
 2. **Dos colors.** Gairebé totes les baralles de draft són bicolors. Un tercer color només per a una o dues cartes molt bones, i amb ajuda per produir aquell manà.
 3. **El removal val més que una criatura normal.** Una carta que elimina una criatura rival gairebé sempre és millor tria que una criatura de nivell mitjà.
 4. **Compta les criatures.** Una baralla de 40 en vol entre 14 i 17. L'error més habitual és arribar amb 9 criatures i 12 cartes que no fan res sense criatures.
-5. **Corba de manà.** Molt de cost 2 i 3, una mica de 4, poc de 5 o més. Si la teva mà no juga res fins al torn 4, perds.
+5. **Corba de manà.** Molt de cost 2 i 3, una mica de 4, poc de 5 o més (vegeu la taula de més avall). Si la teva mà no juga res fins al torn 4, perds.
 6. **17 terres** de 40. 16 si la baralla és molt barata, 18 si jugues landfall i cartes cares.
 7. **Llegeix els senyals.** Si a la cinquena tria t'arriba una carta molt bona d'un color, és que a la teva dreta ningú no l'agafa: aquell color està obert. Al segon sobre els senyals vénen de l'altre costat.
 8. **Evasió i mida guanyen partides.** Voladors, amenaça (menace), criatures grans. Les 2/2 sense text, no.
@@ -57,5 +57,34 @@ Si és el teu primer draft, amb això en tens de sobres:
 10. **No agafis cartes «per a Commander»** mentre el sobre tingui alguna cosa útil per a la teva baralla. Primer la baralla, després els capricis. Això sí, l'última tria de cada sobre és gratis.
 11. **Consistència abans que sinergia.** Si l'arquetip no t'ha arribat, dos colors amb bones criatures i removal guanyen igual.
 12. **Fes servir la banqueta.** Entre partides pots canviar cartes: contra molts voladors, contra equipament, contra una baralla més lenta o més ràpida que la teva.
+
+### Corba de manà recomanada
+
+Per a una baralla de 40 cartes amb 17 terres, les 23 cartes restants haurien de repartir-se més o menys així:
+
+| Cost de manà | Cartes | Comentari |
+|---|---|---|
+| 1 | 1-2 | Només si fan alguna cosa més que ser un cos (removal barat, un equipament). |
+| 2 | 5-7 | El pilar de la baralla: vols jugar sempre alguna cosa al torn 2. |
+| 3 | 5-6 | Les millors criatures i el removal solen ser aquí. |
+| 4 | 3-5 | Criatures que dominen la taula i removal car. |
+| 5 | 2-3 | Amenaces grans; amb 17 terres les jugaràs al torn 5 o 6. |
+| 6 o més | 0-2 | Només bombes. Cada carta de 6 o més és un torn sense jugar res si arriba aviat. |
+
+Regles ràpides: el cost mitjà de les cartes que no són terra hauria de quedar entre 2,8 i 3,3. Si tens més de 3 cartes de cost 5 o més, juga 18 terres. Si en tens moltes de cost 1 i 2 i cap de 5, pots baixar a 16. Les cartes d'aventura, compta-les pel cost de la meitat que jugaràs primer.
+
+### Quantes cartes de cada tipus
+
+Sobre les 23 cartes que no són terra (a la dreta, el percentatge sobre tota la baralla de 40):
+
+| Tipus | Cartes | % de 40 | Per què |
+|---|---|---|---|
+| Criatures | 14-17 | 35-42% | Guanyen les partides. Amb menys de 14 et quedes sense atacants ni bloquejadors. |
+| Instantanis i conjurs | 4-7 | 10-17% | Sobretot removal (3-5) i un o dos trucs de combat. Més de 7 vol dir que et falten criatures. |
+| Artefactes (equipaments) | 0-3 | 0-7% | Un bon equipament fa millors totes les criatures; el quart ja sobra. |
+| Encanteris | 0-2 | 0-5% | Només si són removal (Enchanted River's Grasp, Celebrate the Mountain-king) o una Saga que faci de 2 per 1. Les aures que només donen +X/+X, mai. |
+| Terres | 16-18 | 40-45% | 17 és el nombre per defecte. |
+
+En resum: dues terceres parts de les cartes que no són terra han de ser criatures, i gairebé tota la resta, removal. Les cartes «que fan coses interessants» però ni ataquen ni maten res són les primeres a caure quan sobren cartes.
 
 Per saber què esperar de l'edició (quines mecàniques té, quines cartes són les més fortes i quines baralles es poden muntar), continua amb la guia de l'edició.

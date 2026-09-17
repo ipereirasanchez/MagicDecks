@@ -49,7 +49,7 @@ Se è il tuo primo draft, con questo sei a posto:
 2. **Due colori.** Quasi tutti i mazzi da draft sono bicolori. Un terzo colore solo per una o due carte molto buone, e con aiuti per produrre quel mana.
 3. **Il removal vale più di una creatura normale.** Una carta che elimina una creatura avversaria è quasi sempre una scelta migliore di una creatura di livello medio.
 4. **Conta le creature.** Un mazzo da 40 ne vuole tra 14 e 17. L'errore più comune è arrivare con 9 creature e 12 carte che non fanno niente senza creature.
-5. **Curva di mana.** Molto a costo 2 e 3, un po' a 4, poco a 5 o più. Se la tua mano non gioca niente fino al turno 4, perdi.
+5. **Curva di mana.** Molto a costo 2 e 3, un po' a 4, poco a 5 o più (vedi la tabella qui sotto). Se la tua mano non gioca niente fino al turno 4, perdi.
 6. **17 terre** su 40. 16 se il mazzo è molto economico, 18 se giochi landfall e carte costose.
 7. **Leggi i segnali.** Se alla quinta scelta ti arriva una carta molto buona di un colore, vuol dire che alla tua destra nessuno lo sta prendendo: quel colore è aperto. Nella seconda busta i segnali arrivano dall'altro lato.
 8. **Evasione e dimensioni vincono le partite.** Volanti, minacciare, creature grosse. Le 2/2 senza testo, no.
@@ -57,5 +57,34 @@ Se è il tuo primo draft, con questo sei a posto:
 10. **Non prendere carte «per Commander»** finché la busta ha qualcosa di utile per il tuo mazzo. Prima il mazzo, poi i capricci. Però l'ultima scelta di ogni busta è gratis.
 11. **Consistenza prima della sinergia.** Se l'archetipo non ti è arrivato, due colori con buone creature e removal vincono lo stesso.
 12. **Usa la sideboard.** Tra una partita e l'altra puoi cambiare carte: contro tanti volanti, contro gli equipaggiamenti, contro un mazzo più lento o più veloce del tuo.
+
+### Curva di mana consigliata
+
+Per un mazzo da 40 carte con 17 terre, le 23 carte restanti dovrebbero distribuirsi più o meno così:
+
+| Costo di mana | Carte | Commento |
+|---|---|---|
+| 1 | 1-2 | Solo se fanno qualcosa in più che essere un corpo (removal economico, un equipaggiamento). |
+| 2 | 5-7 | Il pilastro del mazzo: vuoi sempre giocare qualcosa al turno 2. |
+| 3 | 5-6 | Le migliori creature e il removal di solito stanno qui. |
+| 4 | 3-5 | Creature che dominano il tavolo e removal costoso. |
+| 5 | 2-3 | Minacce grosse; con 17 terre le giocherai al turno 5 o 6. |
+| 6 o più | 0-2 | Solo bombe. Ogni carta da 6 o più è un turno senza giocare niente se arriva presto. |
+
+Regole rapide: il costo medio delle carte non terra dovrebbe stare tra 2,8 e 3,3. Se hai più di 3 carte a costo 5 o più, gioca 18 terre. Se ne hai molte a costo 1 e 2 e nessuna a 5, puoi scendere a 16. Le carte avventura, contale per il costo della metà che giocherai per prima.
+
+### Quante carte di ogni tipo
+
+Sulle 23 carte non terra (a destra, la percentuale sull'intero mazzo da 40):
+
+| Tipo | Carte | % su 40 | Perché |
+|---|---|---|---|
+| Creature | 14-17 | 35-42% | Vincono le partite. Con meno di 14 resti senza attaccanti né bloccanti. |
+| Istantanei e stregonerie | 4-7 | 10-17% | Soprattutto removal (3-5) e uno o due trucchi da combattimento. Più di 7 vuol dire che ti mancano creature. |
+| Artefatti (equipaggiamenti) | 0-3 | 0-7% | Un buon equipaggiamento rende migliori tutte le creature; il quarto è già di troppo. |
+| Incantesimi | 0-2 | 0-5% | Solo se sono removal (Enchanted River's Grasp, Celebrate the Mountain-king) o una Saga che faccia da 2 per 1. Le aure che danno solo +X/+X, mai. |
+| Terre | 16-18 | 40-45% | 17 è il numero di default. |
+
+In sintesi: due terzi delle carte non terra devono essere creature, e quasi tutto il resto removal. Le carte «che fanno cose interessanti» ma non attaccano né uccidono niente sono le prime a saltare quando le carte avanzano.
 
 Per sapere cosa aspettarti dall'espansione (quali meccaniche ha, quali carte sono le più forti e quali mazzi si possono costruire), continua con la guida all'espansione.
