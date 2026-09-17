@@ -1,0 +1,21 @@
+/* Events: the list reuses .deck-card; the event pages add facts, a video and a language toggle. */
+.site-header .header-link ~ .header-link { margin-left: 0; }
+.event-card .deck-art img { object-position: center 30%; }
+.event-kicker { font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: rgba(255, 255, 255, .8); margin: 0 0 6px; }
+.event-langs { margin: 12px 0 10px; }
+.event-langs .chip { background: rgba(255, 255, 255, .12); border-color: rgba(255, 255, 255, .4); color: #fff; }
+.event-langs .chip:hover { border-color: #fff; }
+.event-langs .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.event-facts {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px 20px; margin: 0 0 20px;
+  padding: 14px 18px; background: var(--bg-elev); border: 1px solid var(--border); border-radius: var(--radius);
+}
+.event-facts > div { margin: 0; min-width: 0; }
+.event-facts dt { font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--text-muted); }
+.event-facts dd { margin: 2px 0 0; font-weight: 600; overflow-wrap: anywhere; }
+.event-facts .tbd { font-style: italic; font-weight: 400; color: var(--text-muted); }
+.event-video { margin: 0 0 28px; }
+.event-video video { display: block; width: 100%; max-width: 900px; aspect-ratio: 16 / 9; background: #000; border-radius: var(--radius); box-shadow: var(--shadow); }
+.event-video figcaption { font-size: .875rem; color: var(--text-muted); margin-top: 6px; }
+.event-nav { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px; margin-top: 32px; }
+.event-nav:empty { display: none; }

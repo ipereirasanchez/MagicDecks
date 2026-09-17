@@ -1,11 +1,12 @@
 // Hash router + page chrome (breadcrumbs, footer, loading / error / not-found states) (§4.2).
 
 import { t } from "./i18n/ca.js";
-import { loadIndex, loadDeck, DataError } from "./data.js";
+import { loadIndex, loadDeck, loadEvents, loadEvent, DataError } from "./data.js";
 import { renderHome } from "./views/home.js";
 import { renderDeck } from "./views/deck.js";
 import { renderGuide } from "./views/guide.js";
 import { renderLife, disposeLife } from "./views/life.js";
+import { renderEvents, renderEvent } from "./views/events.js";
 import { closeLightbox } from "./components/lightbox.js";
 import { hidePreview } from "./components/preview.js";
 import { escapeHtml as esc } from "./components/mana.js";
@@ -68,6 +69,11 @@ function parseRoute() {
   let m;
   if (hash === "/") return { name: "home" };
   if (/^\/?vides\/?$/i.test(hash)) return { name: "life" }; // tolerate a trailing slash, like the other routes
+  if (/^\/?esdeveniments\/?$/i.test(hash)) return { name: "events" };
+  if ((m = hash.match(/^\/esdeveniments\/([^/]+)(?:\/(info|edicio)(?:\/([^/]+))?)?\/?$/))) {
+    return { name: "event", slug: decodeURIComponent(m[1]), page: m[2] === "edicio" ? "set" : "info",
+      section: m[3] ? decodeURIComponent(m[3]) : null };
+  }
   if ((m = hash.match(/^\/deck\/([^/]+)\/?$/))) return { name: "deck", slug: decodeURIComponent(m[1]), tab: "list" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/stats\/?$/))) return { name: "deck", slug: decodeURIComponent(m[1]), tab: "stats" };
   if ((m = hash.match(/^\/deck\/([^/]+)\/guia(?:\/([^/]+))?\/?$/))) {
@@ -76,9 +82,9 @@ function parseRoute() {
   return { name: "notfound" };
 }
 
-async function fetchDeckOrNotFound(slug) {
+async function orNotFound(promise) {
   try {
-    return await loadDeck(slug);
+    return await promise;
   } catch (err) {
     if (err instanceof DataError && err.status === 404) return null;
     throw err;
@@ -92,9 +98,10 @@ async function route() {
   hidePreview();
   disposeLife();
 
-  const key = r.name === "guide" ? `guide:${r.slug}` : r.name === "deck" ? `deck:${r.slug}:${r.tab}` : r.name;
-  if (r.name === "guide" && currentKey === key) {
-    scrollToSection(r.section); // same guide already on screen: only jump to the section
+  const key = r.name === "guide" ? `guide:${r.slug}` : r.name === "deck" ? `deck:${r.slug}:${r.tab}`
+    : r.name === "event" ? `event:${r.slug}:${r.page}` : r.name;
+  if ((r.name === "guide" || r.name === "event") && currentKey === key) {
+    scrollToSection(r.section); // same page already on screen: only jump to the section
     return;
   }
 
@@ -114,8 +121,33 @@ async function route() {
       if (token !== navToken) return;
       renderHome(app, index);
       document.title = t("app.title");
+    } else if (r.name === "events") {
+      setCrumbs([{ label: t("nav.events") }]);
+      const index = await loadEvents();
+      if (token !== navToken) return;
+      renderEvents(app, index);
+      document.title = `${t("nav.events")} · ${t("app.title")}`;
+    } else if (r.name === "event") {
+      const ev = await orNotFound(loadEvent(r.slug));
+      if (token !== navToken) return;
+      if (!ev) {
+        setCrumbs([{ label: t("nav.events"), href: "#/esdeveniments" }]);
+        renderNotFound(app, t("state.eventNotFound"));
+        document.title = t("app.title");
+        return;
+      }
+      renderEvent(app, ev, { page: r.page });
+      const crumbs = [{ label: t("nav.events"), href: "#/esdeveniments" }];
+      if (r.page === "set") {
+        crumbs.push({ label: ev.title, href: `#/esdeveniments/${encodeURIComponent(ev.slug)}` }, { label: t("events.setGuide") });
+        document.title = `${ev.title} · ${t("events.setGuide")}`;
+      } else {
+        crumbs.push({ label: ev.title });
+        document.title = `${ev.title} · ${t("app.title")}`;
+      }
+      setCrumbs(crumbs);
     } else if (r.name === "deck" || r.name === "guide") {
-      const deck = await fetchDeckOrNotFound(r.slug);
+      const deck = await orNotFound(loadDeck(r.slug));
       if (token !== navToken) return;
       if (!deck) {
         setCrumbs([]);
@@ -145,13 +177,15 @@ async function route() {
       return;
     }
     currentKey = key;
-    if (r.name === "guide" && r.section) scrollToSection(r.section);
+    if ((r.name === "guide" || r.name === "event") && r.section) scrollToSection(r.section);
     else window.scrollTo(0, 0);
   } catch (err) {
     if (token !== navToken) return;
     console.error(err);
     setCrumbs([]);
-    renderError(app, err, route, r.name === "home" ? t("state.error.index") : t("state.error.deck"));
+    const what = { home: t("state.error.index"), events: t("state.error.events"), event: t("state.error.event") }[r.name]
+      || t("state.error.deck");
+    renderError(app, err, route, what);
   }
 }
 
@@ -168,6 +202,21 @@ if (!lifeLink) {
   document.querySelector(".site-header").append(lifeLink);
 }
 lifeLink.textContent = t("nav.life");
+let eventsLink = document.querySelector("#events-link");
+if (!eventsLink) {
+  eventsLink = document.createElement("a");
+  eventsLink.id = "events-link";
+  eventsLink.className = "header-link";
+  eventsLink.href = "#/esdeveniments";
+  lifeLink.before(eventsLink);
+}
+eventsLink.textContent = t("nav.events");
+if (!document.querySelector('link[href="css/events.css"]')) {
+  const link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = "css/events.css";
+  document.head.append(link);
+}
 document.querySelector(".site-footer").innerHTML = `<p>${esc(t("footer.text"))}</p>`;
 window.addEventListener("hashchange", route);
 route();

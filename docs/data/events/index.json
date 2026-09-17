@@ -1,0 +1,26 @@
+{
+ "events": [
+  {
+   "art": "https://cards.scryfall.io/art_crop/front/6/a/6a5d8fad-2ffd-4645-8c49-907999b6cecf.jpg?1783902784",
+   "date": "2026-09-26",
+   "default_lang": "ca",
+   "file": "data/events/draft-hobbits-2026-09-26.json",
+   "languages": [
+    "ca",
+    "it"
+   ],
+   "location": {
+    "name": "Camp Llarg 46",
+    "url": "https://maps.app.goo.gl/tBwJj3nyTR7jAXHDA"
+   },
+   "set": {
+    "code": "hob",
+    "name": "The Hobbit"
+   },
+   "slug": "draft-hobbits-2026-09-26",
+   "time": null,
+   "title": "Draft Hobbits 26/09"
+  }
+ ],
+ "generated_at": "2026-09-17T10:19:00Z"
+}

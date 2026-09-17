@@ -40,6 +40,16 @@ export function loadDeck(slug) {
   return getJson(`data/decks/${encodeURIComponent(slug)}.json`);
 }
 
+/** GET data/events/index.json (cached). */
+export function loadEvents() {
+  return getJson("data/events/index.json");
+}
+
+/** GET data/events/<slug>.json (cached). A 404 surfaces as DataError with status 404. */
+export function loadEvent(slug) {
+  return getJson(`data/events/${encodeURIComponent(slug)}.json`);
+}
+
 export function clearCache() {
   cache.clear();
 }

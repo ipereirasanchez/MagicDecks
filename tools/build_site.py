@@ -25,6 +25,8 @@ CACHE_FILE = DECKS_DIR / "_cache" / "cards.json"
 OWNERS_FILE = DECKS_DIR / "owners.json"
 ROLES_FILE = DECKS_DIR / "roles.json"
 ROLES_DIR = DECKS_DIR / "roles"
+EVENTS_DIR = ROOT / "events"
+SETS_CACHE_DIR = DECKS_DIR / "_cache" / "sets"
 MARK_START = "<!-- cards:start -->"
 MARK_END = "<!-- cards:end -->"
 TYPE_ORDER = ["Creature", "Planeswalker", "Battle", "Instant", "Sorcery",
@@ -334,7 +336,7 @@ _ROLE_PROTECT_RE = re.compile(
 
 
 def wrap_role_refs(html_text: str, taxonomy: list[dict] | None) -> str:
-    """Wrap every role alias found in the TEXT nodes of an HTML fragment as
+    r"""Wrap every role alias found in the TEXT nodes of an HTML fragment as
     <span class="role-ref" data-role="id">…</span>.
 
     Aliases are matched longest first, case-insensitively, as whole words
@@ -859,6 +861,163 @@ def build_index(decks: list[dict], taxonomy: list[dict] | None = None) -> dict:
     }
 
 
+# ---------------------------------------------------------------------------
+# 11. events (events/<folder>/event.json + event.<lang>.md + set.<lang>.md)
+# ---------------------------------------------------------------------------
+
+EVENT_PAGES = ("event", "set")
+
+
+def load_set_cache(code: str, decks_dir=None) -> tuple[str, dict[str, dict]]:
+    """(set name, front-face name -> Scryfall object) from decks/_cache/sets/<code>.json, a
+    {"set", "name", "cards": [...]} document saved from /cards/search?q=set:<code>."""
+    base = Path(decks_dir) if decks_dir is not None else DECKS_DIR
+    path = base / "_cache" / "sets" / f"{code}.json"
+    if not path.exists():
+        raise BuildError(f"missing set cache {path}")
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise BuildError(f"{path}: invalid JSON ({exc})") from exc
+    name = data.get("name") or code.upper()
+    cards: dict[str, dict] = {}
+    for obj in data.get("cards") or []:
+        obj.setdefault("set_name", name)
+        cards.setdefault(obj["name"].split(" // ")[0], obj)
+    return name, cards
+
+
+def _load_event_meta(path: Path) -> dict:
+    try:
+        meta = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as exc:
+        raise BuildError(f"{path}: invalid JSON ({exc})") from exc
+    langs = meta.get("languages") if isinstance(meta, dict) else None
+    if not isinstance(meta, dict) or not isinstance(meta.get("title"), str) \
+            or not isinstance(langs, list) or not langs or not all(isinstance(l, str) for l in langs):
+        raise BuildError(f'{path}: expected at least {{"title": "...", "languages": ["es", ...]}}')
+    return meta
+
+
+def find_events(events_dir) -> list[Path]:
+    """Event folders (those holding an event.json), sorted by folder name."""
+    events_dir = Path(events_dir)
+    if not events_dir.is_dir():
+        return []
+    return sorted(p.parent for p in events_dir.glob("*/event.json")
+                  if not p.parent.name.startswith((".", "_")))
+
+
+def build_event(event_dir, cards_cache: dict, decks_dir=None) -> dict:
+    """Build one event from events/<folder>/: event.json (metadata), event.<lang>.md (the event
+    page, required for every language) and set.<lang>.md (the set guide, optional). Card names
+    are matched against the set cache named by "set" plus the "extra_cards" taken from
+    cards.json; every card cited or shown in a gallery is exported under "cards"."""
+    event_dir = Path(event_dir)
+    meta = _load_event_meta(event_dir / "event.json")
+    slug = meta.get("slug") or slugify(event_dir.name)
+    set_code = meta.get("set")
+    set_name, lookup = load_set_cache(set_code, decks_dir) if set_code else ("", {})
+    lookup = dict(lookup)
+    for name in meta.get("extra_cards") or []:
+        if name in lookup:
+            continue
+        if name not in cards_cache:
+            raise MissingCardError(f"card {name!r} not found in cache (event {slug})")
+        lookup[name] = cards_cache[name]
+    known = [n for n in lookup if n not in BASIC_LANDS]
+
+    pages: dict[str, dict] = {}
+    used: list[str] = []
+    for lang in meta["languages"]:
+        pages[lang] = {}
+        for page in EVENT_PAGES:
+            path = event_dir / f"{page}.{lang}.md"
+            if not path.exists():
+                if page == "event":
+                    raise BuildError(f"event {slug}: missing {path.name}")
+                pages[lang][page] = None
+                continue
+            text = path.read_text(encoding="utf-8")
+            parsed = parse_md(text, known)
+            for key in ("bracket", "bracket_text"):
+                parsed.pop(key, None)
+            pages[lang][page] = parsed
+            for n in find_names(text, known):
+                if n not in used:
+                    used.append(n)
+            for s in parsed["sections"]:
+                for n in s["gallery"]:
+                    if n not in used:
+                        used.append(n)
+
+    cards: dict[str, dict] = {}
+    for n in used:
+        card = card_summary(lookup[n])
+        card["name"] = n
+        cards[n] = card
+
+    art = None
+    art_card = meta.get("art_card")
+    if art_card:
+        if art_card not in lookup:
+            raise MissingCardError(f"card {art_card!r} not found in cache (event {slug})")
+        obj = lookup[art_card]
+        front = (obj.get("card_faces") or [{}])[0]
+        art = pick_images(obj.get("image_uris") or front.get("image_uris") or {}).get("art_crop")
+
+    return {
+        "slug": slug,
+        "title": meta["title"],
+        "date": meta.get("date"),
+        "time": meta.get("time"),
+        "location": meta.get("location"),
+        "set": {"code": set_code, "name": set_name} if set_code else None,
+        "video": meta.get("video"),
+        "art": art,
+        "languages": list(meta["languages"]),
+        "default_lang": meta.get("default_lang") or meta["languages"][0],
+        "pages": pages,
+        "cards": cards,
+    }
+
+
+def build_events_index(events: list[dict]) -> dict:
+    entries = [{k: e[k] for k in ("slug", "title", "date", "time", "location", "set", "art",
+                                  "languages", "default_lang")} for e in events]
+    for e in entries:
+        e["file"] = f"data/events/{e['slug']}.json"
+    entries.sort(key=lambda e: ((e["date"] or ""), e["title"].casefold()), reverse=True)
+    return {
+        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "events": entries,
+    }
+
+
+def build_events(root: Path, cards_cache: dict) -> dict:
+    """Write docs/data/events/index.json and one JSON per events/<folder>; prune stale files."""
+    root = Path(root)
+    out_dir = root / "docs" / "data" / "events"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    events: list[dict] = []
+    written: set[Path] = set()
+    for folder in find_events(root / "events"):
+        ev = build_event(folder, cards_cache, decks_dir=root / "decks")
+        if any(e["slug"] == ev["slug"] for e in events):
+            raise BuildError(f"event slug collision: {ev['slug']} ({folder.name})")
+        out = out_dir / f"{ev['slug']}.json"
+        _write_json(out, ev)
+        written.add(out)
+        events.append(ev)
+        print(f"OK event {ev['slug']} ({', '.join(ev['languages'])}, {len(ev['cards'])} cards)")
+    for stale in out_dir.glob("*.json"):
+        if stale.name != "index.json" and stale not in written:
+            stale.unlink()
+    index = build_events_index(events)
+    _write_json(out_dir / "index.json", index)
+    return index
+
+
 def _load_owners(path: Path) -> dict:
     if not path.exists():
         path.write_text(json.dumps(DEFAULT_OWNERS, indent=2) + "\n", encoding="utf-8")
@@ -914,6 +1073,7 @@ def build_all(root: Path | None = None) -> dict:
             stale.unlink()
     index = build_index(decks, taxonomy)
     _write_json(docs_dir / "data" / "index.json", index)
+    build_events(root, cache)
     return index
 
 

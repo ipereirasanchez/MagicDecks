@@ -52,7 +52,7 @@ function galleryTile(card, index) {
 }
 
 /** Fill every .card-gallery from its data-cards attribute; returns gallery -> cards map. */
-function fillGalleries(body, byName) {
+export function fillGalleries(body, byName) {
   const contexts = new Map();
   body.querySelectorAll(".card-gallery").forEach((el) => {
     const cards = (el.dataset.cards || "").split("|").map((n) => byName.get(n)).filter((c) => c && c.images?.normal);
@@ -62,7 +62,7 @@ function fillGalleries(body, byName) {
   return contexts;
 }
 
-function prepareRefs(body, byName) {
+export function prepareRefs(body, byName) {
   body.querySelectorAll(".card-ref").forEach((el) => {
     if (byName.has(el.dataset.card)) {
       el.setAttribute("tabindex", "0");

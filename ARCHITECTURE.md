@@ -884,6 +884,34 @@ assert the exact values; the programmer must match them.
 
 ---
 
+## 11. Events — `events/<folder>/` -> `docs/data/events/`
+
+Input: one folder per event holding `event.json` plus `event.<lang>.md` (required per language)
+and `set.<lang>.md` (optional set guide). `event.json` keys: `title`, `date` (ISO), `time`
+(string or null = TBD), `location` `{name, url}`, `set` (Scryfall set code -> needs
+`decks/_cache/sets/<code>.json`, `{"set", "name", "cards": [Scryfall objects]}`), `art_card`
+(front-face name of the card whose `art_crop` is the banner/poster), `video` `{src, type, source}`,
+`languages` (list, first = default unless `default_lang`), `extra_cards` (names taken from
+`cards.json`). Reserved-looking folders (`.`/`_` prefix) are skipped.
+
+Build (`load_set_cache`, `build_event`, `build_events`, called from `build_all`): card names are
+matched against the set's front-face names (`"A // B"` -> `"A"`) with `find_names`/`parse_md`;
+every card cited or in a gallery is exported as a §3.3 entry (no `qty`/`roles`) under `cards`.
+Output `docs/data/events/index.json` = `{generated_at, events: [{slug, title, date, time,
+location, set: {code, name}, art, languages, default_lang, file}]}` (newest date first) and
+`docs/data/events/<slug>.json` = the index entry plus `video`, `pages: {<lang>: {event, set|null}}`
+(each a `parse_md` result without `bracket*`) and `cards: {name: entry}`. Stale files are pruned.
+
+Front-end (`js/views/events.js`, `css/events.css`): routes `#/esdeveniments` (list, Catalan UI,
+reuses `.deck-card`), `#/esdeveniments/<slug>` (event page: hero with language toggle, facts
+`<dl>`, hotlinked `<video>` with the art as poster, TOC + `.md-content`), `#/esdeveniments/<slug>/edicio`
+(set guide) and `/info/<section>` / `/edicio/<section>` anchors. The page chrome of an event is in
+the event's language (dictionary `L` in `events.js`, keys `ca`, `es`, `it`); the chosen language is
+kept in `localStorage["mtg.eventLang"]`. Card refs, galleries, hover preview and lightbox reuse
+the guide helpers (`fillGalleries`, `prepareRefs` exported from `views/guide.js`).
+
+---
+
 ## 9. Design tokens
 
 CSS custom properties defined on `:root` (light) and overridden in

@@ -808,3 +808,162 @@ class BuildSiteTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+# ----------------------------------------------------------------------------- events (§11)
+
+EVENTS = ROOT / "events"
+
+
+def set_card(name, **kw):
+    """A minimal Scryfall object for a synthetic set cache."""
+    c = {
+        "name": name, "set": "tst", "collector_number": "1", "rarity": "common",
+        "type_line": "Creature — Test", "mana_cost": "{1}", "cmc": 1, "colors": ["W"],
+        "color_identity": ["W"], "oracle_text": "", "keywords": [], "layout": "normal",
+        "scryfall_uri": "https://scryfall.com/x", "artist": "a", "prices": {"eur": "0.10"},
+        "image_uris": {k: f"https://cards.scryfall.io/{k}/{name.replace(' ', '_')}.jpg"
+                       for k in build_site.IMAGE_KEYS},
+    }
+    c.update(kw)
+    return c
+
+
+class EventTests(unittest.TestCase):
+    def setUp(self):
+        self._tmp = tempfile.TemporaryDirectory()
+        self.root = Path(self._tmp.name) / "root"
+        decks = self.root / "decks"
+        (decks / "_cache" / "sets").mkdir(parents=True)
+        (decks / "_cache" / "cards.json").write_text(json.dumps({
+            "Old Card": set_card("Old Card", set="old"),
+        }), encoding="utf-8")
+        cards = [
+            set_card("Plain Hero"),
+            set_card("Bold Hero // Quick Trick", layout="adventure", oracle_text=None,
+                     card_faces=[{"name": "Bold Hero", "type_line": "Creature — Human", "mana_cost": "{1}{W}",
+                                  "oracle_text": "Vigilance"},
+                                 {"name": "Quick Trick", "type_line": "Instant — Adventure",
+                                  "mana_cost": "{W}", "oracle_text": "Scry 2."}]),
+            set_card("Azog, Test Ruin", rarity="rare"),
+            set_card("Plains", type_line="Basic Land — Plains"),
+        ]
+        (decks / "_cache" / "sets" / "tst.json").write_text(
+            json.dumps({"set": "tst", "name": "Test Set", "cards": cards}), encoding="utf-8")
+        self.event = self.root / "events" / "Test_Event"
+        self.event.mkdir(parents=True)
+        (self.event / "event.json").write_text(json.dumps({
+            "title": "Test Event", "date": "2026-09-26", "time": None,
+            "location": {"name": "Somewhere", "url": "https://maps.example/x"},
+            "set": "tst", "art_card": "Azog, Test Ruin", "languages": ["ca", "it"],
+            "default_lang": "ca", "extra_cards": ["Old Card"],
+        }), encoding="utf-8")
+        (self.event / "event.ca.md").write_text(
+            "# Títol (Subtítol)\n\nIntro amb Plain Hero i Old Card.\n\n"
+            "<!-- cards:start -->\n<img alt=\"Bold Hero\"><img alt=\"Plains\">\n<!-- cards:end -->\n\n"
+            "## Secció\n\nAzog fa coses. Bold Hero també.\n", encoding="utf-8")
+        (self.event / "event.it.md").write_text("# Titolo\n\n## Sezione\n\nPlain Hero.\n", encoding="utf-8")
+        (self.event / "set.ca.md").write_text("# Guia\n\n## Bombes\n\nAzog, Test Ruin.\n", encoding="utf-8")
+        self.cache = json.loads((decks / "_cache" / "cards.json").read_text(encoding="utf-8"))
+
+    def tearDown(self):
+        self._tmp.cleanup()
+
+    def test_load_set_cache_uses_front_face_names(self):
+        name, cards = build_site.load_set_cache("tst", self.root / "decks")
+        self.assertEqual(name, "Test Set")
+        self.assertIn("Bold Hero", cards)
+        self.assertNotIn("Bold Hero // Quick Trick", cards)
+        self.assertEqual(cards["Plain Hero"]["set_name"], "Test Set")
+        with self.assertRaises(build_site.BuildError):
+            build_site.load_set_cache("nope", self.root / "decks")
+
+    def test_build_event_pages_cards_and_art(self):
+        ev = build_site.build_event(self.event, self.cache, decks_dir=self.root / "decks")
+        self.assertEqual(ev["slug"], "test-event")
+        self.assertEqual(ev["languages"], ["ca", "it"])
+        self.assertEqual(ev["default_lang"], "ca")
+        self.assertEqual(ev["set"], {"code": "tst", "name": "Test Set"})
+        self.assertEqual(ev["location"]["name"], "Somewhere")
+        self.assertTrue(ev["art"].endswith("art_crop/Azog,_Test_Ruin.jpg"))
+        ca = ev["pages"]["ca"]
+        self.assertEqual(ca["event"]["title"], "Títol")
+        self.assertEqual(ca["event"]["subtitle"], "Subtítol")
+        self.assertNotIn("bracket", ca["event"])
+        self.assertEqual([s["heading"] for s in ca["event"]["sections"]], ["Secció"])
+        self.assertEqual(ca["event"]["sections"][0]["gallery"], [])
+        self.assertIsNotNone(ca["set"])
+        self.assertIsNone(ev["pages"]["it"]["set"])
+        # cited in the intro, by alias, in a gallery, or from extra_cards: all exported
+        for n in ("Plain Hero", "Old Card", "Bold Hero", "Azog, Test Ruin"):
+            self.assertIn(n, ev["cards"], n)
+        self.assertNotIn("Plains", ev["cards"])
+        self.assertEqual(ev["cards"]["Bold Hero"]["name"], "Bold Hero")
+        self.assertEqual(ev["cards"]["Bold Hero"]["full_name"], "Bold Hero // Quick Trick")
+        self.assertEqual(ev["cards"]["Old Card"]["set"], "old")
+        self.assertIn('data-card="Azog, Test Ruin"', ca["event"]["sections"][0]["html"])
+        self.assertIn('data-card="Plain Hero"', ca["event"]["intro_html"])
+
+    def test_build_event_errors(self):
+        (self.event / "event.it.md").unlink()
+        with self.assertRaises(build_site.BuildError):
+            build_site.build_event(self.event, self.cache, decks_dir=self.root / "decks")
+        (self.event / "event.it.md").write_text("# X\n", encoding="utf-8")
+        meta = json.loads((self.event / "event.json").read_text(encoding="utf-8"))
+        meta["extra_cards"] = ["Missing Card"]
+        (self.event / "event.json").write_text(json.dumps(meta), encoding="utf-8")
+        with self.assertRaises(build_site.MissingCardError):
+            build_site.build_event(self.event, self.cache, decks_dir=self.root / "decks")
+        meta["extra_cards"] = []
+        meta["languages"] = []
+        (self.event / "event.json").write_text(json.dumps(meta), encoding="utf-8")
+        with self.assertRaises(build_site.BuildError):
+            build_site.build_event(self.event, self.cache, decks_dir=self.root / "decks")
+
+    def test_build_events_writes_index_and_prunes(self):
+        out = self.root / "docs" / "data" / "events"
+        out.mkdir(parents=True)
+        (out / "stale.json").write_text("{}", encoding="utf-8")
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            index = build_site.build_events(self.root, self.cache)
+        self.assertIn("OK event test-event (ca, it", buf.getvalue())
+        self.assertFalse((out / "stale.json").exists())
+        self.assertTrue((out / "test-event.json").exists())
+        written = json.loads((out / "index.json").read_text(encoding="utf-8"))
+        self.assertEqual(written, index)
+        self.assertEqual(len(index["events"]), 1)
+        e = index["events"][0]
+        self.assertEqual(e["file"], "data/events/test-event.json")
+        self.assertEqual(e["languages"], ["ca", "it"])
+        self.assertNotIn("pages", e)
+        self.assertNotIn("cards", e)
+
+    def test_build_events_without_events_dir(self):
+        shutil.rmtree(self.root / "events")
+        with contextlib.redirect_stdout(io.StringIO()):
+            index = build_site.build_events(self.root, self.cache)
+        self.assertEqual(index["events"], [])
+        self.assertTrue((self.root / "docs" / "data" / "events" / "index.json").exists())
+
+    def test_real_events_build_with_every_card_resolved(self):
+        with open(CACHE_FILE, encoding="utf-8") as fh:
+            cache = json.load(fh)
+        folders = build_site.find_events(EVENTS)
+        self.assertTrue(folders)
+        for folder in folders:
+            ev = build_site.build_event(folder, cache, decks_dir=DECKS)
+            self.assertTrue(ev["cards"], folder.name)
+            for lang, pages in ev["pages"].items():
+                self.assertIsNotNone(pages["event"], f"{folder.name}: {lang}")
+                for page in pages.values():
+                    if page is None:
+                        continue
+                    for s in page["sections"]:
+                        for n in s["gallery"]:
+                            self.assertIn(n, ev["cards"], f"{folder.name} {lang}: gallery {n}")
+                    for n in re.findall(r'data-card="([^"]+)"', page["intro_html"]
+                                        + "".join(s["html"] + s["heading_html"] for s in page["sections"])):
+                        self.assertIn(html.unescape(n), ev["cards"], f"{folder.name} {lang}: ref {n}")
+            for card in ev["cards"].values():
+                self.assertTrue(card["images"]["normal"], card["name"])

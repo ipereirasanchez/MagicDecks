@@ -1,0 +1,21 @@
+{
+  "title": "Draft Hobbits 26/09",
+  "date": "2026-09-26",
+  "time": null,
+  "location": {
+    "name": "Camp Llarg 46",
+    "url": "https://maps.app.goo.gl/tBwJj3nyTR7jAXHDA"
+  },
+  "set": "hob",
+  "art_card": "Smaug the Magnificent",
+  "video": {
+    "src": "https://media.wizards.com/2026/images/magic/hob/HOB-Video.mp4",
+    "type": "video/mp4",
+    "source": "https://magic.wizards.com/es/products/the-hobbit"
+  },
+  "languages": [
+    "ca",
+    "it"
+  ],
+  "default_lang": "ca"
+}

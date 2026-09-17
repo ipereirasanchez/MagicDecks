@@ -21,12 +21,15 @@ decks/                 ENTRADA
   img/                 imatges locals de les guies (no es publiquen)
   _cache/cards.json    memòria cau de Scryfall (nom -> objecte de carta), es publica al repositori
   owners.json          propietari per defecte i excepcions
+  _cache/sets/<codi>.json  llista completa d'una edició (per a les guies dels esdeveniments)
+events/<carpeta>/      ENTRADA: un esdeveniment per carpeta (vegeu «Esdeveniments»)
 tools/build_site.py    el build (Python 3.13, només stdlib)
 tests/                 proves unitàries (unittest)
 docs/                  SORTIDA: el lloc web (HTML, CSS, JS i JSON generats)
   js/views/life.js     comptador de vides (no depèn del build)
   data/index.json      índex de baralles (generat)
   data/decks/*.json    una baralla per fitxer (generat)
+  data/events/*.json   índex i una pàgina per esdeveniment (generat)
 ```
 
 Les carpetes `_cache`, `roles`, `es` i `img` són reservades: mai no es llegeixen com a
@@ -58,6 +61,33 @@ Les imatges no es copien mai al lloc: totes les URL apunten al CDN de Scryfall.
    ```json
    { "default": "Ivan", "decks": { "Nom_del_fitxer_sense_extensio": "Anna" } }
    ```
+
+## Esdeveniments
+
+A `#/esdeveniments` hi ha la llista d'esdeveniments (drafts, tornejos, quedades). Cada
+esdeveniment és una carpeta a `events/`:
+
+```
+events/draft-hobbits-2026-09-26/
+  event.json     metadades: títol, data, horari (null = per confirmar), lloc (nom + enllaç),
+                 edició (codi Scryfall), carta per a la il·lustració, vídeo, idiomes
+  event.ca.md    la pàgina de l'esdeveniment (obligatòria per a cada idioma)
+  set.ca.md      la guia de l'edició (opcional), enllaçada com a segona pàgina
+  event.it.md    …el mateix en cada idioma de "languages"
+  set.it.md
+```
+
+A diferència de la resta del web, les pàgines d'un esdeveniment s'escriuen en els idiomes
+que indiqui `languages` i el visitant pot canviar entre ells amb un botó (l'elecció es recorda
+al navegador). Els noms de les cartes sempre en anglès: el build els detecta i els enllaça a la
+carta, igual que a les guies. Per poder-ho fer, cal la llista de l'edició a
+`decks/_cache/sets/<codi>.json`, un document `{"set", "name", "cards": [...]}` desat de
+`https://api.scryfall.com/cards/search?q=set:<codi>&unique=cards` (totes les pàgines). Les cartes
+que no siguin de l'edició es poden afegir a `extra_cards` de `event.json` si són a `cards.json`.
+
+Els fitxers `.md` segueixen el mateix format que les guies: `# Títol (Subtítol)`, seccions `##`
+i `###`, i galeries entre `<!-- cards:start -->` i `<!-- cards:end -->` amb un `<img alt="Nom">`
+per carta (dins d'una secció; les galeries de la introducció no es mostren).
 
 ## Comptador de vides
 
