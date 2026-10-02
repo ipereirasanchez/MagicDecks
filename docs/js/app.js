@@ -3,6 +3,7 @@
 import { t } from "./i18n/ca.js";
 import { loadIndex, loadDeck, loadEvents, loadEvent, DataError } from "./data.js";
 import { renderHome } from "./views/home.js";
+import { renderPortal, renderPokemon } from "./views/portal.js";
 import { renderDeck } from "./views/deck.js";
 import { renderGuide } from "./views/guide.js";
 import { renderLife, disposeLife } from "./views/life.js";
@@ -68,6 +69,8 @@ function parseRoute() {
   const hash = location.hash.replace(/^#/, "") || "/";
   let m;
   if (hash === "/") return { name: "home" };
+  if (/^\/?magic\/?$/i.test(hash)) return { name: "magic" };
+  if (/^\/?pokemon\/?$/i.test(hash)) return { name: "pokemon" };
   if (/^\/?vides\/?$/i.test(hash)) return { name: "life" }; // tolerate a trailing slash, like the other routes
   if (/^\/?esdeveniments\/?$/i.test(hash)) return { name: "events" };
   if ((m = hash.match(/^\/esdeveniments\/([^/]+)(?:\/(info|edicio)(?:\/([^/]+))?)?\/?$/))) {
@@ -119,8 +122,18 @@ async function route() {
       setCrumbs([]);
       const index = await loadIndex();
       if (token !== navToken) return;
-      renderHome(app, index);
+      renderPortal(app, index);
       document.title = t("app.title");
+    } else if (r.name === "magic") {
+      setCrumbs([{ label: t("nav.magic") }]);
+      const index = await loadIndex();
+      if (token !== navToken) return;
+      renderHome(app, index);
+      document.title = `${t("home.title")} · ${t("app.title")}`;
+    } else if (r.name === "pokemon") {
+      setCrumbs([{ label: t("nav.pokemon") }]);
+      renderPokemon(app);
+      document.title = `${t("nav.pokemon")} · ${t("app.title")}`;
     } else if (r.name === "events") {
       setCrumbs([{ label: t("nav.events") }]);
       const index = await loadEvents();
@@ -159,16 +172,16 @@ async function route() {
       if (r.name === "deck") {
         renderDeck(app, deck, { tab: r.tab });
         document.title = `${deck.title} · ${t("app.title")}`;
-        setCrumbs([{ label: deck.title }]);
+        setCrumbs([{ label: t("nav.magic"), href: "#/magic" }, { label: deck.title }]);
       } else if (!deck.guide) {
         renderNotFound(app, t("guide.missing"));
         document.title = `${deck.title} · ${t("app.title")}`;
-        setCrumbs([{ label: deck.title, href: deckHref }, { label: t("nav.guide") }]);
+        setCrumbs([{ label: t("nav.magic"), href: "#/magic" }, { label: deck.title, href: deckHref }, { label: t("nav.guide") }]);
         return;
       } else {
         renderGuide(app, deck);
         document.title = `${deck.title} · ${t("nav.guide")}`;
-        setCrumbs([{ label: deck.title, href: deckHref }, { label: t("nav.guide") }]);
+        setCrumbs([{ label: t("nav.magic"), href: "#/magic" }, { label: deck.title, href: deckHref }, { label: t("nav.guide") }]);
       }
     } else {
       setCrumbs([]);
@@ -183,7 +196,7 @@ async function route() {
     if (token !== navToken) return;
     console.error(err);
     setCrumbs([]);
-    const what = { home: t("state.error.index"), events: t("state.error.events"), event: t("state.error.event") }[r.name]
+    const what = { home: t("state.error.index"), magic: t("state.error.index"), events: t("state.error.events"), event: t("state.error.event") }[r.name]
       || t("state.error.deck");
     renderError(app, err, route, what);
   }

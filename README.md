@@ -1,6 +1,15 @@
-# Les nostres baralles de Commander
+# Sa vall des Frikisme
 
-Lloc web estàtic (GitHub Pages, carpeta `docs/`) que mostra les nostres baralles de Commander:
+Lloc web estàtic (GitHub Pages, carpeta `docs/`) amb dues portes d'entrada: **Magic**, les
+nostres baralles de Commander, i **Pokémon**, guies dels jocs de Pokémon que juguem (de moment,
+Pokémon Team Rocket Edition; vegeu «Pokémon» més avall). La portada (`#/`) deixa triar el joc.
+
+**Tot aquest web s'ha generat amb intel·ligència artificial** (Claude Code): el codi, els textos
+del portal i de les guies i la il·lustració de portada (`portada.jpeg` a l'arrel; al web se'n
+publica una versió reduïda a `docs/img/`). Les dades de les baralles venen de deckstats i Scryfall;
+les de Pokémon, dels documents del hack.
+
+La part de Magic mostra les nostres baralles de Commander:
 la llista completa de cartes amb les il·lustracions de Scryfall, estadístiques explicades en
 català i la guia de joc de cada baralla. Tot el text és en català; els noms de les cartes i els
 tecnicismes del joc (ramp, board wipe, sac outlet…) es mantenen en anglès. A `decks/es/` hi ha
@@ -25,8 +34,11 @@ decks/                 ENTRADA
 events/<carpeta>/      ENTRADA: un esdeveniment per carpeta (vegeu «Esdeveniments»)
 tools/build_site.py    el build (Python 3.13, només stdlib)
 tests/                 proves unitàries (unittest)
+tools/pokemon_rocket/  generador de dades de la guia de Pokémon Team Rocket Edition
 docs/                  SORTIDA: el lloc web (HTML, CSS, JS i JSON generats)
+  js/views/portal.js   portada (#/) i selector de jocs de Pokémon (#/pokemon)
   js/views/life.js     comptador de vides (no depèn del build)
+  pokemon/rocket/      guia de Pokémon Team Rocket Edition (pàgina pròpia, en castellà)
   data/index.json      índex de baralles (generat)
   data/decks/*.json    una baralla per fitxer (generat)
   data/events/*.json   índex i una pàgina per esdeveniment (generat)
@@ -88,6 +100,30 @@ que no siguin de l'edició es poden afegir a `extra_cards` de `event.json` si s�
 Els fitxers `.md` segueixen el mateix format que les guies: `# Títol (Subtítol)`, seccions `##`
 i `###`, i galeries entre `<!-- cards:start -->` i `<!-- cards:end -->` amb un `<img alt="Nom">`
 per carta (dins d'una secció; les galeries de la introducció no es mostren).
+
+## Pokémon
+
+A `#/pokemon` hi ha un selector amb un joc per targeta. Cada guia és una pàgina estàtica
+independent dins de `docs/pokemon/<joc>/`, amb el seu propi disseny i en l'idioma de les dades
+del joc; a la capçalera té un enllaç per tornar al portal.
+
+### Pokémon Team Rocket Edition (`docs/pokemon/rocket/`)
+
+Guia en castellà del hack rom *Pokémon Team Rocket Edition (TRE 2026, Dragonsden)*: equips de
+cada cap en les tres dificultats, on aconseguir cada Pokémon i cada objecte (MTs incloses),
+canvis d'estadístiques, tipus, habilitats i moviments, Pokémon nous del hack, missions
+secundàries, preguntes freqüents i consells de farmeig. Les imatges dels Pokémon s'enllacen des
+de PokeAPI, no es copien al repositori.
+
+Les dades (`docs/pokemon/rocket/data/data.js`) es generen a partir de la carpeta
+«INFORMACIÓN ÚTIL» que ve amb la descàrrega del hack (no és al repositori):
+
+```bash
+python3 tools/pokemon_rocket/build_data.py "/ruta/a/INFORMACIÓN ÚTIL"
+```
+
+Cal Python 3.10+ i `pdftotext` (paquet `poppler-utils`). L'script imprimeix un resum i els
+avisos de línies que no ha sabut interpretar.
 
 ## Comptador de vides
 

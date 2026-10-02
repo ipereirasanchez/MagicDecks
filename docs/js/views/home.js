@@ -66,7 +66,7 @@ export function renderHome(root, index) {
   view.className = "view home";
   view.innerHTML = `
     <header class="page-head">
-      <h1>${esc(t("app.title"))}</h1>
+      <h1>${esc(t("home.title"))}</h1>
       <p class="lead">${esc(t("home.subtitle"))}</p>
       <a class="btn" href="#/esdeveniments">${esc(t("nav.events"))}</a>
       <a class="btn" href="#/vides">${esc(t("nav.life"))}</a>
