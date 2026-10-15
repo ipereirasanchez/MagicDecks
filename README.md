@@ -141,9 +141,11 @@ Les dades (`docs/pokemon/z/data/data.js`) es generen a partir del PDF, que no é
 python3 tools/pokemon_z/build_data.py /ruta/a/guia_pokemon_z.pdf
 ```
 
-Cal Python 3.10+, `pdftohtml` (paquet `poppler-utils`) i ImageMagick (`convert`). Els Pokémon dels
-caps només surten com a imatge al PDF: `tools/pokemon_z/sprites.json` tradueix cada imatge al seu
-nom (s'ha omplert a mà) i l'script avisa de les que no coneix.
+Cal Python 3.10+, `pdftohtml` i `pdfimages` (paquet `poppler-utils`) i ImageMagick (`convert`).
+Els Pokémon dels caps només surten com a imatge al PDF, sense nom: l'script extreu aquests sprites
+(i els de les formes noves) a `docs/pokemon/z/img/`, i `tools/pokemon_z/sprites.json` tradueix cada
+imatge al seu nom (s'ha omplert a mà; els que no s'han pogut confirmar surten com «Sin nombre en la
+guía»).
 
 ## Comptador de vides
 

@@ -96,9 +96,9 @@
 
   function renderParagraph(b) {
     if (b.kind && CALLOUT[b.kind]) {
-      const [label, cls] = CALLOUT[b.kind];
-      const body = stripLabel(b.html);
-      return `<aside class="callout ${cls}"><span class="callout-label">${label}</span><p>${body || '&nbsp;'}</p></aside>`;
+      const [fallback, cls] = CALLOUT[b.kind];
+      const body = b.label ? b.html : stripLabel(b.html);
+      return `<aside class="callout ${cls}"><span class="callout-label">${esc(b.label || fallback)}</span><p>${body || '&nbsp;'}</p></aside>`;
     }
     return `<p${b.center ? ' class="narr"' : ''}>${b.html}</p>`;
   }
@@ -115,15 +115,21 @@
     return `<ul class="list">${b.items.map((it) => `<li>${it.mon ? spriteHTML(it.mon, 40, 'xs') : ''}<span>${it.html}</span></li>`).join('')}</ul>`;
   }
 
+  // Sprite tal cual sale en el PDF (extraído por el generador); si no lo hay, el de PokeAPI por nombre.
+  function pdfSprite(hash, name, size) {
+    if (hash) return `<span class="pk-img lg pdf"><img loading="lazy" decoding="async" width="${size}" height="${size}" alt="" src="img/${esc(hash)}.png"></span>`;
+    if (!name || name === '?') return '<span class="pk-img lg"><span class="ph">?</span></span>';
+    return spriteHTML(name, size, 'lg');
+  }
+
   function renderBoss(b) {
     return `<div class="roster">${b.mons.map((m) => {
-      const name = m.name === '?' ? 'Pokémon sin identificar' : m.name;
       const unk = m.name === '?';
       return `
         <figure class="mon">
-          <div class="frame">${unk ? '<span class="pk-img"><span class="ph">?</span></span>' : spriteHTML(m.name, 96, 'lg')}</div>
+          <div class="frame">${pdfSprite(m.img, m.name, 96)}</div>
           <figcaption class="plaque">
-            <span class="mon-name">${esc(name)}</span>
+            <span class="mon-name${unk ? ' unknown' : ''}">${unk ? 'Sin nombre en la guía' : esc(m.name)}</span>
             <span class="mon-level">Nv. ${esc(m.level)}</span>
             ${m.types.length ? `<span class="mon-types">${m.types.map(typeChip).join('')}</span>` : ''}
             <dl class="mon-data">
@@ -143,7 +149,7 @@
     return `<div class="tablewrap"><table class="stats">
       <thead><tr><th>Pokémon</th>${STAT_LABELS.map((l) => `<th class="num">${l}</th>`).join('')}<th class="num">Total</th><th>Habilidad</th>${hasHidden ? '<th>Oculta</th>' : ''}</tr></thead>
       <tbody>${b.rows.map((r) => `<tr>
-        <td class="name">${spriteHTML(r.name, 40, 'xs')}<span>${esc(r.name)}</span></td>
+        <td class="name">${r.img ? `<span class="pk-img xs pdf"><img loading="lazy" decoding="async" width="40" height="40" alt="" src="img/${esc(r.img)}.png"></span>` : spriteHTML(r.name, 40, 'xs')}<span>${esc(r.name)}</span></td>
         ${r.stats.map((v) => `<td class="num"><span class="bar" style="--v:${Math.min(v, 200) / 2}%"></span>${v}</td>`).join('')}
         <td class="num total">${r.stats.reduce((a, c) => a + c, 0)}</td>
         <td>${esc(titleCase(r.ability || '—'))}</td>${hasHidden ? `<td>${esc(titleCase(r.hidden || '—'))}</td>` : ''}
@@ -219,7 +225,7 @@
 
       <section class="about">
         <h2>De dónde sale esto</h2>
-        <p>El texto es el de la <em>Guía Oficial de Pokémon Z</em> (Poki_Papillon, Taighean, AlexReshi y el resto del equipo; los créditos completos están al final). Se ha convertido automáticamente desde el PDF: los equipos de los jefes, que en la guía van como imágenes, se han identificado uno a uno y se muestran con los sprites oficiales de PokeAPI. Los Pokémon nuevos del juego no tienen sprite y salen con una Z.</p>
+        <p>El texto es el de la <em>Guía Oficial de Pokémon Z</em> (Poki_Papillon, Taighean, AlexReshi y el resto del equipo; los créditos completos están al final). Se ha convertido automáticamente desde el PDF. Los equipos de los jefes y las formas nuevas llevan el sprite tal cual aparece en la guía; como la guía no escribe sus nombres, el nombre de cada Pokémon de jefe se ha identificado por su imagen y, cuando no ha sido posible, se indica. El resto de sprites (listas de Pokémon salvajes, Pokédex, legendarios) son los oficiales de PokeAPI, con una Z sobre los que son formas propias del juego.</p>
       </section>`;
   }
 

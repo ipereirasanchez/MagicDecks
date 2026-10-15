@@ -223,7 +223,8 @@ mark { background: color-mix(in srgb, var(--gilt) 35%, transparent); color: inhe
 .toc li { break-inside: avoid; padding: 2px 0; }
 .toc a { color: var(--ink-2); }
 .toc a:hover { color: var(--blue); }
-.prose { max-width: var(--measure); }
+.prose { max-width: 1040px; }
+.prose > p, .prose > .callout, .prose > .list, .prose > h2, .prose > h3, .prose > h4 { max-width: var(--measure); }
 .prose .sec { margin: 44px 0 12px; padding-top: 14px; border-top: 1px solid var(--line); scroll-margin-top: calc(var(--topbar-h) + 12px); }
 .prose .sec:first-child { margin-top: 0; border-top: 0; padding-top: 0; }
 .prose h3 { margin: 30px 0 8px; scroll-margin-top: calc(var(--topbar-h) + 12px); }
@@ -275,6 +276,8 @@ mark { background: color-mix(in srgb, var(--gilt) 35%, transparent); color: inhe
 .pk-img.lg, .pk-img.lg img { width: 96px; height: 96px; }
 .ph { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--green); color: #fff; font-family: var(--font-head); font-weight: 700; font-size: 1rem; }
 .pk-img.lg .ph { width: 54px; height: 54px; font-size: 1.5rem; }
+.pk-img.pdf img { object-fit: contain; image-rendering: pixelated; }
+.mon-name.unknown { font-style: normal; color: var(--muted); font-size: .98rem; }
 .badge { position: absolute; right: -4px; bottom: -2px; padding: 0 5px; border-radius: 999px; background: var(--green); color: #fff; font-size: .68rem; font-weight: 700; line-height: 1.5; box-shadow: 0 0 0 2px var(--paper); }
 .pk-img.lg .badge { right: 2px; bottom: 2px; box-shadow: 0 0 0 2px var(--frame); font-size: .74rem; }
 

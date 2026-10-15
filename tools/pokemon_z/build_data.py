@@ -11,7 +11,9 @@ cada Pokémon de los jefes, así que `sprites.json` traduce el hash de cada imag
 
 Salida: capítulos (la historia principal partida por medallas/actos y los apéndices), cada
 uno como una lista de bloques (encabezados, párrafos, listas, equipos de jefe, tablas de
-stats, tablas de MTs/megapiedras/Pokédex), más el mapa de sprites de PokeAPI.
+stats, tablas de MTs/megapiedras/Pokédex), más el mapa de sprites de PokeAPI. Los sprites de
+los jefes y de las formas nuevas se extraen del PDF (`pdfimages`, con su máscara de transparencia)
+a docs/pokemon/z/img/<hash>.png, porque muchos son Pokémon propios del juego sin sprite oficial.
 """
 from __future__ import annotations
 
@@ -30,6 +32,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent.parent
 OUT_FILE = ROOT / "docs" / "pokemon" / "z" / "data" / "data.js"
+IMG_DIR = ROOT / "docs" / "pokemon" / "z" / "img"
 POKEAPI_FILE = ROOT / "tools" / "pokemon_rocket" / "pokeapi_pokemon.json"
 SPRITES_FILE = HERE / "sprites.json"
 ICONS_FILE = HERE / "icons.json"
@@ -97,12 +100,12 @@ CALLOUTS = [
     (r"^(nota( \d+)?|notas)\s*:", "note"),
     (r"^importante\s*:", "important"),
     (r"^(pistas? (para|de) entrenador(es)?)\s*:", "tip"),
-    (r"^dato útil\s*:", "tip"),
-    (r"^datos importantes", "important"),
-    (r"^consejos de (batalla|combate)\s*:", "tips"),
-    (r"^misi[oó]n secundaria\s*:", "quest"),
+    (r"^dato util\s*:", "tip"),
+    (r"^datos importantes de la aventura\s*:", "important"),
+    (r"^consejos? de (batalla|combate)\s*:", "tips"),
+    (r"^mision secundaria\s*:", "quest"),
     (r"^¡aviso!", "important"),
-    (r"^advertencia", "important"),
+    (r"^advertencia\s*:", "important"),
 ]
 
 TYPE_ORDER = ["Normal", "Lucha", "Volador", "Veneno", "Tierra", "Roca", "Bicho", "Fantasma", "Acero",
@@ -349,6 +352,37 @@ def nice_heading(text: str) -> str:
 
 
 
+def strip_leading_label(html_text: str, n_chars: int) -> str:
+    """Quita los primeros n_chars caracteres de texto visible de un fragmento HTML (la etiqueta del callout)."""
+    out = []
+    i = 0
+    removed = 0
+    while i < len(html_text):
+        if html_text[i] == "<":
+            j = html_text.index(">", i) + 1
+            out.append(html_text[i:j])
+            i = j
+            continue
+        if html_text[i] == "&":
+            j = html_text.find(";", i)
+            ent = html_text[i:j + 1] if j != -1 and j - i < 8 else html_text[i]
+            if removed < n_chars:
+                removed += 1
+            else:
+                out.append(ent)
+            i += len(ent)
+            continue
+        if removed < n_chars:
+            removed += 1
+        else:
+            out.append(html_text[i])
+        i += 1
+    res = "".join(out)
+    res = re.sub(r"^(\s|&nbsp;)+", "", res)
+    res = re.sub(r"<(strong|em)>\s*</\1>", "", res)
+    return res.strip()
+
+
 def slug(s: str) -> str:
     s = fold(s)
     s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
@@ -365,6 +399,7 @@ class Parser:
         self.i = 0
         self.blocks: list[dict] = []
         self.used_names: set[str] = set()
+        self.last_stats_end = (0, 0)
 
     # -- utilidades ---------------------------------------------------------
     def peek(self, k=0):
@@ -462,11 +497,13 @@ class Parser:
         nature = re.sub(r"^-(.*?) \+", r"−\1 / +", nature) if nature.startswith("-") and " +" in nature else nature
         im = self.sprite_near(page, top)
         name = self.sprite_names.get(im.hash, "?") if im else "?"
-        if name == "?":
-            warn(f"[boss] p{page} sprite sin identificar ({im.src if im else 'sin imagen'})")
+        if name == "?" and im is None:
+            warn(f"[boss] p{page} tabla sin imagen de sprite")
+        elif name == "?":
+            warn(f"[boss] p{page} sprite sin nombre conocido ({Path(im.src).name})")
         types = self.icons_near(page, top)
         mon = {"name": name, "level": level, "item": item, "ability": ability, "nature": nature,
-               "moves": [m for m in moves if m][:4], "types": types}
+               "moves": [m for m in moves if m][:4], "types": types, "img": im.hash if im else None}
         if name != "?":
             self.used_names.add(name)
         return mon
@@ -478,6 +515,8 @@ class Parser:
 
     def parse_stats(self) -> dict:
         hdr = self.peek()
+        hdr_page, hdr_top = hdr.page, hdr.top
+        prev_text_top = max([l.top for l in self.lines[max(0, self.i - 6):self.i] if l.page == hdr.page and l.top < hdr.top - 40] or [0])
         frs = split_frags([f for f in hdr.frags if f.text.strip()])
         hp_x = next(f.cx for f in frs if f.text.strip() == "HP")
         abil_x = []
@@ -539,6 +578,27 @@ class Parser:
             row["name"] = re.sub(r"\s+", " ", row["name"]).strip()
             rows.append(row)
             self.used_names.add(row["name"])
+        # sprites: imágenes cuadradas entre la tabla de stats anterior y esta cabecera (de izquierda a derecha,
+        # una por fila; si hay el doble, la guía pone normal + shiny y se toma la primera de cada par). Si no hay,
+        # dentro de la tabla (megas) o al final de la página anterior (tabla que empieza al principio de página).
+        squarish = lambda im: im.width >= 85 and im.height >= 85 and 0.8 <= im.width / im.height <= 1.25 and im.hash
+        last_top = max([t for pg, t in rowtops if pg == hdr_page] or [hdr_top])
+        last_end_page, last_end_top = self.last_stats_end
+        start = last_end_top if last_end_page == hdr_page else 0
+        cands = [im for im in self.imgs if im.page == hdr_page and squarish(im) and start < im.top < hdr_top]
+        if not cands:
+            cands = [im for im in self.imgs if im.page == hdr_page and squarish(im) and hdr_top <= im.top <= last_top + 60]
+        if not cands and hdr_top < 400:
+            pstart = last_end_top if last_end_page == hdr_page - 1 else 0
+            cands = [im for im in self.imgs if im.page == hdr_page - 1 and squarish(im) and im.top > pstart]
+        cands.sort(key=lambda im: im.left)
+        n = len(rows)
+        if len(cands) == 2 * n:
+            cands = cands[::2]
+        if len(cands) == n:
+            for r, im in zip(rows, cands):
+                r["img"] = im.hash
+        self.last_stats_end = (hdr_page, last_top)
         return {"t": "stats", "rows": rows}
 
     # -- tablas de dos columnas (MTs, megapiedras) --------------------------
@@ -767,12 +827,21 @@ class Parser:
         if re.fullmatch(r"[-+•·_=\s]+", plain):
             return None
         kind = None
+        label = None
         low = fold(plain)
         for pat, k in CALLOUTS:
-            if re.match(pat, low):
+            m = re.match(pat, low)
+            if m:
                 kind = k
+                # etiqueta tal cual la escribe la guía (sin los dos puntos), y el resto del párrafo sin ella
+                label = plain[:m.end()].rstrip(": ").strip()
+                label = label[:1].upper() + label[1:].lower() if label.isupper() else label
+                text = strip_leading_label(text, m.end())
                 break
-        return {"t": "p", "html": text, "kind": kind, "center": sum(centered) > len(centered) / 2}
+        out = {"t": "p", "html": text, "kind": kind, "center": sum(centered) > len(centered) / 2}
+        if label:
+            out["label"] = label
+        return out
 
     # -- bucle principal -------------------------------------------------------
     def run(self) -> list[dict]:
@@ -845,6 +914,67 @@ class Parser:
             if p:
                 self.blocks.append(p)
         return self.blocks
+
+
+# ---------------------------------------------------------------------------
+# 4b. Sprites del PDF con transparencia (pdfimages: imagen + máscara)
+# ---------------------------------------------------------------------------
+def extract_pdf_sprites(pdf: Path, work: Path, imgs: list[Img], wanted: set[str]) -> dict[str, Path]:
+    """Escribe en IMG_DIR un PNG RGBA por cada hash pedido. Empareja las imágenes de pdftohtml con las de
+    `pdfimages -list` por página y orden; devuelve hash -> fichero escrito."""
+    pi_dir = work / "pdfimages"
+    list_file = work / "pdfimages.txt"
+    if not list_file.exists():
+        list_file.write_text(subprocess.run(["pdfimages", "-list", str(pdf)], capture_output=True, text=True, check=True).stdout)
+    if not pi_dir.exists() or not any(pi_dir.iterdir()):
+        pi_dir.mkdir(parents=True, exist_ok=True)
+        subprocess.run(["pdfimages", "-png", "-p", str(pdf), str(pi_dir / "s")], check=True)
+    # entradas lógicas por página: [(num_imagen, num_mascara|None, w, h)]
+    per_page: dict[int, list[tuple[int, int | None, int, int]]] = {}
+    rows = []
+    for line in list_file.read_text().splitlines()[2:]:
+        parts = line.split()
+        if len(parts) < 5 or not parts[0].isdigit():
+            continue
+        rows.append((int(parts[0]), int(parts[1]), parts[2], int(parts[3]), int(parts[4])))
+    k = 0
+    while k < len(rows):
+        page, num, typ, w, h = rows[k]
+        if typ == "smask":
+            k += 1
+            continue
+        mask = None
+        if k + 1 < len(rows) and rows[k + 1][2] == "smask" and rows[k + 1][0] == page and rows[k + 1][3:5] == (w, h):
+            mask = rows[k + 1][1]
+            k += 1
+        per_page.setdefault(page, []).append((num, mask, w, h))
+        k += 1
+    html_per_page: dict[int, list[Img]] = {}
+    for im in imgs:
+        html_per_page.setdefault(im.page, []).append(im)
+    written: dict[str, Path] = {}
+    IMG_DIR.mkdir(parents=True, exist_ok=True)
+    for page, hims in html_per_page.items():
+        pims = per_page.get(page, [])
+        if len(pims) != len(hims):
+            # desajuste: empareja por proporción de aspecto en orden
+            warn(f"[img] p{page}: {len(hims)} imágenes en pdftohtml y {len(pims)} en pdfimages; se emparejan por orden")
+        for him, pim in zip(hims, pims):
+            if not him.hash or him.hash not in wanted or him.hash in written:
+                continue
+            num, mask, w, h = pim
+            if abs((w / h) - (him.width / him.height)) > 0.25:
+                warn(f"[img] p{page}: proporción distinta entre {Path(him.src).name} y la imagen {num} del PDF")
+                continue
+            src = pi_dir / f"s-{page:03d}-{num:03d}.png"
+            out = IMG_DIR / f"{him.hash}.png"
+            cmd = ["convert", str(src)]
+            if mask is not None:
+                cmd += [str(pi_dir / f"s-{page:03d}-{mask:03d}.png"), "-alpha", "off", "-compose", "CopyOpacity", "-composite"]
+            cmd += ["-strip", str(out)]
+            subprocess.run(cmd, check=True)
+            written[him.hash] = out
+    return written
 
 
 # ---------------------------------------------------------------------------
@@ -1035,7 +1165,7 @@ def main() -> int:
         hashes = json.loads(hashes_file.read_text()) if hashes_file.exists() else {}
         frags, imgs = parse_xml(xml_path)
         for im in imgs:
-            if (im.width, im.height) == (27, 32) or (im.left <= 270 and 60 <= im.width <= 180):
+            if (im.width, im.height) == (27, 32) or (60 <= im.width <= 200 and 60 <= im.height <= 200):
                 key = Path(im.src).name
                 if key not in hashes:
                     try:
@@ -1045,12 +1175,34 @@ def main() -> int:
                 im.hash = hashes[key]
         if cache_dir:
             hashes_file.write_text(json.dumps(hashes))
-    lines = build_lines(frags)
-    parser = Parser(lines, imgs, sprite_names, icon_types, resolve)
-    blocks = parser.run()
-    chapters = split_chapters(blocks)
-    for ch in chapters:
-        strip_pages(ch["blocks"])
+        lines = build_lines(frags)
+        parser = Parser(lines, imgs, sprite_names, icon_types, resolve)
+        blocks = parser.run()
+        chapters = split_chapters(blocks)
+        for ch in chapters:
+            strip_pages(ch["blocks"])
+        wanted = set()
+        for ch in chapters:
+            for b in ch["blocks"]:
+                if b["t"] == "boss":
+                    wanted.update(m["img"] for m in b["mons"] if m.get("img"))
+                elif b["t"] == "stats":
+                    wanted.update(r["img"] for r in b["rows"] if r.get("img"))
+        written = extract_pdf_sprites(pdf, work, imgs, wanted)
+        for ch in chapters:
+            for b in ch["blocks"]:
+                if b["t"] == "boss":
+                    for m in b["mons"]:
+                        if m.get("img") and m["img"] not in written:
+                            warn(f"[img] sprite de jefe sin fichero: {m['img']}")
+                            m["img"] = None
+                elif b["t"] == "stats":
+                    for r in b["rows"]:
+                        if r.get("img") and r["img"] not in written:
+                            r.pop("img", None)
+        for stale in IMG_DIR.glob("*.png"):
+            if stale.stem not in written:
+                stale.unlink()
 
     # sprites de todos los nombres usados
     sprites: dict[str, dict] = {}
@@ -1076,7 +1228,8 @@ def main() -> int:
     n_boss = sum(len(b["mons"]) for c in chapters for b in c["blocks"] if b["t"] == "boss")
     n_blocks = sum(len(c["blocks"]) for c in chapters)
     print(f"OK {OUT_FILE.relative_to(ROOT)}: {len(chapters)} capítulos, {n_blocks} bloques, {n_boss} Pokémon de jefe, "
-          f"{sum(1 for v in sprites.values() if v['id'])}/{len(sprites)} sprites, {OUT_FILE.stat().st_size // 1024} KB")
+          f"{len(written)} sprites del PDF en {IMG_DIR.relative_to(ROOT)}, "
+          f"{sum(1 for v in sprites.values() if v['id'])}/{len(sprites)} nombres con sprite de PokeAPI, {OUT_FILE.stat().st_size // 1024} KB")
     if WARNINGS:
         seen = set()
         for w in WARNINGS:
