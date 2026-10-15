@@ -1,13 +1,13 @@
 # Sa vall des Frikisme
 
 Lloc web estàtic (GitHub Pages, carpeta `docs/`) amb dues portes d'entrada: **Magic**, les
-nostres baralles de Commander, i **Pokémon**, guies dels jocs de Pokémon que juguem (de moment,
-Pokémon Team Rocket Edition; vegeu «Pokémon» més avall). La portada (`#/`) deixa triar el joc.
+nostres baralles de Commander, i **Pokémon**, guies dels jocs de Pokémon que juguem (Pokémon Team
+Rocket Edition i Pokémon Z; vegeu «Pokémon» més avall). La portada (`#/`) deixa triar el joc.
 
 **Tot aquest web s'ha generat amb intel·ligència artificial** (Claude Code): el codi, els textos
 del portal i de les guies i la il·lustració de portada (`portada.jpeg` a l'arrel; al web se'n
 publica una versió reduïda a `docs/img/`). Les dades de les baralles venen de deckstats i Scryfall;
-les de Pokémon, dels documents del hack.
+les de Pokémon, dels documents de cada joc (la carpeta d'informació del hack, la guia oficial en PDF).
 
 La part de Magic mostra les nostres baralles de Commander:
 la llista completa de cartes amb les il·lustracions de Scryfall, estadístiques explicades en
@@ -35,10 +35,12 @@ events/<carpeta>/      ENTRADA: un esdeveniment per carpeta (vegeu «Esdevenimen
 tools/build_site.py    el build (Python 3.13, només stdlib)
 tests/                 proves unitàries (unittest)
 tools/pokemon_rocket/  generador de dades de la guia de Pokémon Team Rocket Edition
+tools/pokemon_z/       generador de dades de la guia de Pokémon Z (a partir del PDF oficial)
 docs/                  SORTIDA: el lloc web (HTML, CSS, JS i JSON generats)
   js/views/portal.js   portada (#/) i selector de jocs de Pokémon (#/pokemon)
   js/views/life.js     comptador de vides (no depèn del build)
   pokemon/rocket/      guia de Pokémon Team Rocket Edition (pàgina pròpia, en castellà)
+  pokemon/z/           guia de Pokémon Z (pàgina pròpia, en castellà)
   data/index.json      índex de baralles (generat)
   data/decks/*.json    una baralla per fitxer (generat)
   data/events/*.json   índex i una pàgina per esdeveniment (generat)
@@ -124,6 +126,24 @@ python3 tools/pokemon_rocket/build_data.py "/ruta/a/INFORMACIÓN ÚTIL"
 
 Cal Python 3.10+ i `pdftotext` (paquet `poppler-utils`). L'script imprimeix un resum i els
 avisos de línies que no ha sabut interpretar.
+
+### Pokémon Z (`docs/pokemon/z/`)
+
+Guia en castellà del fangame *Pokémon Z* (Eric_Lostie), feta a partir de la guia oficial en PDF
+(559 pàgines): la història principal partida per actes i medalles, amb l'índex de llocs de cada
+capítol; els equips dels caps en fitxes amb sprite, nivell, objecte, habilitat, naturalesa i
+moviments; i els apèndixs (habitants d'Acrílico, receptes, MTs, nius alfa, llegendaris,
+megapedres, formes noves, Pokédex i crèdits), amb filtre a les taules i cercador global.
+
+Les dades (`docs/pokemon/z/data/data.js`) es generen a partir del PDF, que no és al repositori:
+
+```bash
+python3 tools/pokemon_z/build_data.py /ruta/a/guia_pokemon_z.pdf
+```
+
+Cal Python 3.10+, `pdftohtml` (paquet `poppler-utils`) i ImageMagick (`convert`). Els Pokémon dels
+caps només surten com a imatge al PDF: `tools/pokemon_z/sprites.json` tradueix cada imatge al seu
+nom (s'ha omplert a mà) i l'script avisa de les que no coneix.
 
 ## Comptador de vides
 

@@ -18,6 +18,14 @@ export const POKEMON_GAMES = [
     href: "pokemon/rocket/",
     lang: "es",
   },
+  {
+    id: "z",
+    title: "Pokémon Z",
+    subtitle: "Fangame · Eric_Lostie",
+    descKey: "pokemon.z.desc",
+    href: "pokemon/z/",
+    lang: "es",
+  },
 ];
 
 function gameCard({ href, icon, title, desc, kicker, note }) {
